@@ -1,0 +1,388 @@
+A_Resource_Whose_Name = ho.ho03_gr_redirects_goarch
+
+hoMA.title = ""
+hoMA.MatinsOrdinary.title = ""
+hoMA.MatinsOrdinary.text = ""
+R01 = ""
+R02 = ""
+hoMA.Troparion3.text = ""
+R3 = ""
+R4 = ""
+SixPsalms.title = ""
+R6 = ""
+R7 = ""
+R8 = ""
+R9 = "" //(about Lent)
+R10 = "Καὶ μετὰ τό, Ἀλληλούϊα, ψάλλομεν τοὺς Τριαδικοὺς Ὕμνους τοῦ τυχόντος Ἤχου."
+
+hoMA.Triadics.title = ""
+R11 = ""
+/*
+Title Mode1
+Triadic11
+Glory
+Triadic12
+Both
+Triadic13
+
+Title Mode2
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3
+
+Title Mode3
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3
+
+Title Mode4
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3
+
+Title Mode5
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3
+
+Title Mode6
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3
+
+Title Mode7
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3
+
+Title Mode8
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3
+*/
+
+R12a = ""
+R12b = ""
+
+hoMA.ResEvlog.title1 = ""
+hoMA.ResEvlog.title2 = ""
+//Title Mode5
+R13 = "Ἐν ἑκάστῳ δὲ Τροπαρίῳ λέγομεν, τό·"
+hoMA.ResEvlogVerse.text = ""
+hoMA.ResEvlog1.mode = ""
+hoMA.ResEvlog1.incipit = ""
+hoMA.ResEvlog1.text = ""
+hoMA.ResEvlog2.mode = ""
+hoMA.ResEvlog2.incipit = ""
+hoMA.ResEvlog2.text = ""
+hoMA.ResEvlog3.mode = ""
+hoMA.ResEvlog3.incipit = ""
+hoMA.ResEvlog3.text = ""
+hoMA.ResEvlog4.mode = ""
+hoMA.ResEvlog4.incipit = ""
+hoMA.ResEvlog4.text = ""
+hoMA.ResEvlog5.mode = ""
+hoMA.ResEvlog5.incipit = ""
+hoMA.ResEvlog5.text = ""
+hoMA.ResEvlog6.mode = ""
+hoMA.ResEvlog6.incipit = ""
+hoMA.ResEvlog6.text = ""
+hoMA.ResEvlog7.mode = ""
+hoMA.ResEvlog7.text = ""
+
+hoMA.FuneralEvlog.title1 = ""
+hoMA.FuneralEvlog.title2 = ""
+R14 = ""
+hoMA.FuneralEvlogVerse.text = ""
+hoMA.FuneralEvlog1.mode = ""
+hoMA.FuneralEvlog1.incipit = ""
+hoMA.FuneralEvlog1.text = ""
+hoMA.FuneralEvlog2.mode = ""
+hoMA.FuneralEvlog2.incipit = ""
+hoMA.FuneralEvlog2.text = ""
+hoMA.FuneralEvlog3.mode = ""
+hoMA.FuneralEvlog3.incipit = ""
+hoMA.FuneralEvlog3.text = ""
+hoMA.FuneralEvlog4.mode = ""
+hoMA.FuneralEvlog4.incipit = ""
+hoMA.FuneralEvlog4.text = ""
+hoMA.FuneralEvlog5.mode = ""
+hoMA.FuneralEvlog5.incipit = ""
+hoMA.FuneralEvlog5.text = ""
+hoMA.FuneralEvlog6.mode = ""
+hoMA.FuneralEvlog6.incipit = ""
+hoMA.FuneralEvlog6.text = ""
+hoMA.FuneralEvlog7.mode = ""
+hoMA.FuneralEvlog7.incipit = ""
+hoMA.FuneralEvlog7.text = ""
+hoMA.FuneralEvlog8.mode = ""
+hoMA.FuneralEvlog8.incipit = ""
+hoMA.FuneralEvlog8.text = ""
+hoMA.FuneralEvlog9.mode = ""
+hoMA.FuneralEvlog9.text = ""
+
+//Psalm 50
+hoMA.Psalm50.text = ""
+
+hoMA.MM.Magnificat.text = ""
+hoMA.Ode9.Meg00.incipit = ""
+hoMA.Ode9.Meg00.text = ""
+
+R15 = ""
+R16 = "" //(Lent)
+/*
+Title On Monday
+ending1
+ending2
+ending3
+Title On Tuesday
+ending
+Title On Wed and Fri
+ending
+Title On Thur
+ending
+Title On Sat
+R17
+ending
+R18
+ending
+
+Title Photogogics
+Subtitle
+Title Mode1
+Hymn 3x
+Title Mode2
+Hymn 3x
+Title Mode3
+Hymn 3x
+Title Mode4
+Hymn 3x
+Title Mode5
+Hymn 3x
+Title Mode6
+Hymn 3x
+Title Mode7
+Hymn 3x
+Title Mode8
+Hymn 3x
+
+*/
+hoMA.Exaposteilaria.title = ""
+hoMA.Exaposteilaria.title2 = ""
+
+hoMA.ExapMonTitle = ""
+hoMA.ExapMon1.mode = ""
+hoMA.ExapMon1.melody = ""
+hoMA.ExapMon1.incipit = ""
+hoMA.ExapMon1.text = ""
+
+hoMA.ExapMonTh.mode = ""
+hoMA.ExapMonTh.melody = ""
+hoMA.ExapMonTh.incipit = ""
+hoMA.ExapMonTh.text = ""
+
+hoMA.ExapTueTitle = ""
+hoMA.ExapTue1.mode = ""
+hoMA.ExapTue1.melody = ""
+hoMA.ExapTue1.incipit = ""
+hoMA.ExapTue1.text = ""
+
+hoMA.ExapTueTh.mode = ""
+hoMA.ExapTueTh.melody = ""
+hoMA.ExapTueTh.incipit = ""
+hoMA.ExapTueTh.text = ""
+
+hoMA.ExapWedFriTitle = ""
+hoMA.ExapWedFri1.mode = ""
+hoMA.ExapWedFri1.melody = ""
+hoMA.ExapWedFri1.incipit = ""
+hoMA.ExapWedFri1.text = ""
+
+hoMA.ExapWedFriTh.mode = ""
+hoMA.ExapWedFriTh.melody = ""
+hoMA.ExapWedFriTh.incipit = ""
+hoMA.ExapWedFriTh.text = ""
+
+hoMA.ExapThuTitle = ""
+hoMA.ExapThu1.mode = ""
+hoMA.ExapThu1.melody = ""
+hoMA.ExapThu1.incipit = ""
+hoMA.ExapThu1.text = ""
+
+hoMA.ExapThu2.mode = ""
+hoMA.ExapThu2.melody = ""
+hoMA.ExapThu2.incipit = ""
+hoMA.ExapThu2.text = ""
+
+hoMA.ExapThuTh.mode = ""
+hoMA.ExapThuTh.melody = ""
+hoMA.ExapThuTh.incipit = ""
+hoMA.ExapThuTh.text = ""
+
+hoMA.ExapSatTitle = ""
+hoMA.ExapSat1.mode = ""
+hoMA.ExapSat1.melody = ""
+hoMA.ExapSat1.incipit = ""
+hoMA.ExapSat1.text = ""
+
+hoMA.ExapSatTh.mode = ""
+hoMA.ExapSatTh.melody = ""
+hoMA.ExapSatTh.incipit = ""
+hoMA.ExapSatTh.text = ""
+
+R19 = ""
+R20 = ""
+R21 = ""
+
+R_Lauds_Hierarchical = "Ὁ Ἀρσιερεὺς κατέρεται τοῦ θρόνου καὶ λαμβάνει καιρόν, τῶν Χορῶν ψαλλόντων·"
+
+hoMA.LaudsSunTheotokion.incipit = ""
+hoMA.LaudsSunTheotokion.text = ""
+
+hoMA.DoxologyGreat.title = ""
+hoMA.MM.DoxologyGreat.text = ""
+hoMA.DoxologyGreatIntro.text = ""
+hoMA.DoxologyVerse01.text = ""
+hoMA.DoxologyVerse02.text = ""
+hoMA.DoxologyVerse03.text = ""
+hoMA.DoxologyVerse04.text = ""
+hoMA.DoxologyVerse05.text = ""
+hoMA.DoxologyVerse06.text = ""
+hoMA.DoxologyVerse07.text = ""
+hoMA.DoxologyVerse07e.text = ""
+hoMA.DoxologyVerse08.text = ""
+hoMA.DoxologyVerse08e.text = ""
+hoMA.DoxologyVerse08n.text = ""
+hoMA.DoxologyVerse09.text = ""
+hoMA.DoxologyVerse10.text = ""
+hoMA.DoxologyVerse11a.text = ""
+hoMA.DoxologyVerse11b.text = ""
+hoMA.DoxologyVerse11c.text = ""
+hoMA.DoxologyVerse12a.text = ""
+hoMA.DoxologyVerse12b.text = ""
+hoMA.DoxologyVerse13.text = ""
+hoMA.DoxologyVerse14.text = ""
+hoMA.DoxologyVerse15.text = ""
+hoMA.DoxologyVerse16.text = ""
+hoMA.DoxologyVerse17.text = ""
+hoMA.DoxologyVerse18.text = ""
+hoMA.DoxologyVerse19.text = ""
+R22 = ""
+hoMA.MM.DoxologyGreatAsmatic.text = ""
+hoMA.DoxologyVerse20.text = ""
+R23 = ""
+hoMA.DoxologySmallIntro.text = ""
+hoMA.DoxologySmallEnd.text = ""
+hoMA.SmallDoxology.title = ""
+hoMA.SmallDoxology1.text = ""
+hoMA.SmallDoxology1d = ""
+hoMA.SmallDoxology1e = ""
+hoMA.SmallDoxology2.text = ""
+hoMA.SmallDoxology2d = ""
+hoMA.SmallDoxology2e = ""
+hoMA.SmallDoxology2n = ""
+hoMA.SmallDoxology3.text = ""
+
+R24 = ""
+R25 = ""
+R26 = ""
+R27 = "Εἶτα τό· \"Δεῦτε προσκυνήσωμεν…\" καὶ τὴν Πρώτην Ὥραν."
+R28 = "Εἰ δέ ἐστι Τεσσαρακοστή…"
+hoMA.Apolytikion = ""
+R29 = "" //[maybe unpack]
+R30 = ""
+R31 = ""
+R32 = ""
+R33 = ""
+R34 = ""
+R35 = "Ἀναστάντες δέ ἀρχόμεθα· \"Δεῦτε προσκυνήσωμεν…\" καὶ ψάλλομεν τὴν Αʹ Ὥραν."
+R36 = "Μετὰ τὸ τέλος τῆς Δοξολογίας λέγομεν Τροπάριον Ἀναστάσιμον."
+hoMA.SunTroparion1.mode = ""
+hoMA.SunTroparion1.incipit = ""
+hoMA.SunTroparion1.text = ""
+R37 = ""
+//Title ultimately link this to pe.d18.peMA.Kath12
+hoMA.SunTroparion2.mode = ""
+hoMA.SunTroparion2.incipit = ""
+hoMA.SunTroparion2.text = ""
+R38 = "" //[maybe unpack]
+R39 = "Καὶ εὐθὺς ἡ Δοξολογία. Μετὰ τὸ τέλος τῆς Δοξολογίας λέγομεν τὸ Ἀπολυτίκιον·"
+
+//Order of Matins Gospel
+hoMA.Antiphon11.title = ""
+hoMA.Antiphon11.text = ""
+
+hoMA.PreGospelHymn.text = ""
+
+hoMA.SunPostGospel.incipit = ""
+hoMA.SunPostGospel.text = ""
+
+hoMA.PostGospelTrinity.incipit = ""
+hoMA.PostGospelTrinity.text = ""
+hoMA.PostGospelApostle.incipit = ""
+hoMA.PostGospelApostle.text = ""
+hoMA.PostGospelApostles.incipit = ""
+hoMA.PostGospelApostles.text = ""
+hoMA.PostGospelMaleMartyr.incipit = ""
+hoMA.PostGospelMaleMartyr.text = ""
+hoMA.PostGospelMartyrs.incipit = ""
+hoMA.PostGospelMartyrs.text = ""
+hoMA.PostGospelWomanMartyr.incipit = ""
+hoMA.PostGospelWomanMartyr.text = ""
+hoMA.PostGospelWomenMartyrs.incipit = ""
+hoMA.PostGospelWomenMartyrs.text = ""
+hoMA.PostGospelTeacher.incipit = ""
+hoMA.PostGospelTeacher.text = ""
+hoMA.PostGospelTeachers.incipit = ""
+hoMA.PostGospelTeachers.text = ""
+hoMA.PostGospelMonastic.incipit = ""
+hoMA.PostGospelMonastic.text = ""
+hoMA.PostGospelMonastics.incipit = ""
+hoMA.PostGospelMonastics.text = ""
+hoMA.PostGospelWomanMonastic.incipit = ""
+hoMA.PostGospelWomanMonastic.text = ""
+hoMA.PostGospelForerunner.incipit = ""
+hoMA.PostGospelForerunner.text = ""
+hoMA.PostGospelTheotokos.incipit = ""
+hoMA.PostGospelTheotokos.text = ""
+hoMA.PostGospelAllPureLady.incipit = ""
+hoMA.PostGospelAllPureLady.text = ""
+hoMA.PostGospelProphet.incipit = ""
+hoMA.PostGospelProphet.text = ""
+hoMA.PostGospelAngels.incipit = ""
+hoMA.PostGospelAngels.text = ""
+hoMA.PostGospelHierarch.incipit = ""
+hoMA.PostGospelHierarch.text = ""
+hoMA.PostGospelMaleSaint.incipit = ""
+hoMA.PostGospelMaleSaint.text = ""
+
+hoMA.SunPostGospelIdiomelon.incipit = ""
+hoMA.SunPostGospelIdiomelon.text = ""
+
+hoMA.SunExapVerse1.text = ""
+
+//Triodion specific, not in Horologion
+hoMA.RtrSoS01 = ""
+
+//Polyelelos, not in Horologion
+hoMA.MM.PolyeleosPsalm134.text = ""
+hoMA.MM.PolyeleosPsalm135.text = ""
+
+hoMA.EclogeTheotokionWeekday.text = ""
+
+hoMA.FestalMagnification.title = ""
+hoMA.FestalMagnification.rubric = ""

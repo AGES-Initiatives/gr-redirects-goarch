@@ -1,0 +1,10 @@
+A_Resource_Whose_Name = le.go.mc.d008_gr_redirects_goarch 
+
+lemcLI.Gospel.title = "Κυριακὴ ΙΖʹ τοῦ Ἀσώτου"
+lemcLI.Gospel.title_abbr = "Κυρ. ΙΖʹ τοῦ Ἀσώτου"
+lemcLI.Gospel.version = properties_gr_redirects_goarch.version.designation
+lemcLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
+lemcLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
+lemcLI.Gospel.chapverse = "ιεʹ 11-32"
+lemcLI.Gospel.incipit = le.go.lu.d119_gr_redirects_goarch.leluLI.Gospel.incipit
+lemcLI.Gospel.text = le.go.lu.d119_gr_redirects_goarch.leluLI.Gospel.text

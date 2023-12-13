@@ -1,0 +1,11 @@
+A_Resource_Whose_Name = le.ep.me.m02.d06_gr_redirects_goarch
+
+lemeLI.Epistle.title = "Τοῦ Ἁγίου."
+lemeLI.Epistle.title_abbr = "Τοῦ Ἁγίου."
+lemeLI.Epistle.version = le.ep.ge.hierarch_gr_redirects_goarch.legeLI.Epistle.version
+lemeLI.Epistle.book_string = le.ep.ge.hierarch_gr_redirects_goarch.legeLI.Epistle.book_string
+lemeLI.Epistle.book_abbr = le.ep.ge.hierarch_gr_redirects_goarch.legeLI.Epistle.book_abbr
+lemeLI.Epistle.chapverse = le.ep.ge.hierarch_gr_redirects_goarch.legeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.ge.hierarch_gr_redirects_goarch.legeLI.Epistle.incipit
+lemeLI.Epistle.text = le.ep.ge.hierarch_gr_redirects_goarch.legeLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""

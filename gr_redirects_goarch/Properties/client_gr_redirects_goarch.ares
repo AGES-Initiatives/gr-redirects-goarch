@@ -1,0 +1,547 @@
+A_Resource_Whose_Name = client_gr_redirects_goarch
+
+cl.name = ""
+cl.address = ""
+cl.city = ""
+cl.state = ""
+cl.zipcode = ""
+cl.email = ""
+cl.website = ""
+
+cl.bishop0.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν" //the superior of the local hierarch
+cl.bishop0.name_c = "(τοῦ δεῖνος)," //comma
+cl.bishop0.name_co = "(τοῦ δεῖνος):"
+cl.bishop0.name_sc = "(τοῦ δεῖνος)·"
+cl.bishop0.name_p = "(τοῦ δεῖνος)." //period
+cl.bishop0.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
+
+cl.bishop1.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν"
+cl.bishop1.name_c = "(τοῦ δεῖνος)," //comma
+cl.bishop1.name_co = "(τοῦ δεῖνος):"
+cl.bishop1.name_sc = "(τοῦ δεῖνος)·"
+cl.bishop1.name_p = "(τοῦ δεῖνος)." //period
+cl.bishop1.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
+
+cl.bishop2.rank = "καὶ" // for double commemoration or guest
+cl.bishop2.name_c = "καὶ"
+cl.bishop2.name_p = "καὶ"
+cl.bishop2.fimi.text = ""
+
+//Set these options here to effect client generation
+//cl.double_commemoration.bishop1and2 = "" //blank or yes
+cl.fimi.bishop1 = "yes" //blank or yes
+
+//Ordination parts in eu.ordination
+cl.euORD.EP.p402a = "," //name of candidate nominative
+cl.euORD.EP.p402b = "," //name of diocese genitive 
+cl.euORD.EP.p405a = "" //name of patriarch dative 
+cl.euORD.EP.p405b = "," //name of archbishop dative
+cl.euORD.EP.p409a = "," //name of candidate nominative
+cl.euORD.EP.p409b = "," //name of diocese genitive 
+cl.euORD.EP.p410a = "." //rank accusative of diocese
+cl.euORD.EP.p412a = "," //name of patriarch genitive 
+cl.euORD.EP.p414a = "" //name of candidate accusative
+cl.euORD.EP.p414b = "." //rank accusative of diocese
+
+//Institutional petition
+cl.institution.pet08.incipit = "Ὑπὲρ…"
+cl.institution.pet08.text = "Ὑπὲρ…"
+
+cl.monastery1_c = "," //abbot
+cl.monastery2_c = "," //elder
+cl.monastery1_p = "."
+cl.monastery2_p = "."
+
+cl.localpatronsaint1.supplication = "(τοῦ Ἁγίου τοῦ Ναοῦ)·"
+cl.localpatronsaint1.dismissal = "(τοῦ Ἁγίου τοῦ Ναοῦ)·"
+cl.localpatronsaint1.greatcompline = "(Ὁ Ἅγιος τοῦ Ναοῦ), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
+
+cl.Apolytikion1.title = "Ἀπολυτίκιον τοῦ Ναοῦ."
+cl.Apolytikion1.mode = ""
+cl.Apolytikion1.melody = ""
+cl.Apolytikion1.text = "(Τὸ Ἀπολυτίκιον τοῦ Ναοῦ.)"
+
+cl.Kontakion1.title = "Τοῦ Ναοῦ."
+cl.Kontakion1.mode = ""
+cl.Kontakion1.melody = ""
+cl.Kontakion1.text = "(Τὸ Κοντάκιον τοῦ Ναοῦ.)"
+
+cl.conVE.SticBoth.churchname.text = "(ὄνομα τοῦ Ναοῦ),"
+cl.consecration.name = "(ὄνομα τοῦ Ναοῦ),"
+cl.consecration.prayer1 = "(ὄνομα τοῦ Ναοῦ),"
+cl.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+
+cl.localpatronsaint2.supplication = "(τοῦ παρεκκλησίου)·"
+cl.localpatronsaint2.dismissal = "(τοῦ παρεκκλησίου)·"
+cl.localpatronsaint2.greatcompline = "(τοῦ παρεκκλησίου), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
+
+cl.Apolytikion2.title = "Τοῦ Παρεκκλησίου."
+cl.Apolytikion2.mode = ""
+cl.Apolytikion2.melody = ""
+cl.Apolytikion2.text = "(Τὸ Ἀπολυτίκιον τοῦ Παρεκκλησίου.)"
+
+cl.Kontakion2.title = "Τοῦ Παρεκκλησίου."
+cl.Kontakion2.mode = ""
+cl.Kontakion2.melody = ""
+cl.Kontakion2.text = "(Τὸ Κοντάκιον τοῦ Παρεκκλησίου.)"
+
+cl.consecration2.name = "(ὄνομα τοῦ Παρεκκλησίου),"
+
+cl.relics.saint1 = ""
+cl.relics.saint1.Apolytikion.title = ""
+cl.relics.saint1.Apolytikion.mode = ""
+cl.relics.saint1.Apolytikion.melody = ""
+cl.relics.saint1.Apolytikion.text = ""
+
+cl.relics.saint2 = ""
+cl.relics.saint2.Apolytikion.title = ""
+cl.relics.saint2.Apolytikion.mode = ""
+cl.relics.saint2.Apolytikion.melody = ""
+cl.relics.saint2.Apolytikion.text = ""
+
+cl.relics.saint3 = ""
+cl.relics.saint3.Apolytikion.title = ""
+cl.relics.saint3.Apolytikion.mode = ""
+cl.relics.saint3.Apolytikion.melody = ""
+cl.relics.saint3.Apolytikion.text = ""
+
+cl.relics.saint4 = ""
+cl.relics.saint4.Apolytikion.title = ""
+cl.relics.saint4.Apolytikion.mode = ""
+cl.relics.saint4.Apolytikion.melody = ""
+cl.relics.saint4.Apolytikion.text = ""
+
+cl.saints.array01.text = ""
+cl.saints.array02.text = ""
+cl.saints.array03.text = ""
+cl.saints.array04.text = ""
+
+//Rubrics
+cl.eu.lichrysbasil.R001 = "(Καὶ ψάλλεται τὸ Α’ Ἀντίφωνον, συνοδευόμενον ἀπὸ τὸ ἐφύμνιον:)"
+cl.eu.lichrysbasil.R002 = "(Καὶ ψάλλεται τὸ Β’ Ἀντίφωνον, συνοδευόμενον ἀπὸ τὸ ἐφύμνιον:)"
+cl.eu.lichrysbasil.R003 = "(Εἰς τὰς καθημερινὰς ψάλλεται τό· \"ὁ ἐν ἁγίοις θαυμαστός\". Αἱ δεσποτικαὶ ἑορταὶ ἔχουν ἴδιον ἐφύμνιον.)"
+cl.eu.lichrysbasil.R004 = "(Καὶ ψάλλεται τὸ Γ’ Ἀντίφωνον, συνοδευόμενον ἀπὸ τὸ Ἀπολυτίκιον.)"
+cl.eu.lichrysbasil.R005 = "(Ψαλλομένου τοῦ Ἀπολυτικίου, γίνεται ὑπὸ τοῦ Ἱερέως ἡ Εἴσοδος μετὰ τοῦ Εὐαγγελίου. Ὁ Ἱερεὺς προσεύχεται χαμηλοφώνως τὴν ἑπομένην εὐχήν:)"
+cl.eu.lichrysbasil.R006 = "(Εἰς τὰς καθημερινὰς ψάλλεται τό· \"ὁ ἐν ἁγίοις θαυμαστός\". Αἱ δεσποτικαὶ ἑορταὶ ἔχουν ἴδιον Εἰσοδικόν.)"
+cl.eu.lichrysbasil.R007 = "(Ὁ Ἱερεὺς εἰσέρχεται εἰς τὸ Ἱερόν Βῆμα. Ἐπαναλαμβάνονται τὰ Ἀπολυτίκια τῆς ἡμέρας μετὰ τοῦ Τροπαρίου τοῦ Ἁγίου τοῦ Ναοῦ καὶ τὸ Κοντάκιον.)"
+cl.eu.lichrysbasil.R008 = "(Ὁ Ἀναγνώστης ἐκφωνεῖ τοὺς στίχους τῶν Ψαλμῶν.)"
+cl.eu.lichrysbasil.R009 = "Πράξεων τῶν Ἀποστόλων (ἢ Πρός. . . Ἐπιστολῆς Παύλου ἢ Καθολικῆς Ἐπιστολῆς. . .) τὸ ἀνάγνωσμα."
+cl.eu.lichrysbasil.R010 = "(Ὁ Ἀναγνώστης ἀναγινώσκει τὴν τετραγμένην ἀποστολικὴν περικοπήν.)"
+cl.eu.lichrysbasil.R011 = "Ἐκ τοῦ κατὰ (Ὄνομα) Ἁγίου Εὐαγγελίου τὸ ἀνάγνωσμα."
+cl.eu.lichrysbasil.R012 = "(Καὶ ἀναγινώσκει τὴν τεταγμένην περικοπὴν τοῦ ἁγίου Εὐαγγελίου)"
+cl.eu.lichrysbasil.R013 = "(Μετὰ τὰ ἀναγνώσματα εἴθισται ἡ ἐκφώνησις τοῦ θείου λόγου.)"
+cl.eu.lichrysbasil.R014 = "(Τὸ Κοινονικὸν ἀλλάσσει κατὰ τὰς διαφόρους ἑορτάς.)"
+
+cl.eu.presanctified.R001 = "(Go to the insert for today's appointed hymns and readings.)"
+cl.eu.presanctified.R002 = "(Go back to the Presanctified Liturgy booklet.)"
+cl.eu.presanctified.R003 = "(During the first three weeks of Lent, the following litany and the Prayer for those Preparing for Illumination are omitted.)"
+cl.eu.presanctified.R004 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Epistle and Gospel readings here.)"
+cl.eu.presanctified.R005 = "(Go back to the Presanctified Liturgy booklet. After \"Let my prayer…\" find the Gospel reading here.)"
+cl.eu.presanctified.R006 = "(If there is to be an Epistle and/or Gospel reading, find them in the insert, then come back to this place in the service.)"
+
+cl.ho.ho03.R001 = "(Παραλείπεται ἡ ἐκτενής.)"
+cl.ho.ho06.R001 = "Ἂν θὰ γίνει ἀμέσσως ἡ Θʹ Ὥρα, παραλείπεται ἡ ἀπόλυσις τῆς Ϛʹ, καὶ ἄρχεται ἡ Θʹ εὐθὺς μὲ τὸ \"Ἅγιος ὁ Θεός…\" χωρὶς τὸ \"Εὐλογητός… Βασιλεῦ οὐράνιε…\""
+
+cl.ho.ho09.R001 = "Ἂν προηγήθηκε ἡ Ϛʹ Ὥρα, ἄρχεται ἡ Θʹ Ὥρα χωρὶς τὸ \"Εὐλογητός… Βασιλεῦ οὐράνιε…\""
+
+cl.ho.ho10.R001 = "Ἂν προηγήθηκε ἡ Θʹ Ὥρα, ἄρχεται ὁ Ἑσπερινὸς χωρὶς τὸ \"Εὐλογητός…\""
+cl.ho.ho10.R002 = "Μετὰ τὰ εἰρηνικὰ καὶ τὴν ἐκφώνησιν ἀναγινώσκεται τὸ ἐνδιάτακτον κάθισμα τοῦ Ψαλητρίου. Ἐν ταῖς ἐνορίαις σήμερον συνήθως δὲν γίνεται στιχολογία τοῦ Ψαλτηρίου εἰμὴ μόνον εἰς πανηγυρικοὺς Ἑσπερινοὺς καὶ εἰς τοὺς μετὰ Προηγιασμένης τοιούτους. Ὑπὸ πολλῶν ἐπίσης τηρεῖται ἡ τάξις τῆς στιχολογίας τοῦ αʹ καθίσματος τῷ Σαββάτῳ ἑσπέρας."
+cl.ho.ho10.R003 = "Παρατίθεται εἰς ξεχωριστὰς σελίδας πρὸς χρῆσιν τῶν βουλομένων."
+cl.ho.ho10.R004 = "(Παραλείπεται ἡ ἐκτενής.)"
+
+cl.ho.ho23.R001 = "Ψάλλεται ὁ κανὼν τῆς Μικρᾶς ἢ τῆς Μεγάλης Παρακλήσεως ἄνευ τῶν εἱρμῶν."
+cl.ho.ho23.R002 = "(Ὁ εἱρμὸς δὲν ψάλλεται.)"
+cl.ho.ho23.R003 = "(Δύναται νὰ παραληφθῇ τὸ Ἀντίφωνον καὶ νὰ ψάλλεται εὺθὺς τὸ Προκείμενον.)"
+
+cl.hw.synaxarion.rubric = ""
+
+cl.VE.note1 = ""
+cl.MA.note1 = ""
+cl.LI.note1 = ""
+
+cl.LI.R001 = "Ἤ, ἀντὶ τῶν Ἀντιφώνων, κατὰ τὸ τυπικόν, ψάλλονται τὰ Τυπικὰ καὶ οἱ Μακαρισμοί."
+cl.LI.R002 = "(Παραλείπονται ἡ ἐκτενής, ἡ δέησις ὑπἐρ τῶν κατηχουμένων, καὶ ἡ αʹ εὐχὴ τῶν πιστῶν.)"
+cl.LI.R003 = "(Προτιμᾶται νὰ λέγεται·)"
+cl.LI.R004 = "(Ψάλλεται Ἀλληλούϊα τρίς. Οἱ στίχοι εὑρίσκονται εἰς τὸ Liturgy - Variable Parts τῆς ἡμέρας.)"
+
+cl.me.m01.d06.R001 = "Ὁ βʹ Χορὸς ψάλλει τὸ Ἰδιόμελον· \"Σήμερον ὁ Χριστὸς…\", μέχρι τοῦ· \"ἡμεῖς δὲ οἱ φωτισθέντες βοῶμεν·\" Καὶ εὐθὺς ὁ αʹ Χορὸς ἄρχεται τῆς Μεγάλης Δοξολογίας ἀπὸ τοῦ τελευταίου στίχου τοῦ Ἰδιομέλου· \"Δόξα τῷ φανέντι Θεῷ…\""
+cl.me.m02.d02.R001 = "Ἐὰν θὰ ψαλεῖ μόνον ἡ θʹ ᾠδὴ τῆς ἑορτῆς μετὰ τῶν μεγαλυναρίων, δὲν στιχολογοῦμεν τὴν Τιμιωτέραν καὶ δὲν ψάλλεται ἡ θʹ τοῦ Ἀναστασίμου κανόνος. Ἐὰν ὅμως τηρηθῇ ἡ ὀρθὴ τάξις, θὰ ψαλοῦν μόνον ὅσα μεγαλυνάρια ἀπαιτεῖ ὁ ἀριθμὸς τῶν τροπαρίων τῆς ἑορτῆς."
+cl.me.m02.d10.R001 = "Ὅταν τῷ Σαββάτῳ τῶν Ψυχῶν τύχῃ τῇ 10ῃ Φεβρουαρίου, ἡ μνήμη τοῦ Ἁγίου Χαραλάμπους προψάλλεται τῇ Παρασκευῇ 9ῃ Φεβ. μετὰ τῆς ἀποδόσωες τῆς Ὑαπαπαντῆς."
+
+cl.me.m03.d25.R001 = "When the feast of the Annunciation falls on one of the first five Saturdays of Lent, the Salutations/Akathist is incorporated into the Great Vespers of the feast, and not sung at Small Compline as usual. It is included here as an option, for those churches that will need it in Small Compline."
+
+cl.me.m08.vespers_entrance.R001 = "Κατὰ τὸ Παρτριαρχικὸν Ἡμερολόγιον, εἰς τοὺς μετὰ Παρακλήσεως Ἑσπερινοὺς τοῦ Δεκαπενταυγούστου εἴθισται νὰ γίνεται Εἴσοδος μετὰ θυμιατοῦ."
+cl.me.m08.vespers_canon.R001 = "Εἰς τοὺς Ἑσπερινοὺς τοῦ Δεκαπενταυγούστου, πλήν ὁρισμένων ἐξερέσεων, συμψάλλεται ὁ τεταγμένος Παρακλητικὸς Κανὼν πρὸς τὴν Ὑπεραγίαν Θεοτόκον."
+
+cl.me.m09.d01.R001 = "There are a number of options for the content of the services for September 1. The Patriarchal Hemerologion, which we aspire to follow, describes the Patriarchate's added special commemorations of an Icon of the Theotokos as well as the Environment, and then indicates that, presumably for the rest of us, the service should be celebrated according to the Menaion."
+
+//Sep. 14
+cl.me.m09.d14.R001 = "The Doxology follows immediately."
+cl.me.m09.d14.R002 = "(Mode 4 \"Agia\" is preferred for today.)"
+cl.me.m09.d14.R003 = "If the Service of the Elevation of the Cross will occur at the end of Liturgy then sing the following. Otherwise, see below."
+cl.me.m09.d14.R004 = "Special Service of the Elevation"
+cl.me.m09.d14.R005 = "(The procession with the cross takes place during singing of the Asmatic Holy God.)"
+cl.me.m09.d14.R006 = "For each petition, the choir sings \"Lord, have mercy,\" 3-10-3 times (or 3-40-3, or 3-100-3)."
+cl.me.m09.d14.R007 = "(As the people venerate the cross, sing the following hymn:)"
+
+cl.me.m10.d26.R001 = "Use the verses in the text if they differ from those in the scores."
+
+cl.me.m11.d09.R001 = "The full canons in English are unavailable at this time. Therefore we are offering a modified order and partial canon."
+
+// Nov. 14
+cl.me.m11.d14.R001 = "The rubrics for this day say to sing the Kathismata of the Mode and day of the week from the Parakletike (Octoechos). Since most parishes are not familiar with these hymns, and since they change from year to year, we have not included them here."
+cl.me.m11.d14.R002 = "The rubrics for this day say to sing the Heirmoi of Odes 3, 6, 8, and 9 of the Canon of the Menaion. Most parishes would not be familiar with this, so we have inserted Katavasias instead."
+
+cl.me.m12.d25.R001 = "Ὁ βʹ Χορὸς ψάλλει τὸ Ἰδιόμελον· \"Σήμερον ὁ Χριστὸς…\", μέχρι τοῦ· \"ἡμεῖς δὲ ἀκαταπαύστως βοῶμεν.\" Καὶ εὐθὺς ὁ αʹ Χορὸς ἄρχεται τῆς Μεγάλης Δοξολογίας ἀπὸ τοῦ τελευταίου στίχου τοῦ Ἰδιομέλου· \"Δόξα ἐν ὑψίστοις Θεῷ…\""
+
+cl.pe.d072.R001 = "Τὸ Τυπκικὸν τῆς Μεγάλης Ἐκκλησίας παραλείπει τὰ ἀναγνώσματα τοῦ ἁγίου καὶ ὁρίζει μόνον τὸ Εὐαγγέλιον."
+cl.pe.d078.R001 = "Κατὰ τὸ Παρτριαρχικὸν Ἡμερολόγιον:"
+cl.pe.d078.R002 = "Σύμφωνα μέ τὴν κρατοῦσαν συνήθειαν:"
+cl.pe.d110.R001 = "Κατὰ τὸ ΤΜΕ, τὰ τροπάρια ἄνευ τοῦ στίχου, \"Δόξα σοι, ὁ Θεὸς ἡμῶν…\"."
+cl.pe.d119.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are used. This day does not present festal Katavasias, but rather the Heirmoi of the canon are used, which thematically have nothing to do with the Saturday of the Souls. I have therefore included Ode ix in its entirety, edited for the enrichment and edification of both chanters and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+
+//Service Books
+cl.sb.vo.sun.R001 = "(Go to insert: Vespers Stichera)"
+cl.sb.vo.sun.R002 = "(Return to booklet: Entrance)"
+cl.sb.vo.sun.R003 = "(Go to insert: Readings)"
+cl.sb.vo.sun.R004 = "(Return to booklet: Litanies)"
+cl.sb.vo.sun.R005 = "(Go to insert: Aposticha)"
+cl.sb.vo.sun.R006 = "(Return to booklet: Prayer of St. Symeon)"
+cl.sb.vo.sun.R007 = "(Go to insert: Apolytikia)"
+cl.sb.vo.sun.R008 = "(Return to booklet: Dismissal)"
+
+cl.se.R001 = "Λέγε τοὺς ἐν τῷ κειμένῳ στίχους ἐὰν διαφέρουν ἀπὸ τοὺς ἐν τῇ μουσικῇ."
+
+//Lent Soul Saturday
+cl.tr.d014.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Ode ix is presented in its entirety, for the enrichment and edification of both singers and listeners. Since Saturday of the Souls is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+cl.tr.d014.R002 = "Each of the next five troparia may be preceded by the verse: \"Δόξα σοι, ὁ Θεὸς ἡμῶν· δόξα σοι.\""
+
+//Lent Cheese Saturday
+cl.tr.d021.R001 = "The Patriarchal Typikon indicates, as usual, that the entire canon be sung. Typically in parishes only the Katavasias are chanted. Ode ix is presented in its entirety, for the enrichment and edification of both singers and listeners. Since this Saturday of Cheesefare week is not a great feast, Ode ix is, as usual, preceded by the Magnificat."
+
+//Forgiveness Vespers
+cl.tr.d023.R001 = "Ὁ ἦχος καὶ τὰ πρώτα τέσσαρα στιχηρὰ τῆς Ὀκτωήχου, καθὼς καὶ τὰ τελευταῖα τρία στιχηρὰ καὶ Θεοτοκίον τοῦ Μηναίου, ἀλάζουν κάθε χρόνο."
+cl.tr.d023.R002 = "Τούτου δὲ ψαλλομένου πάντες οἱ πιστοὶ λαμβάνουν συγχώρησιν παρὰ τοῦ ἱερέως (ἢ τοῦ τυχὀν χοροστατοῦντος ἀρχιερέως) ἀσπαζόμενοι τὴν χεῖρα αὐτοῦ."
+cl.tr.d023.R003 = "Ἄν καὶ συνηθίζεται ἡ εὐχὴ αὕτη νὰ λέγεται ἐκφώνως, ὅμως ἡ ὀρθὴ πράξις εἶναι νὰ λέγεται μυστικῶς καὶ νοερῶς ὑπὸ πάντων, κλήρου τε καὶ λαοῦ, ποιούντων τῶν μετανοιῶν κτλ."
+
+//Lent 3
+cl.tr.d043.R001 = "As the choirs sing the Holy God for the Great Doxology, the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table. When the Doxology is finished, he says:"
+cl.tr.d043.R002 = "The clergy venerate the cross first, followed by the faithful. While they are venerating, the following Idiomela may be chanted."
+cl.tr.d043.R003 = "When the veneration is finished, the priest returns the cross to the holy altar."
+cl.tr.d043.R011 = "At the end of the Divine Liturgy, after the hymn \"Blessed be the name of the Lord,\" the choir sings the slow \"Holy God\" of the Great Doxology; the priest processes to the solea or around the nave of the church holding the tray with the cross. On the solea he circles the table three times before placing it on the table."
+cl.tr.d043.R012 = " When the \"Holy God\" is finished, the priest says:"
+
+//Sat of Akathist
+cl.tr.d056.R001 = "Ὁ Ἱερεὺς πρὸ τῆς Εἰκόνος τῆς Θεοτόκου φέρων ἐπιτραχήλιον καὶ φελώιον ἀπαγγέλει τὸν Οἶκον·"
+
+cl.tr.d069.ma.R001 = ""
+cl.tr.d069.gh.R001 = ""
+cl.tr.d069.gh.R002 = ""
+
+cl.tr.d070.R301 = "Ὁ κλῆρος ἐξέρχεται τοῦ ἱεροῦ καὶ ἴσταται πρὸ τοῦ Ἐπιταφίου, θυμιᾶ καὶ ἀρχίζει κάθε στάσιν."
+cl.tr.d070.R302 = "(Καὶ πάλιν τὸ πρῶτον.)"
+cl.tr.d070.R303 = "Τὸ ἑπόμενον λέγεται πολλές φορές."
+cl.tr.d070.R304 = "The procession of the canopied Epitaphion around the Sanctuary takes place."
+cl.tr.d070.R305 = "As the Clergy with the canopied Epitaphion enter the Sanctuary:"
+
+cl.tr.d071.mo.R701 = "The Synaxarion from the Menaion is read here, so that at Matins only the Synaxarion for Pascha will be read."
+
+//keys for merged media files
+cl.tr.d065.ma.mergedscore.text = ""
+cl.tr.d066.ma.mergedscore.text = ""
+cl.tr.d067.ma.mergedscore.text = ""
+cl.tr.d068.ma.mergedscore.text = ""
+cl.tr.d069.vl.mergedscore.text = ""
+cl.tr.d069.ma.mergedscore.text = ""
+cl.tr.d069.gh.mergedscore.text = ""
+cl.tr.d070.ve.mergedscore.text = ""
+cl.tr.d070.ma.mergedscore.text = ""
+cl.tr.d071.vl.mergedscore.text = ""
+cl.pe.d071.ma.mergedscore.text = ""
+cl.pe.d071.li.mergedscore.text = ""
+cl.pe.d072.ve.mergedscore.text = ""
+
+//These keys remain blank in this file. They will be used by clients for custom services.
+cl.client.VE.key01.text = ""
+cl.client.VE.key02.text = ""
+cl.client.VE.key03.text = ""
+cl.client.VE.key04.text = ""
+cl.client.VE.key05.text = ""
+cl.client.VE.key06.text = ""
+cl.client.VE.key07.text = ""
+cl.client.VE.key08.text = ""
+cl.client.VE.key09.text = ""
+cl.client.VE.key10.text = ""
+
+cl.client.VE.R001 = ""
+cl.client.VE.R002 = ""
+cl.client.VE.R003 = ""
+
+cl.client.MA.R001 = ""
+cl.client.MA.R002 = ""
+cl.client.MA.R003 = ""
+cl.client.MA.R004 = ""
+
+cl.client.LI.R001 = ""
+cl.client.LI.R002 = ""
+
+//canon of the saint of the parish church for use on Saturdays
+
+clMA.C1.notice = ""
+clMA.C1.source = "source of canon"
+clMA.C1.title = "title of canon"
+clMA.C1.verse = "appropriate verse"
+
+clMA.Ode1C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode1
+clMA.Ode1C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode1C1H.melody = "melody"
+clMA.Ode1C1H.text = "Heirmos text"
+
+clMA.Ode1C11.ode = miscellanea_gr_redirects_goarch.misc.Ode1
+clMA.Ode1C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode1C11.melody = ""
+clMA.Ode1C11.text = "Troparion 1 text"
+
+clMA.Ode1C12.ode = miscellanea_gr_redirects_goarch.misc.Ode1
+clMA.Ode1C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode1C12.melody = ""
+clMA.Ode1C12.text = "Troparion 2 text"
+
+clMA.Ode1C13.ode = miscellanea_gr_redirects_goarch.misc.Ode1
+clMA.Ode1C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode1C13.melody = ""
+clMA.Ode1C13.text = "Troparion 3 text"
+
+clMA.Ode1C14.ode = miscellanea_gr_redirects_goarch.misc.Ode1
+clMA.Ode1C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode1C14.melody = ""
+clMA.Ode1C14.text = "Troparion 4 text"
+
+clMA.Ode1C15.title = ""
+clMA.Ode1C15.ode = miscellanea_gr_redirects_goarch.misc.Ode1
+clMA.Ode1C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode1C15.melody = ""
+clMA.Ode1C15.text = "Troparion 5 text"
+
+clMA.Ode3C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode3
+clMA.Ode3C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode3C1H.melody = "melody"
+clMA.Ode3C1H.text = "Heirmos text"
+
+clMA.Ode3C11.ode = miscellanea_gr_redirects_goarch.misc.Ode3
+clMA.Ode3C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode3C11.melody = ""
+clMA.Ode3C11.text = "Troparion 1 text"
+
+clMA.Ode3C12.ode = miscellanea_gr_redirects_goarch.misc.Ode3
+clMA.Ode3C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode3C12.melody = ""
+clMA.Ode3C12.text = "Troparion 2 text"
+
+clMA.Ode3C13.ode = miscellanea_gr_redirects_goarch.misc.Ode3
+clMA.Ode3C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode3C13.melody = ""
+clMA.Ode3C13.text = "Troparion 3 text"
+
+clMA.Ode3C14.ode = miscellanea_gr_redirects_goarch.misc.Ode3
+clMA.Ode3C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode3C14.melody = ""
+clMA.Ode3C14.text = "Troparion 4 text"
+
+clMA.Ode3C15.title = ""
+clMA.Ode3C15.ode = miscellanea_gr_redirects_goarch.misc.Ode3
+clMA.Ode3C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode3C15.melody = ""
+clMA.Ode3C15.text = "Troparion 5 text"
+
+clMA.Ode4C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode4
+clMA.Ode4C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode4C1H.melody = "melody"
+clMA.Ode4C1H.text = "Heirmos text"
+
+clMA.Ode4C11.ode = miscellanea_gr_redirects_goarch.misc.Ode4
+clMA.Ode4C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode4C11.melody = ""
+clMA.Ode4C11.text = "Troparion 1 text"
+
+clMA.Ode4C12.ode = miscellanea_gr_redirects_goarch.misc.Ode4
+clMA.Ode4C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode4C12.melody = ""
+clMA.Ode4C12.text = "Troparion 2 text"
+
+clMA.Ode4C13.ode = miscellanea_gr_redirects_goarch.misc.Ode4
+clMA.Ode4C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode4C13.melody = ""
+clMA.Ode4C13.text = "Troparion 3 text"
+
+clMA.Ode4C14.ode = miscellanea_gr_redirects_goarch.misc.Ode4
+clMA.Ode4C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode4C14.melody = ""
+clMA.Ode4C14.text = "Troparion 4 text"
+
+clMA.Ode4C15.title = ""
+clMA.Ode4C15.ode = miscellanea_gr_redirects_goarch.misc.Ode4
+clMA.Ode4C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode4C15.melody = ""
+clMA.Ode4C15.text = "Troparion 5 text"
+
+clMA.Ode5C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode5
+clMA.Ode5C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode5C1H.melody = "melody"
+clMA.Ode5C1H.text = "Heirmos text"
+
+clMA.Ode5C11.ode = miscellanea_gr_redirects_goarch.misc.Ode5
+clMA.Ode5C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode5C11.melody = ""
+clMA.Ode5C11.text = "Troparion 1 text"
+
+clMA.Ode5C12.ode = miscellanea_gr_redirects_goarch.misc.Ode5
+clMA.Ode5C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode5C12.melody = ""
+clMA.Ode5C12.text = "Troparion 2 text"
+
+clMA.Ode5C13.ode = miscellanea_gr_redirects_goarch.misc.Ode5
+clMA.Ode5C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode5C13.melody = ""
+clMA.Ode5C13.text = "Troparion 3 text"
+
+clMA.Ode5C14.ode = miscellanea_gr_redirects_goarch.misc.Ode5
+clMA.Ode5C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode5C14.melody = ""
+clMA.Ode5C14.text = "Troparion 4 text"
+
+clMA.Ode5C15.title = ""
+clMA.Ode5C15.ode = miscellanea_gr_redirects_goarch.misc.Ode5
+clMA.Ode5C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode5C15.melody = ""
+clMA.Ode5C15.text = "Troparion 5 text"
+
+clMA.Ode6C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode6
+clMA.Ode6C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode6C1H.melody = "melody"
+clMA.Ode6C1H.text = "Heirmos text"
+
+clMA.Ode6C11.ode = miscellanea_gr_redirects_goarch.misc.Ode6
+clMA.Ode6C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode6C11.melody = ""
+clMA.Ode6C11.text = "Troparion 1 text"
+
+clMA.Ode6C12.ode = miscellanea_gr_redirects_goarch.misc.Ode6
+clMA.Ode6C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode6C12.melody = ""
+clMA.Ode6C12.text = "Troparion 2 text"
+
+clMA.Ode6C13.ode = miscellanea_gr_redirects_goarch.misc.Ode6
+clMA.Ode6C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode6C13.melody = ""
+clMA.Ode6C13.text = "Troparion 3 text"
+
+clMA.Ode6C14.ode = miscellanea_gr_redirects_goarch.misc.Ode6
+clMA.Ode6C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode6C14.melody = ""
+clMA.Ode6C14.text = "Troparion 4 text"
+
+clMA.Ode6C15.title = ""
+clMA.Ode6C15.ode = miscellanea_gr_redirects_goarch.misc.Ode6
+clMA.Ode6C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode6C15.melody = ""
+clMA.Ode6C15.text = "Troparion 5 text"
+
+clMA.Ode7C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode7
+clMA.Ode7C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode7C1H.melody = "melody"
+clMA.Ode7C1H.text = "Heirmos text"
+
+clMA.Ode7C11.ode = miscellanea_gr_redirects_goarch.misc.Ode7
+clMA.Ode7C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode7C11.melody = ""
+clMA.Ode7C11.text = "Troparion 1 text"
+
+clMA.Ode7C12.ode = miscellanea_gr_redirects_goarch.misc.Ode7
+clMA.Ode7C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode7C12.melody = ""
+clMA.Ode7C12.text = "Troparion 2 text"
+
+clMA.Ode7C13.ode = miscellanea_gr_redirects_goarch.misc.Ode7
+clMA.Ode7C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode7C13.melody = ""
+clMA.Ode7C13.text = "Troparion 3 text"
+
+clMA.Ode7C14.ode = miscellanea_gr_redirects_goarch.misc.Ode7
+clMA.Ode7C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode7C14.melody = ""
+clMA.Ode7C14.text = "Troparion 4 text"
+
+clMA.Ode7C15.title = ""
+clMA.Ode7C15.ode = miscellanea_gr_redirects_goarch.misc.Ode7
+clMA.Ode7C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode7C15.melody = ""
+clMA.Ode7C15.text = "Troparion 5 text"
+
+clMA.Ode8C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode8
+clMA.Ode8C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode8C1H.melody = "melody"
+clMA.Ode8C1H.text = "Heirmos text"
+
+clMA.Ode8C11.ode = miscellanea_gr_redirects_goarch.misc.Ode8
+clMA.Ode8C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode8C11.melody = ""
+clMA.Ode8C11.text = "Troparion 1 text"
+
+clMA.Ode8C12.ode = miscellanea_gr_redirects_goarch.misc.Ode8
+clMA.Ode8C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode8C12.melody = ""
+clMA.Ode8C12.text = "Troparion 2 text"
+
+clMA.Ode8C13.ode = miscellanea_gr_redirects_goarch.misc.Ode8
+clMA.Ode8C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode8C13.melody = ""
+clMA.Ode8C13.text = "Troparion 3 text"
+
+clMA.Ode8C14.ode = miscellanea_gr_redirects_goarch.misc.Ode8
+clMA.Ode8C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode8C14.melody = ""
+clMA.Ode8C14.text = "Troparion 4 text"
+
+clMA.Ode8C15.title = ""
+clMA.Ode8C15.ode = miscellanea_gr_redirects_goarch.misc.Ode8
+clMA.Ode8C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode8C15.melody = ""
+clMA.Ode8C15.text = "Troparion 5 text"
+
+clMA.Ode9C1H.ode = miscellanea_gr_redirects_goarch.misc.Ode9
+clMA.Ode9C1H.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode9C1H.melody = "melody"
+clMA.Ode9C1H.text = "Heirmos text"
+
+clMA.Ode9C11.ode = miscellanea_gr_redirects_goarch.misc.Ode9
+clMA.Ode9C11.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode9C11.melody = ""
+clMA.Ode9C11.text = "Troparion 1 text"
+
+clMA.Ode9C12.ode = miscellanea_gr_redirects_goarch.misc.Ode9
+clMA.Ode9C12.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode9C12.melody = ""
+clMA.Ode9C12.text = "Troparion 2 text"
+
+clMA.Ode9C13.ode = miscellanea_gr_redirects_goarch.misc.Ode9
+clMA.Ode9C13.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode9C13.melody = ""
+clMA.Ode9C13.text = "Troparion 3 text"
+
+clMA.Ode9C14.ode = miscellanea_gr_redirects_goarch.misc.Ode9
+clMA.Ode9C14.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode9C14.melody = ""
+clMA.Ode9C14.text = "Troparion 4 text"
+
+clMA.Ode9C15.title = ""
+clMA.Ode9C15.ode = miscellanea_gr_redirects_goarch.misc.Ode9
+clMA.Ode9C15.mode = miscellanea_gr_redirects_goarch.misc.Mode0
+clMA.Ode9C15.melody = ""
+clMA.Ode9C15.text = "Troparion 5 text"
+
+cl.client.Idiomelon1.title = ""
+cl.client.Idiomelon1.mode = ""
+cl.client.Idiomelon1.melody = ""
+cl.client.Idiomelon1.text = ""
+

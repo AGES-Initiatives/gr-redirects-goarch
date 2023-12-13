@@ -1,0 +1,146 @@
+A_Resource_Whose_Name = he.ga_gr_redirects_goarch 
+
+heGA.title = ""
+
+// For a Prophet. Insert name.
+heGA.TouProfitouSou.name = ""
+heGA.TouProfitouSou.incipit = ""
+heGA.TouProfitouSou.mode = ""
+heGA.TouProfitouSou.melody = ""
+heGA.TouProfitouSou.text1 = ""
+heGA.TouProfitouSou.text2 = ""
+
+// For one named Apostle and/or Evangelist. Insert name.
+heGA.ApostoleAgie.name = ""
+heGA.ApostoleAgie.incipit = ""
+heGA.ApostoleAgie.mode = ""
+heGA.ApostoleAgie.melody = ""
+heGA.ApostoleAgie.text1 = ""
+heGA.ApostoleAgie.text1a = ""
+heGA.ApostoleAgie.text2 = ""
+
+// For several unnamed Apostles
+heGA.ApostoloiAgioi.name = ""
+heGA.ApostoloiAgioi.incipit = ""
+heGA.ApostoloiAgioi.mode = ""
+heGA.ApostoloiAgioi.melody = ""
+heGA.ApostoloiAgioi.text = ""
+
+// For hieromartyr
+heGA.ChristotitaEkdidachtheis.name = ""
+heGA.ChristotitaEkdidachtheis.incipit = ""
+heGA.ChristotitaEkdidachtheis.mode = ""
+heGA.ChristotitaEkdidachtheis.melody = ""
+heGA.ChristotitaEkdidachtheis.text1 = ""
+heGA.ChristotitaEkdidachtheis.text2 = ""
+
+// For one unnamed Martyr
+heGA.OMartysSouKyrie.name = ""
+heGA.OMartysSouKyrie.incipit = ""
+heGA.OMartysSouKyrie.mode = ""
+heGA.OMartysSouKyrie.greekmelody = ""
+heGA.OMartysSouKyrie.melody = ""
+heGA.OMartysSouKyrie.text = ""
+
+// For several unnamed Martyrs
+heGA.OiMartyresSouKyrie.name = ""
+heGA.OiMartyresSouKyrie.incipit = ""
+heGA.OiMartyresSouKyrie.mode = ""
+heGA.OiMartyresSouKyrie.greekmelody = ""
+heGA.OiMartyresSouKyrie.melody = ""
+heGA.OiMartyresSouKyrie.text = ""
+
+// For one unnamed woman Martyr
+heGA.IAmnasSou.name = ""
+heGA.IAmnasSou.incipit = ""
+heGA.IAmnasSou.mode = ""
+heGA.IAmnasSou.greekmelody = ""
+heGA.IAmnasSou.melody = ""
+heGA.IAmnasSou.text = ""
+
+// For a group of unnamed Martyrs
+heGA.TasAlgidonas.name = ""
+heGA.TasAlgidonas.incipit = ""
+heGA.TasAlgidonas.mode = ""
+heGA.TasAlgidonas.melody = ""
+heGA.TasAlgidonas.text = ""
+
+// For one named Hieromartyr. Insert name with comma
+heGA.KaiTroponMetochos.name = ""
+heGA.KaiTroponMetochos.incipit = ""
+heGA.KaiTroponMetochos.mode = ""
+heGA.KaiTroponMetochos.melody = ""
+heGA.KaiTroponMetochos.text1 = ""
+heGA.KaiTroponMetochos.text2 = ""
+
+// For one named ascetic man. Insert name with semicolon. See Automelon: he.a.m1_gr_redirects_goarch.heAU.TisErimouPolitis.text
+heGA.TisErimouPolitis.name = ""
+heGA.TisErimouPolitis.incipit = ""
+heGA.TisErimouPolitis.mode = ""
+heGA.TisErimouPolitis.greekmelody = ""
+heGA.TisErimouPolitis.melody = ""
+heGA.TisErimouPolitis.text1 = ""
+heGA.TisErimouPolitis.text2 = ""
+
+// For one named ascetic man. Insert name and title with comma: name Πατὴρ ἡμῶν ὅσιε,
+heGA.TaisTonDakryonSou.name = ""
+heGA.TaisTonDakryonSou.incipit = ""
+heGA.TaisTonDakryonSou.mode = ""
+heGA.TaisTonDakryonSou.melody = ""
+heGA.TaisTonDakryonSou.text1 = ""
+heGA.TaisTonDakryonSou.text2 = ""
+
+// For one named ascetic man. Insert name with comma
+heGA.EnSoiPaterAkrivos.name = ""
+heGA.EnSoiPaterAkrivos.incipit = ""
+heGA.EnSoiPaterAkrivos.mode = ""
+heGA.EnSoiPaterAkrivos.melody = ""
+heGA.EnSoiPaterAkrivos.text1 = ""
+heGA.EnSoiPaterAkrivos.text2 = ""
+
+// For one named ascetic woman. Insert name
+heGA.EnSoiMiterAkrivos.name = ""
+heGA.EnSoiMiterAkrivos.incipit = ""
+heGA.EnSoiMiterAkrivos.mode = ""
+heGA.EnSoiMiterAkrivos.melody = ""
+heGA.EnSoiMiterAkrivos.text1 = ""
+heGA.EnSoiMiterAkrivos.text2 = ""
+
+// For one named Hierarch. Insert "Father" and title/name etc with semicolon
+heGA.KanonaPisteos.name = ""
+heGA.KanonaPisteos.incipit = ""
+heGA.KanonaPisteos.mode = ""
+heGA.KanonaPisteos.melody = ""
+heGA.KanonaPisteos.text1 = ""
+heGA.KanonaPisteos.text2 = ""
+
+// For one named Hierarch Confessor or Teacher
+heGA.OrthodoxiasOdigeH.name = ""
+heGA.OrthodoxiasOdigeH.incipit = ""
+heGA.OrthodoxiasOdigeH.mode = ""
+heGA.OrthodoxiasOdigeH.melody = ""
+heGA.OrthodoxiasOdigeH.text1 = ""
+heGA.OrthodoxiasOdigeH.text2 = ""
+
+// For one named monastic Confessor or Teacher
+heGA.OrthodoxiasOdigeM.name = ""
+heGA.OrthodoxiasOdigeM.incipit = ""
+heGA.OrthodoxiasOdigeM.mode = ""
+heGA.OrthodoxiasOdigeM.melody = ""
+heGA.OrthodoxiasOdigeM.text1 = ""
+heGA.OrthodoxiasOdigeM.text2 = ""
+
+// For several unnamed holy Fathers
+heGA.OTheosTonPateronImon.name = ""
+heGA.OTheosTonPateronImon.incipit = ""
+heGA.OTheosTonPateronImon.mode = ""
+heGA.OTheosTonPateronImon.melody = ""
+heGA.OTheosTonPateronImon.text = ""
+
+// For a Stylite
+heGA.YpomonisStylos.name = ""
+heGA.YpomonisStylos.incipit = ""
+heGA.YpomonisStylos.mode = ""
+heGA.YpomonisStylos.melody = ""
+heGA.YpomonisStylos.text1 = ""
+heGA.YpomonisStylos.text2 = ""

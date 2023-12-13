@@ -1,0 +1,28 @@
+A_Resource_Whose_Name = me.m08.d23_gr_redirects_goarch
+
+meDA.date = ""
+meDA.commemoration.full = ""
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
+meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
+meDA.insert1 = ""
+meDA.insert2 = ""
+meDA.note = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.text = ""
+
+meLI.Megalynarion.text = ""
+

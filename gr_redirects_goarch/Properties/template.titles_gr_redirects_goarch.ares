@@ -1,0 +1,375 @@
+A_Resource_Whose_Name = template.titles_gr_redirects_goarch 
+
+//books - collections
+eo = "ΕΩΘΙΝΑ"
+eu = "ΕΥΧΟΛΟΓΙΟΝ"
+he = "ΕΙΡΜΟΛΟΓΙΟΝ"
+hi = "ΙΕΡΑΤΙΚΟΝ"
+ho = "ΩΡΟΛΟΓΙΟΝ"
+ka = "ΚΑΤΑΒΑΣΙΑΙ"
+le = "ΑΝΑΓΝΩΣΜΑΤΑ" // this should be divided into three sections: prophecies, epistles, gospels
+me = "ΜΗΝΑΙΟΝ"
+oc = "ΟΚΤΩΗΧΟΣ"
+oc.html.tab = "ΟΚΤΩΗΧΟΣ"
+oc.pdf.header = "Ὀκτώηχος"
+oc.pdf.cover = "Ὀκτώηχος"
+pe = "ΠΕΝΤΗΚΟΣΤΑΡΙΟΝ"
+ps = "ΨΑΛΤΗΡΙΟΝ"
+sy = "ΣΥΝΑΞΑΡΙΟΝ"
+tr = "ΤΡΙΩΔΙΟΝ"
+
+//service days
+sat = "ΤΩ ΣΑΒΒΑΤΩ"
+sun = "ΤΗ ΚΥΡΙΑΚΗ"
+wkd = "ΚΑΘΗΜΕΡΙΝΗ"
+
+//sacraments
+bap.html.tab = "ΒΑΠΤΙΣΜΑ"
+bap.pdf.header = "Τὸ Ἅγιον Βάπτισμα"
+bap.pdf.cover = "Τὸ Ἅγιον Βάπτισμα"
+
+cdo.html.tab = "ΘΥΡΑΝΟΙΞΙΑ"
+cdo.pdf.header = "Θυρανοίξια Ναοῦ"
+cdo.pdf.cover = "Θυρανοίξια Ναοῦ"
+
+chi.html.tab = "ΕΠΙ ΓΕΝΝΗΣΕΙ ΠΑΙΔΙΟΥ"
+chi.pdf.header = "Ἐπὶ Γεννήσει Παιδίου"
+chi.pdf.cover = "Ἐπὶ Γεννήσει Παιδίου"
+
+con.html.tab = "ΕΓΚΑΙΝΙΑ"
+con.pdf.header = "ΤΑ ΕΓΚΑΙΝΙΑ"
+con.pdf.cover = "ΤΑ ΕΓΚΑΙΝΙΑ"
+
+fun.html.tab = "ΚΗΔΕΙΑ"
+fun.pdf.header = "Νεκρώσιμος Ἀκολουθία"
+fun.pdf.cover = "Νεκρώσιμος Ἀκολουθία"
+
+mem.html.tab = "ΜΝΗΜΟΣΥΝΟΝ"
+mem.pdf.header = "Ἀκολουθία ἐπὶ Μνημοσύνῳ"
+mem.pdf.cover = "Ἀκολουθία ἐπὶ Μνημοσύνῳ"
+
+ord.html.tab = "ΧΕΙΡΟΤΟΝΙΑ"
+ord.pdf.header = "Χειροτονία"
+ord.pdf.cover = "Χειροτονία"
+
+pen.html.tab = "ΕΧΟΜΟΛΟΓΗΣΙΣ"
+pen.pdf.header = "Ἱερὰ Ἐξομολόγησις"
+pen.pdf.cover = "Ἱερὰ Ἐξομολόγησις"
+
+swb.html.tab = "ΜΙΚΡΟΣ ΑΓΙΑΣΜΟΣ"
+swb.pdf.header = "Ἀκολουθία τοῦ Μικροῦ Ἁγιασμοῦ"
+swb.pdf.cover = "Ἀκολουθία τοῦ Μικροῦ Ἁγιασμοῦ"
+
+unc.html.tab = "ΕΥΧΕΛΑΙΟΝ"
+unc.pdf.header = "Ἀκολουθία τοῦ Εὐχελαίου"
+unc.pdf.cover = "Ἀκολουθία τοῦ Εὐχελαίου"
+
+wed.html.tab = "ΓΑΜΟΣ"
+wed.pdf.header = "Ἀκολουθία τοῦ Γάμου"
+wed.pdf.cover = "Ἀκολουθία τοῦ Γάμου"
+
+//service names
+service = "Ἀκολουθία"
+
+co.html.tab = "ΑΠΟΔΕΙΠΝΟΝ"
+co.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ"
+co.pdf.cover = "Ἀκολουθία τοῦ Ἀποδείπνου"
+co.smallcompline.html.tab = "Ἀπόδειπνον Μικρόν"
+co.smallcompline.pdf.cover = "Ἀπόδειπνον Μικρόν"
+co.smallcompline.pdf.header = "(ΜΙΚΡΟΝ)"
+co.smallcomplinewithcanon.html.tab = "Ἀπόδειπνον Μικρὸν καὶ Κανών"
+co.smallcomplinewithcanon.pdf.cover = "Ἀπόδειπνον Μικρὸν καὶ Κανών"
+co.smallcomplinewithcanon.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΙΚΡΟΝ ΚΑΙ ΚΑΝΩΝ"
+co.akathist.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΑΚΑΘΙΣΤΟΣ"
+co.akathist.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος"
+co.akathist.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος"
+co.salutations.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
+co.salutations.pdf.header = "(ΜΙΚΡΟΝ) ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
+co.greatcanon.html.tab = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
+co.greatcanon.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
+co.greatcanon.pdf.header = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΜΕΓΑΣ ΚΑΝΩΝ"
+co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
+co.greatcompline.pdf.header = "(ΜΕΓΑ)"
+co.christmasvigil.html.tab = "ΑΓΡΥΠΝΙΑ ΤΩΝ ΧΡΙΣΤΟΥΓΕΝΝΩΝ"
+co.christmasvigil.pdf.cover = "Ἀγρυπνία τῶν Χριστουγέννων - Ἀπόδειπνον, Λιτή, Τέλος Ἑσπερινοῦ"
+co.christmasvigil.pdf.header = "Ἀγρυπνία τῶν Χριστουγέννων"
+co.epiphanyvigil.html.tab = "ΑΓΡΥΠΝΙΑ ΤΩΝ ΦΩΤΩΝ"
+co.epiphanyvigil.pdf.cover = "Ἀγρυπνία τῶν Φώτων - Ἀπόδειπνον, Λιτή, Τέλος Ἑσπερινοῦ"
+co.epiphanyvigil.pdf.header = "Ἀγρυπνία τῶν Φώτων"
+
+co1.html.tab = "ΠΑΝΝΥΧΙΣ" //this is the pre-resurrection service of Pascha
+co1.pdf.header = "Παννυχίς"
+co1.pdf.cover = "Παννυχίς"
+
+co2.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ" 
+co2.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
+co2.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
+
+co3.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΑΚΑΘΙΣΤΟΣ" 
+co3.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος Ὕμνος"
+co3.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος Ὕμνος"
+
+co4.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΜΕΓΑΣ ΚΑΝΩΝ" 
+co4.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
+co4.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
+
+co6.html.tab = "ΑΠΟΔΕΙΠΝΟΝ ΤΟΥ ΠΑΣΧΑ"
+co6.pdf.header = "Ἀπόδειπνον τοῦ Πάσχα"
+co6.pdf.cover = "Ἀπόδειπνον τοῦ Πάσχα"
+
+dr.html.tab = "ΚΑΘΗΜΕΡΙΝΑ ΚΕΙΜΕΝΑ"
+dr.pdf.header = "Καθημερινὰ κείμενα"
+dr.pdf.cover = "Καθημερινὰ κείμενα"
+
+em.html.tab = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
+em.pdf.header = "Ὄρθρος"
+em.pdf.cover = "Ὄρθρος"
+
+em3.html.tab = "ΕΠΙΤΑΦΙΟΣ ΘΡΗΝΟΣ" 
+em3.pdf.header = "Ἐπιτάφιος Θρῆνος"
+em3.pdf.cover = "Ἐπιτάφιος Θρῆνος"
+
+gc.html.tab = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
+gc.pdf.header = "Ἀπόδειπνον Μέγα"
+gc.pdf.cover = "Ἀπόδειπνον Μέγα"
+
+gh.html.tab = "ΜΕΓΑΛΑΙ ΩΡΑΙ"
+gh.pdf.header = "Μεγάλαι Ὧραι"
+gh.pdf.cover = "Αἱ Μεγάλαι Ὧραι"
+
+gp.html.tab = "ΠΑΡΑΚΛΗΣΙΣ"
+gp.pdf.header = "Μέγας Παρακλητικὸς Κανών."
+gp.pdf.cover = "Ἀκολουθια τοῦ Μεγάλου Παρακλητικοῦ Κανόνος"
+
+h1.html.tab = "ΠΡΩΤΗ ΩΡΑ"
+h1.pdf.header = "Ὥρα Αʹ"
+h1.pdf.cover = "Ἡ Πρώτη Ὥρα"
+
+h13.html.tab = "ΑΙ ΩΡΑΙ ΤΟΥ ΠΑΣΧΑ"
+h13.pdf.header = "Αἱ Ὧραι τοῦ Πάσχα"
+h13.pdf.cover = "Αἱ Ὧραι τοῦ Πάσχα"
+
+h3.html.tab = "ΤΡΙΤΗ ΩΡΑ"
+h3.pdf.header = "Ὥρα Γʹ"
+h3.pdf.cover = "Ἡ Τρίτη Ὥρα"
+
+h36.html.tab = "Η ΤΡΙΘΕΚΤΗ"
+h36.pdf.header = "Ἡ Τριθέκτη"
+h36.pdf.cover = "Ἡ Τριθέκτη"
+
+h6.html.tab = "ΕΚΤΗ ΩΡΑ"
+h6.pdf.header = "Ὥρα Ϛʹ"
+h6.pdf.cover = "Ἡ Ἕκτη Ὥρα"
+
+h61.html.tab = "ΑΚΟΛΟΥΘΙΑ ΤΩΝ ΤΥΠΙΚΩΝ (ἄνευ ἱερέως)"
+h61.pdf.header = "Ἀκολουθία τῶν Τυπικῶν (ἄνευ ἱερέως)"
+h61.pdf.cover = "Ἀκολουθία τῶν Τυπικῶν (ἄνευ ἱερέως)"
+
+h9.html.tab = "ΕΝΑΤΗ ΩΡΑ"
+h9.pdf.header = "Ὥρα Θʹ"
+h9.pdf.cover = "Ἡ Ἐνάτη Ὥρα"
+
+h91.html.tab = "ΑΝΑΓΝΩΣΜΑΤΑ ΤΗΣ ΗΜΕΡΑΣ"
+h91.pdf.header = "Ἀναγνώσματα τῆς Ἡμέρας"
+h91.pdf.cover = "Ἀναγνώσματα τῆς Ἡμέρας"
+
+h92.html.tab = "ΕΙΚΙΚΗ ΤΕΛΕΤΗ"
+h92.pdf.header = "Εἰκικὴ Τελετή"
+h92.pdf.cover = "Εἰκικὴ Τελετή"
+
+hw.pdf.cover = "Μεγάλη Ἑβδομάδα"
+
+li.html.tab = "ΛΕΙΤΟΥΡΓΙΑ"
+li.pdf.header = "Θεία Λειτουργία"
+li.pdf.cover = "Ἡ Θεία Λειτουργία"
+
+li1.html.tab = "ΛΕΙΤΟΥΡΓΙΑ ΑΓΙΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
+li1.pdf.header = "Λειτουργία Ἁγίου Χρυσοστόμου"
+li1.pdf.cover = "Ἡ Θεία Λειτουργία τοῦ Ἁγίου Χρυσοστόμου"
+
+li2.html.tab = "ΛΕΙΤΟΥΡΓΙΑ - ΜΕΤΑΒΛΗΤΑ"
+li2.pdf.header = "Λειτουργία - Μεταβλητά"
+li2.pdf.cover = "Ἡ Θεία Λειτουργία - Τὰ Μεταβλητά"
+
+li3.html.tab = "ΛΕΙΤΟΥΡΓΙΑ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ"
+li3.pdf.header = "Λειτουργία Ἁγίου Βασιλείου"
+li3.pdf.cover = "Ἡ Θεία Λειτουργία τοῦ Ἁγίου Βασιλείου"
+
+li4.html.tab = "ΛΕΙΤΟΥΡΓΙΑ ΙΑΚΩΒΟΥ"
+li4.pdf.header = "Λειτουργία Ἁγίου Ἰακώβου"
+li4.pdf.cover = "Ἡ Θεία Λειτουργία τοῦ Ἁγίου Ἰακώβου"
+
+li5.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ ΧΡΥΣΟΣΤΟΜΟΥ"
+li5.pdf.header = "Ἀρχιερατικὴ Λειτουργία Ἁγίου Χρυσοστόμου"
+li5.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία Ἁγίου Χρυσοστόμου"
+
+li6.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ ΒΑΣΙΛΕΙΟΥ"
+li6.pdf.header = "Ἀρχιερατικὴ Λειτουργία Ἁγίου Βασιλείου"
+li6.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία Ἁγίου Βασιλείου"
+
+li7.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ ΙΑΚΩΒΟΥ"
+li7.pdf.header = "Ἀρχιερατικὴ Λειτουργία Ἁγίου Ἰακώβου"
+li7.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία Ἁγίου Ἰακώβου"
+
+li8.html.tab = ""
+li8.pdf.header = ""
+li8.pdf.cover = ""
+
+li9.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ"
+li9.pdf.header = "Ἀρχιερατικὴ Θεία Λειτουργία"
+li9.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία"
+
+ma.html.tab = "ΟΡΘΡΟΣ"
+ma.pdf.header = "Ὄρθρος"
+ma.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+
+ma2.html.tab = "ΟΡΘΡΟΣ"
+ma2.pdf.header = "Ὄρθρος"
+ma2.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+
+ma3.html.tab = "ΟΡΘΡΟΣ"
+ma3.pdf.header = "Ὄρθρος"
+ma3.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+
+ma4.html.tab = "ΟΡΘΡΟΣ"
+ma4.pdf.header = "Ὄρθρος"
+ma4.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+
+ma5.html.tab = "ΟΡΘΡΟΣ"
+ma5.pdf.header = "Ὄρθρος"
+ma5.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+
+mo.html.tab = "ΜΕΣΟΝΥΚΤΙΚΟΝ"
+mo.pdf.header = "Μεσονυκτικόν"
+mo.pdf.cover = "Τὸ Μεσονυκτικόν"
+
+mo1.html.tab = "ΗΜΕΡΟΛΟΓΙΟΝ - ΤΥΠΙΚΟΝ ΤΗΣ ΗΜΕΡΑΣ"
+mo1.pdf.header = "Ἡμερολόγιον - Τυπικὸν τῆς Ἡμέρας"
+mo1.pdf.cover = "Ἡμερολόγιον - Τυπικὸν τῆς Ἡμέρας"
+
+mo6.html.tab = "ΜΕΣΟΝΥΚΤΙΚΟΝ ΤΟΥ ΠΑΣΧΑ"
+mo6.pdf.header = "Μεσονυκτικὸν τοῦ Πάσχα"
+mo6.pdf.cover = "Τὸ Μεσονυκτικὸν τοῦ Πάσχα"
+
+pl.html.tab = "ΠΡΟΗΓΙΑΣΜΕΝΗ"
+pl.pdf.header = "Προηγιασμένη Λειτουργία"
+pl.pdf.cover = "Ἡ Προηγιασμένη Λειτουργία"
+
+sp.html.tab = "ΠΑΡΑΚΛΗΣΙΣ"
+sp.pdf.header = "Μικρὸς Παρακλητικὸς Κανών."
+sp.pdf.cover = "Ἀκολουθια τοῦ Μικροῦ Παρακλητικοῦ Κανόνος"
+
+sv.html.tab = "ΜΙΚΡΟΣ ΕΣΠΕΡΙΝΟΣ"
+sv.pdf.header = "Μικρὸς Ἑσπερινός"
+sv.pdf.cover = "Ἀκολουθία τοῦ Μικροῦ Ἑσπερινοῦ"
+
+sv3.html.tab = "ΜΙΚΡΟΣ ΕΣΠΕΡΙΝΟΣ ΚΑΙ ΠΡΟΗΓΙΑΣΜΕΝΗ ΛΕΙΤΡΟΥΓΙΑ"
+sv3.pdf.header = "Μικρὸς Ἑσπερινὸς καὶ Προηγιασμένη Λειτουργία"
+sv3.pdf.cover = "Ἀκολουθία τοῦ Μικροῦ Ἑσπερινοῦ καὶ Προηγιασμένης Λειτουργίας"
+
+ve.html.tab = "ΕΣΠΕΡΙΝΟΣ"
+ve.pdf.header = "Ἑσπερινὸς"
+ve.pdf.cover = "Ἀκολουθία τοῦ Ἑσπερινοῦ"
+
+ve2.html.tab = "ΕΣΠΕΡΙΝΟΣ"
+ve2.pdf.header = "Ἑσπερινὸς"
+ve2.pdf.cover = "Ἀκολουθία τοῦ Ἑσπερινοῦ"
+
+ve3.html.tab = "ΜΕΓΑΣ ΕΣΠΕΡΙΝΟΣ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
+ve3.pdf.header = "Μέγας Ἑσπερινὸς καὶ Χαιρετισμοί"
+ve3.pdf.cover = "Ἀκολουθία τοῦ Μεγάλου Ἑσπερινοῦ, καὶ Οἱ Χαιρετισμοί"
+
+ve4.html.tab = "ΕΣΠΕΡΙΝΟΣ"
+ve4.pdf.header = "Ἑσπερινὸς"
+ve4.pdf.cover = "Ἀκολουθία τοῦ Ἑσπερινοῦ"
+
+ve5.html.tab = "ΕΣΠΕΡΙΝΟΣ"
+ve5.pdf.header = "Ἑσπερινὸς"
+ve5.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ἑσπερινοῦ"
+
+vl.html.tab = "ΕΣΠΕΡΙΝΗ ΛΕΙΤΟΥΡΓΙΑ ΑΓ ΒΑΣΙΛΕΟΥ"
+vl.pdf.header = "Ἑσπερινὴ Λειτουργία Ἁγ. Βασιλείου"
+vl.pdf.cover = "Ἑσπερινὴ Λειτουργία"
+vl.pdf.cover2 = "τοῦ Μεγάλου Βασιλείου"
+
+vl2.html.tab = "ΕΣΠΕΡΙΝΗ ΛΕΙΤΟΥΡΓΙΑ ΑΓ ΧΡΥΣΟΣΤΟΜΟΥ"
+vl2.pdf.header = "Ἑσπερινὴ Λειτουργία Ἁγ. Χρυσοστόμου"
+vl2.pdf.cover = "Ἑσπερινὴ Λειτουργία"
+vl2.pdf.cover2 = "τοῦ Ἁγίου Χρυσοστόμου"
+
+//other
+d = "ΗΜΕΡΑ"
+d.delimiter = " -"
+d.for = " διὰ"
+d.of = ""
+d.on = " -"
+d.ontheeveof = " ἀφʼ ἑσπέρας τῆς"
+d.onSundayMorning = "τῇ Κυριακῇ τὸ Πρωΐ"
+d.onSundayEvening = "τῇ Κυριακῇ τὸ Βράδυ"
+d.onMondayMorning = "τῇ Δευτέρᾳ τὸ Πρωΐ"
+d.onMondayEvening = "τῇ Δευτέρᾳ τὸ Βράδυ"
+d.onTuesdayMorning = "τῇ Τρίτῃ τὸ Πρωΐ"
+d.onTuesdayEvening = "τῇ Τρίτῃ τὸ Βράδυ"
+d.onWednesdayMorning = "τῇ Τετάρτῃ τὸ Πρωΐ"
+d.onWednesdayEvening = "τῇ Τετάρτῃ τὸ Βράδυ"
+d.onThursdayMorning = "τῇ Πέμπτῃ τὸ Πρωΐ"
+d.onThursdayEvening = "τῇ Πέμπτῃ τὸ Βράδυ"
+d.onFridayMorning = "τῇ Παρασκευῇ τὸ Πρωΐ"
+d.onFridayAfternoon = "τῇ Παρασκευῇ τὸ Ἀπόγευμα"
+d.onFridayEvening = "τῇ Παρασκευῇ τὸ Βράδυ"
+d.onSaturdayMorning = "τῷ Σαββάτῳ τὸ Πρωΐ"
+d.onSaturdayEvening = "τῷ Σαββάτῳ τὸ Βράδυ"
+
+me.SundayAfterFeast = "Κυριακὴ μετὰ τὴν Ἑορτήν"
+
+me.m01.d06.onEpiphanyEve = "τῇ Παραμονῇ τῶν Φώτων"
+me.m12.d25.onChristmasEve = "τῇ Παραμονῇ τῶν Χριστουγέννων"
+
+m.month = "ΜΗΝ" // I will programatically determine whether to look up the m.month vs m.mode key
+m.mode = "ΗΧΟΣ"
+
+//Holy Week
+hw.mergedscores.title = ""
+hw.palmsunday = "Κυριακὴ τῶν Βαΐων"
+hw.bridegroomservice = "Ἀκολουθία τοῦ Νυμφίου"
+hw.passion = "Ἀκολουθία τῶν Ἁγίων Παθῶν"
+hw.removal = "Ἡ Ἀποκαθήλωσις"
+hw.lamentation = "Ὁ Ἐπιτάφιος Θρῆνος"
+hw.beforeresurrection = "Ἡ Πανηχὶς πρὸ τῆς Ἀναστάσεως"
+hw.ofholymonday = "τῆς Μεγάλης Δευτέρας"
+hw.ofholytuesday = "τῆς Μεγάλης Τρίτης"
+hw.ofholywednesday = "τῆς Μεγάλης Τετάρτης"
+hw.ofholythursday = "τῆς Μεγάλης Πέμπτης"
+hw.ofholyfriday = "τῆς Μεγάλης Παρασκευῆς"
+hw.ofholysaturday = "τοῦ Μεγάλου Σαββάτου"
+
+pa.pascha = "Τὸ Ἅγιον Πάσχα"
+pa.ofpascha = "τοῦ Πάσχα"
+pa.resurrection = "Ἡ Ἀνάστασις"
+pa.easter = "Κυριακὴ τοῦ Πάσχα"
+pa.agape = "Ὁ Ἑσπερινὸς τῆς Ἀγάηπς"
+pa.brightweek = "Ἡ Διακαινήσιμος Ἑβδομάδα"
+pa.ofbrightweek = "τῆς Διακαινησίμου"
+
+sal.theotokos = "Χαιρετισμοὶ τῆς Θεοτόκου"
+
+clps.stichologia.top = "Δείξε Στιχολογίαν"
+clps.stichologia.bottom = "Κρύψε Στιχολογίαν"
+clps.additionallitanies.top = "Δείξε Λιτανίες"
+clps.additionallitanies.bottom = "Κρύψε Λιτανίες"
+clps.additionalpetitions.top = "Δείξε Αἰτήσεις"
+clps.additionalpetitions.bottom = "Κρύψε Αἰτήσεις"
+clps.alternative.top = "Δείξε ἄλλα."
+clps.alternative.bottom = "Κρύψε ἄλλα."
+clps.matinsordinary.top = "Δείξε Ἀρχὴ τοῦ Ὄρθρου"
+clps.matinsordinary.bottom = "Κρύψε Ἀρχὴ τοῦ Ὄρθρου"
+clps.prayers.top = "Δείξε εὐχάς."
+clps.prayers.bottom = "Κρύψε εὐχάς."
+clps.precommunionprayers.top = "Δείξε εὐχάς."
+clps.precommunionprayers.bottom = "Κρύψε εὐχάς."
+clps.lity.top = "Δείξε Λιτήν."
+clps.lity.bottom = "Κρύψε Λιτήν."
+clps.selectedverses.top = "Δείξε Ἐκλογήν."
+clps.selectedverses.bottom = "Κρύψε Ἐκλογήν."
+clps.typikon.top = "Δείξε Τυπικόν"
+clps.typikon.bottom = "Κρύψε Τυπικόν"

@@ -1,0 +1,91 @@
+A_Resource_Whose_Name = ho.ho07_gr_redirects_goarch
+
+hoTY.title = ""
+
+R01 = ""
+
+hoLI.MM.Psalm102.text = ""
+hoLI.MM.Psalm145.text = ""
+hoLI.OnlyBegotten.title = ""
+hoLI.OnlyBegotten.incipit = ""
+hoLI.OnlyBegotten.text = ""
+
+hoTY.Key0200.text = ""
+hoTY.Key0212.text = ""
+hoTY.Key0213.text = ""
+hoTY.Key0214.text = ""
+hoTY.Key0215.text = ""
+hoTY.Key0216.text = ""
+hoTY.Key0217.text = ""
+
+//0300-0313
+//0400-0408
+
+hoTY.Key0408.mode = ""
+hoTY.Key0408.incipit = ""
+hoTY.Key0408.text = ""
+
+hoTY.Key0501.incipit = ""
+hoTY.Key0501.text = ""
+
+// Liturgy Antiphons
+hoLI.Antiphon1.text = ""
+
+hoLI.Antiphon21.text = ""
+hoLI.Antiphon2s.incipit = ""
+hoLI.Antiphon2s.text = ""
+hoLI.Antiphon2w.incipit = ""
+hoLI.Antiphon2w.text = ""
+hoLI.Antiphon22.text = ""
+
+hoLI.EntranceHymn.incipit = ""
+hoLI.EntranceHymn.text = ""
+hoLI.EntranceHymn2s.incipit = ""
+hoLI.EntranceHymn2s.text = ""
+hoLI.EntranceHymn2w.incipit = ""
+hoLI.EntranceHymn2w.text = ""
+
+hoLI.TrisagiosHymn.title = ""
+hoLI.TrisagiosHymn.incipit = ""
+hoLI.TrisagiosHymn.text = ""
+hoLI.TrisagiosHymn1.text = ""
+hoLI.TrisagiosHymn2.text = ""
+hoLI.TrisagiosHymn34.text = ""
+hoLI.TrisagiosHymn3.text = ""
+hoLI.TrisagiosHymn4.text = ""
+hoLI.TrisagiosHymnJames3.text = ""
+hoLI.TrisagiosHymnJames34.text = ""
+hoLI.MM.TrisagiosHymnBimatos.text = ""
+hoLI.TrisagiosHymnDynamis.text = ""
+
+hoLI.OsoiEisChriston.title = ""
+hoLI.MM.OsoiEisChriston.text = ""
+hoLI.MM.OsoiEisChristonBimatos.text = ""
+
+hoLI.TonStavronSou.title = ""
+hoLI.TonStavronSou.incipit = ""
+hoLI.TonStavronSou.text = ""
+hoLI.TonStavronSou1.text = ""
+hoLI.TonStavronSou2.text = ""
+hoLI.TonStavronSou3.text = ""
+hoLI.TonStavronSou4.text = ""
+hoLI.MM.TonStavronSouBimatos.text = ""
+hoLI.TonStavronSouDynamis.text = ""
+
+hoLI.MM.GospelAlleluia.text = ""
+
+hoLI.MM.GospelAlleluiaMode1.text = ""
+
+hoLI.MM.GospelAlleluiaMode2.text = ""
+
+hoLI.MM.GospelAlleluiaMode3.text = ""
+
+hoLI.MM.GospelAlleluiaMode4.text = ""
+
+hoLI.MM.GospelAlleluiaMode5.text = ""
+
+hoLI.MM.GospelAlleluiaMode6.text = ""
+
+hoLI.MM.GospelAlleluiaMode7.text = ""
+
+hoLI.MM.GospelAlleluiaMode8.text = ""

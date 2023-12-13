@@ -1,0 +1,10 @@
+A_Resource_Whose_Name = le.ep.ge.monastic_gr_redirects_goarch 
+
+legeLI.Epistle.title = "Εἰς Ὅσιον"
+legeLI.Epistle.title_abbr = "Εἰς Ὅσιον"
+legeLI.Epistle.version = properties_gr_redirects_goarch.version.designation
+legeLI.Epistle.book_string = bible_gr_redirects_goarch.Galatians.text
+legeLI.Epistle.book_abbr = bible_gr_redirects_goarch.Galatians.abbr
+legeLI.Epistle.chapverse = "5:22-26; 6:1-2"
+legeLI.Epistle.incipit = le.ep.mc.d308_gr_redirects_goarch.lemcLI.Epistle.incipit
+legeLI.Epistle.text = le.ep.mc.d308_gr_redirects_goarch.lemcLI.Epistle.text

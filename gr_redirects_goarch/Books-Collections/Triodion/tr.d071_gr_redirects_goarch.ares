@@ -1,0 +1,85 @@
+A_Resource_Whose_Name = tr.d071_gr_redirects_goarch
+
+trDA.commemoration.full = ""
+trDA.commemoration.short = ""
+trDA.title = ""
+trDA.insert1 = ""
+trDA.insert2 = ""
+trDA.note = ""
+trHO.daytitle = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trCO.header = ""
+trVL.header = ""
+
+trVE.Stichera01.mode = ""
+trVE.Stichera01.melody = ""
+trVE.Stichera01.incipit = ""
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = ""
+trVE.Stichera02.melody = ""
+trVE.Stichera02.incipit = ""
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = ""
+trVE.Stichera03.melody = ""
+trVE.Stichera03.incipit = ""
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = ""
+trVE.Stichera04.melody = ""
+trVE.Stichera04.incipit = ""
+trVE.Stichera04.text = ""
+
+trVE.Stichera05.mode = ""
+trVE.Stichera05.melody = ""
+trVE.Stichera05.incipit = ""
+trVE.Stichera05.text = ""
+
+trVE.Stichera06.mode = ""
+trVE.Stichera06.melody = ""
+trVE.Stichera06.incipit = ""
+trVE.Stichera06.text = ""
+
+trVE.Stichera07.mode = ""
+trVE.Stichera07.melody = ""
+trVE.Stichera07.incipit = ""
+trVE.Stichera07.text = ""
+
+trVE.SticGlory.mode = ""
+trVE.SticGlory.melody = ""
+trVE.SticGlory.incipit = ""
+trVE.SticGlory.text = ""
+
+trVE.SticTheotokion.mode = ""
+trVE.SticTheotokion.melody = ""
+trVE.SticTheotokion.incipit = ""
+trVE.SticTheotokion.text = ""
+
+trLI.SaturdayHymn.title = ""
+trLI.SaturdayHymn.mode = ""
+trLI.SaturdayHymn.text = ""
+
+trLI.SaturdayArise.text = ""
+
+trLI.CherubicHymn.title = ""
+trLI.CherubicHymn.mode = ""
+trLI.CherubicHymnPart1.incipit = ""
+trLI.CherubicHymnPart1.text = ""
+trLI.CherubicHymnPart2.incipit = ""
+trLI.CherubicHymnPart2.text = ""
+
+trLI.TheotokosHymn.mode = ""
+trLI.TheotokosHymn.incipit = ""
+trLI.TheotokosHymn.text = ""
+
+trLI.CommunionHymn.text = ""
+
+trLI.AfterCommunion.mode = ""
+trLI.AfterCommunion.incipit = ""
+trLI.AfterCommunion.text = ""
+

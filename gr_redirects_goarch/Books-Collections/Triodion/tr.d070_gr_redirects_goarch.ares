@@ -1,0 +1,850 @@
+A_Resource_Whose_Name = tr.d070_gr_redirects_goarch
+
+trDA.commemoration.full = ""
+trDA.commemoration.short = ""
+trDA.title = ""
+trDA.insert1 = ""
+trDA.insert2 = ""
+trDA.note = ""
+trHO.daytitle = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trCO.header = ""
+trVE.header = ""
+trEM.header = ""
+trDA.dismissal = ""
+
+
+trVE.Stichera01.mode = ""
+trVE.Stichera01.melody = ""
+trVE.Stichera01.incipit = ""
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = ""
+trVE.Stichera02.melody = ""
+trVE.Stichera02.incipit = ""
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = ""
+trVE.Stichera03.melody = ""
+trVE.Stichera03.incipit = ""
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = ""
+trVE.Stichera04.melody = ""
+trVE.Stichera04.incipit = ""
+trVE.Stichera04.text = ""
+
+trVE.Stichera05.mode = ""
+trVE.Stichera05.melody = ""
+trVE.Stichera05.incipit = ""
+trVE.Stichera05.text = ""
+
+trVE.SticGlory.mode = ""
+trVE.SticGlory.melody = ""
+trVE.SticGlory.incipit = ""
+trVE.SticGlory.text = ""
+
+trVE.SticBoth.mode = ""
+trVE.SticBoth.melody = ""
+trVE.SticBoth.incipit = ""
+trVE.SticBoth.text = ""
+
+trVE.Aposticha1.mode = ""
+trVE.Aposticha1.greekmelody = ""
+trVE.Aposticha1.melody = ""
+trVE.Aposticha1.incipit = ""
+trVE.Aposticha1.text = ""
+
+trVE.Aposticha2.mode = ""
+trVE.Aposticha2.melody = ""
+trVE.Aposticha2.incipit = ""
+trVE.Aposticha2.text = ""
+
+trVE.Aposticha3.mode = ""
+trVE.Aposticha3.melody = ""
+trVE.Aposticha3.incipit = ""
+trVE.Aposticha3.text = ""
+
+trVE.Aposticha4.mode = ""
+trVE.Aposticha4.melody = ""
+trVE.Aposticha4.incipit = ""
+trVE.Aposticha4.text = ""
+
+trVE.AposGlory.mode = ""
+trVE.AposGlory.melody = ""
+trVE.AposGlory.incipit = ""
+trVE.AposGlory.text = ""
+
+trVE.Apolytikion1.mode = ""
+trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.incipit = ""
+trVE.Apolytikion1.text = ""
+
+trVE.Apolytikion2.mode = ""
+trVE.Apolytikion2.melody = ""
+trVE.Apolytikion2.incipit = ""
+trVE.Apolytikion2.text = ""
+
+trVE.Apolytikion3.mode = ""
+trVE.Apolytikion3.melody = ""
+trVE.Apolytikion3.incipit = ""
+trVE.Apolytikion3.text = ""
+
+
+// First Stanza
+trMA.Encomia.title = ""
+
+trMA.Encomia100.title = ""
+trMA.Encomia100.mode = ""
+
+trMA.Encomia101.text = ""
+
+trMA.Encomia102.text = ""
+
+trMA.Encomia103.text = ""
+
+trMA.Encomia104.text = ""
+
+trMA.Encomia105.text = ""
+
+trMA.Encomia106.text = ""
+
+trMA.Encomia107.text = ""
+
+trMA.Encomia108.text = ""
+
+trMA.Encomia109.text = ""
+
+trMA.Encomia110.text = ""
+
+trMA.Encomia111.text = ""
+
+trMA.Encomia112.text = ""
+
+trMA.Encomia113.text = ""
+
+trMA.Encomia114.text = ""
+
+trMA.Encomia115.text = ""
+
+trMA.Encomia116.text = ""
+
+trMA.Encomia117.text = ""
+
+trMA.Encomia118.text = ""
+
+trMA.Encomia119.text = ""
+
+trMA.Encomia120.text = ""
+
+trMA.Encomia121.text = ""
+
+trMA.Encomia122.text = ""
+
+trMA.Encomia123.text = ""
+
+trMA.Encomia124.text = ""
+
+trMA.Encomia125.text = ""
+
+trMA.Encomia126.text = ""
+
+trMA.Encomia127.text = ""
+
+trMA.Encomia128.text = ""
+
+trMA.Encomia129.text = ""
+
+trMA.Encomia130.text = ""
+
+trMA.Encomia131.text = ""
+
+trMA.Encomia132.text = ""
+
+trMA.Encomia133.text = ""
+
+trMA.Encomia134.text = ""
+
+trMA.Encomia135.text = ""
+
+trMA.Encomia136.text = ""
+
+trMA.Encomia137.text = ""
+
+trMA.Encomia138.text = ""
+
+trMA.Encomia139.text = ""
+
+trMA.Encomia140.text = ""
+
+trMA.Encomia141.text = ""
+
+trMA.Encomia142.text = ""
+
+trMA.Encomia143.text = ""
+
+trMA.Encomia144.text = ""
+
+trMA.Encomia145.text = ""
+
+trMA.Encomia146.text = ""
+
+trMA.Encomia147.text = ""
+
+trMA.Encomia148.text = ""
+
+trMA.Encomia149.text = ""
+
+trMA.Encomia150.text = ""
+
+trMA.Encomia151.text = ""
+
+trMA.Encomia152.text = ""
+
+trMA.Encomia153.text = ""
+
+trMA.Encomia154.text = ""
+
+trMA.Encomia155.text = ""
+
+trMA.Encomia156.text = ""
+
+trMA.Encomia157.text = ""
+
+trMA.Encomia158.text = ""
+
+trMA.Encomia159.text = ""
+
+trMA.Encomia160.text = ""
+
+trMA.Encomia161.text = ""
+
+trMA.Encomia162.text = ""
+
+trMA.Encomia163.text = ""
+
+trMA.Encomia164.text = ""
+
+trMA.Encomia165.text = ""
+
+trMA.Encomia166.text = ""
+
+trMA.Encomia167.text = ""
+
+trMA.Encomia168.text = ""
+
+trMA.Encomia169.text = ""
+
+trMA.Encomia170.text = ""
+
+trMA.Encomia171.text = ""
+
+trMA.Encomia172.text = ""
+
+trMA.Encomia1Tr.text = ""
+
+trMA.Encomia1T.text = ""
+
+trMA.Encomia1F.text = ""
+
+// Second Stanza
+trMA.Encomia200.title = ""
+trMA.Encomia200.mode = ""
+
+trMA.Encomia201.text = ""
+
+trMA.Encomia202.text = ""
+
+trMA.Encomia203.text = ""
+
+trMA.Encomia204.text = ""
+
+trMA.Encomia205.text = ""
+
+trMA.Encomia206.text = ""
+
+trMA.Encomia207.text = ""
+
+trMA.Encomia208.text = ""
+
+trMA.Encomia209.text = ""
+
+trMA.Encomia210.text = ""
+
+trMA.Encomia211.text = ""
+
+trMA.Encomia212.text = ""
+
+trMA.Encomia213.text = ""
+
+trMA.Encomia214.text = ""
+
+trMA.Encomia215.text = ""
+
+trMA.Encomia216.text = ""
+
+trMA.Encomia217.text = ""
+
+trMA.Encomia218.text = ""
+
+trMA.Encomia219.text = ""
+
+trMA.Encomia220.text = ""
+
+trMA.Encomia221.text = ""
+
+trMA.Encomia222.text = ""
+
+trMA.Encomia223.text = ""
+
+trMA.Encomia224.text = ""
+
+trMA.Encomia225.text = ""
+
+trMA.Encomia226.text = ""
+
+trMA.Encomia227.text = ""
+
+trMA.Encomia228.text = ""
+
+trMA.Encomia229.text = ""
+
+trMA.Encomia230.text = ""
+
+trMA.Encomia231.text = ""
+
+trMA.Encomia232.text = ""
+
+trMA.Encomia233.text = ""
+
+trMA.Encomia234.text = ""
+
+trMA.Encomia235.text = ""
+
+trMA.Encomia236.text = ""
+
+trMA.Encomia237.text = ""
+
+trMA.Encomia238.text = ""
+
+trMA.Encomia239.text = ""
+
+trMA.Encomia240.text = ""
+
+trMA.Encomia241.text = ""
+
+trMA.Encomia242.text = ""
+
+trMA.Encomia243.text = ""
+
+trMA.Encomia244.text = ""
+
+trMA.Encomia245.text = ""
+
+trMA.Encomia246.text = ""
+
+trMA.Encomia247.text = ""
+
+trMA.Encomia248.text = ""
+
+trMA.Encomia249.text = ""
+
+trMA.Encomia250.text = ""
+
+trMA.Encomia251.text = ""
+
+trMA.Encomia252.text = ""
+
+trMA.Encomia253.text = ""
+
+trMA.Encomia254.text = ""
+
+trMA.Encomia255.text = ""
+
+trMA.Encomia256.text = ""
+
+trMA.Encomia257.text = ""
+
+trMA.Encomia258.text = ""
+
+trMA.Encomia259.text = ""
+
+trMA.Encomia260.text = ""
+
+trMA.Encomia2Tr.text = ""
+
+trMA.Encomia2T.text = ""
+
+trMA.Encomia2F.text = ""
+
+// Stanza Three
+trMA.Encomia300.title = ""
+trMA.Encomia300.mode = ""
+
+trMA.Encomia301.text = ""
+
+trMA.Encomia302.text = ""
+
+trMA.Encomia303.text = ""
+
+trMA.Encomia304.text = ""
+
+trMA.Encomia305.text = ""
+
+trMA.Encomia306.text = ""
+
+trMA.Encomia307.text = ""
+
+trMA.Encomia308.text = ""
+
+trMA.Encomia309.text = ""
+
+trMA.Encomia310.text = ""
+
+trMA.Encomia311.text = ""
+
+trMA.Encomia312.text = ""
+
+trMA.Encomia313.text = ""
+
+trMA.Encomia314.text = ""
+
+trMA.Encomia315.text = ""
+
+trMA.Encomia316.text = ""
+
+trMA.Encomia317.text = ""
+
+trMA.Encomia318.text = ""
+
+trMA.Encomia319.text = ""
+
+trMA.Encomia320.text = ""
+
+trMA.Encomia321.text = ""
+
+trMA.Encomia322.text = ""
+
+trMA.Encomia323.text = ""
+
+trMA.Encomia324.text = ""
+
+trMA.Encomia325.text = ""
+
+trMA.Encomia326.text = ""
+
+trMA.Encomia327.text = ""
+
+trMA.Encomia328.text = ""
+
+trMA.Encomia329.text = ""
+
+trMA.Encomia330.text = ""
+
+trMA.Encomia331.text = ""
+
+trMA.Encomia332.text = ""
+
+trMA.Encomia333.text = ""
+
+trMA.Encomia334.text = ""
+
+trMA.Encomia335.text = ""
+
+trMA.Encomia336.text = ""
+
+trMA.Encomia337.text = ""
+
+trMA.Encomia338.text = ""
+
+trMA.Encomia339.text = ""
+
+trMA.Encomia340.text = ""
+
+trMA.Encomia341.text = ""
+
+trMA.Encomia342.text = ""
+
+trMA.Encomia343.text = ""
+
+trMA.Encomia344.text = ""
+
+trMA.Encomia345.text = ""
+
+trMA.Encomia346.text = ""
+
+trMA.Encomia3Tr.text = ""
+
+trMA.Encomia3T.text = ""
+
+// Not in Triodion, but common
+trMA.Encomia3F.text = ""
+
+// Resurrectional Evlogetaria keys for media
+trMA.MM.Evlogetaria1.text = ""
+trMA.MM.Evlogetaria2.text = ""
+trMA.MM.Evlogetaria3.text = ""
+trMA.MM.Evlogetaria4.text = ""
+trMA.MM.Evlogetaria5.text = ""
+trMA.MM.Evlogetaria6.text = ""
+trMA.MM.Evlogetaria7.text = ""
+
+trMA.Kathisma11.mode = ""
+trMA.Kathisma11.greekmelody = ""
+trMA.Kathisma11.melody = ""
+trMA.Kathisma11.incipit = ""
+trMA.Kathisma11.text = ""
+
+trMA.Kathisma12.mode = ""
+trMA.Kathisma12.greekmelody = ""
+trMA.Kathisma12.melody = ""
+trMA.Kathisma12.incipit = ""
+trMA.Kathisma12.text = ""
+
+trMA.Kathisma13.mode = ""
+trMA.Kathisma13.greekmelody = ""
+trMA.Kathisma13.melody = ""
+trMA.Kathisma13.incipit = ""
+trMA.Kathisma13.text = ""
+
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+trMA.C1.poet = ""
+trMA.C1.verse = ""
+
+trMA.Ode1C1H.ode = ""
+trMA.Ode1C1H.mode = ""
+trMA.Ode1C1H.greekmelody = ""
+trMA.Ode1C1H.melody = ""
+trMA.Ode1C1H.incipit = ""
+trMA.Ode1C1H.text = ""
+
+trMA.Ode1C11.ode = ""
+trMA.Ode1C11.mode = ""
+trMA.Ode1C11.greekmelody = ""
+trMA.Ode1C11.melody = ""
+trMA.Ode1C11.incipit = ""
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = ""
+trMA.Ode1C12.mode = ""
+trMA.Ode1C12.melody = ""
+trMA.Ode1C12.incipit = ""
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = ""
+trMA.Ode1C13.mode = ""
+trMA.Ode1C13.melody = ""
+trMA.Ode1C13.incipit = ""
+trMA.Ode1C13.text = ""
+
+trMA.Ode1K.ode = ""
+trMA.Ode1K.mode = ""
+trMA.Ode1K.melody = ""
+trMA.Ode1K.incipit = ""
+trMA.Ode1K.text = ""
+
+trMA.Ode3C1H.ode = ""
+trMA.Ode3C1H.mode = ""
+trMA.Ode3C1H.greekmelody = ""
+trMA.Ode3C1H.melody = ""
+trMA.Ode3C1H.incipit = ""
+trMA.Ode3C1H.text = ""
+
+trMA.Ode3C11.ode = ""
+trMA.Ode3C11.mode = ""
+trMA.Ode3C11.greekmelody = ""
+trMA.Ode3C11.melody = ""
+trMA.Ode3C11.incipit = ""
+trMA.Ode3C11.text = ""
+
+trMA.Ode3C12.ode = ""
+trMA.Ode3C12.mode = ""
+trMA.Ode3C12.melody = ""
+trMA.Ode3C12.incipit = ""
+trMA.Ode3C12.text = ""
+
+trMA.Ode3C13.ode = ""
+trMA.Ode3C13.mode = ""
+trMA.Ode3C13.melody = ""
+trMA.Ode3C13.incipit = ""
+trMA.Ode3C13.text = ""
+
+trMA.Ode3K.ode = ""
+trMA.Ode3K.mode = ""
+trMA.Ode3K.melody = ""
+trMA.Ode3K.incipit = ""
+trMA.Ode3K.text = ""
+
+trMA.Ode3Kathisma1.mode = ""
+trMA.Ode3Kathisma1.greekmelody = ""
+trMA.Ode3Kathisma1.melody = ""
+trMA.Ode3Kathisma1.incipit = ""
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode4C1H.ode = ""
+trMA.Ode4C1H.mode = ""
+trMA.Ode4C1H.greekmelody = ""
+trMA.Ode4C1H.melody = ""
+trMA.Ode4C1H.incipit = ""
+trMA.Ode4C1H.text = ""
+
+trMA.Ode4C11.ode = ""
+trMA.Ode4C11.mode = ""
+trMA.Ode4C11.greekmelody = ""
+trMA.Ode4C11.melody = ""
+trMA.Ode4C11.incipit = ""
+trMA.Ode4C11.text = ""
+
+trMA.Ode4C12.ode = ""
+trMA.Ode4C12.mode = ""
+trMA.Ode4C12.melody = ""
+trMA.Ode4C12.incipit = ""
+trMA.Ode4C12.text = ""
+
+trMA.Ode4C13.ode = ""
+trMA.Ode4C13.mode = ""
+trMA.Ode4C13.melody = ""
+trMA.Ode4C13.incipit = ""
+trMA.Ode4C13.text = ""
+
+trMA.Ode4K.ode = ""
+trMA.Ode4K.mode = ""
+trMA.Ode4K.melody = ""
+trMA.Ode4K.incipit = ""
+trMA.Ode4K.text = ""
+
+trMA.Ode5C1H.ode = ""
+trMA.Ode5C1H.mode = ""
+trMA.Ode5C1H.greekmelody = ""
+trMA.Ode5C1H.melody = ""
+trMA.Ode5C1H.incipit = ""
+trMA.Ode5C1H.text = ""
+
+trMA.Ode5C11.ode = ""
+trMA.Ode5C11.mode = ""
+trMA.Ode5C11.greekmelody = ""
+trMA.Ode5C11.melody = ""
+trMA.Ode5C11.incipit = ""
+trMA.Ode5C11.text = ""
+
+trMA.Ode5C12.ode = ""
+trMA.Ode5C12.mode = ""
+trMA.Ode5C12.melody = ""
+trMA.Ode5C12.incipit = ""
+trMA.Ode5C12.text = ""
+
+trMA.Ode5C13.ode = ""
+trMA.Ode5C13.mode = ""
+trMA.Ode5C13.melody = ""
+trMA.Ode5C13.incipit = ""
+trMA.Ode5C13.text = ""
+
+trMA.Ode5K.ode = ""
+trMA.Ode5K.mode = ""
+trMA.Ode5K.melody = ""
+trMA.Ode5K.incipit = ""
+trMA.Ode5K.text = ""
+
+trMA.Ode6C1H.ode = ""
+trMA.Ode6C1H.mode = ""
+trMA.Ode6C1H.greekmelody = ""
+trMA.Ode6C1H.melody = ""
+trMA.Ode6C1H.incipit = ""
+trMA.Ode6C1H.text = ""
+
+trMA.Ode6C11.ode = ""
+trMA.Ode6C11.mode = ""
+trMA.Ode6C11.greekmelody = ""
+trMA.Ode6C11.melody = ""
+trMA.Ode6C11.incipit = ""
+trMA.Ode6C11.text = ""
+
+trMA.Ode6C12.ode = ""
+trMA.Ode6C12.mode = ""
+trMA.Ode6C12.melody = ""
+trMA.Ode6C12.incipit = ""
+trMA.Ode6C12.text = ""
+
+trMA.Ode6C13.ode = ""
+trMA.Ode6C13.mode = ""
+trMA.Ode6C13.melody = ""
+trMA.Ode6C13.incipit = ""
+trMA.Ode6C13.text = ""
+
+trMA.Ode6K.ode = ""
+trMA.Ode6K.mode = ""
+trMA.Ode6K.melody = ""
+trMA.Ode6K.incipit = ""
+trMA.Ode6K.text = ""
+
+trMA.Kontakion1.mode = ""
+trMA.Kontakion1.melody = ""
+trMA.Kontakion1.incipit = ""
+trMA.Kontakion1.text = ""
+
+trMA.Oikos1.text = ""
+
+trSY.commemoration.text = ""
+trSY.commemoration.couplet1.title = ""
+trSY.commemoration.couplet1.verse1 = ""
+trSY.commemoration.couplet1.verse2 = ""
+trSY.commemoration.narration.p01 = ""
+trSY.commemoration.narration.p02 = ""
+trSY.commemoration.narration.p03 = ""
+trSY.commemoration.narration.p04 = ""
+trSY.commemoration.narration.p05 = ""
+trSY.commemoration.narration.p06 = ""
+trSY.commemoration.narration.p07 = ""
+trSY.lastline = ""
+
+trMA.Ode7C1H.ode = ""
+trMA.Ode7C1H.mode = ""
+trMA.Ode7C1H.greekmelody = ""
+trMA.Ode7C1H.melody = ""
+trMA.Ode7C1H.incipit = ""
+trMA.Ode7C1H.text = ""
+
+trMA.Ode7C11.ode = ""
+trMA.Ode7C11.mode = ""
+trMA.Ode7C11.greekmelody = ""
+trMA.Ode7C11.melody = ""
+trMA.Ode7C11.incipit = ""
+trMA.Ode7C11.text = ""
+
+trMA.Ode7C12.ode = ""
+trMA.Ode7C12.mode = ""
+trMA.Ode7C12.melody = ""
+trMA.Ode7C12.incipit = ""
+trMA.Ode7C12.text = ""
+
+trMA.Ode7C13.ode = ""
+trMA.Ode7C13.mode = ""
+trMA.Ode7C13.melody = ""
+trMA.Ode7C13.incipit = ""
+trMA.Ode7C13.text = ""
+
+trMA.Ode7C14.ode = ""
+trMA.Ode7C14.mode = ""
+trMA.Ode7C14.melody = ""
+trMA.Ode7C14.incipit = ""
+trMA.Ode7C14.text = ""
+
+trMA.Ode7K.ode = ""
+trMA.Ode7K.mode = ""
+trMA.Ode7K.melody = ""
+trMA.Ode7K.incipit = ""
+trMA.Ode7K.text = ""
+
+trMA.Ode8C1H.ode = ""
+trMA.Ode8C1H.mode = ""
+trMA.Ode8C1H.greekmelody = ""
+trMA.Ode8C1H.melody = ""
+trMA.Ode8C1H.incipit = ""
+trMA.Ode8C1H.text = ""
+
+trMA.Ode8C11.ode = ""
+trMA.Ode8C11.mode = ""
+trMA.Ode8C11.greekmelody = ""
+trMA.Ode8C11.melody = ""
+trMA.Ode8C11.incipit = ""
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = ""
+trMA.Ode8C12.mode = ""
+trMA.Ode8C12.melody = ""
+trMA.Ode8C12.incipit = ""
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C13.ode = ""
+trMA.Ode8C13.mode = ""
+trMA.Ode8C13.melody = ""
+trMA.Ode8C13.incipit = ""
+trMA.Ode8C13.text = ""
+
+trMA.Ode8K.ode = ""
+trMA.Ode8K.mode = ""
+trMA.Ode8K.melody = ""
+trMA.Ode8K.incipit = ""
+trMA.Ode8K.text = ""
+
+trMA.Ode9C1H.ode = ""
+trMA.Ode9C1H.mode = ""
+trMA.Ode9C1H.greekmelody = ""
+trMA.Ode9C1H.melody = ""
+trMA.Ode9C1H.incipit = ""
+trMA.Ode9C1H.text = ""
+
+trMA.Ode9C11.ode = ""
+trMA.Ode9C11.mode = ""
+trMA.Ode9C11.greekmelody = ""
+trMA.Ode9C11.melody = ""
+trMA.Ode9C11.incipit = ""
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = ""
+trMA.Ode9C12.mode = ""
+trMA.Ode9C12.melody = ""
+trMA.Ode9C12.incipit = ""
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C13.ode = ""
+trMA.Ode9C13.mode = ""
+trMA.Ode9C13.melody = ""
+trMA.Ode9C13.incipit = ""
+trMA.Ode9C13.text = ""
+
+trMA.Ode9K.ode = ""
+trMA.Ode9K.mode = ""
+trMA.Ode9K.melody = ""
+trMA.Ode9K.incipit = ""
+trMA.Ode9K.text = ""
+
+trMA.Exaposteilarion1.mode = ""
+trMA.Exaposteilarion1.melody = ""
+trMA.Exaposteilarion1.text = ""
+
+
+trMA.Lauds1.mode = ""
+trMA.Lauds1.melody = ""
+trMA.Lauds1.incipit = ""
+trMA.Lauds1.text = ""
+
+trMA.Lauds2.mode = ""
+trMA.Lauds2.melody = ""
+trMA.Lauds2.incipit = ""
+trMA.Lauds2.text = ""
+
+trMA.Lauds3.mode = ""
+trMA.Lauds3.melody = ""
+trMA.Lauds3.incipit = ""
+trMA.Lauds3.text = ""
+
+trMA.Lauds4.mode = ""
+trMA.Lauds4.melody = ""
+trMA.Lauds4.incipit = ""
+trMA.Lauds4.text = ""
+
+trMA.LaudsGlory.mode = ""
+trMA.LaudsGlory.melody = ""
+trMA.LaudsGlory.incipit = ""
+trMA.LaudsGlory.text = ""
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.incipit = ""
+trMA.LaudsTheotokion.text = ""
+
+// Final Troparia from beginning of Matins
+
+trTE.Troparion.mode = ""
+trTE.Troparion.melody = ""
+trTE.Troparion.incipit = ""
+trTE.Troparion.text = ""
+trTE.Troparion2.incipit = ""
+trTE.Troparion2.text = ""

@@ -1,0 +1,10 @@
+A_Resource_Whose_Name = le.ep.va.museum_gr_redirects_goarch 
+
+levaMU.Epistle1.title = "Εἰς Μουσεῖον"
+levaMU.Epistle1.title_abbr = "Εἰς Μουσεῖον"
+levaMU.Epistle1.version = properties_gr_redirects_goarch.version.designation
+levaMU.Epistle1.book_string = bible_gr_redirects_goarch.Acts.text
+levaMU.Epistle1.book_abbr = bible_gr_redirects_goarch.Acts.abbr
+levaMU.Epistle1.chapverse = le.ep.mc.d071_gr_redirects_goarch.lemcLI.Epistle.chapverse
+levaMU.Epistle1.incipit = le.ep.mc.d071_gr_redirects_goarch.lemcLI.Epistle.incipit
+levaMU.Epistle1.text = le.ep.mc.d071_gr_redirects_goarch.lemcLI.Epistle.text

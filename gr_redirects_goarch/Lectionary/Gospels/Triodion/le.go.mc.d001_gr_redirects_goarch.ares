@@ -1,0 +1,10 @@
+A_Resource_Whose_Name = le.go.mc.d001_gr_redirects_goarch 
+
+lemcLI.Gospel.title = "Κυριακὴ ΙϚʹ Τελώνου καὶ Φαρισαίου"
+lemcLI.Gospel.title_abbr = "Κυρ. ΙϚʹ Τελώνου καὶ Φαρισαίου"
+lemcLI.Gospel.version = properties_gr_redirects_goarch.version.designation
+lemcLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
+lemcLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
+lemcLI.Gospel.chapverse = "ιηʹ 9-14"
+lemcLI.Gospel.incipit = le.go.lu.d112_gr_redirects_goarch.leluLI.Gospel.incipit
+lemcLI.Gospel.text = le.go.lu.d112_gr_redirects_goarch.leluLI.Gospel.text

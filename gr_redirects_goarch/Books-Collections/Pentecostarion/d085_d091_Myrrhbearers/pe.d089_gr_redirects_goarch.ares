@@ -1,0 +1,122 @@
+A_Resource_Whose_Name = pe.d089_gr_redirects_goarch
+
+peDA.commemoration.full = ""
+peDA.commemoration.short = ""
+peDA.insert1 = ""
+peDA.insert2 = ""
+peDA.note = ""
+peHO.daytitle = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDA.dismissal = ""
+
+peVE.Stichera01.mode = ""
+peVE.Stichera01.greekmelody = ""
+peVE.Stichera01.melody = ""
+peVE.Stichera01.incipit = ""
+peVE.Stichera01.text = ""
+
+peVE.Stichera02.mode = ""
+peVE.Stichera02.melody = ""
+peVE.Stichera02.incipit = ""
+peVE.Stichera02.text = ""
+
+peVE.Stichera03.mode = ""
+peVE.Stichera03.melody = ""
+peVE.Stichera03.incipit = ""
+peVE.Stichera03.text = ""
+
+peVE.SticGlory.mode = ""
+peVE.SticGlory.melody = ""
+peVE.SticGlory.incipit = ""
+peVE.SticGlory.text = ""
+
+peVE.Aposticha1.mode = ""
+peVE.Aposticha1.melody = ""
+peVE.Aposticha1.incipit = ""
+peVE.Aposticha1.text = ""
+
+peVE.Aposticha2.mode = ""
+peVE.Aposticha2.melody = ""
+peVE.Aposticha2.incipit = ""
+peVE.Aposticha2.text = ""
+
+peVE.Aposticha3.mode = ""
+peVE.Aposticha3.melody = ""
+peVE.Aposticha3.incipit = ""
+peVE.Aposticha3.text = ""
+
+peVE.AposGlory.mode = ""
+peVE.AposGlory.melody = ""
+peVE.AposGlory.incipit = ""
+peVE.AposGlory.text = ""
+
+peMA.Kathisma11.mode = ""
+peMA.Kathisma11.melody = ""
+peMA.Kathisma11.incipit = ""
+peMA.Kathisma11.text = ""
+
+peMA.Kathisma12.mode = ""
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.incipit = ""
+peMA.Kathisma12.text = ""
+
+peMA.Kathisma13.mode = ""
+peMA.Kathisma13.melody = ""
+peMA.Kathisma13.incipit = ""
+peMA.Kathisma13.text = ""
+
+peMA.Kathisma1T.mode = ""
+peMA.Kathisma1T.melody = ""
+peMA.Kathisma1T.incipit = ""
+peMA.Kathisma1T.text = ""
+
+peMA.Kathisma21.mode = ""
+peMA.Kathisma21.greekmelody = ""
+peMA.Kathisma21.melody = ""
+peMA.Kathisma21.incipit = ""
+peMA.Kathisma21.text = ""
+
+peMA.Lauds1.mode = ""
+peMA.Lauds1.melody = ""
+peMA.Lauds1.incipit = ""
+peMA.Lauds1.text = ""
+
+peMA.Lauds2.mode = ""
+peMA.Lauds2.melody = ""
+peMA.Lauds2.incipit = ""
+peMA.Lauds2.text = ""
+
+peMA.Lauds3.mode = ""
+peMA.Lauds3.melody = ""
+peMA.Lauds3.incipit = ""
+peMA.Lauds3.text = ""
+
+peMA.LaudsGlory.mode = ""
+peMA.LaudsGlory.melody = ""
+peMA.LaudsGlory.incipit = ""
+peMA.LaudsGlory.text = ""
+
+peMA.Aposticha1.mode = ""
+peMA.Aposticha1.greekmelody = ""
+peMA.Aposticha1.melody = ""
+peMA.Aposticha1.incipit = ""
+peMA.Aposticha1.text = ""
+
+peMA.Aposticha2.mode = ""
+peMA.Aposticha2.melody = ""
+peMA.Aposticha2.incipit = ""
+peMA.Aposticha2.text = ""
+
+peMA.Aposticha3.mode = ""
+peMA.Aposticha3.melody = ""
+peMA.Aposticha3.incipit = ""
+peMA.Aposticha3.text = ""
+
+peMA.AposGlory.mode = ""
+peMA.AposGlory.melody = ""
+peMA.AposGlory.incipit = ""
+peMA.AposGlory.text = ""

@@ -1,0 +1,48 @@
+A_Resource_Whose_Name = ho.ho02_gr_redirects_goarch
+
+hoMO.AfterCreedTheotokion.text = ""
+
+hoMO.StEphraimPrayerRubrics1.text = ""
+hoMO.StEphraimPrayerRubrics2.text = ""
+
+hoMO.StEphraimPrayerLentenRubrics1.text = ""
+hoMO.StEphraimPrayerLentenRubrics2.text = ""
+
+hoMO.StMardariosPrayer.title = ""
+hoMO.StMardariosPrayer.text = ""
+hoMO.StMardariosPrayer.rubric = ""
+
+hoMO.StBasilPrayer1.rubric = ""
+hoMO.StBasilPrayer1.title = ""
+hoMO.StBasilPrayer1.text = ""
+
+hoMO.StBasilPrayer2.rubric = ""
+hoMO.StBasilPrayer2.title = ""
+hoMO.StBasilPrayer2.text = ""
+
+hoMO.PrayerForDeceased.rubric = ""
+hoMO.PrayerForDeceased.title = ""
+hoMO.PrayerForDeceased.text = ""
+
+hoMO.TriadicMegalynaria.title = ""
+hoMO.TriadicMegalynaria.mode = ""
+hoMO.TriadicMegalynaria01.incipit = ""
+hoMO.TriadicMegalynaria01.text = ""
+hoMO.TriadicMegalynaria02.incipit = ""
+hoMO.TriadicMegalynaria02.text = ""
+hoMO.TriadicMegalynaria03.incipit = ""
+hoMO.TriadicMegalynaria03.text = ""
+hoMO.TriadicMegalynaria04.incipit = ""
+hoMO.TriadicMegalynaria04.text = ""
+
+hoMO.SaturdayTroparion1.mode = ""
+hoMO.SaturdayTroparion1.incipit = ""
+hoMO.SaturdayTroparion1.text = ""
+hoMO.SaturdayTroparion2.incipit = ""
+hoMO.SaturdayTroparion2.text = ""
+hoMO.SaturdayTroparion3.incipit = ""
+hoMO.SaturdayTroparion3.text = ""
+
+hoMO.StEfstratiosPrayer.rubric = ""
+hoMO.StEfstratiosPrayer.title = ""
+hoMO.StEfstratiosPrayer.text = ""

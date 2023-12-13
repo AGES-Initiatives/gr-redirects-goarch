@@ -1,0 +1,109 @@
+A_Resource_Whose_Name = ho.ho10_gr_redirects_goarch
+
+hoVE.title = ""
+
+hoVE.MM.entry.text = ""
+R01 = ""
+R02 = ""
+hoVE.Ps103.text = ""
+hoVE.MM.Anoixantaria.text = ""
+hoVE.MM.Kathisma11.text = ""
+hoVE.MM.Kathisma11.selection01.text = ""
+R03 = ""
+R04 = ""
+R05 = ""
+R06 = ""
+R07 = ""
+R08 = ""
+R09 = ""
+hoVE.FosIlaron.title = ""
+R10 = ""
+hoVE.FosIlaron.incipit = ""
+hoVE.FosIlaron.text = ""
+R11 = ""
+
+hoVE.SundayEvening.title = ""
+hoVE.MM.SundayProkeimenon.text = ""
+
+hoVE.MondayEvening.title = ""
+hoVE.MM.MondayProkeimenon.text = ""
+
+hoVE.TuesdayEvening.title = ""
+hoVE.MM.TuesdayProkeimenon.text = ""
+
+hoVE.WednesdayEvening.title = ""
+hoVE.MM.WednesdayProkeimenon.text = ""
+
+hoVE.ThursdayEvening.title = ""
+hoVE.MM.ThursdayProkeimenon.text = ""
+
+hoVE.FridayEvening.title = ""
+hoVE.MM.FridayProkeimenon.text = ""
+
+hoVE.SaturdayEvening.title = ""
+hoVE.MM.SaturdayProkeimenon.text = ""
+
+hoVE.MM.GreatProkeimenonTisTheosMegas.text = ""
+hoVE.MM.GreatProkeimenonOTheosImon.text = ""
+hoVE.MM.GreatProkeimenonLent1.text = ""
+hoVE.MM.GreatProkeimenonLent2.text = ""
+
+hoVE.MM.GoodFridayProkeimenon.text = ""
+hoVE.MM.EasterSundayEveningProkeimenon.text = ""
+hoVE.MM.BrightMondayEveningProkeimenon.text = ""
+hoVE.MM.BrightTuesdayEveningProkeimenon.text = ""
+hoVE.MM.BrightWednesdayEveningProkeimenon.text = ""
+hoVE.MM.BrightThursdayEveningProkeimenon.text = ""
+hoVE.MM.BrightFridayEveningProkeimenon.text = ""
+
+R12 = ""
+R13 = ""
+R14 = ""
+hoVE.MondayAlleluia.title = ""
+hoVE.MondayAlleluia.text = ""
+
+hoVE.TuesdayThursdayAlleluia.title = ""
+hoVE.TuesdayThursdayAlleluia.text = ""
+
+hoVE.WednesdayAlleluia.title = ""
+hoVE.WednesdayAlleluia.text = ""
+
+hoVE.FridayAlleluia.title = ""
+hoVE.FridayAlleluia.text = ""
+
+R15 = ""
+R16 = ""
+//This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and"night"
+hoVE.Prayer_Kataxioson.incipit = ""
+hoVE.Prayer_Kataxioson.text = ""
+R17 = ""
+R18 = ""
+R19 = ""
+R20 = ""
+R21 = ""
+hoVE.LentApolytikion1.mode = ""
+hoVE.LentApolytikion1.incipit = ""
+hoVE.LentApolytikion1.text = ""
+hoVE.LentApolytikion2.mode = ""
+hoVE.LentApolytikion2.incipit = ""
+hoVE.LentApolytikion2.text = ""
+hoVE.LentApolytikion3.mode = ""
+hoVE.LentApolytikion3.incipit = ""
+hoVE.LentApolytikion3.text = ""
+hoVE.LentApolytikion4.note = ""
+hoVE.LentApolytikion4.mode = ""
+hoVE.LentApolytikion4.incipit = ""
+hoVE.LentApolytikion4.text = ""
+R22 = ""
+R23 = ""
+R24 = ""
+R25 = ""
+R26 = ""
+
+//Lity
+hoVE.MM.LityKyrieEleison.text = ""
+
+// Blessing of Loaves
+hoVE.MM.LoavesHymn1_Theotokos.text = ""
+hoVE.MM.LoavesHymn2_ps33v11.text = ""
+

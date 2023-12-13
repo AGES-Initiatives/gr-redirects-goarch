@@ -1,0 +1,36 @@
+A_Resource_Whose_Name = ho.ho15.m09_gr_redirects_goarch
+
+ho.Month = ""
+ho.Days = ""
+ho.Hours = ""
+
+hoD01.Apolytikion4.title = ""
+hoD01.Apolytikion4.poet = ""
+hoD01.Apolytikion4.mode = ""
+hoD01.Apolytikion4.greekmelody = ""
+hoD01.Apolytikion4.melody = ""
+hoD01.Apolytikion4.incipit = ""
+hoD01.Apolytikion4.text = ""
+
+hoD03.GeneralApolytikion1.name = ""
+hoD03.GeneralApolytikion3.name = ""
+
+hoD04.Apolytikion4.title = ""
+hoD04.Apolytikion4.poet = ""
+hoD04.Apolytikion4.mode = ""
+hoD04.Apolytikion4.greekmelody = ""
+hoD04.Apolytikion4.melody = ""
+hoD04.Apolytikion4.incipit = ""
+hoD04.Apolytikion4.text = ""
+
+hoD10.Apolytikion2.title = ""
+hoD10.Apolytikion2.poet = ""
+hoD10.Apolytikion2.mode = ""
+hoD10.Apolytikion2.greekmelody = ""
+hoD10.Apolytikion2.melody = ""
+hoD10.Apolytikion2.incipit = ""
+hoD10.Apolytikion2.text = ""
+
+hoD11.GeneralApolytikion1.name = ""
+
+hoD18.GeneralApolytikion1.name = ""

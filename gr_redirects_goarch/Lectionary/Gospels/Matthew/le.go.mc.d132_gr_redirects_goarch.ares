@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.mc.d132_gr_redirects_goarch 
 
-lemcLI.Gospel.title = "Παρασκευὴ τῆς Βʹ Ἑβδομάδος τοῦ Ματθαίου"
-lemcLI.Gospel.title_abbr = "Παρασκευὴ τῆς Βʹ Ἑβδομάδος τοῦ Ματθαίου"
-lemcLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Gospel.book_string = bible_gr_redirects_goarch.Matthew.text
-lemcLI.Gospel.book_abbr = bible_gr_redirects_goarch.Matthew.abbr
-lemcLI.Gospel.chapverse = "θʹ 14 - 17"
-lemcLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ προσῆλθον τῷ Ἰησοῦ οἱ μαθηταὶ Ἰωάννου…"
-lemcLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ προσῆλθον τῷ Ἰησοῦ οἱ μαθηταὶ Ἰωάννου λέγοντες· Διὰ τί ἡμεῖς καὶ οἱ Φαρισαῖοι νηστεύομεν πολλά, οἱ δὲ μαθηταί σου οὐ νηστεύουσι; καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος πενθεῖν ἐφʼ ὅσον μετʼ αὐτῶν ἐστιν ὁ νυμφίος; ἐλεύσονται δὲ ἡμέραι, ὅταν ἀπαρθῇ ἀπʼ αὐτῶν ὁ νυμφίος, καὶ τότε νηστεύσουσιν. οὐδεὶς δὲ ἐπιβάλλει ἐπίβλημα ῥάκους ἀγνάφου ἐπὶ ἱματίῳ παλαιῷ· αἴρει γὰρ τὸ πλήρωμα αὐτοῦ ἀπὸ τοῦ ἱματίου, καὶ χεῖρον σχίσμα γίνεται. οὐδὲ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μήγε, ῥήγνυνται οἱ ἀσκοί, καὶ ὁ οἶνος ἐκχεῖται καὶ οἱ ἀσκοὶ ἀπολλοῦνται· ἀλλὰ οἶνον νέον εἰς ἀσκοὺς βάλλουσι καινούς, καὶ ἀμφότεροι συντηροῦνται."
-lemcLI.Gospel.pagenumber = ""
+lemcLI.Gospel.title = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.title
+lemcLI.Gospel.title_abbr = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.title_abbr
+lemcLI.Gospel.version = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.version
+lemcLI.Gospel.book_string = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.book_string
+lemcLI.Gospel.book_abbr = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.book_abbr
+lemcLI.Gospel.chapverse = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.chapverse
+lemcLI.Gospel.incipit = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.incipit
+lemcLI.Gospel.text = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.text
+lemcLI.Gospel.pagenumber = le.go.mc.d132_gr_GR_cog.lemcLI.Gospel.pagenumber

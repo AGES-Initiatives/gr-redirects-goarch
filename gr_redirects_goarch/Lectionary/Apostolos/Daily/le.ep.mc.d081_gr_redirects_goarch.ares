@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d081_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Τετάρτη Βʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Τετάρτη Βʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Acts.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Acts.abbr
-lemcLI.Epistle.chapverse = "4:13-22"
-lemcLI.Epistle.incipit = "Ἐν ταῖς ἡμέραις ἐκείναις, θεωροῦντες οἱ Ἰουδαῖοι τὴν τοῦ…"
-lemcLI.Epistle.text = "Ἐν ταῖς ἡμέραις ἐκείναις, θεωροῦντες οἱ Ἰουδαῖοι τὴν τοῦ Πέτρου παῤῥησίαν καὶ Ἰωάννου, καὶ καταλαβόμενοι ὅτι ἄνθρωποι ἀγράμματοί εἰσι καὶ ἰδιῶται, ἐθαύμαζον, ἐπεγίνωσκόν τε αὐτοὺς ὅτι σὺν τῷ Ἰησοῦ ἦσαν, τὸν δὲ ἄνθρωπον βλέποντες σὺν αὐτοῖς ἑστῶτα τὸν τεθεραπευμένον, οὐδὲν εἶχον ἀντειπεῖν. Κελεύσαντες δὲ αὐτοὺς ἔξω τοῦ συνεδρίου ἀπελθεῖν, συνέβαλλον πρὸς ἀλλήλους λέγοντες· τί ποιήσωμεν τοῖς ἀνθρώποις τούτοις; ὅτι μὲν γὰρ γνωστὸν σημεῖον γέγονε διʼ αὐτῶν, πᾶσι τοῖς κατοικοῦσιν Ἱερουσαλὴμ φανερόν, καὶ οὐ δυνάμεθα ἀρνήσασθαι· ἀλλʼ ἵνα μὴ ἐπὶ πλεῖον διανεμηθῇ εἰς τὸν λαόν, ἀπειλῇ ἀπειλησώμεθα αὐτοῖς μηκέτι λαλεῖν ἐπὶ τῷ ὀνόματι τούτῳ μηδενὶ ἀνθρώπων. Καὶ καλέσαντες αὐτοὺς παρήγγειλαν αὐτοῖς τὸ καθόλου μὴ φθέγγεσθαι μηδὲ διδάσκειν ἐπὶ τῷ ὀνόματι τοῦ Ἰησοῦ. Ὁ δὲ Πέτρος καὶ Ἰωάννης ἀποκριθέντες πρὸς αὐτοὺς εἶπον· εἰ δίκαιόν ἐστιν ἐνώπιον τοῦ Θεοῦ ὑμῶν ἀκούειν μᾶλλον ἢ τοῦ Θεοῦ, κρίνατε. Οὐ δυνάμεθα γὰρ ἡμεῖς ἃ εἴδομεν καὶ ἠκούσαμεν μὴ λαλεῖν οἱ δὲ προσαπειλησάμενοι ἀπέλυσαν αὐτούς, μηδὲν εὑρίσκοντες τὸ πῶς κολάσονται αὐτούς, διὰ τὸν λαόν, ὅτι πάντες ἐδόξαζον τὸν Θεὸν ἐπὶ τῷ γεγονότι· ἐτῶν γὰρ ἦν πλειόνων τεσσαράκοντα ὁ ἄνθρωπος ἐφʼ ὃν ἐγεγόνει τὸ σημεῖον τοῦτο τῆς ἰάσεως."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d081_gr_GR_cog.lemcLI.Epistle.pagenumber

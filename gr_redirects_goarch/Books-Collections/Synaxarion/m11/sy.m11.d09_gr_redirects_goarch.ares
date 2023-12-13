@@ -1,100 +1,100 @@
 A_Resource_Whose_Name = sy.m11.d09_gr_redirects_goarch 
 
-syMA.commemoration01.text = ""
-syMA.commemoration01as02.text = ""
-syMA.commemoration01.couplet1.title = ""
-syMA.commemoration01.couplet1.verse1 = ""
-syMA.commemoration01.couplet1.verse2 = ""
-syMA.commemoration01.single1 = ""
-syMA.commemoration01.narration.p01 = ""
+syMA.commemoration01.text = sy.m11.d09_gr_GR_cog.syMA.commemoration01.text
+syMA.commemoration01as02.text = sy.m11.d09_gr_GR_cog.syMA.commemoration01as02.text
+syMA.commemoration01.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration01.couplet1.title
+syMA.commemoration01.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration01.couplet1.verse1
+syMA.commemoration01.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration01.couplet1.verse2
+syMA.commemoration01.single1 = sy.m11.d09_gr_GR_cog.syMA.commemoration01.single1
+syMA.commemoration01.narration.p01 = sy.m11.d09_gr_GR_cog.syMA.commemoration01.narration.p01
 
-syMA.commemoration02.text = ""
-syMA.commemoration02.couplet1.title = ""
-syMA.commemoration02.couplet1.verse1 = ""
-syMA.commemoration02.couplet1.verse2 = ""
-syMA.commemoration02.narration.p01 = ""
+syMA.commemoration02.text = sy.m11.d09_gr_GR_cog.syMA.commemoration02.text
+syMA.commemoration02.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration02.couplet1.title
+syMA.commemoration02.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration02.couplet1.verse1
+syMA.commemoration02.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration02.couplet1.verse2
+syMA.commemoration02.narration.p01 = sy.m11.d09_gr_GR_cog.syMA.commemoration02.narration.p01
 
-syMA.commemoration03.text = ""
-syMA.commemoration03.couplet1.title = ""
-syMA.commemoration03.couplet1.verse1 = ""
-syMA.commemoration03.couplet1.verse2 = ""
-syMA.commemoration03.narration.p01 = ""
-syMA.commemoration03.narration.p02 = ""
-syMA.commemoration03.narration.p03 = ""
+syMA.commemoration03.text = sy.m11.d09_gr_GR_cog.syMA.commemoration03.text
+syMA.commemoration03.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration03.couplet1.title
+syMA.commemoration03.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration03.couplet1.verse1
+syMA.commemoration03.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration03.couplet1.verse2
+syMA.commemoration03.narration.p01 = sy.m11.d09_gr_GR_cog.syMA.commemoration03.narration.p01
+syMA.commemoration03.narration.p02 = sy.m11.d09_gr_GR_cog.syMA.commemoration03.narration.p02
+syMA.commemoration03.narration.p03 = sy.m11.d09_gr_GR_cog.syMA.commemoration03.narration.p03
 
-syMA.commemoration04.text = ""
-syMA.commemoration04.couplet1.title = ""
-syMA.commemoration04.couplet1.verse1 = ""
-syMA.commemoration04.couplet1.verse2 = ""
-syMA.commemoration04.couplet2.verse1 = ""
-syMA.commemoration04.couplet2.verse2 = ""
-syMA.commemoration04.narration.p01 = ""
+syMA.commemoration04.text = sy.m11.d09_gr_GR_cog.syMA.commemoration04.text
+syMA.commemoration04.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration04.couplet1.title
+syMA.commemoration04.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration04.couplet1.verse1
+syMA.commemoration04.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration04.couplet1.verse2
+syMA.commemoration04.couplet2.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration04.couplet2.verse1
+syMA.commemoration04.couplet2.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration04.couplet2.verse2
+syMA.commemoration04.narration.p01 = sy.m11.d09_gr_GR_cog.syMA.commemoration04.narration.p01
 
-syMA.commemoration05.text = ""
-syMA.note1 = ""
-syMA.commemoration05.couplet1.title = ""
-syMA.commemoration05.couplet1.verse1 = ""
-syMA.commemoration05.couplet1.verse2 = ""
-syMA.commemoration05.narration.p01 = ""
+syMA.commemoration05.text = sy.m11.d09_gr_GR_cog.syMA.commemoration05.text
+syMA.note1 = sy.m11.d09_gr_GR_cog.syMA.note1
+syMA.commemoration05.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration05.couplet1.title
+syMA.commemoration05.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration05.couplet1.verse1
+syMA.commemoration05.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration05.couplet1.verse2
+syMA.commemoration05.narration.p01 = sy.m11.d09_gr_GR_cog.syMA.commemoration05.narration.p01
 
-syMA.commemoration06.text = ""
-syMA.commemoration06.couplet1.title = ""
-syMA.commemoration06.couplet1.verse1 = ""
-syMA.commemoration06.couplet1.verse2 = ""
+syMA.commemoration06.text = sy.m11.d09_gr_GR_cog.syMA.commemoration06.text
+syMA.commemoration06.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration06.couplet1.title
+syMA.commemoration06.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration06.couplet1.verse1
+syMA.commemoration06.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration06.couplet1.verse2
 
-syMA.commemoration07.text = ""
-syMA.commemoration07.couplet1.title = ""
-syMA.commemoration07.couplet1.verse1 = ""
-syMA.commemoration07.couplet1.verse2 = ""
+syMA.commemoration07.text = sy.m11.d09_gr_GR_cog.syMA.commemoration07.text
+syMA.commemoration07.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration07.couplet1.title
+syMA.commemoration07.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration07.couplet1.verse1
+syMA.commemoration07.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration07.couplet1.verse2
 
-syMA.commemoration08.text = ""
-syMA.commemoration08.couplet1.title = ""
-syMA.commemoration08.couplet1.verse1 = ""
-syMA.commemoration08.couplet1.verse2 = ""
+syMA.commemoration08.text = sy.m11.d09_gr_GR_cog.syMA.commemoration08.text
+syMA.commemoration08.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration08.couplet1.title
+syMA.commemoration08.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration08.couplet1.verse1
+syMA.commemoration08.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration08.couplet1.verse2
 
-syMA.commemoration09.text = ""
-syMA.commemoration09.couplet1.title = ""
-syMA.commemoration09.couplet1.verse1 = ""
-syMA.commemoration09.couplet1.verse2 = ""
+syMA.commemoration09.text = sy.m11.d09_gr_GR_cog.syMA.commemoration09.text
+syMA.commemoration09.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration09.couplet1.title
+syMA.commemoration09.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration09.couplet1.verse1
+syMA.commemoration09.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration09.couplet1.verse2
 
-syMA.commemoration10.text = ""
-syMA.commemoration10.couplet1.title = ""
-syMA.commemoration10.couplet1.verse1 = ""
-syMA.commemoration10.couplet1.verse2 = ""
+syMA.commemoration10.text = sy.m11.d09_gr_GR_cog.syMA.commemoration10.text
+syMA.commemoration10.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration10.couplet1.title
+syMA.commemoration10.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration10.couplet1.verse1
+syMA.commemoration10.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration10.couplet1.verse2
 
-syMA.commemoration11.text = ""
-syMA.commemoration11.couplet1.title = ""
-syMA.commemoration11.couplet1.verse1 = ""
-syMA.commemoration11.couplet1.verse2 = ""
+syMA.commemoration11.text = sy.m11.d09_gr_GR_cog.syMA.commemoration11.text
+syMA.commemoration11.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration11.couplet1.title
+syMA.commemoration11.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration11.couplet1.verse1
+syMA.commemoration11.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration11.couplet1.verse2
 
-syMA.commemoration12.text = ""
-syMA.commemoration12.couplet1.title = ""
-syMA.commemoration12.couplet1.verse1 = ""
-syMA.commemoration12.couplet1.verse2 = ""
-syMA.commemoration12.single1 = ""
+syMA.commemoration12.text = sy.m11.d09_gr_GR_cog.syMA.commemoration12.text
+syMA.commemoration12.couplet1.title = sy.m11.d09_gr_GR_cog.syMA.commemoration12.couplet1.title
+syMA.commemoration12.couplet1.verse1 = sy.m11.d09_gr_GR_cog.syMA.commemoration12.couplet1.verse1
+syMA.commemoration12.couplet1.verse2 = sy.m11.d09_gr_GR_cog.syMA.commemoration12.couplet1.verse2
+syMA.commemoration12.single1 = sy.m11.d09_gr_GR_cog.syMA.commemoration12.single1
 
-alt1.syMA.commemoration01.text = ""
-alt1.syMA.commemoration01.couplet1.title = ""
-alt1.syMA.commemoration01.couplet1.verse1 = ""
-alt1.syMA.commemoration01.couplet1.verse2 = ""
-alt1.syMA.commemoration01.single1 = ""
-alt1.syMA.commemoration01.narration.p01 = ""
-alt1.syMA.commemoration01.narration.p02 = ""
-alt1.syMA.commemoration01.narration.p03 = ""
-alt1.syMA.commemoration01.narration.p04 = ""
-alt1.syMA.commemoration01.narration.p05 = ""
-alt1.syMA.commemoration01.narration.p06 = ""
+alt1.syMA.commemoration01.text = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.text
+alt1.syMA.commemoration01.couplet1.title = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.couplet1.verse2
+alt1.syMA.commemoration01.single1 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.single1
+alt1.syMA.commemoration01.narration.p01 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.narration.p01
+alt1.syMA.commemoration01.narration.p02 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.narration.p02
+alt1.syMA.commemoration01.narration.p03 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.narration.p03
+alt1.syMA.commemoration01.narration.p04 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.narration.p04
+alt1.syMA.commemoration01.narration.p05 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.narration.p05
+alt1.syMA.commemoration01.narration.p06 = sy.m11.d09_gr_GR_cog.alt1.syMA.commemoration01.narration.p06
 
-syMA.lastline = ""
+syMA.lastline = sy.m11.d09_gr_GR_cog.syMA.lastline
 
-cl.syMA.commemoration01.text = ""
+cl.syMA.commemoration01.text = sy.m11.d09_gr_GR_cog.cl.syMA.commemoration01.text
 
-cl.syMA.commemoration02.text = ""
+cl.syMA.commemoration02.text = sy.m11.d09_gr_GR_cog.cl.syMA.commemoration02.text
 
-cl.syMA.commemoration03.text = ""
+cl.syMA.commemoration03.text = sy.m11.d09_gr_GR_cog.cl.syMA.commemoration03.text
 
-cl.syMA.commemoration04.text = ""
+cl.syMA.commemoration04.text = sy.m11.d09_gr_GR_cog.cl.syMA.commemoration04.text
 
-cl.syMA.commemoration05.text = ""
+cl.syMA.commemoration05.text = sy.m11.d09_gr_GR_cog.cl.syMA.commemoration05.text
 
-cl.syMA.commemoration06.text = ""
+cl.syMA.commemoration06.text = sy.m11.d09_gr_GR_cog.cl.syMA.commemoration06.text

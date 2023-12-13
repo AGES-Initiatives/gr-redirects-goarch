@@ -1,31 +1,31 @@
 A_Resource_Whose_Name = he.a.m5_gr_redirects_goarch
 
-heAU.title = ""
+heAU.title = he.a.m5_gr_GR_cog.heAU.title
 
-heAU.ChairoisAskitikon.greekname = ""
-heAU.ChairoisAskitikon.melody = ""
-heAU.ChairoisAskitikon.mode = ""
-heAU.ChairoisAskitikon.name = ""
-heAU.ChairoisAskitikon.incipit = ""
-heAU.ChairoisAskitikon.text = ""
+heAU.ChairoisAskitikon.greekname = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.greekname
+heAU.ChairoisAskitikon.melody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.melody
+heAU.ChairoisAskitikon.mode = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.mode
+heAU.ChairoisAskitikon.name = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.name
+heAU.ChairoisAskitikon.incipit = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.incipit
+heAU.ChairoisAskitikon.text = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.text
 
-heAU.LampeiSimeron.greekname = ""
-heAU.LampeiSimeron.melody = ""
-heAU.LampeiSimeron.mode = ""
-heAU.LampeiSimeron.name = ""
-heAU.LampeiSimeron.incipit = ""
-heAU.LampeiSimeron.text = ""
+heAU.LampeiSimeron.greekname = he.a.m5_gr_GR_cog.heAU.LampeiSimeron.greekname
+heAU.LampeiSimeron.melody = he.a.m5_gr_GR_cog.heAU.LampeiSimeron.melody
+heAU.LampeiSimeron.mode = he.a.m5_gr_GR_cog.heAU.LampeiSimeron.mode
+heAU.LampeiSimeron.name = he.a.m5_gr_GR_cog.heAU.LampeiSimeron.name
+heAU.LampeiSimeron.incipit = he.a.m5_gr_GR_cog.heAU.LampeiSimeron.incipit
+heAU.LampeiSimeron.text = he.a.m5_gr_GR_cog.heAU.LampeiSimeron.text
 
-heAU.OsiePater.greekname = ""
-heAU.OsiePater.melody = ""
-heAU.OsiePater.mode = ""
-heAU.OsiePater.name = ""
-heAU.OsiePater.incipit = ""
-heAU.OsiePater.text = ""
+heAU.OsiePater.greekname = he.a.m5_gr_GR_cog.heAU.OsiePater.greekname
+heAU.OsiePater.melody = he.a.m5_gr_GR_cog.heAU.OsiePater.melody
+heAU.OsiePater.mode = he.a.m5_gr_GR_cog.heAU.OsiePater.mode
+heAU.OsiePater.name = he.a.m5_gr_GR_cog.heAU.OsiePater.name
+heAU.OsiePater.incipit = he.a.m5_gr_GR_cog.heAU.OsiePater.incipit
+heAU.OsiePater.text = he.a.m5_gr_GR_cog.heAU.OsiePater.text
 
-heAU.TonSynanarchonLogon.greekname = ""
-heAU.TonSynanarchonLogon.melody = ""
-heAU.TonSynanarchonLogon.mode = ""
-heAU.TonSynanarchonLogon.name = ""
-heAU.TonSynanarchonLogon.incipit = ""
-heAU.TonSynanarchonLogon.text = ""
+heAU.TonSynanarchonLogon.greekname = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.greekname
+heAU.TonSynanarchonLogon.melody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.melody
+heAU.TonSynanarchonLogon.mode = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.mode
+heAU.TonSynanarchonLogon.name = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.name
+heAU.TonSynanarchonLogon.incipit = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.incipit
+heAU.TonSynanarchonLogon.text = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.text

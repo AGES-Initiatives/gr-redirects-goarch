@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m07.d22_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Τῆς Ἁγίας."
-lemeLI.Gospel.title_abbr = "Τῆς Ἁγίας."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-lemeLI.Gospel.chapverse = "8:1-3"
-lemeLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, ἐπορεύετο ὁ Ἰησοῦς κατὰ πόλιν καὶ…"
-lemeLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἐπορεύετο ὁ Ἰησοῦς κατὰ πόλιν καὶ κώμην κηρύσσων καὶ εὐαγγελιζόμενος τὴν βασιλείαν τοῦ Θεοῦ, καὶ οἱ δώδεκα σὺν αὐτῷ,καὶ γυναῖκές τινες αἳ ἦσαν τεθεραπευμέναι ἀπὸ νόσων καὶ μαστίγων καὶ πνευμάτων πονηρῶν καὶ ἀσθενειῶν, Μαρία ἡ καλουμένη Μαγδαληνή, ἀφ᾿ ἧς δαιμόνια ἑπτὰ ἐξεληλύθει,καὶ Ἰωάννα γυνὴ Χουζᾶ ἐπιτρόπου Ἡρῴδου, καὶ Σουσάννα καὶ ἕτεραι πολλαί, αἵτινες διηκόνουν αὐτῷ ἀπὸ τῶν ὑπαρχόντων αὐταῖς."
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m07.d22_gr_GR_cog.lemeLI.Gospel.pagenumber

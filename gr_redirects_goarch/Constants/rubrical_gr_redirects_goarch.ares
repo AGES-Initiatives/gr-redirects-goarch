@@ -1,181 +1,181 @@
 A_Resource_Whose_Name = rubrical_gr_redirects_goarch
 
-ru.And = "καὶ"
+ru.And = rubrical_gr_GR_cog.ru.And
 
-ru.AndTheFollowing = "καὶ τὸ ἑξῆς·"
+ru.AndTheFollowing = rubrical_gr_GR_cog.ru.AndTheFollowing
 
-ru.Aloud = "(ἐκφώνως)"
+ru.Aloud = rubrical_gr_GR_cog.ru.Aloud
 
-ru.AndAgain = "Καὶ πάλιν·"
+ru.AndAgain = rubrical_gr_GR_cog.ru.AndAgain
 
-ru.AndThen = "Καὶ εὐθύς·"
+ru.AndThen = rubrical_gr_GR_cog.ru.AndThen
 
-ru.Antiphon1OfMode4 = "Οἱ Ἀναβαθμοί, τὸ Αʹ Ἀντίφωνον τοῦ δʹ ἤχου."
+ru.Antiphon1OfMode4 = rubrical_gr_GR_cog.ru.Antiphon1OfMode4
 
-ru.BeginMatins = "Εἶτα ἄρχεται ὁ Ὄρθρος."
+ru.BeginMatins = rubrical_gr_GR_cog.ru.BeginMatins
 
-ru.BeginVespers = "Καὶ ἀμέσως ἄρχεται ὁ Ἑσπερινός· \"Δεῦτε προσκυνήσωμεν…\""
+ru.BeginVespers = rubrical_gr_GR_cog.ru.BeginVespers
 
-ru.BlessingWithTheCross = "(εὐλογῶν μετὰ τοῦ σταυροῦ)"
+ru.BlessingWithTheCross = rubrical_gr_GR_cog.ru.BlessingWithTheCross
 
-ru.ChoirLeftBegins = ""
+ru.ChoirLeftBegins = rubrical_gr_GR_cog.ru.ChoirLeftBegins
 
-ru.ChoirRightBegins = ""
+ru.ChoirRightBegins = rubrical_gr_GR_cog.ru.ChoirRightBegins
 
-ru.ContinueBasilLiturgy = "Καθεξῆς ἡ Θ. Λειτουργία του Μεγάλου Βασιλείου."
+ru.ContinueBasilLiturgy = rubrical_gr_GR_cog.ru.ContinueBasilLiturgy
 
-ru.ContinueLiturgy = "Καθεξῆς ἡ Θ. Λειτουργία."
+ru.ContinueLiturgy = rubrical_gr_GR_cog.ru.ContinueLiturgy
 
-ru.DifferentMenaionCanonInEnglish = "-"
+ru.DifferentMenaionCanonInEnglish = rubrical_gr_GR_cog.ru.DifferentMenaionCanonInEnglish
 
-ru.DifferentMenaionOde9InEnglish = "-"
+ru.DifferentMenaionOde9InEnglish = rubrical_gr_GR_cog.ru.DifferentMenaionOde9InEnglish
 
-ru.DifferentMenaionSticheraInEnglish = "-"
+ru.DifferentMenaionSticheraInEnglish = rubrical_gr_GR_cog.ru.DifferentMenaionSticheraInEnglish
 
-ru.EntranceWithGospel = "Εἴσοδος μετʼ Εὐαγγελίου."
+ru.EntranceWithGospel = rubrical_gr_GR_cog.ru.EntranceWithGospel
 
-ru.Extended = "(ἀργῶς)"
+ru.Extended = rubrical_gr_GR_cog.ru.Extended
 
-ru.FacingThrone = "(προσβλέπων πρὸς τὸν θρόνον)"
+ru.FacingThrone = rubrical_gr_GR_cog.ru.FacingThrone
 
-ru.FastButNotSaturday = "Νηστεία (ἐν Σαββάτῳ κατάλυσις)."
+ru.FastButNotSaturday = rubrical_gr_GR_cog.ru.FastButNotSaturday
 
-ru.Forty = "(μʹ)"
+ru.Forty = rubrical_gr_GR_cog.ru.Forty
 
-ru.FromTheAltarTable = "(ἀπὸ τῆς ἁγίας τραπέζης)"
+ru.FromTheAltarTable = rubrical_gr_GR_cog.ru.FromTheAltarTable
 
-ru.FromTheGate = "(ἀπὸ τῆς Ὡραίας πύλης)"
+ru.FromTheGate = rubrical_gr_GR_cog.ru.FromTheGate
 
-ru.HierarchicalKairosAtLauds = "Ὁ ἀρχιερεὺς λαμβάνει καιρὸν διὰ τὴν Θ. Λειτρουγρία, τοῦ αʹ χοροῦ ψάλλοντος ἀργῶς τὴν φήμην \"Τὸν δεσπότην…\" Εὐλογήσας δὲ τὸν λαὸν διὰ τοῦ τρικηρίου, τοῦ βʹ χοροῦ ψάλλοντος τὸ \"Εἰς πολλὰ ἔτη, δέσποτα,\" εἰσέρχεται εἰς τὸ Ἱερόν. Οἱ χωροὶ συνεχίζουν ψάλλοντες τοὺς Αἴνους."
+ru.HierarchicalKairosAtLauds = rubrical_gr_GR_cog.ru.HierarchicalKairosAtLauds
 
-ru.HolidayAll = "Ἀργία καὶ κατάλυσις εἰς πάντα."
+ru.HolidayAll = rubrical_gr_GR_cog.ru.HolidayAll
 
-ru.HolidayChristmas = "Ἀργία τριήμερος, καὶ κατάλυσις εἰς πάντα, ἀπὸ τῆς σήμερον μέχρι τῆς παραμονῆς τῶν Θεοφανείων."
+ru.HolidayChristmas = rubrical_gr_GR_cog.ru.HolidayChristmas
 
-ru.HolidayFast = "Ἀργία καὶ Νηστεία."
+ru.HolidayFast = rubrical_gr_GR_cog.ru.HolidayFast
 
-ru.HolidayFish = "Ἀργία καὶ ἰχθύος κατάλυσις."
+ru.HolidayFish = rubrical_gr_GR_cog.ru.HolidayFish
 
-ru.HolidayWineOil = "Ἀργία καὶ κατάλυσις οἴνου καὶ ἐλαίου."
+ru.HolidayWineOil = rubrical_gr_GR_cog.ru.HolidayWineOil
 
-ru.IfExistsIfNot = "εἴ ἐστιν· εἰδὲ μή,"
+ru.IfExistsIfNot = rubrical_gr_GR_cog.ru.IfExistsIfNot
 
-ru.IfLityNotDoneAtVespers = "Εἰ οὐκ ἐτελέσθη ἡ Λιτὴ εἰς τὸν Ἑσπερινόν, τὰ ἑξῆς·"
+ru.IfLityNotDoneAtVespers = rubrical_gr_GR_cog.ru.IfLityNotDoneAtVespers
 
-ru.InALowVoice = "(χαμηλοφώνως)"
+ru.InALowVoice = rubrical_gr_GR_cog.ru.InALowVoice
 
-ru.InALowVoiceFacingAltar = "(χαμηλοφώνως καὶ προσβλέπων πρὸς τὴν ἁγίαν τράπεζαν)"
+ru.InALowVoiceFacingAltar = rubrical_gr_GR_cog.ru.InALowVoiceFacingAltar
 
-ru.Inaudibly = "(μυστικῶς)"
+ru.Inaudibly = rubrical_gr_GR_cog.ru.Inaudibly
 
-ru.InPlaceOfRightChoir = "(ἀντὶ τοῦ δεξιοῦ Χοροῦ)"
+ru.InPlaceOfRightChoir = rubrical_gr_GR_cog.ru.InPlaceOfRightChoir
 
-ru.Intoned = "(χῦμα)"
+ru.Intoned = rubrical_gr_GR_cog.ru.Intoned
 
-ru.LityLordHaveMercy101010103 = "Εἰς τὸ σημεῖον «*» οἱ χοροί ψάλλουν· Κύριε ἐλέησον μʹ ἀνὰ ιʹ ἐναλλάξ, καὶ αὖθις ὁμοίως γʹ ἐναλλάξ."
+ru.LityLordHaveMercy101010103 = rubrical_gr_GR_cog.ru.LityLordHaveMercy101010103
 
-ru.MenaionSynaxarionNote = "(Τὸ Συναξάριον τῆς ἡμέρας ἀναγινώσκεται ἀπὸ τὸ Μηναῖον, εἴτα τὸ παρόν·)"
+ru.MenaionSynaxarionNote = rubrical_gr_GR_cog.ru.MenaionSynaxarionNote
 
-ru.NoEntrance = "(Εἴσοδος οὐ γίνεται.)"
+ru.NoEntrance = rubrical_gr_GR_cog.ru.NoEntrance
 
-ru.NoEvlogetaria = "Τὰ Εὐλογητάρια καταλιμπάνονται."
+ru.NoEvlogetaria = rubrical_gr_GR_cog.ru.NoEvlogetaria
 
-ru.OmitMagnificat = "Ἡ Τιμιωτέρα οὐ στιχολογεῖται."
+ru.OmitMagnificat = rubrical_gr_GR_cog.ru.OmitMagnificat
 
-ru.Once = "(ἄπαξ)"
+ru.Once = rubrical_gr_GR_cog.ru.Once
 
-ru.OnceOrThrice = "(ἄπαξ ἢ ἐκ γʹ)"
+ru.OnceOrThrice = rubrical_gr_GR_cog.ru.OnceOrThrice
 
-ru.Optional = "Εἰ βούλει, τὸ ἑξῆς·"
+ru.Optional = rubrical_gr_GR_cog.ru.Optional
 
-ru.Or = "ἤ·"
+ru.Or = rubrical_gr_GR_cog.ru.Or
 
-ru.OrAccordingToCommonPractice = "ἢ ὡς συνήθως·"
+ru.OrAccordingToCommonPractice = rubrical_gr_GR_cog.ru.OrAccordingToCommonPractice
 
-ru.OrAccordingToOlderPractice = "ἢ κατὰ τὴν παλαιωτέραν τάξιν·"
+ru.OrAccordingToOlderPractice = rubrical_gr_GR_cog.ru.OrAccordingToOlderPractice
 
-ru.Read = "(διαβαστά)"
+ru.Read = rubrical_gr_GR_cog.ru.Read
 
-ru.RelaxedFish = "Εἰς τὴν τράπεζαν γίνεται παράκλησις τοῖς ἀδελφοῖς· ἐσθίομεν γὰρ ἰχθύας."
+ru.RelaxedFish = rubrical_gr_GR_cog.ru.RelaxedFish
 
-ru.SlowlyFromWithinTheAltar = "(τοῦ βήματος)"
+ru.SlowlyFromWithinTheAltar = rubrical_gr_GR_cog.ru.SlowlyFromWithinTheAltar
 
-ru.Sung = "(ἐμμελῶς)"
-
-ru.SungSlowly = "(ψάλλεται ἀργῶς)"
-
-ru.Then = "Εἴτα·"
-
-ru.ThenSingSlowly = "Εἶτα ψάλλομεν ἀργῶς τὸ παρόν."
-
-ru.ThreeDayHoliday = "Ἀργία τριήμερος."
-
-ru.Thrice = "(ἐκ γʹ)"
-
-ru.TriodionSynaxarion = "Τὸ Συναξάριον τῆς ἡμέρας ἀναγινώσκεται ἀπὸ τὸ Μηναῖον, καί εὐθὺς ἀμέσως τὸ παρὸν ὑπόμνημα τοῦ Τριῳδίου."
-
-ru.Twelve = "(ιβʹ)"
-
-ru.Twice = "(δίς)"
-
-ru.TwiceWithNoVerse = "Δίς, ἄνευ Στίχου."
-
-ru.TwOrMorePriests = "Ὅταν εἶναι δύο ἢ περισσότεροι ἱερεῖς·"
-
-ru.VigilEntry = "Ὁ στίχος οὗτος μπορεῖ νὰ ψάλλεται καθὼς θυμιᾶ ὁ ἱερεύς."
-
-ru.WhenNoPriest = "Ἄνευ Ἱερέως."
-
-ru.WineOil = "Κατάλυσις οἴνου καὶ ἐλαίου."
-
-ru.WithoutVersesComingBefore = "(ἄνευ τῶν πρὸ αὐτῶν στίχων)"
-
-ru.fasting.rule.title = "Κανόνας Νηστείας"
-ru.fasting.rule.strict = "Νηστεία."
-ru.fasting.rule.oil = "Κατάλυσις οἴνου καὶ ἐλαίου."
-ru.fasting.rule.fish = "Κατάλυσις ἰχθύος."
-ru.fasting.rule.dairy = "Κατάλυσις εἰς τυρὸν καὶ ὠά."
-ru.fasting.rule.free = "Κατάλυσις εἰς πάντα."
-
-ru.fasting.explanation.title = "Ἑξήγησις Νηστείας"
-ru.fasting.explanation.triodion1 = "Εἶναι ἡ Αʹ ἑβδομάδα τοῦ Τριωδίου."
-ru.fasting.explanation.triodion3 = "Εἶναι ἡμέρα τῆς Τυρινῆς."
-ru.fasting.explanation.lent = "Εἶναι Μ. Τεσσαρακοστή."
-ru.fasting.explanation.lentweekend = "Εἶναι Σαββατοκύριακο τῆς Μ. Τεσσαρακοστῆς."
-ru.fasting.explanation.holyweek = "Εἶναι ἡ Μ. Ἑβδομάδα."
-ru.fasting.explanation.wedfri = "Εἶναι Τετάρτη ἢ Παρασκευή."
-ru.fasting.explanation.minorfeast = "Εἶναι ἑορτάσιμος ἡμέρα."
-ru.fasting.explanation.majorfeast = "Εἶναι μεγάλη ἑορτή."
-ru.fasting.explanation.christmas12days = "Εἶναι τὸ Δωδεκαήμερον."
-ru.fasting.explanation.paschal = "Εἶναι Πάσχα καὶ Διακαινήσιμος Ἑβδομάδα."
-ru.fasting.explanation.pentecost = "Εἶναι ἡ ἑβδομάδαα τῆς Πεντηκοστῆς."
-ru.fasting.explanation.apostlesfast = "Εἶναι ἡ νηστεία τῶν ἁγ. Ἀποστόλων."
-ru.fasting.explanation.dormitionfast = "Εἶναι ἡ νηστεία τοῦ Δεκαπενταυγούτου."
-ru.fasting.explanation.christmasfast = "Εἶναι ἡ νηστεία πρὸ τῶν Χριστουγέννων."
-
-ru.standing.prefix = "Ὁ λαὸς ἵσταται"
-ru.standing.vespers.introductorypsalm = "διὰ τὴν ἀνάγνωσιν τοῦ Προϊμιακου Ψαλμοῦ."
-ru.standing.vespers.entrance = "διὰ τὴν Εἴσοδον."
-ru.standing.vespers.gladsomelight = "διὰ τὸ Φῶς Ἱλαρόν."
-ru.standing.vespers.prayer = "διὰ τὴν ἀνάγνωσιν τῆς εὐχῆς."
-ru.standing.vespers.simeonprayer = "διὰ τὴν ἀνάγνωσιν τῶν εὐχῶν."
-ru.standing.matins.sixpsalms = "διὰ τὴν ἀνάγνωσιν τοῦ Ἑξαψάλμου."
-ru.standing.matins.gospel = "διὰ τὴν ἀνάγνωσιν τοῦ Εὐαγγελίου."
-ru.standing.matins.synaxarion = "διὰ τὴν ἀνάγνωσιν τοῦ Συναξαρίου."
-ru.standing.matins.ode9 = "διὰ τὴν Θʹ Ὠδήν."
-ru.standing.matins.smalldoxology = "διὰ τὴν ἀνάγνωσιν τῆς Δοξολογίας."
-ru.standing.matins.greatdoxology = "διὰ τὴν Μ. Δοξολογίαν."
-
-ru.transfer.service.date.feb23 = "Ἡ μνήμη τοῦ Ἁγίου Πολυκάρπου Σμύρηνς μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 23ς Φεβρουαρίου."
-ru.transfer.service.date.feb24 = "Ἡ μνήμη τῆς Εὑρέσεως τῆς Κεφαλῆς τοῦ Προδρόμου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 24ης Φεβρουαρίου."
-ru.transfer.service.date.mar09 = "Ἡ μνήμη τῶν Ἁγ. Τεσσαράκοντα Μαρτύρων μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 9ης Μαρτίου."
-ru.transfer.service.date.apr23 = "Ἡ μνήμη τοῦ Ἁγίου Γεωργίου τοῦ Τροπαιοφόρου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 23ης Ἀπριλίου."
-ru.transfer.service.date.apr25 = "Ἡ μνήμη τοῦ Ἁγίου Εὐαγγελιστοῦ Μάρκου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 25ης Ἀπριλίου."
-ru.transfer.service.date.may02 = "Ἡ μνήμη τοῦ Ἁγίου Ἀθανασίου Ἀλεξανδρείας μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 2ας Μαΐου."
-ru.transfer.service.date.may08 = "Ἡ μνήμη τοῦ Ἁγίου Ἰωάννου τοῦ Θεολόγου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 8ης Μαΐου."
-ru.transfer.service.date.may21 = "Ἡ μνήμη τῶν Ἁγ. Κωνσταντίνου καὶ Ἑλένης μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 21ης Μαΐου."
-ru.transfer.service.date.may25 = "Ἡ μνήμη τῆς Εὑρέσεως τῆς Κεφαλῆς τοῦ Προδρόμου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 24ης Μαΐου."
-ru.transfer.service.date.jun04 = "Ἡ μνήμη τοῦ Ἁγίου Μητροφάνους Κωνσταντινουπόλεως μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 4ης Ἰουνίου."
-ru.transfer.service.date.jun24 = "Ἡ μνήμη τοῦ Γενεσίου τοῦ Προδρόμου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 24ης Ἰουνίου."
-
-ru.unavailable.octoechos = " -"
+ru.Sung = rubrical_gr_GR_cog.ru.Sung
+
+ru.SungSlowly = rubrical_gr_GR_cog.ru.SungSlowly
+
+ru.Then = rubrical_gr_GR_cog.ru.Then
+
+ru.ThenSingSlowly = rubrical_gr_GR_cog.ru.ThenSingSlowly
+
+ru.ThreeDayHoliday = rubrical_gr_GR_cog.ru.ThreeDayHoliday
+
+ru.Thrice = rubrical_gr_GR_cog.ru.Thrice
+
+ru.TriodionSynaxarion = rubrical_gr_GR_cog.ru.TriodionSynaxarion
+
+ru.Twelve = rubrical_gr_GR_cog.ru.Twelve
+
+ru.Twice = rubrical_gr_GR_cog.ru.Twice
+
+ru.TwiceWithNoVerse = rubrical_gr_GR_cog.ru.TwiceWithNoVerse
+
+ru.TwOrMorePriests = rubrical_gr_GR_cog.ru.TwOrMorePriests
+
+ru.VigilEntry = rubrical_gr_GR_cog.ru.VigilEntry
+
+ru.WhenNoPriest = rubrical_gr_GR_cog.ru.WhenNoPriest
+
+ru.WineOil = rubrical_gr_GR_cog.ru.WineOil
+
+ru.WithoutVersesComingBefore = rubrical_gr_GR_cog.ru.WithoutVersesComingBefore
+
+ru.fasting.rule.title = rubrical_gr_GR_cog.ru.fasting.rule.title
+ru.fasting.rule.strict = rubrical_gr_GR_cog.ru.fasting.rule.strict
+ru.fasting.rule.oil = rubrical_gr_GR_cog.ru.fasting.rule.oil
+ru.fasting.rule.fish = rubrical_gr_GR_cog.ru.fasting.rule.fish
+ru.fasting.rule.dairy = rubrical_gr_GR_cog.ru.fasting.rule.dairy
+ru.fasting.rule.free = rubrical_gr_GR_cog.ru.fasting.rule.free
+
+ru.fasting.explanation.title = rubrical_gr_GR_cog.ru.fasting.explanation.title
+ru.fasting.explanation.triodion1 = rubrical_gr_GR_cog.ru.fasting.explanation.triodion1
+ru.fasting.explanation.triodion3 = rubrical_gr_GR_cog.ru.fasting.explanation.triodion3
+ru.fasting.explanation.lent = rubrical_gr_GR_cog.ru.fasting.explanation.lent
+ru.fasting.explanation.lentweekend = rubrical_gr_GR_cog.ru.fasting.explanation.lentweekend
+ru.fasting.explanation.holyweek = rubrical_gr_GR_cog.ru.fasting.explanation.holyweek
+ru.fasting.explanation.wedfri = rubrical_gr_GR_cog.ru.fasting.explanation.wedfri
+ru.fasting.explanation.minorfeast = rubrical_gr_GR_cog.ru.fasting.explanation.minorfeast
+ru.fasting.explanation.majorfeast = rubrical_gr_GR_cog.ru.fasting.explanation.majorfeast
+ru.fasting.explanation.christmas12days = rubrical_gr_GR_cog.ru.fasting.explanation.christmas12days
+ru.fasting.explanation.paschal = rubrical_gr_GR_cog.ru.fasting.explanation.paschal
+ru.fasting.explanation.pentecost = rubrical_gr_GR_cog.ru.fasting.explanation.pentecost
+ru.fasting.explanation.apostlesfast = rubrical_gr_GR_cog.ru.fasting.explanation.apostlesfast
+ru.fasting.explanation.dormitionfast = rubrical_gr_GR_cog.ru.fasting.explanation.dormitionfast
+ru.fasting.explanation.christmasfast = rubrical_gr_GR_cog.ru.fasting.explanation.christmasfast
+
+ru.standing.prefix = rubrical_gr_GR_cog.ru.standing.prefix
+ru.standing.vespers.introductorypsalm = rubrical_gr_GR_cog.ru.standing.vespers.introductorypsalm
+ru.standing.vespers.entrance = rubrical_gr_GR_cog.ru.standing.vespers.entrance
+ru.standing.vespers.gladsomelight = rubrical_gr_GR_cog.ru.standing.vespers.gladsomelight
+ru.standing.vespers.prayer = rubrical_gr_GR_cog.ru.standing.vespers.prayer
+ru.standing.vespers.simeonprayer = rubrical_gr_GR_cog.ru.standing.vespers.simeonprayer
+ru.standing.matins.sixpsalms = rubrical_gr_GR_cog.ru.standing.matins.sixpsalms
+ru.standing.matins.gospel = rubrical_gr_GR_cog.ru.standing.matins.gospel
+ru.standing.matins.synaxarion = rubrical_gr_GR_cog.ru.standing.matins.synaxarion
+ru.standing.matins.ode9 = rubrical_gr_GR_cog.ru.standing.matins.ode9
+ru.standing.matins.smalldoxology = rubrical_gr_GR_cog.ru.standing.matins.smalldoxology
+ru.standing.matins.greatdoxology = rubrical_gr_GR_cog.ru.standing.matins.greatdoxology
+
+ru.transfer.service.date.feb23 = rubrical_gr_GR_cog.ru.transfer.service.date.feb23
+ru.transfer.service.date.feb24 = rubrical_gr_GR_cog.ru.transfer.service.date.feb24
+ru.transfer.service.date.mar09 = rubrical_gr_GR_cog.ru.transfer.service.date.mar09
+ru.transfer.service.date.apr23 = rubrical_gr_GR_cog.ru.transfer.service.date.apr23
+ru.transfer.service.date.apr25 = rubrical_gr_GR_cog.ru.transfer.service.date.apr25
+ru.transfer.service.date.may02 = rubrical_gr_GR_cog.ru.transfer.service.date.may02
+ru.transfer.service.date.may08 = rubrical_gr_GR_cog.ru.transfer.service.date.may08
+ru.transfer.service.date.may21 = rubrical_gr_GR_cog.ru.transfer.service.date.may21
+ru.transfer.service.date.may25 = rubrical_gr_GR_cog.ru.transfer.service.date.may25
+ru.transfer.service.date.jun04 = rubrical_gr_GR_cog.ru.transfer.service.date.jun04
+ru.transfer.service.date.jun24 = rubrical_gr_GR_cog.ru.transfer.service.date.jun24
+
+ru.unavailable.octoechos = rubrical_gr_GR_cog.ru.unavailable.octoechos

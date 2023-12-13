@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d247_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Δευτέρα ΙΘʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Δευτέρα ΙΘʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Philippians.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Philippians.abbr
-lemcLI.Epistle.chapverse = "1:1-7"
-lemcLI.Epistle.incipit = "Ἀδελφοί, Παῦλος καὶ Τιμόθεος, δοῦλοι Ἰησοῦ Χριστοῦ, πᾶσι τοῖς…"
-lemcLI.Epistle.text = "Ἀδελφοί, Παῦλος καὶ Τιμόθεος, δοῦλοι Ἰησοῦ Χριστοῦ, πᾶσι τοῖς ἁγίοις ἐν Χριστῷ Ἰησοῦ τοῖς οὖσιν ἐν Φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ πατρὸς ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ. Εὐχαριστῷ τῷ Θεῷ μου ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν, πάντοτε ἐν πάσῃ δεήσει μου ὑπὲρ πάντων ὑμῶν μετὰ χαρᾶς τὴν δέησιν ποιούμενος ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ Εὐαγγέλιον ἀπὸ πρώτης ἡμέρας ἄχρι τοῦ νῦν, πεποιθὼς αὐτὸ τοῦτο, ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρις ἡμέρας Ἰησοῦ Χριστοῦ, καθώς ἐστι δίκαιον ἐμοὶ τοῦτο φρονεῖν ὑπὲρ πάντων ὑμῶν διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς, ἔν τε τοῖς δεσμοῖς μου καὶ ἐν τῇ ἀπολογίᾳ καὶ βεβαιώσει τοῦ εὐαγγελίου συγκοινωνούς μου τῆς χάριτος πάντας ὑμᾶς ὄντας."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d247_gr_GR_cog.lemcLI.Epistle.pagenumber

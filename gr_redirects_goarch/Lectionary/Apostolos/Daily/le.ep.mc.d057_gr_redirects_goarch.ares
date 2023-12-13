@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d057_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Κυριακὴ Εʹ τῶν Νηστειῶν"
-lemcLI.Epistle.title_abbr = "Κυρ. Εʹ τῶν Νηστειῶν"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Hebrews.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Hebrews.abbr
-lemcLI.Epistle.chapverse = "9:11-14"
-lemcLI.Epistle.incipit = "Ἀδελφοί, Χριστὸς παραγενόμενος Ἀρχιερεὺς τῶν μελλόντων ἀγαθῶν διὰ τῆς…"
-lemcLI.Epistle.text = "Ἀδελφοί, Χριστὸς παραγενόμενος Ἀρχιερεὺς τῶν μελλόντων ἀγαθῶν διὰ τῆς μείζονος καὶ τελειοτέρας σκηνῆς, οὐ χειροποιήτου, τοῦτʼ ἔστιν οὐ ταύτης τῆς κτίσεως, οὐδὲ διʼ αἵματος τράγων καὶ μόσχων, διὰ δὲ τοῦ ἰδίου αἵματος εἰσῆλθεν ἐφάπαξ εἰς τὰ ῞Αγια, αἰωνίαν λύτρωσιν εὑράμενος. Εἰ γὰρ τὸ αἷμα ταύρων καὶ τράγων καὶ σποδὸς δαμάλεως ῥαντίζουσα τοὺς κεκοινωμένους ἁγιάζει πρὸς τὴν τῆς σαρκὸς καθαρότητα, πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ, ὃς διὰ Πνεύματος αἰωνίου ἑαυτὸν προσήνεγκεν ἄμωμον τῷ Θεῷ, καθαριεῖ τὴν συνείδησιν ὑμῶν ἀπὸ νεκρῶν ἔργων εἰς τὸ λατρεύειν Θεῷ ζῶντι;"
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d057_gr_GR_cog.lemcLI.Epistle.pagenumber

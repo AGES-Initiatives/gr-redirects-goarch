@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m12.dSatAC_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Τῷ Σαββάτῳ μετά τὴν Χριστοῦ Γέννησιν."
-lemeLI.Gospel.title_abbr = "Σάβ. μετὰ Χριστούγεν."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.Matthew.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.Matthew.abbr
-lemeLI.Gospel.chapverse = "12:15-21"
-lemeLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, ἠκολούθησαν αὐτῷ ὄχλοι πολλοί, καὶ ἐθεράπευσεν…"
-lemeLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἠκολούθησαν αὐτῷ ὄχλοι πολλοί, καὶ ἐθεράπευσεν αὐτοὺς πάντας,καὶ ἐπετίμησεν αὐτοῖς ἵνα μὴ φανερὸν ποιήσωσιν αὐτόν,ὅπως πληρωθῇ τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου λέγοντος· ἰδοὺ ὁ παῖς μου, ὃν ᾑρέτισα,ὁ ἀγαπητός μου, εἰς ὃν εὐδόκησεν ἡ ψυχή μου·θήσω τὸ πνεῦμά μου ἐπ᾿ αὐτόν,καὶ κρίσιν τοῖς ἔθνεσιν ἀπαγγελεῖ· οὐκ ἐρίσει οὐδὲ κραυγάσει,οὐδὲ ἀκούσει τις ἐν ταῖς πλατείαις τὴν φωνὴν αὐτοῦ. κάλαμον συντετριμμένον οὐ κατεάξεικαὶ λίνον τυφόμενον οὐ σβέσει,ἕως ἂν ἐκβάλῃ εἰς νῖκος τὴν κρίσιν· καὶ τῷ ὀνόματι αὐτοῦ ἔθνη ἐλπιοῦσι."
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m12.dSatAC_gr_GR_cog.lemeLI.Gospel.pagenumber

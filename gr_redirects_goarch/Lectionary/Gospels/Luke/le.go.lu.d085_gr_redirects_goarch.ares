@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d085_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Δευτέρα τῆς ΙΓʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Δευτέρα τῆς ΙΓʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Mark.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Mark.abbr
-leluLI.Gospel.chapverse = "ηʹ 11 - 21"
-leluLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, ἦλθον οἱ Φαρισαῖοι πρὸς τὸν Ἰησοῦν…"
-leluLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἦλθον οἱ Φαρισαῖοι πρὸς τὸν Ἰησοῦν καὶ ἤρξαντο συζητεῖν αὐτῷ, ζητοῦντες παρʼ αὐτοῦ σημεῖον ἀπὸ τοῦ οὐρανοῦ, πειράζοντες αὐτόν. καὶ ἀναστενάξας τῷ πνεύματι αὐτοῦ λέγει· Τί ἡ γενεὰ αὕτη σημεῖον ἐπιζητεῖ; ἀμὴν λέγω ὑμῖν, εἰ δοθήσεται τῇ γενεᾷ ταύτῃ σημεῖον. καὶ ἀφεὶς αὐτοὺς εἰς τὸ πλοῖον ἀπῆλθε πάλιν. Καὶ ἐπελάθοντο λαβεῖν ἄρτους, καὶ εἰ μὴ ἕνα ἄρτον οὐκ εἶχον μεθʼ ἑαυτῶν ἐν τῷ πλοίῳ. καὶ διεστέλλετο αὐτοῖς λέγων· Ὁρᾶτε, βλέπετε ἀπὸ τῆς ζύμης τῶν Φαρισαίων καὶ τῆς ζύμης Ἡρῴδου. καὶ διελογίζοντο πρὸς ἀλλήλους λέγοντες ὅτι Ἄρτους οὐκ ἔχομεν. καὶ γνοὺς ὁ Ἰησοῦς λέγει αὐτοῖς· Τί διαλογίζεσθε ὅτι ἄρτους οὐκ ἔχετε; οὔπω νοεῖτε οὐδὲ συνίετε; ἔτι πεπωρωμένην ἔχετε τὴν καρδίαν ὑμῶν; ὀφθαλμοὺς ἔχοντες οὐ βλέπετε, καὶ ὦτα ἔχοντες οὐκ ἀκούετε; καὶ οὐ μνημονεύετε; ὅτε τοὺς πέντε ἄρτους ἔκλασα εἰς τοὺς πεντακισχιλίους, καὶ πόσους κοφίνους κλασμάτων πλήρεις ἤρατε; λέγουσιν αὐτῷ· Δώδεκα. ὅτε δὲ τοὺς ἑπτὰ εἰς τοὺς τετρακισχιλίους, πόσων σπυρίδων πληρώματα κλασμάτων ἤρατε; οἱ δὲ εἶπον· Ἑπτά. καὶ ἔλεγεν αὐτοῖς· Οὔπω συνίετε;"
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d085_gr_GR_cog.leluLI.Gospel.pagenumber

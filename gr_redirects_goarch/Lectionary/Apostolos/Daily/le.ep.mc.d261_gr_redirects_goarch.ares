@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d261_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Δευτέρα ΚΑʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Δευτέρα ΚΑʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Philippians.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Philippians.abbr
-lemcLI.Epistle.chapverse = "4:10-23"
-lemcLI.Epistle.incipit = "Ἀδελφοί, ἐχάρην ἐν Κυρίῳ μεγάλως ὅτι ἤδη ποτὲ ἀνεθάλετε…"
-lemcLI.Epistle.text = "Ἀδελφοί, ἐχάρην ἐν Κυρίῳ μεγάλως ὅτι ἤδη ποτὲ ἀνεθάλετε τὸ ὑπὲρ ἐμοῦ φρονεῖν· ἐφʼ ᾧ καὶ ἐφρονεῖτε ἠκαιρεῖσθε δέ. Οὐχ ὅτι καθʼ ὑστέρησιν λέγω· ἐγὼ γὰρ ἔμαθον ἐν οἷς εἰμι αὐτάρκης εἶναι. Οἶδα καὶ ταπεινοῦσθαι͵ οἶδα καὶ περισσεύειν· ἐν παντὶ καὶ ἐν πᾶσιν μεμύημαι καὶ χορτάζεσθαι καὶ πεινᾶν͵ καὶ περισσεύειν καὶ ὑστερεῖσθαι. Πάντα ἰσχύω ἐν τῷ ἐνδυναμοῦντί με Χριστῷ. Πλὴν καλῶς ἐποιήσατε συγκοινωνήσαντές μου τῇ θλίψει. Οἴδατε δὲ καὶ ὑμεῖς͵ Φιλιππήσιοι͵ ὅτι ἐν ἀρχῇ τοῦ εὐαγγελίου͵ ὅτε ἐξῆλθον ἀπὸ Μακεδονίας͵ οὐδεμία μοι ἐκκλησία ἐκοινώνησεν εἰς λόγον δόσεως καὶ λήμψεως εἰ μὴ ὑμεῖς μόνοι· ὅτι καὶ ἐν Θεσσαλονίκῃ καὶ ἅπαξ καὶ δὶς εἰς τὴν χρείαν μοι ἐπέμψατε. Οὐχ ὅτι ἐπιζητῷ τὸ δόμα͵ ἀλλὰ ἐπιζητῷ τὸν καρπὸν τὸν πλεονάζοντα εἰς λόγον ὑμῶν. Ἀπέχω δὲ πάντα καὶ περισσεύω· πεπλήρωμαι δεξάμενος παρὰ Ἐπαφροδίτου τὰ παρʼ ὑμῶν͵ ὀσμὴν εὐωδίας͵ θυσίαν δεκτήν͵ εὐάρεστον τῷ Θεῷ. Ὁ δὲ Θεός μου πληρώσει πᾶσαν χρείαν ὑμῶν κατὰ τὸν πλοῦτον αὐτοῦ ἐν δόξῃ ἐν Χριστῷ Ἰησοῦ. Τῷ δὲ Θεῷ καὶ Πατρὶ ἡμῶν ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν. Ἀσπάσασθε πάντα ἅγιον ἐν Χριστῷ Ἰησοῦ. ἀσπάζονται ὑμᾶς οἱ σὺν ἐμοὶ ἀδελφοί. Ἀσπάζονται ὑμᾶς πάντες οἱ ἅγιοι͵ μάλιστα δὲ οἱ ἐκ τῆς Καίσαρος οἰκίας. Ἡ χάρις τοῦ Κυρίου Ἰησοῦ Χριστοῦ μετὰ πάντων ὑμῶν. Ἀμήν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d261_gr_GR_cog.lemcLI.Epistle.pagenumber

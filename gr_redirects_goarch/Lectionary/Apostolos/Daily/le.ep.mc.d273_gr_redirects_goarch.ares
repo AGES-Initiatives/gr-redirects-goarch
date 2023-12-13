@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d273_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Σάββατον ΚΒʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Σάββατον ΚΒʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Corinthians2.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Corinthians2.abbr
-lemcLI.Epistle.chapverse = "5:1-10"
-lemcLI.Epistle.incipit = "Ἀδελφοί, οἴδαμεν ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ…"
-lemcLI.Epistle.text = "Ἀδελφοί, οἴδαμεν ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθῇ, οἰκοδομὴν ἐκ Θεοῦ ἔχομεν, οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς οὐρανοῖς. Καὶ γὰρ ἐν τούτῳ στενάζομεν, τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ ἐπενδύσασθαι ἐπιποθοῦντες, εἴ γε καὶ ἐνδυσόμενοι οὐ γυμνοὶ εὑρεθησόμεθα. Καὶ γὰρ οἱ ὄντες ἐν τῷ σκήνει στενάζομεν, βαρούμενοι ἐφ᾿ ᾧ οὐ θέλομεν ἐκδύσασθαι, ἀλλ᾿ ἐπενδύσασθαι, ἵνα καταποθῇ τὸ θνητὸν ὑπὸ τῆς ζωῆς. Ὁ δὲ κατεργασάμενος ἡμᾶς εἰς αὐτὸ τοῦτο Θεός, ὁ καὶ δοὺς ἡμῖν τὸν ἀῤῥαβῶνα τοῦ Πνεύματος. Θαῤῥοῦντες οὖν πάντοτε καὶ εἰδότες ὅτι ἐνδημοῦντες ἐν τῷ σώματι ἐκδημοῦμεν ἀπὸ τοῦ Κυρίου· (διὰ πίστεως γὰρ περιπατοῦμεν, οὐ διὰ εἴδους)· θαῤῥοῦμεν δὲ καὶ εὐδοκοῦμεν μᾶλλον ἐκδημῆσαι ἐκ τοῦ σώματος καὶ ἐνδημῆσαι πρὸς τὸν Κύριον. Διὸ καὶ φιλοτιμούμεθα, εἴτε ἐνδημοῦντες εἴτε ἐκδημοῦντες, εὐάρεστοι αὐτῷ εἶναι. Τοὺς γὰρ πάντας ἡμᾶς φανερωθῆναι δεῖ ἔμπροσθεν τοῦ βήματος τοῦ Χριστοῦ."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d273_gr_GR_cog.lemcLI.Epistle.pagenumber

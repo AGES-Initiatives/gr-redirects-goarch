@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = other.anoixantaria_gr_redirects_goarch
 
-other.title = ""
-other.verse28.text = ""
-other.verse29.text = ""
-other.verse30.text = ""
-other.verse31.text = ""
-other.verse32.text = ""
-other.verse33.text = ""
-other.verse34.text = ""
-other.verse35.text = ""
-other.refrain1.text = ""
-other.refrain2.text = ""
+other.title = other.anoixantaria_gr_GR_cog.other.title
+other.verse28.text = other.anoixantaria_gr_GR_cog.other.verse28.text
+other.verse29.text = other.anoixantaria_gr_GR_cog.other.verse29.text
+other.verse30.text = other.anoixantaria_gr_GR_cog.other.verse30.text
+other.verse31.text = other.anoixantaria_gr_GR_cog.other.verse31.text
+other.verse32.text = other.anoixantaria_gr_GR_cog.other.verse32.text
+other.verse33.text = other.anoixantaria_gr_GR_cog.other.verse33.text
+other.verse34.text = other.anoixantaria_gr_GR_cog.other.verse34.text
+other.verse35.text = other.anoixantaria_gr_GR_cog.other.verse35.text
+other.refrain1.text = other.anoixantaria_gr_GR_cog.other.refrain1.text
+other.refrain2.text = other.anoixantaria_gr_GR_cog.other.refrain2.text

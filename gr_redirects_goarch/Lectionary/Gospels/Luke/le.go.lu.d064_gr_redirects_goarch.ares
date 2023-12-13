@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d064_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Δευτέρα τῆς Ιʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Δευτέρα τῆς Ιʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-leluLI.Gospel.chapverse = "ιζʹ 20 - 25"
-leluLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, ἐπερωτηθεὶς ὁ Ἰησοῦς ὑπὸ τῶν Φαρισαίων…"
-leluLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἐπερωτηθεὶς ὁ Ἰησοῦς ὑπὸ τῶν Φαρισαίων πότε ἔρχεται ἡ βασιλεία τοῦ Θεοῦ, ἀπεκρίθη αὐτοῖς καὶ εἶπεν· Οὐκ ἔρχεται ἡ βασιλεία τοῦ Θεοῦ μετὰ παρατηρήσεως, οὐδὲ ἐροῦσιν ἰδοὺ ὧδε ἤ ἰδοὺ ἐκεῖ· ἰδοὺ γὰρ ἡ βασιλεία τοῦ Θεοῦ ἐντὸς ὑμῶν ἐστιν. Εἶπε δὲ πρὸς τοὺς μαθητάς· Ἐλεύσονται ἡμέραι ὅτε ἐπιθυμήσετε μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου ἰδεῖν, καὶ οὐκ ὄψεσθε. καὶ ἐροῦσιν ὑμῖν· ἰδοὺ ὧδε, ἰδοὺ ἐκεῖ· μὴ ἀπέλθητε μηδὲ διώξητε. ὥσπερ γὰρ ἡ ἀστραπὴ ἀστράπτουσα ἐκ τῆς ὑπʼ οὐρανὸν λάμπει, οὕτως ἔσται καὶ ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ ἡμέρᾳ αὐτοῦ. πρῶτον δὲ δεῖ αὐτὸν πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ἀπὸ τῆς γενεᾶς ταύτης."
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d064_gr_GR_cog.leluLI.Gospel.pagenumber

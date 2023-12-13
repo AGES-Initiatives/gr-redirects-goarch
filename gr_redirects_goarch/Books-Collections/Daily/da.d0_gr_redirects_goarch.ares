@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = da.d0_gr_redirects_goarch
 
 // Daily for Day Zero.  From MAC.
-da.title1 = ""
-da.title2 = ""
-da.title3 = ""
+da.title1 = da.d0_gr_GR_cog.da.title1
+da.title2 = da.d0_gr_GR_cog.da.title2
+da.title3 = da.d0_gr_GR_cog.da.title3
 
-da.Sundays.title = ""
-da.R001 = ""
+da.Sundays.title = da.d0_gr_GR_cog.da.Sundays.title
+da.R001 = da.d0_gr_GR_cog.da.R001
 
-da.Weekdays.title = ""
-da.R002 = ""
+da.Weekdays.title = da.d0_gr_GR_cog.da.Weekdays.title
+da.R002 = da.d0_gr_GR_cog.da.R002
 
-da.R003 = ""
-da.R004 = ""
+da.R003 = da.d0_gr_GR_cog.da.R003
+da.R004 = da.d0_gr_GR_cog.da.R004

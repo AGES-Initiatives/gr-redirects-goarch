@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d245_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Σάββατον ΙΗʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Σάββατον ΙΗʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Corinthians1.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Corinthians1.abbr
-lemcLI.Epistle.chapverse = "15:39-45"
-lemcLI.Epistle.incipit = "Ἀδελφοί, οὐ πᾶσα σὰρξ ἡ αὐτὴ σάρξ, ἀλλὰ ἄλλη…"
-lemcLI.Epistle.text = "Ἀδελφοί, οὐ πᾶσα σὰρξ ἡ αὐτὴ σάρξ, ἀλλὰ ἄλλη μὲν ἀνθρώπων, ἄλλη δὲ σὰρξ κτηνῶν, ἄλλη δὲ ἰχθύων, ἄλλη δὲ πετεινῶν. Καὶ σώματα ἐπουράνια, καὶ σώματα ἐπίγεια· ἀλλὰ ἑτέρα μὲν ἡ τῶν ἐπουρανίων δόξα, ἑτέρα δὲ ἡ τῶν ἐπιγείων. Ἄλλη δόξα ἡλίου, καὶ ἄλλη δόξα σελήνης, καὶ ἄλλη δόξα ἀστέρων· ἀστὴρ γὰρ ἀστέρος διαφέρει ἐν δόξῃ. Οὕτω καὶ ἡ ἀνάστασις τῶν νεκρῶν. σπείρεται ἐν φθορᾷ, ἐγείρεται ἐν ἀφθαρσίᾳ· σπείρεται ἐν ἀτιμίᾳ, ἐγείρεται ἐν δόξῃ· σπείρεται ἐν ἀσθενείᾳ, ἐγείρεται ἐν δυνάμει· σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. ἔστιν σῶμα ψυχικόν, καὶ ἔστιν σῶμα πνευματικόν. Οὕτω καὶ γέγραπται· 'Εγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν· ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζωοποιοῦν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d245_gr_GR_cog.lemcLI.Epistle.pagenumber

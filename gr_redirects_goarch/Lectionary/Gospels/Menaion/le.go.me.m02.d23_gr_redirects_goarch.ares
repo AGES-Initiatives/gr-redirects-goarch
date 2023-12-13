@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m02.d23_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Τοῦ Ἁγίου."
-lemeLI.Gospel.title_abbr = "Τοῦ Ἁγίου."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.John.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.John.abbr
-lemeLI.Gospel.chapverse = "12:24-26, 35-36"
-lemeLI.Gospel.incipit = "Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ Μαθηταῖς· ἐὰν μὴ ὁ…"
-lemeLI.Gospel.text = "Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ Μαθηταῖς· ἐὰν μὴ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν ἀποθάνῃ, αὐτὸς μόνος μένει· ἐὰν δὲ ἀποθάνῃ, πολὺν καρπὸν φέρει. ὁ φιλῶν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτήν, καὶ ὁ μισῶν τὴν ψυχὴν αὐτοῦ ἐν τῷ κόσμῳ τούτῳ, εἰς ζωὴν αἰώνιον φυλάξει αὐτήν. ἐὰν ἐμοί διακονῇ τις, ἐμοὶ ἀκολουθείτω, καὶ ὅπου εἰμὶ ἐγὼ, ἐκεῖ καὶ ὁ διάκονος ὁ ἐμὸς ἔσται· καὶ ἐάν τις ἐμοὶ διακονῇ, τιμήσει αὐτὸν ὁ πατήρ. εἶπεν οὖν τοῖς ὄχλοις ὁ Ἰησοῦς· Ἔτι μικρὸν χρόνον τὸ φῶς μεθʼ ὑμῶν ἐστι· περιπατεῖτε ἕως τὸ φῶς ἔχετε, ἵνα μὴ σκοτία ὑμᾶς καταλάβῃ· καὶ ὁ περιπατῶν ἐν τῇ σκοτίᾳ οὐκ οἶδεν ποῦ ὑπάγει. ἕως τὸ φῶς ἔχετε, πιστεύετε εἰς τὸ φῶς ἵνα υἱοὶ φωτὸς γένησθε."
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m02.d23_gr_GR_cog.lemeLI.Gospel.pagenumber

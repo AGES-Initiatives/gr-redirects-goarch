@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = le.ep.mc.d056_gr_redirects_goarch
 
-lemcLI.Epistle.title = "Σάββατον Εʹ Ἑβδομάδος τῶν Νηστειῶν καὶ τοῦ Ἀκαθίστου"
-lemcLI.Epistle.title_abbr = "Σάββατον Εʹ Ἑβδομάδος τῶν Νηστειῶν καὶ τοῦ Ἀκαθίστου"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Hebrews.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Hebrews.abbr
-lemcLI.Epistle.chapverse = "9:24-28"
-lemcLI.Epistle.incipit = "Ἀδελφοί, οὐκ εἰς χειροποίητα ῞Αγια εἰσῆλθεν ὁ Χριστός, ἀντίτυπα…"
-lemcLI.Epistle.text = "Ἀδελφοί, οὐκ εἰς χειροποίητα ῞Αγια εἰσῆλθεν ὁ Χριστός, ἀντίτυπα τῶν ἀληθινῶν, ἀλλʼ εἰς αὐτὸν τὸν οὐρανόν, νῦν ἐμφανισθῆναι τῷ προσώπῳ τοῦ Θεοῦ ὑπὲρ ἡμῶν· οὐδʼ ἵνα πολλάκις προσφέρῃ ἑαυτόν, ὥσπερ ὁ ἀρχιερεὺς εἰσέρχεται εἰς τὰ ῞Αγια κατʼ ἐνιαυτὸν ἐν αἵματι ἀλλοτρίῳ· ἐπεὶ ἔδει αὐτὸν πολλάκις παθεῖν ἀπὸ καταβολῆς κόσμου· νῦν δὲ ἅπαξ ἐπὶ συντελείᾳ τῶν αἱώνων εἰς ἀθέτησιν ἁμαρτίας διὰ τῆς θυσίας αὐτοῦ πεφανέρωται. Καὶ καθʼ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν, μετὰ δὲ τοῦτο κρίσις, οὕτω καὶ ὁ Χριστός, ἅπαξ προσενεχθεὶς εἰς τὸ πολλῶν ἀνενεγκεῖν ἁμαρτίας, ἐκ δευτέρου χωρὶς ἁμαρτίας ὀφθήσεται τοῖς αὐτὸν ἀπεκδεχομένοις εἰς σωτηρίαν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d056_gr_GR_cog.lemcLI.Epistle.pagenumber
 
 // "Ἕτερος τῆς Θεοτόκου"
 // bible_gr_redirects_goarch.Hebrews.text

@@ -1,21 +1,21 @@
 A_Resource_Whose_Name = ho.ho17_gr_redirects_goarch
 
-hoD127.Apolytikion2.title = ""
-hoD127.Apolytikion2.poet = ""
-hoD127.Apolytikion2.mode = ""
-hoD127.Apolytikion2.melody = ""
-hoD127.Apolytikion2.text = ""
+hoD127.Apolytikion2.title = ho.ho17_gr_GR_cog.hoD127.Apolytikion2.title
+hoD127.Apolytikion2.poet = ho.ho17_gr_GR_cog.hoD127.Apolytikion2.poet
+hoD127.Apolytikion2.mode = ho.ho17_gr_GR_cog.hoD127.Apolytikion2.mode
+hoD127.Apolytikion2.melody = ho.ho17_gr_GR_cog.hoD127.Apolytikion2.melody
+hoD127.Apolytikion2.text = ho.ho17_gr_GR_cog.hoD127.Apolytikion2.text
 
-hoD127.Apolytikion3.title = ""
-hoD127.Apolytikion3.poet = ""
-hoD127.Apolytikion3.mode = ""
-hoD127.Apolytikion3.melody = ""
-hoD127.Apolytikion3.incipit = ""
-hoD127.Apolytikion3.text = ""
+hoD127.Apolytikion3.title = ho.ho17_gr_GR_cog.hoD127.Apolytikion3.title
+hoD127.Apolytikion3.poet = ho.ho17_gr_GR_cog.hoD127.Apolytikion3.poet
+hoD127.Apolytikion3.mode = ho.ho17_gr_GR_cog.hoD127.Apolytikion3.mode
+hoD127.Apolytikion3.melody = ho.ho17_gr_GR_cog.hoD127.Apolytikion3.melody
+hoD127.Apolytikion3.incipit = ho.ho17_gr_GR_cog.hoD127.Apolytikion3.incipit
+hoD127.Apolytikion3.text = ho.ho17_gr_GR_cog.hoD127.Apolytikion3.text
 
-hoD127.Kontakion2.title = ""
-hoD127.Kontakion2.poet = ""
-hoD127.Kontakion2.mode = ""
-hoD127.Kontakion2.melody = ""
-hoD127.Kontakion2.incipit = ""
-hoD127.Kontakion2.text = ""
+hoD127.Kontakion2.title = ho.ho17_gr_GR_cog.hoD127.Kontakion2.title
+hoD127.Kontakion2.poet = ho.ho17_gr_GR_cog.hoD127.Kontakion2.poet
+hoD127.Kontakion2.mode = ho.ho17_gr_GR_cog.hoD127.Kontakion2.mode
+hoD127.Kontakion2.melody = ho.ho17_gr_GR_cog.hoD127.Kontakion2.melody
+hoD127.Kontakion2.incipit = ho.ho17_gr_GR_cog.hoD127.Kontakion2.incipit
+hoD127.Kontakion2.text = ho.ho17_gr_GR_cog.hoD127.Kontakion2.text

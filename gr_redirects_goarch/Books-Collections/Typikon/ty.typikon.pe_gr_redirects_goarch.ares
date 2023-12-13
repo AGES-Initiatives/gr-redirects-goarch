@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = ty.typikon.pe_gr_redirects_goarch 
 
-tyPE.PaschalEnarxis1 = ""
-tyPE.PaschalEnarxis2 = ""
-tyPE.PaschalEnarxis3 = ""
+tyPE.PaschalEnarxis1 = ty.typikon.pe_gr_GR_cog.tyPE.PaschalEnarxis1
+tyPE.PaschalEnarxis2 = ty.typikon.pe_gr_GR_cog.tyPE.PaschalEnarxis2
+tyPE.PaschalEnarxis3 = ty.typikon.pe_gr_GR_cog.tyPE.PaschalEnarxis3
 
-tyPE.PaschalEnarxis4 = ""
-tyPE.PaschalEnarxis5 = ""
-tyPE.PaschalEnarxis6 = ""
-tyPE.PaschalEnarxis7 = "καί εὐθύς· «Δόξα, Καί νῦν», «Παναγία Τριάς...» κτλ. «Κύριε, ἐλέησον», ιβ΄, «Δόξα... Καί νῦν...», «Δεῦτε προσκυνήσωμεν...»."
+tyPE.PaschalEnarxis4 = ty.typikon.pe_gr_GR_cog.tyPE.PaschalEnarxis4
+tyPE.PaschalEnarxis5 = ty.typikon.pe_gr_GR_cog.tyPE.PaschalEnarxis5
+tyPE.PaschalEnarxis6 = ty.typikon.pe_gr_GR_cog.tyPE.PaschalEnarxis6
+tyPE.PaschalEnarxis7 = ty.typikon.pe_gr_GR_cog.tyPE.PaschalEnarxis7

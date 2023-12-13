@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d091_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Κυριακὴ ΙΓʹ τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Κυρ. ΙΓʹ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-leluLI.Gospel.chapverse = "ιηʹ 18 - 27"
-leluLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, ἄνθρωπός τις προσῆλθε τῷ Ἰησοῦ πειράζων…"
-leluLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἄνθρωπός τις προσῆλθε τῷ Ἰησοῦ πειράζων αὐτὸν καὶ λέγων· Διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω; εἶπε δὲ αὐτῷ ὁ Ἰησοῦς· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς, ὁ Θεός. τὰς ἐντολὰς οἶδας· μὴ μοιχεύσῃς, μὴ φονεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου. ὁ δὲ εἶπε· Ταῦτα πάντα ἐφυλαξάμην ἐκ νεότητός μου. ἀκούσας δὲ ταῦτα ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἔτι ἕν σοι λείπει· πάντα ὅσα ἔχεις πώλησον καὶ διάδος πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ, καὶ δεῦρο ἀκολούθει μοι. ὁ δὲ ἀκούσας ταῦτα περίλυπος ἐγένετο· ἦν γὰρ πλούσιος σφόδρα. Ἰδὼν δὲ αὐτὸν ὁ Ἰησοῦς περίλυπον γενόμενον εἶπε· Πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰσελεύσονται εἰς τὴν βασιλείαν τοῦ Θεοῦ! εὐκοπώτερον γάρ ἐστι κάμηλον διὰ τρυμαλιᾶς ραφίδος εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ Θεοῦ εἰσελθεῖν. εἶπον δὲ οἱ ἀκούσαντες· Καὶ τίς δύναται σωθῆναι; ὁ δὲ εἶπε· Τὰ ἀδύνατα παρὰ ἀνθρώποις δυνατὰ παρὰ τῷ Θεῷ ἐστιν."
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d091_gr_GR_cog.leluLI.Gospel.pagenumber

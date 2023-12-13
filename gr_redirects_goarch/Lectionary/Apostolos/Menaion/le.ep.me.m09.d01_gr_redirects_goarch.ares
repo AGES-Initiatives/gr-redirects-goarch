@@ -1,21 +1,21 @@
 A_Resource_Whose_Name = le.ep.me.m09.d01_gr_redirects_goarch
 
-lemeLI.Epistle.title = "Τῆς Ἰνδίκτου."
-lemeLI.Epistle.title_abbr = "Τῆς Ἰνδίκτου."
-lemeLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Epistle.book_string = bible_gr_redirects_goarch.Timothy1.text
-lemeLI.Epistle.book_abbr = bible_gr_redirects_goarch.Timothy1.abbr
-lemeLI.Epistle.chapverse = "2:1-7"
-lemeLI.Epistle.incipit = "Τέκνον Τιμόθεε, παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς,…"
-lemeLI.Epistle.text = "Τέκνον Τιμόθεε, παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων, ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. Τοῦτο γὰρ καλὸν καὶ ἀπόδεκτον ἐνώπιον τοῦ σωτῆρος ἡμῶν Θεοῦ, ὃς πάντας ἀνθρώπους θέλει σωθῆναι καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν. Εἷς γὰρ Θεός, εἷς καὶ μεσίτης Θεοῦ καὶ ἀνθρώπων, ἄνθρωπος Χριστὸς Ἰησοῦς, ὁ δοὺς ἑαυτὸν ἀντίλυτρον ὑπὲρ πάντων, τὸ μαρτύριον καιροῖς ἰδίοις, εἰς ὃ ἐτέθην ἐγὼ κήρυξ καὶ ἀπόστολος,- ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι,- διδάσκαλος ἐθνῶν ἐν πίστει καὶ ἀληθεία."
-lemeLI.Epistle.pagenumber = ""
+lemeLI.Epistle.title = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.title
+lemeLI.Epistle.title_abbr = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.title_abbr
+lemeLI.Epistle.version = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.version
+lemeLI.Epistle.book_string = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.book_string
+lemeLI.Epistle.book_abbr = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.book_abbr
+lemeLI.Epistle.chapverse = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.incipit
+lemeLI.Epistle.text = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.text
+lemeLI.Epistle.pagenumber = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle.pagenumber
 
-lemeLI.Epistle2.title = "Ἕτερος τοῦ Ὁσίου."
-lemeLI.Epistle2.title_abbr = "Ἕτερος τοῦ Ὁσίου."
-lemeLI.Epistle2.version = le.ep.mc.d330_gr_redirects_goarch.lemcLI.Epistle.version
-lemeLI.Epistle2.book_string = le.ep.mc.d330_gr_redirects_goarch.lemcLI.Epistle.book_string
-lemeLI.Epistle2.book_abbr = le.ep.mc.d330_gr_redirects_goarch.lemcLI.Epistle.book_abbr
-lemeLI.Epistle2.chapverse = le.ep.mc.d330_gr_redirects_goarch.lemcLI.Epistle.chapverse
-lemeLI.Epistle2.incipit = le.ep.mc.d330_gr_redirects_goarch.lemcLI.Epistle.incipit
-lemeLI.Epistle2.text = le.ep.mc.d330_gr_redirects_goarch.lemcLI.Epistle.text
+lemeLI.Epistle2.title = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.title
+lemeLI.Epistle2.title_abbr = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.title_abbr
+lemeLI.Epistle2.version = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.version
+lemeLI.Epistle2.book_string = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.book_string
+lemeLI.Epistle2.book_abbr = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.book_abbr
+lemeLI.Epistle2.chapverse = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.chapverse
+lemeLI.Epistle2.incipit = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.incipit
+lemeLI.Epistle2.text = le.ep.me.m09.d01_gr_GR_cog.lemeLI.Epistle2.text
 

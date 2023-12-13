@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.mc.d143_gr_redirects_goarch 
 
-lemcLI.Gospel.title = "Τρίτη τῆς Δʹ Ἑβδομάδος τοῦ Ματθαίου"
-lemcLI.Gospel.title_abbr = "Τρίτη τῆς Δʹ Ἑβδομάδος τοῦ Ματθαίου"
-lemcLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Gospel.book_string = bible_gr_redirects_goarch.Matthew.text
-lemcLI.Gospel.book_abbr = bible_gr_redirects_goarch.Matthew.abbr
-lemcLI.Gospel.chapverse = "ιαʹ 16 - 20"
-lemcLI.Gospel.incipit = "Εἶπεν ὁ Κύριος· Τίνι ὁμοιώσω τὴν γενεὰν ταύτην; ὁμοία…"
-lemcLI.Gospel.text = "Εἶπεν ὁ Κύριος· Τίνι ὁμοιώσω τὴν γενεὰν ταύτην; ὁμοία ἐστὶ παιδίοις καθημένοις ἐν ἀγοραῖς ἃ προσφωνοῦντα τοῖς ἑτέροις αὐτῶν λέγουσιν· ηὐλήσαμεν ὑμῖν, καὶ οὐκ ὠρχήσασθε, ἐθρηνήσαμεν ὑμῖν, καὶ οὐκ ἐκόψασθε. ἦλθεν γὰρ Ἰωάννης μήτε ἐσθίων μήτε πίνων, καὶ λέγουσι· δαιμόνιον ἔχει· ἦλθεν ὁ υἱὸς τοῦ ἀνθρώπου ἐσθίων καὶ πίνων, καὶ λέγουσιν· ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης, τελωνῶν φίλος καὶ ἁμαρτωλῶν. καὶ ἐδικαιώθη ἡ σοφία ἀπὸ τῶν τέκνων αὐτῆς! Τότε ἤρξατο ὀνειδίζειν τὰς πόλεις ἐν αἷς ἐγένοντο αἱ πλεῖσται δυνάμεις αὐτοῦ, ὅτι οὐ μετενόησαν."
-lemcLI.Gospel.pagenumber = ""
+lemcLI.Gospel.title = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.title
+lemcLI.Gospel.title_abbr = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.title_abbr
+lemcLI.Gospel.version = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.version
+lemcLI.Gospel.book_string = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.book_string
+lemcLI.Gospel.book_abbr = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.book_abbr
+lemcLI.Gospel.chapverse = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.chapverse
+lemcLI.Gospel.incipit = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.incipit
+lemcLI.Gospel.text = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.text
+lemcLI.Gospel.pagenumber = le.go.mc.d143_gr_GR_cog.lemcLI.Gospel.pagenumber

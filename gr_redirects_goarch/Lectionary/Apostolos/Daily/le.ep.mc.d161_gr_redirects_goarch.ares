@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d161_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Σάββατον Ϛʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Σάββατον Ϛʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Romans.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Romans.abbr
-lemcLI.Epistle.chapverse = "9:1-5"
-lemcLI.Epistle.incipit = "Ἀδελφοί, ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι, συμμαρτυρούσης μοι…"
-lemcLI.Epistle.text = "Ἀδελφοί, ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι, συμμαρτυρούσης μοι τῆς συνειδήσεώς μου ἐν Πνεύματι ἁγίῳ, ὅτι λύπη μοί ἐστι μεγάλη καὶ ἀδιάλειπτος ὀδύνη τῇ καρδίᾳ μου. ηὐχόμην γὰρ αὐτὸς ἐγὼ ἀνάθεμα εἶναι ἀπὸ τοῦ Χριστοῦ ὑπὲρ τῶν ἀδελφῶν κατὰ σάρκα, οἵτινές εἰσιν Ἰσραηλῖται, ὧν ἡ υἱοθεσία καὶ ἡ δόξα καὶ αἱ διαθῆκαι καὶ ἡ νομοθεσία καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι· ὧν οἱ πατέρες, καὶ ἐξ ὧν ὁ Χριστὸς τὸ κατὰ σάρκα, ὁ ὢν ἐπὶ πάντων Θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d161_gr_GR_cog.lemcLI.Epistle.pagenumber

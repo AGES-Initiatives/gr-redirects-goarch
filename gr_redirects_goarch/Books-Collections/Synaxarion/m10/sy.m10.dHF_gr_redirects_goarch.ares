@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = sy.m10.dHF_gr_redirects_goarch
 
-syMA.note1 = ""
+syMA.note1 = sy.m10.dHF_gr_GR_cog.syMA.note1
 
-syMA.commemoration01.text = ""
-syMA.commemoration01.couplet1.title = ""
-syMA.commemoration01.couplet1.verse1 = ""
-syMA.commemoration01.couplet1.verse2 = ""
-syMA.commemoration01.narration.p01 = ""
+syMA.commemoration01.text = sy.m10.dHF_gr_GR_cog.syMA.commemoration01.text
+syMA.commemoration01.couplet1.title = sy.m10.dHF_gr_GR_cog.syMA.commemoration01.couplet1.title
+syMA.commemoration01.couplet1.verse1 = sy.m10.dHF_gr_GR_cog.syMA.commemoration01.couplet1.verse1
+syMA.commemoration01.couplet1.verse2 = sy.m10.dHF_gr_GR_cog.syMA.commemoration01.couplet1.verse2
+syMA.commemoration01.narration.p01 = sy.m10.dHF_gr_GR_cog.syMA.commemoration01.narration.p01
 
-syMA.lastline = ""
+syMA.lastline = sy.m10.dHF_gr_GR_cog.syMA.lastline

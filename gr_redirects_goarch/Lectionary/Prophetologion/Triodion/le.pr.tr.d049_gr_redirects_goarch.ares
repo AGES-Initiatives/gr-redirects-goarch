@@ -1,19 +1,19 @@
 A_Resource_Whose_Name = le.pr.tr.d049_gr_redirects_goarch
 
-lemcVE.reading1.title = ""
-lemcVE.reading1.title_abbr = ""
-lemcVE.reading1.version = properties_gr_redirects_goarch.version.designation
-lemcVE.reading1.book_string = bible_gr_redirects_goarch.Genesis.text
-lemcVE.reading1.book_abbr = bible_gr_redirects_goarch.Genesis.abbr
-lemcVE.reading1.chapverse = "ΙΒʹ, 1-7"
-lemcVE.reading1.incipit = "Εἶπε Κύριος τῷ Ἄβραμ. Ἔξελθε ἐκ τῆς γῆς σου,…"
-lemcVE.reading1.text = "Εἶπε Κύριος τῷ Ἄβραμ. Ἔξελθε ἐκ τῆς γῆς σου, καὶ ἐκ τῆς συγγενείας σου, καὶ ἐκ τοῦ οἴκου τοῦ πατρός σου, καὶ δεῦρο εἰς γῆν, ἣν ἄν σοι δείξω, καὶ ποιήσω σε εἰς ἔθνος μέγα, καὶ εὐλογήσω σε, καὶ μεγαλυνῶ τὸ ὄνομά σου, καὶ ἔσῃ εὐλογημένος, καὶ εὐλογήσω τοὺς εὐλογοῦντάς σε, καὶ τοὺς καταρωμένους σε καταράσομαι, καὶ ἐνευλογηθήσονται ἐν σοὶ πᾶσαι αἱ φυλαὶ τῆς γῆς. Καὶ ἐπορεύθη Ἄβραμ, καθάπερ ἐλάλησεν αὐτῷ Κύριος ὁ Θεός, καὶ ᾤχετο μετʼ αὐτοῦ Λώτ, Ἄβραμ δὲ ἦν ἐτῶν ἑβδομήκοντα πέντε, ὅτε ἐξῆλθεν ἐκ Χαῤῥάν. Καὶ ἔλαβεν Ἄβραμ Σάραν τὴν γυναίκα αὐτοῦ, καὶ Λὼτ τὸν υἱὸν τοῦ ἀδελφοῦ αὐτοῦ, καὶ πάντα τὰ ὑπάρχοντα αὐτῶν, ὅσα ἐκτήσαντο, καὶ πᾶσαν ψυχήν, ἣν ἐκτήσαντο, ἐν Χαῤῥὰν καὶ ἐξήλθοσαν πορευθῆναι εἰς γῆν Χαναάν. Καὶ διώδευσεν Ἄβραμ τὴν γῆν εἰς τὸ μῆκος αὐτῆς, ἕως τοῦ τόπου Συχέμ, ἐπὶ τὴν δρῦν τὴν ὑψηλήν, οἱ δὲ Χαναναῖοι τότε κατῴκουν τὴν γῆν. Καὶ ὤφθη Κύριος τῷ Ἄβραμ, καὶ εἶπεν αὐτῷ· Τῷ σπέρματί σου δώσω τὴν γῆν ταύτην. Καὶ ᾠκοδόμησεν ἐκεῖ θυσιαστήριον τῷ Κυρίῳ, τῷ ὀφθέντι αὐτῷ."
+lemcVE.reading1.title = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.title
+lemcVE.reading1.title_abbr = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.title_abbr
+lemcVE.reading1.version = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.version
+lemcVE.reading1.book_string = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.book_string
+lemcVE.reading1.book_abbr = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.book_abbr
+lemcVE.reading1.chapverse = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.chapverse
+lemcVE.reading1.incipit = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.incipit
+lemcVE.reading1.text = le.pr.tr.d049_gr_GR_cog.lemcVE.reading1.text
 
-lemcVE.reading2.title = ""
-lemcVE.reading2.title_abbr = ""
-lemcVE.reading2.version = properties_gr_redirects_goarch.version.designation
-lemcVE.reading2.book_string = bible_gr_redirects_goarch.Proverbs.text
-lemcVE.reading2.book_abbr = bible_gr_redirects_goarch.Proverbs.abbr
-lemcVE.reading2.chapverse = "ΙΔʹ, 15-26"
-lemcVE.reading2.incipit = "Ἄκακος ἀνὴρ πιστεύει παντὶ λόγῳ· πανοῦργος δὲ ἔρχεται εἰς…"
-lemcVE.reading2.text = "Ἄκακος ἀνὴρ πιστεύει παντὶ λόγῳ· πανοῦργος δὲ ἔρχεται εἰς μετάνοιαν. Σοφὸς φοβηθεὶς ἐξέκλινεν ἀπὸ κακοῦ· ὁ δὲ ἄφρων, ἑαυτῷ πεποιθώς, μίγνυται ἀνόμῳ. Ὀξύθυμος πράσσει μετὰ ἀβουλίας· ἀνὴρ δὲ φρόνιμος πολλὰ ὑποφέρει. Μεριοῦνται ἄφρονες κακίαν· οἱ δὲ πανοῦργοι κρατήσουσιν αἰσθήσεως. Ὀλισθήσουσι κακοὶ ἔναντι ἀγαθῶν, καὶ ἀσεβεῖς θεραπεύσουσι θύρας δικαίων. Φίλοι μισήσουσι φίλους πτωχούς, φίλοι δὲ πλουσίων πολλοί. Ὁ ἀτιμάζων πένητας ἁμαρτάνει, ὁ ἐλεῶν δὲ πτωχοὺς μακαριστός. Πλανώμενοι ἄδικοι τεκταίνουσι κακά· ἔλεον δὲ καὶ ἀλήθειαν τεκταίνουσιν ἀγαθοί. Οὐκ ἐπίστανται ἔλεον καὶ πίστιν τέκτονες κακῶν· ἐλεημοσύναι δὲ καὶ πίστεις παρὰ τέκτοσιν ἀγαθοῖς. Ἐν παντὶ μεριμνῶντι ἔνεστι περισσόν· ὁ δὲ ἡδὺς καὶ ἀνάλγητος ἐν ἐνδείᾳ ἔσται. Στέφανος σοφῶν πλοῦτος αὐτῶν· ἡ δὲ διατριβὴ ἀφρόνων κακή. Ῥύσεται ἐκ κακῶν ψυχὴν μάρτυς πιστός· ἐκκαίει δὲ ψευδῆ δόλιος. Ἐν φόβῳ Κυρίου ἐλπὶς ἰσχύος· τοῖς δὲ τέκνοις αὐτοῦ καταλείψει ἔρεισμα εἰρήνης."
+lemcVE.reading2.title = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.title
+lemcVE.reading2.title_abbr = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.title_abbr
+lemcVE.reading2.version = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.version
+lemcVE.reading2.book_string = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.book_string
+lemcVE.reading2.book_abbr = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.book_abbr
+lemcVE.reading2.chapverse = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.chapverse
+lemcVE.reading2.incipit = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.incipit
+lemcVE.reading2.text = le.pr.tr.d049_gr_GR_cog.lemcVE.reading2.text

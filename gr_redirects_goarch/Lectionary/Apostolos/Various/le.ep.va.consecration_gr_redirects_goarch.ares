@@ -1,28 +1,28 @@
 A_Resource_Whose_Name = le.ep.va.consecration_gr_redirects_goarch 
 
-levaCON.Epistle1.title = "ΕΙΣ ΕΓΚΑΙΝΙΑ ΝΑΟΥ"
-levaCON.Epistle1.title_abbr = "ΕΙΣ ΕΓΚΑΙΝΙΑ ΝΑΟΥ"
-levaCON.Epistle1.version = properties_gr_redirects_goarch.version.designation
-levaCON.Epistle1.book_string = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.book_string
-levaCON.Epistle1.chapverse = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.chapverse
-levaCON.Epistle1.incipit = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.incipit
-levaCON.Epistle1.text = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.text
+levaCON.Epistle1.title = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle1.title
+levaCON.Epistle1.title_abbr = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle1.title_abbr
+levaCON.Epistle1.version = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle1.version
+levaCON.Epistle1.book_string = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle1.book_string
+levaCON.Epistle1.chapverse = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle1.chapverse
+levaCON.Epistle1.incipit = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle1.incipit
+levaCON.Epistle1.text = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle1.text
 
-levaCON.Epistle2.title = "ΕΤΕΡΟΣ"
-levaCON.Epistle2.title_abbr = "ΕΤΕΡΟΣ"
-levaCON.Epistle2.version = properties_gr_redirects_goarch.version.designation
-levaCON.Epistle2.book_string = le.ep.me.m11.d21_gr_redirects_goarch.lemeLI.Epistle.book_string
-levaCON.Epistle2.book_abbr = le.ep.me.m11.d21_gr_redirects_goarch.lemeLI.Epistle.book_abbr
-levaCON.Epistle2.chapverse = le.ep.me.m11.d21_gr_redirects_goarch.lemeLI.Epistle.chapverse
-levaCON.Epistle2.incipit = le.ep.me.m11.d21_gr_redirects_goarch.lemeLI.Epistle.incipit
-levaCON.Epistle2.text = le.ep.me.m11.d21_gr_redirects_goarch.lemeLI.Epistle.text
+levaCON.Epistle2.title = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.title
+levaCON.Epistle2.title_abbr = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.title_abbr
+levaCON.Epistle2.version = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.version
+levaCON.Epistle2.book_string = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.book_string
+levaCON.Epistle2.book_abbr = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.book_abbr
+levaCON.Epistle2.chapverse = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.chapverse
+levaCON.Epistle2.incipit = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.incipit
+levaCON.Epistle2.text = le.ep.va.consecration_gr_GR_cog.levaCON.Epistle2.text
 
-levaLI.Epistle.title = "ΕΤΕΡΟΣ"
-levaLI.Epistle.title_abbr = "ΕΤΕΡΟΣ"
-levaLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-levaLI.Epistle.book_string = le.ep.me.m09.d13_gr_redirects_goarch.lemeLI.Epistle.book_string
-levaLI.Epistle.book_abbr = le.ep.me.m09.d13_gr_redirects_goarch.lemeLI.Epistle.book_abbr
-levaLI.Epistle.chapverse = le.ep.me.m09.d13_gr_redirects_goarch.lemeLI.Epistle.chapverse
-levaLI.Epistle.incipit = le.ep.me.m09.d13_gr_redirects_goarch.lemeLI.Epistle.incipit
-levaLI.Epistle.text = le.ep.me.m09.d13_gr_redirects_goarch.lemeLI.Epistle.text
+levaLI.Epistle.title = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.title
+levaLI.Epistle.title_abbr = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.title_abbr
+levaLI.Epistle.version = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.version
+levaLI.Epistle.book_string = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.book_string
+levaLI.Epistle.book_abbr = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.book_abbr
+levaLI.Epistle.chapverse = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.chapverse
+levaLI.Epistle.incipit = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.incipit
+levaLI.Epistle.text = le.ep.va.consecration_gr_GR_cog.levaLI.Epistle.text
 

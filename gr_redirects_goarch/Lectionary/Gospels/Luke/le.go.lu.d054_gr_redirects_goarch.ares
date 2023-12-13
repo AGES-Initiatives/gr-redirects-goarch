@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d054_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Παρασκευὴ τῆς Ηʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Παρασκευὴ τῆς Ηʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-leluLI.Gospel.chapverse = "ιγʹ 31 - 35"
-leluLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, προσῆλθόν τινες Φαρισαῖοι τῷ Ἰησοῦ λέγοντες·…"
-leluLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, προσῆλθόν τινες Φαρισαῖοι τῷ Ἰησοῦ λέγοντες· Ἔξελθε καὶ πορεύου ἐντεῦθεν, ὅτι Ἡρῴδης θέλει σε ἀποκτεῖναι. καὶ εἶπεν αὐτοῖς· Πορευθέντες εἴπατε τῇ ἀλώπεκι ταύτῃ· ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις ἐπιτελῶ σήμερον καὶ αὔριον, καὶ τῇ τρίτῃ τελειοῦμαι· πλὴν δεῖ με σήμερον καὶ αὔριον καὶ τῇ ἐχομένῃ πορεύεσθαι, ὅτι οὐκ ἐνδέχεται προφήτην ἀπολέσθαι ἔξω Ἱερουσαλήμ. Ἱερουσαλὴμ Ἱερουσαλήμ, ἡ ἀποκτένουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν! ποσάκις ἠθέλησα ἐπισυνάξαι τὰ τέκνα σου ὃν τρόπον ὄρνις τὴν ἑαυτῆς νοσσιὰν ὑπὸ τὰς πτέρυγας, καὶ οὐκ ἠθελήσατε! ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν ἔρημος. λέγω δὲ ὑμῖν ὃτι οὐ μὴ με ἴδητε ἕως ἂν ἥξῃ ὅτε εἴπητε· εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι Κυρίου."
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d054_gr_GR_cog.leluLI.Gospel.pagenumber

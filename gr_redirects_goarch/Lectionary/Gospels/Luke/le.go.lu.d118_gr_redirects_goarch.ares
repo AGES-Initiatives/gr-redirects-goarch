@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d118_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Σάββατον τῆς ΙΖʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Σάββατον τῆς ΙΖʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-leluLI.Gospel.chapverse = "κʹ 46 - 47, καʹ 1 - 4"
-leluLI.Gospel.incipit = "Εἶπεν ὁ Κύριος τοῖς ἑαὐτοῦ Μαθηταῖς· Προσέχετε ἀπὸ τῶν…"
-leluLI.Gospel.text = "Εἶπεν ὁ Κύριος τοῖς ἑαὐτοῦ Μαθηταῖς· Προσέχετε ἀπὸ τῶν γραμματέων τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις, οἳ κατεσθίουσιν τὰς οἰκίας τῶν χηρῶν καὶ προφάσει μακρὰ προσεύχονται· οὗτοι λήψονται περισσότερον κρίμα. Ἀναβλέψας δὲ εἶδε τοὺς βάλλοντας τὰ δῶρα αὐτῶν εἰς τὸ γαζοφυλάκιον πλουσίους. εἶδε δέ τινα χήραν πενιχρὰν βάλλουσαν ἐκεῖ λεπτὰ δύο, καὶ εἶπεν· Ἀληθῶς λέγω ὑμῖν ὅτι ἡ χήρα ἡ πτωχὴ αὕτη πλεῖον πάντων ἔβαλεν· ἅπαντες γὰρ οὗτοι ἐκ τοῦ περισσεύοντος αὐτοῖς ἔβαλον εἰς τὰ δῶρα τοῦ Θεοῦ, αὕτη δὲ ἐκ τοῦ ὑστερήματος αὐτῆς ἅπαντα τὸν βίον ὃν εἶχεν ἔβαλε. Ταῦτα λέγων ἐφώνει· Ὁ ἔχων ὦτα ἀκούειν ἀκουέτω."
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d118_gr_GR_cog.leluLI.Gospel.pagenumber

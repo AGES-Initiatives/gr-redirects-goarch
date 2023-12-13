@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d042_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Σάββατον Γʹ Ἑβδομάδος τῶν Νηστειῶν"
-lemcLI.Epistle.title_abbr = "Σάββατον Γʹ Ἑβδομάδος τῶν Νηστειῶν"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Hebrews.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Hebrews.abbr
-lemcLI.Epistle.chapverse = "10:32-38"
-lemcLI.Epistle.incipit = "Ἀδελφοί, ἀναμιμνήσκεσθε τὰς πρότερον ἡμέρας, ἐν αἷς φωτισθέντες πολλὴν…"
-lemcLI.Epistle.text = "Ἀδελφοί, ἀναμιμνήσκεσθε τὰς πρότερον ἡμέρας, ἐν αἷς φωτισθέντες πολλὴν ἄθλησιν ὑπεμείνατε παθημάτων, τοῦτο μὲν ὀνειδισμοῖς τε καὶ θλίψεσι θεατριζόμενοι, τοῦτο δὲ κοινωνοὶ τῶν οὕτως ἀναστρεφομένων γενηθέντες. καὶ γὰρ τοῖς δεσμοῖς μου συνεπαθήσατε καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων ὑμῶν μετὰ χαρᾶς προσεδέξασθε, γινώσκοντες ἔχειν ἐν ἑαυτοῖς κρείττονα ὕπαρξιν ἐν οὐρανοῖς καὶ μένουσαν. Μὴ ἀποβάλητε οὖν τὴν παῤῥησίαν ὑμῶν, ἥτις ἔχει μισθαποδοσίαν μεγάλην. Ὑπομονῆς γὰρ ἔχετε χρείαν, ἵνα τὸ θέλημα τοῦ Θεοῦ ποιήσαντες κομίσησθε τὴν ἐπαγγελίαν. ἔτι γὰρ μικρὸν ὅσον ὅσον, ὁ ἐρχόμενος ἥξει καὶ οὐ χρονιεῖ. Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d042_gr_GR_cog.lemcLI.Epistle.pagenumber

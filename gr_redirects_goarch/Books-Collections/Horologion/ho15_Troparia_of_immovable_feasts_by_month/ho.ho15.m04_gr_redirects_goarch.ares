@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = ho.ho15.m04_gr_redirects_goarch
 
-ho.Month = ""
-ho.Days = ""
-ho.Hours = ""
+ho.Month = ho.ho15.m04_gr_GR_cog.ho.Month
+ho.Days = ho.ho15.m04_gr_GR_cog.ho.Days
+ho.Hours = ho.ho15.m04_gr_GR_cog.ho.Hours
 
-hoD06.GeneralApolytikion1.name = ""
+hoD06.GeneralApolytikion1.name = ho.ho15.m04_gr_GR_cog.hoD06.GeneralApolytikion1.name
 
-hoD24.GeneralApolytikion1.name = ""
+hoD24.GeneralApolytikion1.name = ho.ho15.m04_gr_GR_cog.hoD24.GeneralApolytikion1.name

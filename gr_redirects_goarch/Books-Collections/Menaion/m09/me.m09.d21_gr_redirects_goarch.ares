@@ -1,34 +1,33 @@
 A_Resource_Whose_Name = me.m09.d21_gr_redirects_goarch
 
-meDA.date = ""
-meDA.commemoration.full = ""
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = ""
-meDA.insert2 = ""
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
+meDA.date = me.m09.d21_gr_GR_cog.meDA.date
+meDA.commemoration.full = me.m09.d21_gr_GR_cog.meDA.commemoration.full
+meDA.commemoration.first = me.m09.d21_gr_GR_cog.meDA.commemoration.first
+meDA.commemoration.first_short = me.m09.d21_gr_GR_cog.meDA.commemoration.first_short
+meDA.commemoration.first_title = me.m09.d21_gr_GR_cog.meDA.commemoration.first_title
+meDA.commemoration.first_name = me.m09.d21_gr_GR_cog.meDA.commemoration.first_name
+meDA.commemoration.second_title = me.m09.d21_gr_GR_cog.meDA.commemoration.second_title
+meDA.commemoration.second_name = me.m09.d21_gr_GR_cog.meDA.commemoration.second_name
+meDA.insert1 = me.m09.d21_gr_GR_cog.meDA.insert1
+meDA.insert2 = me.m09.d21_gr_GR_cog.meDA.insert2
+meDA.note = me.m09.d21_gr_GR_cog.meDA.note
+meLE.commemoration1 = me.m09.d21_gr_GR_cog.meLE.commemoration1
+meLE.commemoration2 = me.m09.d21_gr_GR_cog.meLE.commemoration2
+meHO.number = me.m09.d21_gr_GR_cog.meHO.number
+meHO.rank = me.m09.d21_gr_GR_cog.meHO.rank
+meHO.commemorations = me.m09.d21_gr_GR_cog.meHO.commemorations
+meHO.note1 = me.m09.d21_gr_GR_cog.meHO.note1
+meHO.note2 = me.m09.d21_gr_GR_cog.meHO.note2
 
+meLI.Kontakion1.mode = me.m09.d21_gr_GR_cog.meLI.Kontakion1.mode
+meLI.Kontakion1.melody = me.m09.d21_gr_GR_cog.meLI.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d21_gr_GR_cog.meLI.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d21_gr_GR_cog.meLI.Kontakion1.text
 
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
-meLI.Kontakion1.text = ""
+meLI.TheotokosHymn.mode = me.m09.d21_gr_GR_cog.meLI.TheotokosHymn.mode
+meLI.TheotokosHymn.incipit = me.m09.d21_gr_GR_cog.meLI.TheotokosHymn.incipit
+meLI.TheotokosHymn.text = me.m09.d21_gr_GR_cog.meLI.TheotokosHymn.text
 
-meLI.TheotokosHymn.mode = ""
-meLI.TheotokosHymn.incipit = ""
-meLI.TheotokosHymn.text = ""
+meLI.MM.CommunionHymn.text = me.m09.d21_gr_GR_cog.meLI.MM.CommunionHymn.text
 
-meLI.MM.CommunionHymn.text = ""
-
-meLI.Megalynarion.text = ""
+meLI.Megalynarion.text = me.m09.d21_gr_GR_cog.meLI.Megalynarion.text

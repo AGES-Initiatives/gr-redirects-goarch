@@ -1,20 +1,20 @@
 A_Resource_Whose_Name = le.go.me.m01.d01_gr_redirects_goarch
 
-lemeMA.Gospel.title = "Τοῦ Ἁγίου."
-lemeMA.Gospel.title_abbr = "Τοῦ Ἁγίου."
-lemeMA.Gospel.version = le.go.ge.hierarch_gr_redirects_goarch.legeMA.Gospel.version
-lemeMA.Gospel.book_string = le.go.ge.hierarch_gr_redirects_goarch.legeMA.Gospel.book_string
-lemeMA.Gospel.book_abbr = le.go.ge.hierarch_gr_redirects_goarch.legeMA.Gospel.book_abbr
-lemeMA.Gospel.chapverse = le.go.ge.hierarch_gr_redirects_goarch.legeMA.Gospel.chapverse
-lemeMA.Gospel.incipit = le.go.ge.hierarch_gr_redirects_goarch.legeMA.Gospel.incipit
-lemeMA.Gospel.text = le.go.ge.hierarch_gr_redirects_goarch.legeMA.Gospel.text
+lemeMA.Gospel.title = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.title
+lemeMA.Gospel.title_abbr = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.title_abbr
+lemeMA.Gospel.version = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.version
+lemeMA.Gospel.book_string = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.book_abbr
+lemeMA.Gospel.chapverse = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.chapverse
+lemeMA.Gospel.incipit = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.incipit
+lemeMA.Gospel.text = le.go.me.m01.d01_gr_GR_cog.lemeMA.Gospel.text
 
-lemeLI.Gospel.title = "Τῆς Ἑορτῆς."
-lemeLI.Gospel.title_abbr = "Τῆς Ἑορτῆς."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-lemeLI.Gospel.chapverse = "βʹ 20-21, 40-52"
-lemeLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, ὑπέστρεψαν οἱ ποιμένες δοξάζοντες καὶ αἰνοῦντες…"
-lemeLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ὑπέστρεψαν οἱ ποιμένες δοξάζοντες καὶ αἰνοῦντες τὸν Θεὸν ἐπὶ πᾶσιν οἷς ἤκουσαν καὶ εἶδον καθὼς ἐλαλήθη πρὸς αὐτούς. Καὶ ὅτε ἐπλήσθησαν ἡμέραι ὀκτὼ τοῦ περιτεμεῖν αὐτόν, καὶ ἐκλήθη τὸ ὄνομα αὐτοῦ Ἱησοῦς, τὸ κληθὲν ὑπὸ τοῦ ἀγγέλου πρὸ τοῦ συλληφθῆναι αὐτὸν ἐν τῇ κοιλίᾳ. Τὸ δὲ παιδίον ηὔξανε καὶ ἐκραταιοῦτο πληρούμενον σοφίᾳ, καὶ χάρις Θεοῦ ἦν ἐπʼ αὐτό. Καὶ ἐπορεύοντο οἱ γονεῖς αὐτοῦ κατʼ ἔτος εἰς Ἱερουσαλὴμ τῇ ἑορτῇ τοῦ πάσχα. Καὶ ὅτε ἐγένετο ἐτῶν δώδεκα, ἀναβαινόντων αὐτῶν κατὰ τὸ ἔθος τῆς ἑορτῆς καὶ τελειωσάντων τὰς ἡμέρας, ἐν τῷ ὑποστρέφειν αὐτοὺς ὑπέμεινεν Ἱησοῦς ὁ παῖς ἐν Ἱερουσαλήμ, καὶ οὐκ ἔγνωσαν οἱ γονεῖς αὐτοῦ. Νομίσαντες δὲ αὐτὸν εἶναι ἐν τῇ συνοδίᾳ ἦλθον ἡμέρας ὁδὸν καὶ ἀνεζήτουν αὐτὸν ἐν τοῖς συγγενεῦσιν καὶ τοῖς γνωστοῖς,καὶ μὴ εὑρόντες ὑπέστρεψαν εἰς Ἱερουσαλὴμ ἀναζητοῦντες αὐτόν. Καὶ ἐγένετο μετὰ ἡμέρας τρεῖς εὗρον αὐτὸν ἐν τῷ ἱερῷ καθεζόμενον ἐν μέσῳ τῶν διδασκάλων καὶ ἀκούοντα αὐτῶν καὶ ἐπερωτῶντα αὐτούς·ἐξίσταντο δὲ πάντες οἱ ἀκούοντες αὐτοῦ ἐπὶ τῇ συνέσει καὶ ταῖς ἀποκρίσεσιν αὐτοῦ. Καὶ ἰδόντες αὐτὸν ἐξεπλάγησαν, καὶ πρὸς αὐτὸν ἡ μήτηρ αὐτοῦ εἶπεν· Τέκνον, τί ἐποίησας ἡμῖν οὕτως; ἰδοὺ ὁ πατήρ σου κἀγὼ ὀδυνώμενοι ἐζητοῦμέν σε. Καὶ εἶπεν πρὸς αὐτούς· Τί ὅτι ἐζητεῖτέ με; οὐκ ᾔδειτε ὅτι ἐν τοῖς τοῦ πατρός μου δεῖ εἶναί με;καὶ αὐτοὶ οὐ ᾔ συνῆκαν τὸ ῥῆμα ὃ ἐλάλησεν αὐτοῖς. Καὶ κατέβη μετʼ αὐτῶν καὶ ἦλθεν εἰς Ναζαρέτ, καὶ ἦν ὑποτασσόμενος αὐτοῖς. Ἡ δὲ μήτηρ αὐτοῦ διετήρει πάντα τὰ ῥήματα ἐν τῇ καρδίᾳ αὐτῆς. Καὶ Ἱησοῦς προέκοπτεν σοφίᾳ καὶ ἡλικίᾳ καὶ χάριτι παρὰ Θεῷ καὶ ἀνθρώποις."
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m01.d01_gr_GR_cog.lemeLI.Gospel.pagenumber

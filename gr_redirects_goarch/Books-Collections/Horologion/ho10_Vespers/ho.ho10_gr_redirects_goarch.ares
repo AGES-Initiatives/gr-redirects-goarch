@@ -1,109 +1,109 @@
 A_Resource_Whose_Name = ho.ho10_gr_redirects_goarch
 
-hoVE.title = ""
+hoVE.title = ho.ho10_gr_GR_cog.hoVE.title
 
-hoVE.MM.entry.text = ""
-R01 = ""
-R02 = ""
-hoVE.Ps103.text = ""
-hoVE.MM.Anoixantaria.text = ""
-hoVE.MM.Kathisma11.text = ""
-hoVE.MM.Kathisma11.selection01.text = ""
-R03 = ""
-R04 = ""
-R05 = ""
-R06 = ""
-R07 = ""
-R08 = ""
-R09 = ""
-hoVE.FosIlaron.title = ""
-R10 = ""
-hoVE.FosIlaron.incipit = ""
-hoVE.FosIlaron.text = ""
-R11 = ""
+hoVE.MM.entry.text = ho.ho10_gr_GR_cog.hoVE.MM.entry.text
+R01 = ho.ho10_gr_GR_cog.R01
+R02 = ho.ho10_gr_GR_cog.R02
+hoVE.Ps103.text = ho.ho10_gr_GR_cog.hoVE.Ps103.text
+hoVE.MM.Anoixantaria.text = ho.ho10_gr_GR_cog.hoVE.MM.Anoixantaria.text
+hoVE.MM.Kathisma11.text = ho.ho10_gr_GR_cog.hoVE.MM.Kathisma11.text
+hoVE.MM.Kathisma11.selection01.text = ho.ho10_gr_GR_cog.hoVE.MM.Kathisma11.selection01.text
+R03 = ho.ho10_gr_GR_cog.R03
+R04 = ho.ho10_gr_GR_cog.R04
+R05 = ho.ho10_gr_GR_cog.R05
+R06 = ho.ho10_gr_GR_cog.R06
+R07 = ho.ho10_gr_GR_cog.R07
+R08 = ho.ho10_gr_GR_cog.R08
+R09 = ho.ho10_gr_GR_cog.R09
+hoVE.FosIlaron.title = ho.ho10_gr_GR_cog.hoVE.FosIlaron.title
+R10 = ho.ho10_gr_GR_cog.R10
+hoVE.FosIlaron.incipit = ho.ho10_gr_GR_cog.hoVE.FosIlaron.incipit
+hoVE.FosIlaron.text = ho.ho10_gr_GR_cog.hoVE.FosIlaron.text
+R11 = ho.ho10_gr_GR_cog.R11
 
-hoVE.SundayEvening.title = ""
-hoVE.MM.SundayProkeimenon.text = ""
+hoVE.SundayEvening.title = ho.ho10_gr_GR_cog.hoVE.SundayEvening.title
+hoVE.MM.SundayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.SundayProkeimenon.text
 
-hoVE.MondayEvening.title = ""
-hoVE.MM.MondayProkeimenon.text = ""
+hoVE.MondayEvening.title = ho.ho10_gr_GR_cog.hoVE.MondayEvening.title
+hoVE.MM.MondayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.MondayProkeimenon.text
 
-hoVE.TuesdayEvening.title = ""
-hoVE.MM.TuesdayProkeimenon.text = ""
+hoVE.TuesdayEvening.title = ho.ho10_gr_GR_cog.hoVE.TuesdayEvening.title
+hoVE.MM.TuesdayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.TuesdayProkeimenon.text
 
-hoVE.WednesdayEvening.title = ""
-hoVE.MM.WednesdayProkeimenon.text = ""
+hoVE.WednesdayEvening.title = ho.ho10_gr_GR_cog.hoVE.WednesdayEvening.title
+hoVE.MM.WednesdayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.WednesdayProkeimenon.text
 
-hoVE.ThursdayEvening.title = ""
-hoVE.MM.ThursdayProkeimenon.text = ""
+hoVE.ThursdayEvening.title = ho.ho10_gr_GR_cog.hoVE.ThursdayEvening.title
+hoVE.MM.ThursdayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.ThursdayProkeimenon.text
 
-hoVE.FridayEvening.title = ""
-hoVE.MM.FridayProkeimenon.text = ""
+hoVE.FridayEvening.title = ho.ho10_gr_GR_cog.hoVE.FridayEvening.title
+hoVE.MM.FridayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.FridayProkeimenon.text
 
-hoVE.SaturdayEvening.title = ""
-hoVE.MM.SaturdayProkeimenon.text = ""
+hoVE.SaturdayEvening.title = ho.ho10_gr_GR_cog.hoVE.SaturdayEvening.title
+hoVE.MM.SaturdayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.SaturdayProkeimenon.text
 
-hoVE.MM.GreatProkeimenonTisTheosMegas.text = ""
-hoVE.MM.GreatProkeimenonOTheosImon.text = ""
-hoVE.MM.GreatProkeimenonLent1.text = ""
-hoVE.MM.GreatProkeimenonLent2.text = ""
+hoVE.MM.GreatProkeimenonTisTheosMegas.text = ho.ho10_gr_GR_cog.hoVE.MM.GreatProkeimenonTisTheosMegas.text
+hoVE.MM.GreatProkeimenonOTheosImon.text = ho.ho10_gr_GR_cog.hoVE.MM.GreatProkeimenonOTheosImon.text
+hoVE.MM.GreatProkeimenonLent1.text = ho.ho10_gr_GR_cog.hoVE.MM.GreatProkeimenonLent1.text
+hoVE.MM.GreatProkeimenonLent2.text = ho.ho10_gr_GR_cog.hoVE.MM.GreatProkeimenonLent2.text
 
-hoVE.MM.GoodFridayProkeimenon.text = ""
-hoVE.MM.EasterSundayEveningProkeimenon.text = ""
-hoVE.MM.BrightMondayEveningProkeimenon.text = ""
-hoVE.MM.BrightTuesdayEveningProkeimenon.text = ""
-hoVE.MM.BrightWednesdayEveningProkeimenon.text = ""
-hoVE.MM.BrightThursdayEveningProkeimenon.text = ""
-hoVE.MM.BrightFridayEveningProkeimenon.text = ""
+hoVE.MM.GoodFridayProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.GoodFridayProkeimenon.text
+hoVE.MM.EasterSundayEveningProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.EasterSundayEveningProkeimenon.text
+hoVE.MM.BrightMondayEveningProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.BrightMondayEveningProkeimenon.text
+hoVE.MM.BrightTuesdayEveningProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.BrightTuesdayEveningProkeimenon.text
+hoVE.MM.BrightWednesdayEveningProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.BrightWednesdayEveningProkeimenon.text
+hoVE.MM.BrightThursdayEveningProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.BrightThursdayEveningProkeimenon.text
+hoVE.MM.BrightFridayEveningProkeimenon.text = ho.ho10_gr_GR_cog.hoVE.MM.BrightFridayEveningProkeimenon.text
 
-R12 = ""
-R13 = ""
-R14 = ""
-hoVE.MondayAlleluia.title = ""
-hoVE.MondayAlleluia.text = ""
+R12 = ho.ho10_gr_GR_cog.R12
+R13 = ho.ho10_gr_GR_cog.R13
+R14 = ho.ho10_gr_GR_cog.R14
+hoVE.MondayAlleluia.title = ho.ho10_gr_GR_cog.hoVE.MondayAlleluia.title
+hoVE.MondayAlleluia.text = ho.ho10_gr_GR_cog.hoVE.MondayAlleluia.text
 
-hoVE.TuesdayThursdayAlleluia.title = ""
-hoVE.TuesdayThursdayAlleluia.text = ""
+hoVE.TuesdayThursdayAlleluia.title = ho.ho10_gr_GR_cog.hoVE.TuesdayThursdayAlleluia.title
+hoVE.TuesdayThursdayAlleluia.text = ho.ho10_gr_GR_cog.hoVE.TuesdayThursdayAlleluia.text
 
-hoVE.WednesdayAlleluia.title = ""
-hoVE.WednesdayAlleluia.text = ""
+hoVE.WednesdayAlleluia.title = ho.ho10_gr_GR_cog.hoVE.WednesdayAlleluia.title
+hoVE.WednesdayAlleluia.text = ho.ho10_gr_GR_cog.hoVE.WednesdayAlleluia.text
 
-hoVE.FridayAlleluia.title = ""
-hoVE.FridayAlleluia.text = ""
+hoVE.FridayAlleluia.title = ho.ho10_gr_GR_cog.hoVE.FridayAlleluia.title
+hoVE.FridayAlleluia.text = ho.ho10_gr_GR_cog.hoVE.FridayAlleluia.text
 
-R15 = ""
-R16 = ""
+R15 = ho.ho10_gr_GR_cog.R15
+R16 = ho.ho10_gr_GR_cog.R16
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and"night"
-hoVE.Prayer_Kataxioson.incipit = ""
-hoVE.Prayer_Kataxioson.text = ""
-R17 = ""
-R18 = ""
-R19 = ""
-R20 = ""
-R21 = ""
-hoVE.LentApolytikion1.mode = ""
-hoVE.LentApolytikion1.incipit = ""
-hoVE.LentApolytikion1.text = ""
-hoVE.LentApolytikion2.mode = ""
-hoVE.LentApolytikion2.incipit = ""
-hoVE.LentApolytikion2.text = ""
-hoVE.LentApolytikion3.mode = ""
-hoVE.LentApolytikion3.incipit = ""
-hoVE.LentApolytikion3.text = ""
-hoVE.LentApolytikion4.note = ""
-hoVE.LentApolytikion4.mode = ""
-hoVE.LentApolytikion4.incipit = ""
-hoVE.LentApolytikion4.text = ""
-R22 = ""
-R23 = ""
-R24 = ""
-R25 = ""
-R26 = ""
+hoVE.Prayer_Kataxioson.incipit = ho.ho10_gr_GR_cog.hoVE.Prayer_Kataxioson.incipit
+hoVE.Prayer_Kataxioson.text = ho.ho10_gr_GR_cog.hoVE.Prayer_Kataxioson.text
+R17 = ho.ho10_gr_GR_cog.R17
+R18 = ho.ho10_gr_GR_cog.R18
+R19 = ho.ho10_gr_GR_cog.R19
+R20 = ho.ho10_gr_GR_cog.R20
+R21 = ho.ho10_gr_GR_cog.R21
+hoVE.LentApolytikion1.mode = ho.ho10_gr_GR_cog.hoVE.LentApolytikion1.mode
+hoVE.LentApolytikion1.incipit = ho.ho10_gr_GR_cog.hoVE.LentApolytikion1.incipit
+hoVE.LentApolytikion1.text = ho.ho10_gr_GR_cog.hoVE.LentApolytikion1.text
+hoVE.LentApolytikion2.mode = ho.ho10_gr_GR_cog.hoVE.LentApolytikion2.mode
+hoVE.LentApolytikion2.incipit = ho.ho10_gr_GR_cog.hoVE.LentApolytikion2.incipit
+hoVE.LentApolytikion2.text = ho.ho10_gr_GR_cog.hoVE.LentApolytikion2.text
+hoVE.LentApolytikion3.mode = ho.ho10_gr_GR_cog.hoVE.LentApolytikion3.mode
+hoVE.LentApolytikion3.incipit = ho.ho10_gr_GR_cog.hoVE.LentApolytikion3.incipit
+hoVE.LentApolytikion3.text = ho.ho10_gr_GR_cog.hoVE.LentApolytikion3.text
+hoVE.LentApolytikion4.note = ho.ho10_gr_GR_cog.hoVE.LentApolytikion4.note
+hoVE.LentApolytikion4.mode = ho.ho10_gr_GR_cog.hoVE.LentApolytikion4.mode
+hoVE.LentApolytikion4.incipit = ho.ho10_gr_GR_cog.hoVE.LentApolytikion4.incipit
+hoVE.LentApolytikion4.text = ho.ho10_gr_GR_cog.hoVE.LentApolytikion4.text
+R22 = ho.ho10_gr_GR_cog.R22
+R23 = ho.ho10_gr_GR_cog.R23
+R24 = ho.ho10_gr_GR_cog.R24
+R25 = ho.ho10_gr_GR_cog.R25
+R26 = ho.ho10_gr_GR_cog.R26
 
 //Lity
-hoVE.MM.LityKyrieEleison.text = ""
+hoVE.MM.LityKyrieEleison.text = ho.ho10_gr_GR_cog.hoVE.MM.LityKyrieEleison.text
 
 // Blessing of Loaves
-hoVE.MM.LoavesHymn1_Theotokos.text = ""
-hoVE.MM.LoavesHymn2_ps33v11.text = ""
+hoVE.MM.LoavesHymn1_Theotokos.text = ho.ho10_gr_GR_cog.hoVE.MM.LoavesHymn1_Theotokos.text
+hoVE.MM.LoavesHymn2_ps33v11.text = ho.ho10_gr_GR_cog.hoVE.MM.LoavesHymn2_ps33v11.text
 

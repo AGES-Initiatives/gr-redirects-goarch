@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d072_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Τρίτη τῆς ΙΑʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Τρίτη τῆς ΙΑʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-leluLI.Gospel.chapverse = "ιθʹ 45 - 48"
-leluLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, εἰσελθὼν ὁ Ἰησοῦς εἰς τὸ ἱερὸν…"
-leluLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, εἰσελθὼν ὁ Ἰησοῦς εἰς τὸ ἱερὸν ἤρξατο ἐκβάλλειν τοὺς πωλοῦντας ἐν αὐτῷ καὶ ἀγοράζοντας λέγων αὐτοῖς· Γέγραπται ὅτι ὁ οἶκός μου οἶκος προσευχῆς ἐστιν· ὑμεῖς δὲ αὐτὸν ἐποιήσατε σπήλαιον λῃστῶν. Καὶ ἦν διδάσκων τὸ καθʼ ἡμέραν ἐν τῷ ἱερῷ· οἱ δὲ ἀρχιερεῖς καὶ οἱ γραμματεῖς ἐζήτουν αὐτὸν ἀπολέσαι καὶ οἱ πρῶτοι τοῦ λαοῦ, καὶ οὐχ εὕρισκον τὸ τί ποιήσουσιν· ὁ λαὸς γὰρ ἅπας ἐξεκρέματο αὐτοῦ ἀκούων."
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d072_gr_GR_cog.leluLI.Gospel.pagenumber

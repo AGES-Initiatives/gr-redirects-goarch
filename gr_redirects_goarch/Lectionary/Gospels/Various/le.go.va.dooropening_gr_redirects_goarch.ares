@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.go.va.dooropening_gr_redirects_goarch
 
-levaCDO.Gospel.title = "Εἰς τὰ Θυρανοίξια τοῦ Ναοῦ."
-levaCDO.Gospel.title_abbr = "Εἰς τὰ Θυρανοίξια τοῦ Ναοῦ."
-levaCDO.Gospel.version = properties_gr_redirects_goarch.version.designation
-levaCDO.Gospel.book_string = le.go.me.m06.d29_gr_redirects_goarch.lemeLI.Gospel.book_string
-levaCDO.Gospel.book_abbr = le.go.me.m06.d29_gr_redirects_goarch.lemeLI.Gospel.book_abbr
-levaCDO.Gospel.chapverse = le.go.me.m06.d29_gr_redirects_goarch.lemeLI.Gospel.chapverse
-levaCDO.Gospel.incipit = le.go.me.m06.d29_gr_redirects_goarch.lemeLI.Gospel.incipit
-levaCDO.Gospel.text = le.go.me.m06.d29_gr_redirects_goarch.lemeLI.Gospel.text
+levaCDO.Gospel.title = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.title
+levaCDO.Gospel.title_abbr = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.title_abbr
+levaCDO.Gospel.version = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.version
+levaCDO.Gospel.book_string = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.book_string
+levaCDO.Gospel.book_abbr = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.book_abbr
+levaCDO.Gospel.chapverse = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.chapverse
+levaCDO.Gospel.incipit = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.incipit
+levaCDO.Gospel.text = le.go.va.dooropening_gr_GR_cog.levaCDO.Gospel.text

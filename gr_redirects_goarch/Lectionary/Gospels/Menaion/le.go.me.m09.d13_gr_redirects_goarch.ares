@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m09.d13_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Προεόρτιον."
-lemeLI.Gospel.title_abbr = "Προεόρτιον."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.John.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.John.abbr
-lemeLI.Gospel.chapverse = "12:25-36"
-lemeLI.Gospel.incipit = "Εἶπεν ὁ Κύριος· Ὁ φιλῶν τὴν ψυχὴν αὐτοῦ ἀπολέσει…"
-lemeLI.Gospel.text = "Εἶπεν ὁ Κύριος· Ὁ φιλῶν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτήν, καὶ ὁ μισῶν τὴν ψυχὴν αὐτοῦ ἐν τῷ κόσμῳ τούτῳ, εἰς ζωὴν αἰώνιον φυλάξει αὐτήν. ἐὰν ἐμοὶ διακονῇ τις, ἐμοὶ ἀκολουθείτω, καὶ ὅπου εἰμὶ ἐγώ, ἐκεῖ καὶ ὁ διάκονος ὁ ἐμὸς ἔσται· καὶ ἐάν τις ἐμοὶ διακονῇ, τιμήσει αὐτὸν ὁ πατήρ. Νῦν ἡ ψυχή μου τετάρακται, καὶ τί εἴπω; πάτερ, σῶσόν με ἐκ τῆς ὥρας ταύτης. ἀλλὰ διά τοῦτο ἦλθον εἰς τὴν ὥραν ταύτην. πάτερ, δόξασόν σου τὸ ὄνομα. ἦλθεν οὖν φωνὴ ἐκ τοῦ οὐρανοῦ· καὶ ἐδόξασα καὶ πάλιν δοξάσω. ὁ οὖν ὄχλος ὁ ἑστὼς καὶ ἀκούσας ἔλεγε βροντὴν γεγονέναι· ἄλλοι ἔλεγον· ἄγγελος αὐτῷ λελάληκεν. ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν· οὐ διʼ ἐμὲ αὕτη ἡ φωνὴ γέγονεν, ἀλλὰ διʼ ὑμᾶς. νῦν κρίσις ἐστὶ τοῦ κόσμου τούτου, νῦν ὁ ἄρχων τοῦ κόσμου τούτου ἐκβληθήσεται ἔξω· κἀγὼ ἐὰν ὑψωθῶ ἐκ τῆς γῆς, πάντας ἑλκύσω πρὸς ἐμαυτόν. τοῦτο δὲ ἔλεγε σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνήσκειν. ἀπεκρίθη αὐτῷ ὁ ὄχλος· ἡμεῖς ἠκούσαμεν ἐκ τοῦ νόμου ὅτι ὁ Χριστὸς μένει εἰς τὸν αἰῶνα, καὶ πῶς σὺ λέγεις, δεῖ ὑψωθῆναι τὸν υἱὸν τοῦ ἀνθρώπου; τίς ἐστιν οὗτος ὁ υἱὸς τοῦ ἀνθρώπου; εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἔτι μικρὸν χρόνον τὸ φῶς μεθʼ ὑμῶν ἐστι· περιπατεῖτε ἕως τὸ φῶς ἔχετε, ἵνα μὴ σκοτία ὑμᾶς καταλάβῃ· καὶ ὁ περιπατῶν ἐν τῇ σκοτίᾳ οὐκ οἶδε ποῦ ὑπάγει. ἕως τὸ φῶς ἔχετε, πιστεύετε εἰς τὸ φῶς, ἵνα υἱοὶ φωτὸς γένησθε."
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m09.d13_gr_GR_cog.lemeLI.Gospel.pagenumber

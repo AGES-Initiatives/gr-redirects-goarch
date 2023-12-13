@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = da.d1_gr_redirects_goarch
 
-daDay.text = ""
-daCommemoration.text = ""
+daDay.text = da.d1_gr_GR_cog.daDay.text
+daCommemoration.text = da.d1_gr_GR_cog.daCommemoration.text
 
-daVE.OnTheEveningBefore.text = ""
+daVE.OnTheEveningBefore.text = da.d1_gr_GR_cog.daVE.OnTheEveningBefore.text
 
-daLI.GospelAlleluia.text = ""
+daLI.GospelAlleluia.text = da.d1_gr_GR_cog.daLI.GospelAlleluia.text
 
-daLI.MM.CommunionHymn.text = ""
+daLI.MM.CommunionHymn.text = da.d1_gr_GR_cog.daLI.MM.CommunionHymn.text

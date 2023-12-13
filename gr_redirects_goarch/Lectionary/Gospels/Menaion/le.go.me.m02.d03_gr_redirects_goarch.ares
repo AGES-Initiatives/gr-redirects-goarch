@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m02.d03_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Μεθέορτον."
-lemeLI.Gospel.title_abbr = "Μεθέορτον."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-lemeLI.Gospel.chapverse = "2:25-38"
-lemeLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, ἦν ἄνθρωπος ἐν Ἱεροσολύμοις ᾧ ὄνομα…"
-lemeLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἦν ἄνθρωπος ἐν Ἱεροσολύμοις ᾧ ὄνομα Συμεών, καὶ ὁ ἄνθρωπος οὗτος δίκαιος καὶ εὐλαβής, προσδεχόμενος παράκλησιν τοῦ Ἰσραήλ, καὶ Πνεῦμα ἦν ῞Αγιον ἐπ᾿ αὐτόν·καὶ ἦν αὐτῷ κεχρηματισμένον ὑπὸ τοῦ Πνεύματος τοῦ Ἁγίου μὴ ἰδεῖν θάνατον πρὶν ἢ ἴδῃ τὸν Χριστὸν Κυρίου.καὶ ἦλθεν ἐν τῷ Πνεύματι εἰς τὸ ἱερόν· καὶ ἐν τῷ εἰσαγαγεῖν τοὺς γονεῖς τὸ παιδίον Ἰησοῦν τοῦ ποιῆσαι αὐτοὺς κατὰ τὸ εἰθισμένον τοῦ νόμου περὶ αὐτοῦ,καὶ αὐτὸς ἐδέξατο αὐτὸν εἰς τὰς ἀγκάλας αὐτοῦ καὶ εὐλόγησε τὸν Θεὸν καὶ εἶπε· νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ, ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον πάντων τῶν λαῶν, φῶς εἰς ἀποκάλυψιν ἐθνῶν καὶ δόξαν λαοῦ σου Ἰσραήλ. καὶ ἦν Ἰωσὴφ καὶ ἡ μήτηρ αὐτοῦ θαυμάζοντες ἐπὶ τοῖς λαλουμένοις περὶ αὐτοῦ.καὶ εὐλόγησεν αὐτοὺς Συμεὼν καὶ εἶπε πρὸς Μαριὰμ τὴν μητέρα αὐτοῦ· ἰδοὺ οὗτος κεῖται εἰς πτῶσιν καὶ ἀνάστασιν πολλῶν ἐν τῷ Ἰσραὴλ καὶ εἰς σημεῖον ἀντιλεγόμενον.καὶ σοῦ δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία, ὅπως ἂν ἀποκαλυφθῶσιν ἐκ πολλῶν καρδιῶν διαλογισμοί.Καὶ ἦν Ἄννα προφῆτις, θυγάτηρ Φανουήλ, ἐκ φυλῆς ᾿Ασήρ· αὕτη προβεβηκυῖα ἐν ἡμέραις πολλαῖς, ζήσασα ἔτη μετὰ ἀνδρὸς ἑπτὰ ἀπὸ τῆς παρθενίας αὐτῆς,καὶ αὐτὴ χήρα ὡς ἐτῶν ὀγδοήκοντα τεσσάρων, ἣ οὐκ ἀφίστατο ἀπὸ τοῦ ἱεροῦ νηστείαις καὶ δεήσεσι λατρεύουσα νύκτα καὶ ἡμέραν·καὶ αὕτη αὐτῇ τῇ ὥρᾳ ἐπιστᾶσα ἀνθωμολογεῖτο τῷ Κυρίῳ καὶ ἐλάλει περὶ αὐτοῦ πᾶσι τοῖς προσδεχομένοις λύτρωσιν ἐν Ἱερουσαλήμ."
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m02.d03_gr_GR_cog.lemeLI.Gospel.pagenumber

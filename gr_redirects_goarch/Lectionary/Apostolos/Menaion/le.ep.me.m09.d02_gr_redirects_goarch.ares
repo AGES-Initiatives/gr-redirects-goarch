@@ -1,20 +1,20 @@
 A_Resource_Whose_Name = le.ep.me.m09.d02_gr_redirects_goarch
 
-lemeLI.Epistle.title = "Τοῦ Ἁγίου Μάμαντος."
-lemeLI.Epistle.title_abbr = "Τοῦ Ἁγίου Μάμαντος."
-lemeLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Epistle.book_string = bible_gr_redirects_goarch.Romans.text
-lemeLI.Epistle.book_abbr = bible_gr_redirects_goarch.Romans.abbr
-lemeLI.Epistle.chapverse = "8:28-39"
-lemeLI.Epistle.incipit = "Ἀδελφοί, οἴδαμεν ὅτι τοῖς ἀγαπῶσι τὸν Θεὸν πάντα συνεργεῖ…"
-lemeLI.Epistle.text = "Ἀδελφοί, οἴδαμεν ὅτι τοῖς ἀγαπῶσι τὸν Θεὸν πάντα συνεργεῖ εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν· ὅτι οὓς προέγνω, καὶ προώρισε συμμόρφους τῆς εἰκόνος τοῦ υἱοῦ αὐτοῦ, εἰς τὸ εἶναι αὐτὸν πρωτότοκον ἐν πολλοῖς ἀδελφοῖς· οὓς δὲ προώρισε, τούτους καὶ ἐκάλεσε, καὶ οὓς ἐκάλεσε, τούτους καὶ ἐδικαίωσεν, οὓς δὲ ἐδικαίωσε, τούτους καὶ ἐδόξασε. Τί οὖν ἐροῦμεν πρὸς ταῦτα; Εἰ ὁ Θεὸς ὑπὲρ ἡμῶν, τίς καθ᾿ ἡμῶν; Ὅς γε τοῦ ἰδίου υἱοῦ οὐκ ἐφείσατο, ἀλλ᾿ ὑπὲρ ἡμῶν πάντων παρέδωκεν αὐτόν, πῶς οὐχὶ καὶ σὺν αὐτῷ τὰ πάντα ἡμῖν χαρίσεται; Τίς ἐγκαλέσει κατὰ ἐκλεκτῶν Θεοῦ; Θεὸς ὁ δικαιῶν· τίς ὁ κατακρίνων; Χριστὸς ὁ ἀποθανών, μᾶλλον δὲ καὶ ἐγερθείς, ὃς καὶ ἔστιν ἐν δεξιᾷ τοῦ Θεοῦ, ὃς καὶ ἐντυγχάνει ὑπὲρ ἡμῶν. Τίς ἡμᾶς χωρίσει ἀπὸ τῆς ἀγάπης τοῦ Χριστοῦ; Θλῖψις ἢ στενοχωρία ἢ διωγμὸς ἢ λιμὸς ἢ γυμνότης ἢ κίνδυνος ἢ μάχαιρα; Καθὼς γέγραπται ὅτι «ἕνεκά σου θανατούμεθα ὅλην τὴν ἡμέραν· ἐλογίσθημεν ὡς πρόβατα σφαγῆς». Ἀλλ᾿ ἐν τούτοις πᾶσιν ὑπερνικῶμεν διὰ τοῦ ἀγαπήσαντος ἡμᾶς. Πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε ὕψωμα οὔτε βάθος οὔτε τις κτίσις ἑτέρα δυνήσεται ἡμᾶς χωρίσαι ἀπὸ τῆς ἀγάπης τοῦ Θεοῦ τῆς ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν."
-lemeLI.Epistle.pagenumber = ""
+lemeLI.Epistle.title = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.title
+lemeLI.Epistle.title_abbr = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.title_abbr
+lemeLI.Epistle.version = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.version
+lemeLI.Epistle.book_string = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.book_string
+lemeLI.Epistle.book_abbr = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.book_abbr
+lemeLI.Epistle.chapverse = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.incipit
+lemeLI.Epistle.text = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.text
+lemeLI.Epistle.pagenumber = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle.pagenumber
 
-lemeLI.Epistle2.title = "Τοῦ Ἁγίου Ἰωάννου."
-lemeLI.Epistle2.title_abbr = "Τοῦ Ἁγίου Ἰωάννου."
-lemeLI.Epistle2.version = le.ep.me.m11.d13_gr_redirects_goarch.lemeLI.Epistle.version
-lemeLI.Epistle2.book_string = le.ep.me.m11.d13_gr_redirects_goarch.lemeLI.Epistle.book_string
-lemeLI.Epistle2.book_abbr = le.ep.me.m11.d13_gr_redirects_goarch.lemeLI.Epistle.book_abbr
-lemeLI.Epistle2.chapverse = le.ep.me.m11.d13_gr_redirects_goarch.lemeLI.Epistle.chapverse
-lemeLI.Epistle2.incipit = le.ep.me.m11.d13_gr_redirects_goarch.lemeLI.Epistle.incipit
-lemeLI.Epistle2.text = le.ep.me.m11.d13_gr_redirects_goarch.lemeLI.Epistle.text
+lemeLI.Epistle2.title = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.title
+lemeLI.Epistle2.title_abbr = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.title_abbr
+lemeLI.Epistle2.version = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.version
+lemeLI.Epistle2.book_string = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.book_string
+lemeLI.Epistle2.book_abbr = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.book_abbr
+lemeLI.Epistle2.chapverse = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.chapverse
+lemeLI.Epistle2.incipit = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.incipit
+lemeLI.Epistle2.text = le.ep.me.m09.d02_gr_GR_cog.lemeLI.Epistle2.text

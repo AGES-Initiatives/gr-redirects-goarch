@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d048_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Σάββατον τῆς Ζʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Σάββατον τῆς Ζʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-leluLI.Gospel.chapverse = "θʹ 1 - 6"
-leluLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, συγκαλεσάμενος ὁ Ἰησοῦς τοὺς δώδεκα μαθητὰς…"
-leluLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, συγκαλεσάμενος ὁ Ἰησοῦς τοὺς δώδεκα μαθητὰς αὐτοῦ ἔδωκεν αὐτοῖς δύναμιν καὶ ἐξουσίαν ἐπὶ πάντα τὰ δαιμόνια καὶ νόσους θεραπεύειν· καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν βασιλείαν τοῦ Θεοῦ καὶ ἰᾶσθαι τοὺς ἀσθενοῦντας, καὶ εἶπε πρὸς αὐτούς· Μηδὲν αἴρετε εἰς τὴν ὁδόν, μήτε ῥάβδους μήτε πήραν μήτε ἄρτον μήτε ἀργύριον μήτε ἀνὰ δύο χιτῶνας ἔχειν. καὶ εἰς ἣν ἂν οἰκίαν εἰσέλθητε, ἐκεῖ μένετε καὶ ἐκεῖθεν ἐξέρχεσθε. καὶ ὅσοι ἐὰν μὴ δέξωνται ὑμᾶς, ἐξερχόμενοι ἀπὸ τῆς πόλεως ἐκείνης τὸν κονιορτὸν ἀπὸ τῶν ποδῶν ὑμῶν ἀποτινάξατε εἰς μαρτύριον ἐπʼ αὐτούς. ἐξερχόμενοι δὲ διήρχοντο κατὰ τὰς κώμας εὐαγγελιζόμενοι καὶ θεραπεύοντες πανταχοῦ."
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d048_gr_GR_cog.leluLI.Gospel.pagenumber

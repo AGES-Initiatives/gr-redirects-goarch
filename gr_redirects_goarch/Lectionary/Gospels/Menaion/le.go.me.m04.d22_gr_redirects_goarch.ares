@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m04.d22_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Τοῦ Ὁσίου."
-lemeLI.Gospel.title_abbr = "Τοῦ Ὁσίου."
-lemeLI.Gospel.version = le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.version
-lemeLI.Gospel.book_string = le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.book_string
-lemeLI.Gospel.book_abbr = le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.book_abbr
-lemeLI.Gospel.chapverse = le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.chapverse
-lemeLI.Gospel.incipit = le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.incipit
-lemeLI.Gospel.text = le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.text
-lemeLI.Gospel.pagenumber = "" //le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.pagemumber
+lemeLI.Gospel.title = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m04.d22_gr_GR_cog.lemeLI.Gospel.pagenumber // le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.pagemumber

@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = le.pr.me.r97_gr_redirects_goarch
 
-leprVE.reading.title = ""
-leprVE.reading.title_abbr = ""
-leprVE.reading.version = properties_gr_redirects_goarch.version.designation
-leprVE.reading.book_string = le.pr.me.r91_gr_redirects_goarch.leprVE.reading.book_string
-leprVE.reading.book_abbr = le.pr.me.r91_gr_redirects_goarch.leprVE.reading.book_abbr
-leprVE.reading.chapverse = le.pr.me.r91_gr_redirects_goarch.leprVE.reading.chapverse
-leprVE.reading.text = le.pr.me.r91_gr_redirects_goarch.leprVE.reading.text
+leprVE.reading.title = le.pr.me.r97_gr_GR_cog.leprVE.reading.title
+leprVE.reading.title_abbr = le.pr.me.r97_gr_GR_cog.leprVE.reading.title_abbr
+leprVE.reading.version = le.pr.me.r97_gr_GR_cog.leprVE.reading.version
+leprVE.reading.book_string = le.pr.me.r97_gr_GR_cog.leprVE.reading.book_string
+leprVE.reading.book_abbr = le.pr.me.r97_gr_GR_cog.leprVE.reading.book_abbr
+leprVE.reading.chapverse = le.pr.me.r97_gr_GR_cog.leprVE.reading.chapverse
+leprVE.reading.text = le.pr.me.r97_gr_GR_cog.leprVE.reading.text

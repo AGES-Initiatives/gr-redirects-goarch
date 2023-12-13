@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d332_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Τρίτη ΛΑʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Τρίτη ΛΑʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Hebrews.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Hebrews.abbr
-lemcLI.Epistle.chapverse = "12:25-27, 13:22-25"
-lemcLI.Epistle.incipit = "Ἀδελφοί, βλέπετε μὴ παραιτήσησθε τὸν λαλοῦντα· εἰ γὰρ ἐκεῖνοι…"
-lemcLI.Epistle.text = "Ἀδελφοί, βλέπετε μὴ παραιτήσησθε τὸν λαλοῦντα· εἰ γὰρ ἐκεῖνοι οὐκ ἔφυγον τὸν ἐπὶ τῆς γῆς παραιτησάμενοι χρηματίζοντα, πολλῷ μᾶλλον ἡμεῖς οἱ τὸν ἀπʼ οὐρανῶν ἀποστρεφόμενοι· οὗ ἡ φωνὴ τὴν γῆν ἐσάλευσε τότε, νῦν δὲ ἐπήγγελται λέγων· ἔτι ἅπαξ ἐγὼ σείω οὐ μόνον τὴν γῆν, ἀλλὰ καὶ τὸν οὐρανόν. Τὸ δὲ ἔτι ἅπαξ δηλοῖ τῶν σαλευομένων τὴν μετάθεσιν ὡς πεποιημένων, ἵνα μείνῃ τὰ μὴ σαλευόμενα. Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, ἀνέχεσθε τοῦ λόγου τῆς παρακλήσεως· καὶ γὰρ διὰ βραχέων ἐπέστειλα ὑμῖν. Γινώσκετε τὸν ἀδελφὸν Τιμόθεον ἀπολελυμένον, μεθʼ οὗ, (ἐὰν τάχιον ἔρχηται), ὄψομαι ὑμᾶς. Ἀσπάσασθε πάντας τοὺς ἡγουμένους ὑμῶν καὶ πάντας τοὺς ἁγίους. Ἀσπάζονται ὑμᾶς οἱ ἀπὸ τῆς Ἰταλίας. Ἡ χάρις μετὰ πάντων ὑμῶν· ἀμήν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d332_gr_GR_cog.lemcLI.Epistle.pagenumber

@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d043_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Κυριακὴ Γʹ τῶν Νηστειῶν"
-lemcLI.Epistle.title_abbr = "Κυρ. Γʹ τῶν Νηστειῶν"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Hebrews.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Hebrews.abbr
-lemcLI.Epistle.chapverse = "4:14-16, 5:1-6"
-lemcLI.Epistle.incipit = "Ἀδελφοί, ἔχοντες Ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν…"
-lemcLI.Epistle.text = "Ἀδελφοί, ἔχοντες Ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν Υἱὸν τοῦ Θεοῦ, κρατῶμεν τῆς ὁμολογίας. Οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἁμαρτίας. Προσερχώμεθα οὖν μετὰ παῤῥησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεον καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν. Πᾶς γὰρ Ἀρχιερεὺς ἐξ ἀνθρώπων λαμβανόμενος ὑπὲρ ἀνθρώπων καθίσταται τὰ πρὸς τὸν Θεόν, ἵνα προσφέρῃ δῶρά τε καὶ θυσίας ὑπὲρ ἁμαρτιῶν· μετριοπαθεῖν δυνάμενος τοῖς ἀγνοοῦσι καὶ πλανωμένοις, ἐπεὶ καὶ αὐτὸς περίκειται ἀσθένειαν· καὶ διὰ ταύτην ὀφείλει, καθὼς περὶ τοῦ λαοῦ, οὕτω καὶ περὶ ἑαυτοῦ προσφέρειν ὑπὲρ ἁμαρτιῶν. Καὶ οὐχ ἑαυτῷ τις λαμβάνει τὴν τιμήν, ἀλλὰ καλούμενος ὑπὸ τοῦ Θεοῦ, καθάπερ καὶ ὁ Ἀαρών. Οὔτω καὶ ὁ Χριστὸς οὐχ ἑαυτὸν ἐδόξασε γενηθῆναι ἀρχιερέα, ἀλλʼ ὁ λαλήσας πρὸς αὐτόν· Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε· καθὼς καὶ ἐν ἑτέρῳ λέγει· σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d043_gr_GR_cog.lemcLI.Epistle.pagenumber

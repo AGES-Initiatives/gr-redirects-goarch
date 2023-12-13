@@ -1,375 +1,375 @@
 A_Resource_Whose_Name = template.titles_gr_redirects_goarch 
 
 //books - collections
-eo = "ΕΩΘΙΝΑ"
-eu = "ΕΥΧΟΛΟΓΙΟΝ"
-he = "ΕΙΡΜΟΛΟΓΙΟΝ"
-hi = "ΙΕΡΑΤΙΚΟΝ"
-ho = "ΩΡΟΛΟΓΙΟΝ"
-ka = "ΚΑΤΑΒΑΣΙΑΙ"
-le = "ΑΝΑΓΝΩΣΜΑΤΑ" // this should be divided into three sections: prophecies, epistles, gospels
-me = "ΜΗΝΑΙΟΝ"
-oc = "ΟΚΤΩΗΧΟΣ"
-oc.html.tab = "ΟΚΤΩΗΧΟΣ"
-oc.pdf.header = "Ὀκτώηχος"
-oc.pdf.cover = "Ὀκτώηχος"
-pe = "ΠΕΝΤΗΚΟΣΤΑΡΙΟΝ"
-ps = "ΨΑΛΤΗΡΙΟΝ"
-sy = "ΣΥΝΑΞΑΡΙΟΝ"
-tr = "ΤΡΙΩΔΙΟΝ"
+eo = template.titles_gr_GR_cog.eo
+eu = template.titles_gr_GR_cog.eu
+he = template.titles_gr_GR_cog.he
+hi = template.titles_gr_GR_cog.hi
+ho = template.titles_gr_GR_cog.ho
+ka = template.titles_gr_GR_cog.ka
+le = template.titles_gr_GR_cog.le //  this should be divided into three sections: prophecies, epistles, gospels
+me = template.titles_gr_GR_cog.me
+oc = template.titles_gr_GR_cog.oc
+oc.html.tab = template.titles_gr_GR_cog.oc.html.tab
+oc.pdf.header = template.titles_gr_GR_cog.oc.pdf.header
+oc.pdf.cover = template.titles_gr_GR_cog.oc.pdf.cover
+pe = template.titles_gr_GR_cog.pe
+ps = template.titles_gr_GR_cog.ps
+sy = template.titles_gr_GR_cog.sy
+tr = template.titles_gr_GR_cog.tr
 
 //service days
-sat = "ΤΩ ΣΑΒΒΑΤΩ"
-sun = "ΤΗ ΚΥΡΙΑΚΗ"
-wkd = "ΚΑΘΗΜΕΡΙΝΗ"
+sat = template.titles_gr_GR_cog.sat
+sun = template.titles_gr_GR_cog.sun
+wkd = template.titles_gr_GR_cog.wkd
 
 //sacraments
-bap.html.tab = "ΒΑΠΤΙΣΜΑ"
-bap.pdf.header = "Τὸ Ἅγιον Βάπτισμα"
-bap.pdf.cover = "Τὸ Ἅγιον Βάπτισμα"
+bap.html.tab = template.titles_gr_GR_cog.bap.html.tab
+bap.pdf.header = template.titles_gr_GR_cog.bap.pdf.header
+bap.pdf.cover = template.titles_gr_GR_cog.bap.pdf.cover
 
-cdo.html.tab = "ΘΥΡΑΝΟΙΞΙΑ"
-cdo.pdf.header = "Θυρανοίξια Ναοῦ"
-cdo.pdf.cover = "Θυρανοίξια Ναοῦ"
+cdo.html.tab = template.titles_gr_GR_cog.cdo.html.tab
+cdo.pdf.header = template.titles_gr_GR_cog.cdo.pdf.header
+cdo.pdf.cover = template.titles_gr_GR_cog.cdo.pdf.cover
 
-chi.html.tab = "ΕΠΙ ΓΕΝΝΗΣΕΙ ΠΑΙΔΙΟΥ"
-chi.pdf.header = "Ἐπὶ Γεννήσει Παιδίου"
-chi.pdf.cover = "Ἐπὶ Γεννήσει Παιδίου"
+chi.html.tab = template.titles_gr_GR_cog.chi.html.tab
+chi.pdf.header = template.titles_gr_GR_cog.chi.pdf.header
+chi.pdf.cover = template.titles_gr_GR_cog.chi.pdf.cover
 
-con.html.tab = "ΕΓΚΑΙΝΙΑ"
-con.pdf.header = "ΤΑ ΕΓΚΑΙΝΙΑ"
-con.pdf.cover = "ΤΑ ΕΓΚΑΙΝΙΑ"
+con.html.tab = template.titles_gr_GR_cog.con.html.tab
+con.pdf.header = template.titles_gr_GR_cog.con.pdf.header
+con.pdf.cover = template.titles_gr_GR_cog.con.pdf.cover
 
-fun.html.tab = "ΚΗΔΕΙΑ"
-fun.pdf.header = "Νεκρώσιμος Ἀκολουθία"
-fun.pdf.cover = "Νεκρώσιμος Ἀκολουθία"
+fun.html.tab = template.titles_gr_GR_cog.fun.html.tab
+fun.pdf.header = template.titles_gr_GR_cog.fun.pdf.header
+fun.pdf.cover = template.titles_gr_GR_cog.fun.pdf.cover
 
-mem.html.tab = "ΜΝΗΜΟΣΥΝΟΝ"
-mem.pdf.header = "Ἀκολουθία ἐπὶ Μνημοσύνῳ"
-mem.pdf.cover = "Ἀκολουθία ἐπὶ Μνημοσύνῳ"
+mem.html.tab = template.titles_gr_GR_cog.mem.html.tab
+mem.pdf.header = template.titles_gr_GR_cog.mem.pdf.header
+mem.pdf.cover = template.titles_gr_GR_cog.mem.pdf.cover
 
-ord.html.tab = "ΧΕΙΡΟΤΟΝΙΑ"
-ord.pdf.header = "Χειροτονία"
-ord.pdf.cover = "Χειροτονία"
+ord.html.tab = template.titles_gr_GR_cog.ord.html.tab
+ord.pdf.header = template.titles_gr_GR_cog.ord.pdf.header
+ord.pdf.cover = template.titles_gr_GR_cog.ord.pdf.cover
 
-pen.html.tab = "ΕΧΟΜΟΛΟΓΗΣΙΣ"
-pen.pdf.header = "Ἱερὰ Ἐξομολόγησις"
-pen.pdf.cover = "Ἱερὰ Ἐξομολόγησις"
+pen.html.tab = template.titles_gr_GR_cog.pen.html.tab
+pen.pdf.header = template.titles_gr_GR_cog.pen.pdf.header
+pen.pdf.cover = template.titles_gr_GR_cog.pen.pdf.cover
 
-swb.html.tab = "ΜΙΚΡΟΣ ΑΓΙΑΣΜΟΣ"
-swb.pdf.header = "Ἀκολουθία τοῦ Μικροῦ Ἁγιασμοῦ"
-swb.pdf.cover = "Ἀκολουθία τοῦ Μικροῦ Ἁγιασμοῦ"
+swb.html.tab = template.titles_gr_GR_cog.swb.html.tab
+swb.pdf.header = template.titles_gr_GR_cog.swb.pdf.header
+swb.pdf.cover = template.titles_gr_GR_cog.swb.pdf.cover
 
-unc.html.tab = "ΕΥΧΕΛΑΙΟΝ"
-unc.pdf.header = "Ἀκολουθία τοῦ Εὐχελαίου"
-unc.pdf.cover = "Ἀκολουθία τοῦ Εὐχελαίου"
+unc.html.tab = template.titles_gr_GR_cog.unc.html.tab
+unc.pdf.header = template.titles_gr_GR_cog.unc.pdf.header
+unc.pdf.cover = template.titles_gr_GR_cog.unc.pdf.cover
 
-wed.html.tab = "ΓΑΜΟΣ"
-wed.pdf.header = "Ἀκολουθία τοῦ Γάμου"
-wed.pdf.cover = "Ἀκολουθία τοῦ Γάμου"
+wed.html.tab = template.titles_gr_GR_cog.wed.html.tab
+wed.pdf.header = template.titles_gr_GR_cog.wed.pdf.header
+wed.pdf.cover = template.titles_gr_GR_cog.wed.pdf.cover
 
 //service names
-service = "Ἀκολουθία"
+service = template.titles_gr_GR_cog.service
 
-co.html.tab = "ΑΠΟΔΕΙΠΝΟΝ"
-co.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ"
-co.pdf.cover = "Ἀκολουθία τοῦ Ἀποδείπνου"
-co.smallcompline.html.tab = "Ἀπόδειπνον Μικρόν"
-co.smallcompline.pdf.cover = "Ἀπόδειπνον Μικρόν"
-co.smallcompline.pdf.header = "(ΜΙΚΡΟΝ)"
-co.smallcomplinewithcanon.html.tab = "Ἀπόδειπνον Μικρὸν καὶ Κανών"
-co.smallcomplinewithcanon.pdf.cover = "Ἀπόδειπνον Μικρὸν καὶ Κανών"
-co.smallcomplinewithcanon.pdf.header = "ΑΠΟΔΕΙΠΝΟΝ ΜΙΚΡΟΝ ΚΑΙ ΚΑΝΩΝ"
-co.akathist.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΑΚΑΘΙΣΤΟΣ"
-co.akathist.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος"
-co.akathist.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος"
-co.salutations.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
-co.salutations.pdf.header = "(ΜΙΚΡΟΝ) ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
-co.greatcanon.html.tab = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
-co.greatcanon.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
-co.greatcanon.pdf.header = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΜΕΓΑΣ ΚΑΝΩΝ"
-co.greatcompline.pdf.cover = "Ἀπόδειπνον Μέγα"
-co.greatcompline.pdf.header = "(ΜΕΓΑ)"
-co.christmasvigil.html.tab = "ΑΓΡΥΠΝΙΑ ΤΩΝ ΧΡΙΣΤΟΥΓΕΝΝΩΝ"
-co.christmasvigil.pdf.cover = "Ἀγρυπνία τῶν Χριστουγέννων - Ἀπόδειπνον, Λιτή, Τέλος Ἑσπερινοῦ"
-co.christmasvigil.pdf.header = "Ἀγρυπνία τῶν Χριστουγέννων"
-co.epiphanyvigil.html.tab = "ΑΓΡΥΠΝΙΑ ΤΩΝ ΦΩΤΩΝ"
-co.epiphanyvigil.pdf.cover = "Ἀγρυπνία τῶν Φώτων - Ἀπόδειπνον, Λιτή, Τέλος Ἑσπερινοῦ"
-co.epiphanyvigil.pdf.header = "Ἀγρυπνία τῶν Φώτων"
+co.html.tab = template.titles_gr_GR_cog.co.html.tab
+co.pdf.header = template.titles_gr_GR_cog.co.pdf.header
+co.pdf.cover = template.titles_gr_GR_cog.co.pdf.cover
+co.smallcompline.html.tab = template.titles_gr_GR_cog.co.smallcompline.html.tab
+co.smallcompline.pdf.cover = template.titles_gr_GR_cog.co.smallcompline.pdf.cover
+co.smallcompline.pdf.header = template.titles_gr_GR_cog.co.smallcompline.pdf.header
+co.smallcomplinewithcanon.html.tab = template.titles_gr_GR_cog.co.smallcomplinewithcanon.html.tab
+co.smallcomplinewithcanon.pdf.cover = template.titles_gr_GR_cog.co.smallcomplinewithcanon.pdf.cover
+co.smallcomplinewithcanon.pdf.header = template.titles_gr_GR_cog.co.smallcomplinewithcanon.pdf.header
+co.akathist.html.tab = template.titles_gr_GR_cog.co.akathist.html.tab
+co.akathist.pdf.header = template.titles_gr_GR_cog.co.akathist.pdf.header
+co.akathist.pdf.cover = template.titles_gr_GR_cog.co.akathist.pdf.cover
+co.salutations.pdf.cover = template.titles_gr_GR_cog.co.salutations.pdf.cover
+co.salutations.pdf.header = template.titles_gr_GR_cog.co.salutations.pdf.header
+co.greatcanon.html.tab = template.titles_gr_GR_cog.co.greatcanon.html.tab
+co.greatcanon.pdf.cover = template.titles_gr_GR_cog.co.greatcanon.pdf.cover
+co.greatcanon.pdf.header = template.titles_gr_GR_cog.co.greatcanon.pdf.header
+co.greatcompline.pdf.cover = template.titles_gr_GR_cog.co.greatcompline.pdf.cover
+co.greatcompline.pdf.header = template.titles_gr_GR_cog.co.greatcompline.pdf.header
+co.christmasvigil.html.tab = template.titles_gr_GR_cog.co.christmasvigil.html.tab
+co.christmasvigil.pdf.cover = template.titles_gr_GR_cog.co.christmasvigil.pdf.cover
+co.christmasvigil.pdf.header = template.titles_gr_GR_cog.co.christmasvigil.pdf.header
+co.epiphanyvigil.html.tab = template.titles_gr_GR_cog.co.epiphanyvigil.html.tab
+co.epiphanyvigil.pdf.cover = template.titles_gr_GR_cog.co.epiphanyvigil.pdf.cover
+co.epiphanyvigil.pdf.header = template.titles_gr_GR_cog.co.epiphanyvigil.pdf.header
 
-co1.html.tab = "ΠΑΝΝΥΧΙΣ" //this is the pre-resurrection service of Pascha
-co1.pdf.header = "Παννυχίς"
-co1.pdf.cover = "Παννυχίς"
+co1.html.tab = template.titles_gr_GR_cog.co1.html.tab // this is the pre-resurrection service of Pascha
+co1.pdf.header = template.titles_gr_GR_cog.co1.pdf.header
+co1.pdf.cover = template.titles_gr_GR_cog.co1.pdf.cover
 
-co2.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ" 
-co2.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
-co2.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Χαιρετισμοί"
+co2.html.tab = template.titles_gr_GR_cog.co2.html.tab
+co2.pdf.header = template.titles_gr_GR_cog.co2.pdf.header
+co2.pdf.cover = template.titles_gr_GR_cog.co2.pdf.cover
 
-co3.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΑΚΑΘΙΣΤΟΣ" 
-co3.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος Ὕμνος"
-co3.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Ἀκάθιστος Ὕμνος"
+co3.html.tab = template.titles_gr_GR_cog.co3.html.tab
+co3.pdf.header = template.titles_gr_GR_cog.co3.pdf.header
+co3.pdf.cover = template.titles_gr_GR_cog.co3.pdf.cover
 
-co4.html.tab = "ΜΙΚΡΟΝ ΑΠΟΔΕΙΠΝΟΝ ΚΑΙ ΜΕΓΑΣ ΚΑΝΩΝ" 
-co4.pdf.header = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
-co4.pdf.cover = "Μικρὸν Ἀπόδειπνον καὶ Μέγας Κανών"
+co4.html.tab = template.titles_gr_GR_cog.co4.html.tab
+co4.pdf.header = template.titles_gr_GR_cog.co4.pdf.header
+co4.pdf.cover = template.titles_gr_GR_cog.co4.pdf.cover
 
-co6.html.tab = "ΑΠΟΔΕΙΠΝΟΝ ΤΟΥ ΠΑΣΧΑ"
-co6.pdf.header = "Ἀπόδειπνον τοῦ Πάσχα"
-co6.pdf.cover = "Ἀπόδειπνον τοῦ Πάσχα"
+co6.html.tab = template.titles_gr_GR_cog.co6.html.tab
+co6.pdf.header = template.titles_gr_GR_cog.co6.pdf.header
+co6.pdf.cover = template.titles_gr_GR_cog.co6.pdf.cover
 
-dr.html.tab = "ΚΑΘΗΜΕΡΙΝΑ ΚΕΙΜΕΝΑ"
-dr.pdf.header = "Καθημερινὰ κείμενα"
-dr.pdf.cover = "Καθημερινὰ κείμενα"
+dr.html.tab = template.titles_gr_GR_cog.dr.html.tab
+dr.pdf.header = template.titles_gr_GR_cog.dr.pdf.header
+dr.pdf.cover = template.titles_gr_GR_cog.dr.pdf.cover
 
-em.html.tab = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
-em.pdf.header = "Ὄρθρος"
-em.pdf.cover = "Ὄρθρος"
+em.html.tab = template.titles_gr_GR_cog.em.html.tab // this is for Matins in the evening during Holy Week
+em.pdf.header = template.titles_gr_GR_cog.em.pdf.header
+em.pdf.cover = template.titles_gr_GR_cog.em.pdf.cover
 
-em3.html.tab = "ΕΠΙΤΑΦΙΟΣ ΘΡΗΝΟΣ" 
-em3.pdf.header = "Ἐπιτάφιος Θρῆνος"
-em3.pdf.cover = "Ἐπιτάφιος Θρῆνος"
+em3.html.tab = template.titles_gr_GR_cog.em3.html.tab
+em3.pdf.header = template.titles_gr_GR_cog.em3.pdf.header
+em3.pdf.cover = template.titles_gr_GR_cog.em3.pdf.cover
 
-gc.html.tab = "ΑΠΟΔΕΙΠΝΟΝ ΜΕΓΑ"
-gc.pdf.header = "Ἀπόδειπνον Μέγα"
-gc.pdf.cover = "Ἀπόδειπνον Μέγα"
+gc.html.tab = template.titles_gr_GR_cog.gc.html.tab
+gc.pdf.header = template.titles_gr_GR_cog.gc.pdf.header
+gc.pdf.cover = template.titles_gr_GR_cog.gc.pdf.cover
 
-gh.html.tab = "ΜΕΓΑΛΑΙ ΩΡΑΙ"
-gh.pdf.header = "Μεγάλαι Ὧραι"
-gh.pdf.cover = "Αἱ Μεγάλαι Ὧραι"
+gh.html.tab = template.titles_gr_GR_cog.gh.html.tab
+gh.pdf.header = template.titles_gr_GR_cog.gh.pdf.header
+gh.pdf.cover = template.titles_gr_GR_cog.gh.pdf.cover
 
-gp.html.tab = "ΠΑΡΑΚΛΗΣΙΣ"
-gp.pdf.header = "Μέγας Παρακλητικὸς Κανών."
-gp.pdf.cover = "Ἀκολουθια τοῦ Μεγάλου Παρακλητικοῦ Κανόνος"
+gp.html.tab = template.titles_gr_GR_cog.gp.html.tab
+gp.pdf.header = template.titles_gr_GR_cog.gp.pdf.header
+gp.pdf.cover = template.titles_gr_GR_cog.gp.pdf.cover
 
-h1.html.tab = "ΠΡΩΤΗ ΩΡΑ"
-h1.pdf.header = "Ὥρα Αʹ"
-h1.pdf.cover = "Ἡ Πρώτη Ὥρα"
+h1.html.tab = template.titles_gr_GR_cog.h1.html.tab
+h1.pdf.header = template.titles_gr_GR_cog.h1.pdf.header
+h1.pdf.cover = template.titles_gr_GR_cog.h1.pdf.cover
 
-h13.html.tab = "ΑΙ ΩΡΑΙ ΤΟΥ ΠΑΣΧΑ"
-h13.pdf.header = "Αἱ Ὧραι τοῦ Πάσχα"
-h13.pdf.cover = "Αἱ Ὧραι τοῦ Πάσχα"
+h13.html.tab = template.titles_gr_GR_cog.h13.html.tab
+h13.pdf.header = template.titles_gr_GR_cog.h13.pdf.header
+h13.pdf.cover = template.titles_gr_GR_cog.h13.pdf.cover
 
-h3.html.tab = "ΤΡΙΤΗ ΩΡΑ"
-h3.pdf.header = "Ὥρα Γʹ"
-h3.pdf.cover = "Ἡ Τρίτη Ὥρα"
+h3.html.tab = template.titles_gr_GR_cog.h3.html.tab
+h3.pdf.header = template.titles_gr_GR_cog.h3.pdf.header
+h3.pdf.cover = template.titles_gr_GR_cog.h3.pdf.cover
 
-h36.html.tab = "Η ΤΡΙΘΕΚΤΗ"
-h36.pdf.header = "Ἡ Τριθέκτη"
-h36.pdf.cover = "Ἡ Τριθέκτη"
+h36.html.tab = template.titles_gr_GR_cog.h36.html.tab
+h36.pdf.header = template.titles_gr_GR_cog.h36.pdf.header
+h36.pdf.cover = template.titles_gr_GR_cog.h36.pdf.cover
 
-h6.html.tab = "ΕΚΤΗ ΩΡΑ"
-h6.pdf.header = "Ὥρα Ϛʹ"
-h6.pdf.cover = "Ἡ Ἕκτη Ὥρα"
+h6.html.tab = template.titles_gr_GR_cog.h6.html.tab
+h6.pdf.header = template.titles_gr_GR_cog.h6.pdf.header
+h6.pdf.cover = template.titles_gr_GR_cog.h6.pdf.cover
 
-h61.html.tab = "ΑΚΟΛΟΥΘΙΑ ΤΩΝ ΤΥΠΙΚΩΝ (ἄνευ ἱερέως)"
-h61.pdf.header = "Ἀκολουθία τῶν Τυπικῶν (ἄνευ ἱερέως)"
-h61.pdf.cover = "Ἀκολουθία τῶν Τυπικῶν (ἄνευ ἱερέως)"
+h61.html.tab = template.titles_gr_GR_cog.h61.html.tab
+h61.pdf.header = template.titles_gr_GR_cog.h61.pdf.header
+h61.pdf.cover = template.titles_gr_GR_cog.h61.pdf.cover
 
-h9.html.tab = "ΕΝΑΤΗ ΩΡΑ"
-h9.pdf.header = "Ὥρα Θʹ"
-h9.pdf.cover = "Ἡ Ἐνάτη Ὥρα"
+h9.html.tab = template.titles_gr_GR_cog.h9.html.tab
+h9.pdf.header = template.titles_gr_GR_cog.h9.pdf.header
+h9.pdf.cover = template.titles_gr_GR_cog.h9.pdf.cover
 
-h91.html.tab = "ΑΝΑΓΝΩΣΜΑΤΑ ΤΗΣ ΗΜΕΡΑΣ"
-h91.pdf.header = "Ἀναγνώσματα τῆς Ἡμέρας"
-h91.pdf.cover = "Ἀναγνώσματα τῆς Ἡμέρας"
+h91.html.tab = template.titles_gr_GR_cog.h91.html.tab
+h91.pdf.header = template.titles_gr_GR_cog.h91.pdf.header
+h91.pdf.cover = template.titles_gr_GR_cog.h91.pdf.cover
 
-h92.html.tab = "ΕΙΚΙΚΗ ΤΕΛΕΤΗ"
-h92.pdf.header = "Εἰκικὴ Τελετή"
-h92.pdf.cover = "Εἰκικὴ Τελετή"
+h92.html.tab = template.titles_gr_GR_cog.h92.html.tab
+h92.pdf.header = template.titles_gr_GR_cog.h92.pdf.header
+h92.pdf.cover = template.titles_gr_GR_cog.h92.pdf.cover
 
-hw.pdf.cover = "Μεγάλη Ἑβδομάδα"
+hw.pdf.cover = template.titles_gr_GR_cog.hw.pdf.cover
 
-li.html.tab = "ΛΕΙΤΟΥΡΓΙΑ"
-li.pdf.header = "Θεία Λειτουργία"
-li.pdf.cover = "Ἡ Θεία Λειτουργία"
+li.html.tab = template.titles_gr_GR_cog.li.html.tab
+li.pdf.header = template.titles_gr_GR_cog.li.pdf.header
+li.pdf.cover = template.titles_gr_GR_cog.li.pdf.cover
 
-li1.html.tab = "ΛΕΙΤΟΥΡΓΙΑ ΑΓΙΟΥ ΧΡΥΣΟΣΤΟΜΟΥ"
-li1.pdf.header = "Λειτουργία Ἁγίου Χρυσοστόμου"
-li1.pdf.cover = "Ἡ Θεία Λειτουργία τοῦ Ἁγίου Χρυσοστόμου"
+li1.html.tab = template.titles_gr_GR_cog.li1.html.tab
+li1.pdf.header = template.titles_gr_GR_cog.li1.pdf.header
+li1.pdf.cover = template.titles_gr_GR_cog.li1.pdf.cover
 
-li2.html.tab = "ΛΕΙΤΟΥΡΓΙΑ - ΜΕΤΑΒΛΗΤΑ"
-li2.pdf.header = "Λειτουργία - Μεταβλητά"
-li2.pdf.cover = "Ἡ Θεία Λειτουργία - Τὰ Μεταβλητά"
+li2.html.tab = template.titles_gr_GR_cog.li2.html.tab
+li2.pdf.header = template.titles_gr_GR_cog.li2.pdf.header
+li2.pdf.cover = template.titles_gr_GR_cog.li2.pdf.cover
 
-li3.html.tab = "ΛΕΙΤΟΥΡΓΙΑ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ"
-li3.pdf.header = "Λειτουργία Ἁγίου Βασιλείου"
-li3.pdf.cover = "Ἡ Θεία Λειτουργία τοῦ Ἁγίου Βασιλείου"
+li3.html.tab = template.titles_gr_GR_cog.li3.html.tab
+li3.pdf.header = template.titles_gr_GR_cog.li3.pdf.header
+li3.pdf.cover = template.titles_gr_GR_cog.li3.pdf.cover
 
-li4.html.tab = "ΛΕΙΤΟΥΡΓΙΑ ΙΑΚΩΒΟΥ"
-li4.pdf.header = "Λειτουργία Ἁγίου Ἰακώβου"
-li4.pdf.cover = "Ἡ Θεία Λειτουργία τοῦ Ἁγίου Ἰακώβου"
+li4.html.tab = template.titles_gr_GR_cog.li4.html.tab
+li4.pdf.header = template.titles_gr_GR_cog.li4.pdf.header
+li4.pdf.cover = template.titles_gr_GR_cog.li4.pdf.cover
 
-li5.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ ΧΡΥΣΟΣΤΟΜΟΥ"
-li5.pdf.header = "Ἀρχιερατικὴ Λειτουργία Ἁγίου Χρυσοστόμου"
-li5.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία Ἁγίου Χρυσοστόμου"
+li5.html.tab = template.titles_gr_GR_cog.li5.html.tab
+li5.pdf.header = template.titles_gr_GR_cog.li5.pdf.header
+li5.pdf.cover = template.titles_gr_GR_cog.li5.pdf.cover
 
-li6.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ ΒΑΣΙΛΕΙΟΥ"
-li6.pdf.header = "Ἀρχιερατικὴ Λειτουργία Ἁγίου Βασιλείου"
-li6.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία Ἁγίου Βασιλείου"
+li6.html.tab = template.titles_gr_GR_cog.li6.html.tab
+li6.pdf.header = template.titles_gr_GR_cog.li6.pdf.header
+li6.pdf.cover = template.titles_gr_GR_cog.li6.pdf.cover
 
-li7.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ ΙΑΚΩΒΟΥ"
-li7.pdf.header = "Ἀρχιερατικὴ Λειτουργία Ἁγίου Ἰακώβου"
-li7.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία Ἁγίου Ἰακώβου"
+li7.html.tab = template.titles_gr_GR_cog.li7.html.tab
+li7.pdf.header = template.titles_gr_GR_cog.li7.pdf.header
+li7.pdf.cover = template.titles_gr_GR_cog.li7.pdf.cover
 
-li8.html.tab = ""
-li8.pdf.header = ""
-li8.pdf.cover = ""
+li8.html.tab = template.titles_gr_GR_cog.li8.html.tab
+li8.pdf.header = template.titles_gr_GR_cog.li8.pdf.header
+li8.pdf.cover = template.titles_gr_GR_cog.li8.pdf.cover
 
-li9.html.tab = "ΑΡΧΙΕΡΑΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ"
-li9.pdf.header = "Ἀρχιερατικὴ Θεία Λειτουργία"
-li9.pdf.cover = "Ἀρχιερατικὴ Θεία Λειτουργία"
+li9.html.tab = template.titles_gr_GR_cog.li9.html.tab
+li9.pdf.header = template.titles_gr_GR_cog.li9.pdf.header
+li9.pdf.cover = template.titles_gr_GR_cog.li9.pdf.cover
 
-ma.html.tab = "ΟΡΘΡΟΣ"
-ma.pdf.header = "Ὄρθρος"
-ma.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+ma.html.tab = template.titles_gr_GR_cog.ma.html.tab
+ma.pdf.header = template.titles_gr_GR_cog.ma.pdf.header
+ma.pdf.cover = template.titles_gr_GR_cog.ma.pdf.cover
 
-ma2.html.tab = "ΟΡΘΡΟΣ"
-ma2.pdf.header = "Ὄρθρος"
-ma2.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+ma2.html.tab = template.titles_gr_GR_cog.ma2.html.tab
+ma2.pdf.header = template.titles_gr_GR_cog.ma2.pdf.header
+ma2.pdf.cover = template.titles_gr_GR_cog.ma2.pdf.cover
 
-ma3.html.tab = "ΟΡΘΡΟΣ"
-ma3.pdf.header = "Ὄρθρος"
-ma3.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+ma3.html.tab = template.titles_gr_GR_cog.ma3.html.tab
+ma3.pdf.header = template.titles_gr_GR_cog.ma3.pdf.header
+ma3.pdf.cover = template.titles_gr_GR_cog.ma3.pdf.cover
 
-ma4.html.tab = "ΟΡΘΡΟΣ"
-ma4.pdf.header = "Ὄρθρος"
-ma4.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+ma4.html.tab = template.titles_gr_GR_cog.ma4.html.tab
+ma4.pdf.header = template.titles_gr_GR_cog.ma4.pdf.header
+ma4.pdf.cover = template.titles_gr_GR_cog.ma4.pdf.cover
 
-ma5.html.tab = "ΟΡΘΡΟΣ"
-ma5.pdf.header = "Ὄρθρος"
-ma5.pdf.cover = "Ἀκολουθία τοῦ Ὄρθρου"
+ma5.html.tab = template.titles_gr_GR_cog.ma5.html.tab
+ma5.pdf.header = template.titles_gr_GR_cog.ma5.pdf.header
+ma5.pdf.cover = template.titles_gr_GR_cog.ma5.pdf.cover
 
-mo.html.tab = "ΜΕΣΟΝΥΚΤΙΚΟΝ"
-mo.pdf.header = "Μεσονυκτικόν"
-mo.pdf.cover = "Τὸ Μεσονυκτικόν"
+mo.html.tab = template.titles_gr_GR_cog.mo.html.tab
+mo.pdf.header = template.titles_gr_GR_cog.mo.pdf.header
+mo.pdf.cover = template.titles_gr_GR_cog.mo.pdf.cover
 
-mo1.html.tab = "ΗΜΕΡΟΛΟΓΙΟΝ - ΤΥΠΙΚΟΝ ΤΗΣ ΗΜΕΡΑΣ"
-mo1.pdf.header = "Ἡμερολόγιον - Τυπικὸν τῆς Ἡμέρας"
-mo1.pdf.cover = "Ἡμερολόγιον - Τυπικὸν τῆς Ἡμέρας"
+mo1.html.tab = template.titles_gr_GR_cog.mo1.html.tab
+mo1.pdf.header = template.titles_gr_GR_cog.mo1.pdf.header
+mo1.pdf.cover = template.titles_gr_GR_cog.mo1.pdf.cover
 
-mo6.html.tab = "ΜΕΣΟΝΥΚΤΙΚΟΝ ΤΟΥ ΠΑΣΧΑ"
-mo6.pdf.header = "Μεσονυκτικὸν τοῦ Πάσχα"
-mo6.pdf.cover = "Τὸ Μεσονυκτικὸν τοῦ Πάσχα"
+mo6.html.tab = template.titles_gr_GR_cog.mo6.html.tab
+mo6.pdf.header = template.titles_gr_GR_cog.mo6.pdf.header
+mo6.pdf.cover = template.titles_gr_GR_cog.mo6.pdf.cover
 
-pl.html.tab = "ΠΡΟΗΓΙΑΣΜΕΝΗ"
-pl.pdf.header = "Προηγιασμένη Λειτουργία"
-pl.pdf.cover = "Ἡ Προηγιασμένη Λειτουργία"
+pl.html.tab = template.titles_gr_GR_cog.pl.html.tab
+pl.pdf.header = template.titles_gr_GR_cog.pl.pdf.header
+pl.pdf.cover = template.titles_gr_GR_cog.pl.pdf.cover
 
-sp.html.tab = "ΠΑΡΑΚΛΗΣΙΣ"
-sp.pdf.header = "Μικρὸς Παρακλητικὸς Κανών."
-sp.pdf.cover = "Ἀκολουθια τοῦ Μικροῦ Παρακλητικοῦ Κανόνος"
+sp.html.tab = template.titles_gr_GR_cog.sp.html.tab
+sp.pdf.header = template.titles_gr_GR_cog.sp.pdf.header
+sp.pdf.cover = template.titles_gr_GR_cog.sp.pdf.cover
 
-sv.html.tab = "ΜΙΚΡΟΣ ΕΣΠΕΡΙΝΟΣ"
-sv.pdf.header = "Μικρὸς Ἑσπερινός"
-sv.pdf.cover = "Ἀκολουθία τοῦ Μικροῦ Ἑσπερινοῦ"
+sv.html.tab = template.titles_gr_GR_cog.sv.html.tab
+sv.pdf.header = template.titles_gr_GR_cog.sv.pdf.header
+sv.pdf.cover = template.titles_gr_GR_cog.sv.pdf.cover
 
-sv3.html.tab = "ΜΙΚΡΟΣ ΕΣΠΕΡΙΝΟΣ ΚΑΙ ΠΡΟΗΓΙΑΣΜΕΝΗ ΛΕΙΤΡΟΥΓΙΑ"
-sv3.pdf.header = "Μικρὸς Ἑσπερινὸς καὶ Προηγιασμένη Λειτουργία"
-sv3.pdf.cover = "Ἀκολουθία τοῦ Μικροῦ Ἑσπερινοῦ καὶ Προηγιασμένης Λειτουργίας"
+sv3.html.tab = template.titles_gr_GR_cog.sv3.html.tab
+sv3.pdf.header = template.titles_gr_GR_cog.sv3.pdf.header
+sv3.pdf.cover = template.titles_gr_GR_cog.sv3.pdf.cover
 
-ve.html.tab = "ΕΣΠΕΡΙΝΟΣ"
-ve.pdf.header = "Ἑσπερινὸς"
-ve.pdf.cover = "Ἀκολουθία τοῦ Ἑσπερινοῦ"
+ve.html.tab = template.titles_gr_GR_cog.ve.html.tab
+ve.pdf.header = template.titles_gr_GR_cog.ve.pdf.header
+ve.pdf.cover = template.titles_gr_GR_cog.ve.pdf.cover
 
-ve2.html.tab = "ΕΣΠΕΡΙΝΟΣ"
-ve2.pdf.header = "Ἑσπερινὸς"
-ve2.pdf.cover = "Ἀκολουθία τοῦ Ἑσπερινοῦ"
+ve2.html.tab = template.titles_gr_GR_cog.ve2.html.tab
+ve2.pdf.header = template.titles_gr_GR_cog.ve2.pdf.header
+ve2.pdf.cover = template.titles_gr_GR_cog.ve2.pdf.cover
 
-ve3.html.tab = "ΜΕΓΑΣ ΕΣΠΕΡΙΝΟΣ ΚΑΙ ΧΑΙΡΕΤΙΣΜΟΙ"
-ve3.pdf.header = "Μέγας Ἑσπερινὸς καὶ Χαιρετισμοί"
-ve3.pdf.cover = "Ἀκολουθία τοῦ Μεγάλου Ἑσπερινοῦ, καὶ Οἱ Χαιρετισμοί"
+ve3.html.tab = template.titles_gr_GR_cog.ve3.html.tab
+ve3.pdf.header = template.titles_gr_GR_cog.ve3.pdf.header
+ve3.pdf.cover = template.titles_gr_GR_cog.ve3.pdf.cover
 
-ve4.html.tab = "ΕΣΠΕΡΙΝΟΣ"
-ve4.pdf.header = "Ἑσπερινὸς"
-ve4.pdf.cover = "Ἀκολουθία τοῦ Ἑσπερινοῦ"
+ve4.html.tab = template.titles_gr_GR_cog.ve4.html.tab
+ve4.pdf.header = template.titles_gr_GR_cog.ve4.pdf.header
+ve4.pdf.cover = template.titles_gr_GR_cog.ve4.pdf.cover
 
-ve5.html.tab = "ΕΣΠΕΡΙΝΟΣ"
-ve5.pdf.header = "Ἑσπερινὸς"
-ve5.pdf.cover = "Ἡ Ἀκολουθία τοῦ Ἑσπερινοῦ"
+ve5.html.tab = template.titles_gr_GR_cog.ve5.html.tab
+ve5.pdf.header = template.titles_gr_GR_cog.ve5.pdf.header
+ve5.pdf.cover = template.titles_gr_GR_cog.ve5.pdf.cover
 
-vl.html.tab = "ΕΣΠΕΡΙΝΗ ΛΕΙΤΟΥΡΓΙΑ ΑΓ ΒΑΣΙΛΕΟΥ"
-vl.pdf.header = "Ἑσπερινὴ Λειτουργία Ἁγ. Βασιλείου"
-vl.pdf.cover = "Ἑσπερινὴ Λειτουργία"
-vl.pdf.cover2 = "τοῦ Μεγάλου Βασιλείου"
+vl.html.tab = template.titles_gr_GR_cog.vl.html.tab
+vl.pdf.header = template.titles_gr_GR_cog.vl.pdf.header
+vl.pdf.cover = template.titles_gr_GR_cog.vl.pdf.cover
+vl.pdf.cover2 = template.titles_gr_GR_cog.vl.pdf.cover2
 
-vl2.html.tab = "ΕΣΠΕΡΙΝΗ ΛΕΙΤΟΥΡΓΙΑ ΑΓ ΧΡΥΣΟΣΤΟΜΟΥ"
-vl2.pdf.header = "Ἑσπερινὴ Λειτουργία Ἁγ. Χρυσοστόμου"
-vl2.pdf.cover = "Ἑσπερινὴ Λειτουργία"
-vl2.pdf.cover2 = "τοῦ Ἁγίου Χρυσοστόμου"
+vl2.html.tab = template.titles_gr_GR_cog.vl2.html.tab
+vl2.pdf.header = template.titles_gr_GR_cog.vl2.pdf.header
+vl2.pdf.cover = template.titles_gr_GR_cog.vl2.pdf.cover
+vl2.pdf.cover2 = template.titles_gr_GR_cog.vl2.pdf.cover2
 
 //other
-d = "ΗΜΕΡΑ"
-d.delimiter = " -"
-d.for = " διὰ"
-d.of = ""
-d.on = " -"
-d.ontheeveof = " ἀφʼ ἑσπέρας τῆς"
-d.onSundayMorning = "τῇ Κυριακῇ τὸ Πρωΐ"
-d.onSundayEvening = "τῇ Κυριακῇ τὸ Βράδυ"
-d.onMondayMorning = "τῇ Δευτέρᾳ τὸ Πρωΐ"
-d.onMondayEvening = "τῇ Δευτέρᾳ τὸ Βράδυ"
-d.onTuesdayMorning = "τῇ Τρίτῃ τὸ Πρωΐ"
-d.onTuesdayEvening = "τῇ Τρίτῃ τὸ Βράδυ"
-d.onWednesdayMorning = "τῇ Τετάρτῃ τὸ Πρωΐ"
-d.onWednesdayEvening = "τῇ Τετάρτῃ τὸ Βράδυ"
-d.onThursdayMorning = "τῇ Πέμπτῃ τὸ Πρωΐ"
-d.onThursdayEvening = "τῇ Πέμπτῃ τὸ Βράδυ"
-d.onFridayMorning = "τῇ Παρασκευῇ τὸ Πρωΐ"
-d.onFridayAfternoon = "τῇ Παρασκευῇ τὸ Ἀπόγευμα"
-d.onFridayEvening = "τῇ Παρασκευῇ τὸ Βράδυ"
-d.onSaturdayMorning = "τῷ Σαββάτῳ τὸ Πρωΐ"
-d.onSaturdayEvening = "τῷ Σαββάτῳ τὸ Βράδυ"
+d = template.titles_gr_GR_cog.d
+d.delimiter = template.titles_gr_GR_cog.d.delimiter
+d.for = template.titles_gr_GR_cog.d.for
+d.of = template.titles_gr_GR_cog.d.of
+d.on = template.titles_gr_GR_cog.d.on
+d.ontheeveof = template.titles_gr_GR_cog.d.ontheeveof
+d.onSundayMorning = template.titles_gr_GR_cog.d.onSundayMorning
+d.onSundayEvening = template.titles_gr_GR_cog.d.onSundayEvening
+d.onMondayMorning = template.titles_gr_GR_cog.d.onMondayMorning
+d.onMondayEvening = template.titles_gr_GR_cog.d.onMondayEvening
+d.onTuesdayMorning = template.titles_gr_GR_cog.d.onTuesdayMorning
+d.onTuesdayEvening = template.titles_gr_GR_cog.d.onTuesdayEvening
+d.onWednesdayMorning = template.titles_gr_GR_cog.d.onWednesdayMorning
+d.onWednesdayEvening = template.titles_gr_GR_cog.d.onWednesdayEvening
+d.onThursdayMorning = template.titles_gr_GR_cog.d.onThursdayMorning
+d.onThursdayEvening = template.titles_gr_GR_cog.d.onThursdayEvening
+d.onFridayMorning = template.titles_gr_GR_cog.d.onFridayMorning
+d.onFridayAfternoon = template.titles_gr_GR_cog.d.onFridayAfternoon
+d.onFridayEvening = template.titles_gr_GR_cog.d.onFridayEvening
+d.onSaturdayMorning = template.titles_gr_GR_cog.d.onSaturdayMorning
+d.onSaturdayEvening = template.titles_gr_GR_cog.d.onSaturdayEvening
 
-me.SundayAfterFeast = "Κυριακὴ μετὰ τὴν Ἑορτήν"
+me.SundayAfterFeast = template.titles_gr_GR_cog.me.SundayAfterFeast
 
-me.m01.d06.onEpiphanyEve = "τῇ Παραμονῇ τῶν Φώτων"
-me.m12.d25.onChristmasEve = "τῇ Παραμονῇ τῶν Χριστουγέννων"
+me.m01.d06.onEpiphanyEve = template.titles_gr_GR_cog.me.m01.d06.onEpiphanyEve
+me.m12.d25.onChristmasEve = template.titles_gr_GR_cog.me.m12.d25.onChristmasEve
 
-m.month = "ΜΗΝ" // I will programatically determine whether to look up the m.month vs m.mode key
-m.mode = "ΗΧΟΣ"
+m.month = template.titles_gr_GR_cog.m.month //  I will programatically determine whether to look up the m.month vs m.mode key
+m.mode = template.titles_gr_GR_cog.m.mode
 
 //Holy Week
-hw.mergedscores.title = ""
-hw.palmsunday = "Κυριακὴ τῶν Βαΐων"
-hw.bridegroomservice = "Ἀκολουθία τοῦ Νυμφίου"
-hw.passion = "Ἀκολουθία τῶν Ἁγίων Παθῶν"
-hw.removal = "Ἡ Ἀποκαθήλωσις"
-hw.lamentation = "Ὁ Ἐπιτάφιος Θρῆνος"
-hw.beforeresurrection = "Ἡ Πανηχὶς πρὸ τῆς Ἀναστάσεως"
-hw.ofholymonday = "τῆς Μεγάλης Δευτέρας"
-hw.ofholytuesday = "τῆς Μεγάλης Τρίτης"
-hw.ofholywednesday = "τῆς Μεγάλης Τετάρτης"
-hw.ofholythursday = "τῆς Μεγάλης Πέμπτης"
-hw.ofholyfriday = "τῆς Μεγάλης Παρασκευῆς"
-hw.ofholysaturday = "τοῦ Μεγάλου Σαββάτου"
+hw.mergedscores.title = template.titles_gr_GR_cog.hw.mergedscores.title
+hw.palmsunday = template.titles_gr_GR_cog.hw.palmsunday
+hw.bridegroomservice = template.titles_gr_GR_cog.hw.bridegroomservice
+hw.passion = template.titles_gr_GR_cog.hw.passion
+hw.removal = template.titles_gr_GR_cog.hw.removal
+hw.lamentation = template.titles_gr_GR_cog.hw.lamentation
+hw.beforeresurrection = template.titles_gr_GR_cog.hw.beforeresurrection
+hw.ofholymonday = template.titles_gr_GR_cog.hw.ofholymonday
+hw.ofholytuesday = template.titles_gr_GR_cog.hw.ofholytuesday
+hw.ofholywednesday = template.titles_gr_GR_cog.hw.ofholywednesday
+hw.ofholythursday = template.titles_gr_GR_cog.hw.ofholythursday
+hw.ofholyfriday = template.titles_gr_GR_cog.hw.ofholyfriday
+hw.ofholysaturday = template.titles_gr_GR_cog.hw.ofholysaturday
 
-pa.pascha = "Τὸ Ἅγιον Πάσχα"
-pa.ofpascha = "τοῦ Πάσχα"
-pa.resurrection = "Ἡ Ἀνάστασις"
-pa.easter = "Κυριακὴ τοῦ Πάσχα"
-pa.agape = "Ὁ Ἑσπερινὸς τῆς Ἀγάηπς"
-pa.brightweek = "Ἡ Διακαινήσιμος Ἑβδομάδα"
-pa.ofbrightweek = "τῆς Διακαινησίμου"
+pa.pascha = template.titles_gr_GR_cog.pa.pascha
+pa.ofpascha = template.titles_gr_GR_cog.pa.ofpascha
+pa.resurrection = template.titles_gr_GR_cog.pa.resurrection
+pa.easter = template.titles_gr_GR_cog.pa.easter
+pa.agape = template.titles_gr_GR_cog.pa.agape
+pa.brightweek = template.titles_gr_GR_cog.pa.brightweek
+pa.ofbrightweek = template.titles_gr_GR_cog.pa.ofbrightweek
 
-sal.theotokos = "Χαιρετισμοὶ τῆς Θεοτόκου"
+sal.theotokos = template.titles_gr_GR_cog.sal.theotokos
 
-clps.stichologia.top = "Δείξε Στιχολογίαν"
-clps.stichologia.bottom = "Κρύψε Στιχολογίαν"
-clps.additionallitanies.top = "Δείξε Λιτανίες"
-clps.additionallitanies.bottom = "Κρύψε Λιτανίες"
-clps.additionalpetitions.top = "Δείξε Αἰτήσεις"
-clps.additionalpetitions.bottom = "Κρύψε Αἰτήσεις"
-clps.alternative.top = "Δείξε ἄλλα."
-clps.alternative.bottom = "Κρύψε ἄλλα."
-clps.matinsordinary.top = "Δείξε Ἀρχὴ τοῦ Ὄρθρου"
-clps.matinsordinary.bottom = "Κρύψε Ἀρχὴ τοῦ Ὄρθρου"
-clps.prayers.top = "Δείξε εὐχάς."
-clps.prayers.bottom = "Κρύψε εὐχάς."
-clps.precommunionprayers.top = "Δείξε εὐχάς."
-clps.precommunionprayers.bottom = "Κρύψε εὐχάς."
-clps.lity.top = "Δείξε Λιτήν."
-clps.lity.bottom = "Κρύψε Λιτήν."
-clps.selectedverses.top = "Δείξε Ἐκλογήν."
-clps.selectedverses.bottom = "Κρύψε Ἐκλογήν."
-clps.typikon.top = "Δείξε Τυπικόν"
-clps.typikon.bottom = "Κρύψε Τυπικόν"
+clps.stichologia.top = template.titles_gr_GR_cog.clps.stichologia.top
+clps.stichologia.bottom = template.titles_gr_GR_cog.clps.stichologia.bottom
+clps.additionallitanies.top = template.titles_gr_GR_cog.clps.additionallitanies.top
+clps.additionallitanies.bottom = template.titles_gr_GR_cog.clps.additionallitanies.bottom
+clps.additionalpetitions.top = template.titles_gr_GR_cog.clps.additionalpetitions.top
+clps.additionalpetitions.bottom = template.titles_gr_GR_cog.clps.additionalpetitions.bottom
+clps.alternative.top = template.titles_gr_GR_cog.clps.alternative.top
+clps.alternative.bottom = template.titles_gr_GR_cog.clps.alternative.bottom
+clps.matinsordinary.top = template.titles_gr_GR_cog.clps.matinsordinary.top
+clps.matinsordinary.bottom = template.titles_gr_GR_cog.clps.matinsordinary.bottom
+clps.prayers.top = template.titles_gr_GR_cog.clps.prayers.top
+clps.prayers.bottom = template.titles_gr_GR_cog.clps.prayers.bottom
+clps.precommunionprayers.top = template.titles_gr_GR_cog.clps.precommunionprayers.top
+clps.precommunionprayers.bottom = template.titles_gr_GR_cog.clps.precommunionprayers.bottom
+clps.lity.top = template.titles_gr_GR_cog.clps.lity.top
+clps.lity.bottom = template.titles_gr_GR_cog.clps.lity.bottom
+clps.selectedverses.top = template.titles_gr_GR_cog.clps.selectedverses.top
+clps.selectedverses.bottom = template.titles_gr_GR_cog.clps.selectedverses.bottom
+clps.typikon.top = template.titles_gr_GR_cog.clps.typikon.top
+clps.typikon.bottom = template.titles_gr_GR_cog.clps.typikon.bottom

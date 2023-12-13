@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d146_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Παρασκευὴ Δʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Παρασκευὴ Δʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Romans.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Romans.abbr
-lemcLI.Epistle.chapverse = "11:25-36"
-lemcLI.Epistle.incipit = "Ἀδελφοί, οὐ θέλω ὑμᾶς ἀγνοεῖν, τὸ μυστήριον τοῦτο, (ἵνα…"
-lemcLI.Epistle.text = "Ἀδελφοί, οὐ θέλω ὑμᾶς ἀγνοεῖν, τὸ μυστήριον τοῦτο, (ἵνα μὴ ἦτε παρʼ ἑαυτοῖς φρόνιμοι), ὅτι πώρωσις ἀπὸ μέρους τῷ Ἰσραὴλ γέγονεν ἄχρις οὗ τὸ πλήρωμα τῶν ἐθνῶν εἰσέλθῃ. Καὶ οὕτω πᾶς Ἰσραὴλ σωθήσεται, καθὼς γέγραπται· ἥξει ἐκ Σιὼν ὁ ῥυόμενος καὶ ἀποστρέψει ἀσεβείας ἀπὸ Ἰακώβ· καὶ αὕτη αὐτοῖς ἡ παρʼ ἐμοῦ διαθήκη, ὅταν ἀφέλωμαι τὰς ἁμαρτίας αὐτῶν· κατὰ μὲν τὸ εὐαγγέλιον ἐχθροὶ διʼ ὑμᾶς, κατὰ δὲ τὴν ἐκλογὴν ἀγαπητοὶ διὰ τοὺς πατέρας· ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ· ὥσπερ γὰρ καὶ ὑμεῖς ποτε ἠπειθήσατε τῷ Θεῷ, νῦν δὲ ἠλεήθητε τῇ τούτων ἀπειθείᾳ, οὕτω καὶ οὗτοι νῦν ἠπείθησαν, τῷ ὑμετέρῳ ἐλέει ἵνα καὶ αὐτοὶ ἐλεηθῶσι· συνέκλεισε γὰρ ὁ Θεὸς τοὺς πάντας εἰς ἀπείθειαν, ἵνα τοὺς πάντας ἐλεήσῃ. ῏Ω βάθος πλούτου καὶ σοφίας καὶ γνώσεως Θεοῦ! ὡς ἀνεξερεύνητα τὰ κρίματα αὐτοῦ καὶ ἀνεξιχνίαστοι αἱ ὁδοὶ αὐτοῦ! τίς γὰρ ἔγνω νοῦν Κυρίου; ἢ τίς σύμβουλος αὐτοῦ ἐγένετο; ἢ τίς προέδωκεν αὐτῷ, καὶ ἀνταποδοθήσεται αὐτῷ; ὅτι ἐξ αὐτοῦ καὶ διʼ αὐτοῦ καὶ εἰς αὐτὸν τὰ πάντα· αὐτῷ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d146_gr_GR_cog.lemcLI.Epistle.pagenumber

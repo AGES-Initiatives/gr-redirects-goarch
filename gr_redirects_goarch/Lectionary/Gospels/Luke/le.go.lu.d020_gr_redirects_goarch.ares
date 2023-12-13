@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.lu.d020_gr_redirects_goarch 
 
-leluLI.Gospel.title = "Σάββατον τῆς Γʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.title_abbr = "Σάββατον τῆς Γʹ Ἑβδομάδος τοῦ Λουκᾶ"
-leluLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-leluLI.Gospel.book_string = bible_gr_redirects_goarch.Luke.text
-leluLI.Gospel.book_abbr = bible_gr_redirects_goarch.Luke.abbr
-leluLI.Gospel.chapverse = "εʹ 27 - 32"
-leluLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, παράγων ὁ Ἰησοῦς ἐθεάσατο τελώνην ὀνόματι…"
-leluLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, παράγων ὁ Ἰησοῦς ἐθεάσατο τελώνην ὀνόματι Λευῒν, καθήμενον ἐπὶ τὸ τελώνιον, καὶ εἶπεν αὐτῷ· Ἀκολούθει μοι. καὶ καταλιπὼν ἅπαντα ἀναστὰς ἠκολούθησεν αὐτῷ. καὶ ἐποίησε δοχὴν μεγάλην Λευῒς αὐτῷ ἐν τῇ οἰκίᾳ αὐτοῦ, καὶ ἦν ὄχλος τελωνῶν πολὺς καὶ ἄλλων οἳ ἦσαν μετʼ αὐτῶν κατακείμενοι. καὶ ἐγόγγυζον οἱ γραμματεῖς αὐτῶν καὶ οἱ Φαρισαῖοι πρὸς τοὺς μαθητὰς αὐτοῦ λέγοντες· Διατί μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίετε καὶ πίνετε; καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπε πρὸς αὐτούς· Οὐ χρείαν ἔχουσιν οἱ ὑγιαίνοντες ἰατροῦ, ἀλλʼ οἱ κακῶς ἔχοντες· οὐκ ἐλήλυθα καλέσαι δικαίους, ἀλλὰ ἁμαρτωλοὺς εἰς μετάνοιαν."
-leluLI.Gospel.pagenumber = ""
+leluLI.Gospel.title = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.title
+leluLI.Gospel.title_abbr = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.title_abbr
+leluLI.Gospel.version = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.version
+leluLI.Gospel.book_string = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.book_string
+leluLI.Gospel.book_abbr = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.book_abbr
+leluLI.Gospel.chapverse = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.chapverse
+leluLI.Gospel.incipit = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.incipit
+leluLI.Gospel.text = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.text
+leluLI.Gospel.pagenumber = le.go.lu.d020_gr_GR_cog.leluLI.Gospel.pagenumber

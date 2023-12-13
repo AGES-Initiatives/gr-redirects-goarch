@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d246_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Κυριακὴ ΙΗʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Κυρ. ΙΗʹ"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Corinthians2.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Corinthians2.abbr
-lemcLI.Epistle.chapverse = "9:6-11"
-lemcLI.Epistle.incipit = "Ἀδελφοί, ὁ σπείρων φειδομένως, φειδομένως καὶ θερίσει, καὶ ὁ…"
-lemcLI.Epistle.text = "Ἀδελφοί, ὁ σπείρων φειδομένως, φειδομένως καὶ θερίσει, καὶ ὁ σπείρων ἐπʼ εὐλογίαις ἐπʼ εὐλογίαις καὶ θερίσει. Ἕκαστος καθὼς προαιρεῖται τῇ καρδίᾳ, μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ Θεός. Δυνατὸς δὲ ὁ Θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν, καθὼς γέγραπται· 'Εσκόρπισεν, ἔδωκε τοῖς πένησιν, ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα. Ὁ δὲ ἐπιχορηγῶν σπέρμα τῷ σπείροντι καὶ ἄρτον εἰς βρῶσιν χορηγήσαι καὶ πληθύναι τὸν σπόρον ὑμῶν καὶ αὐξήσει τὰ γενήματα τῆς δικαιοσύνης ὑμῶν· ἐν παντὶ πλουτιζόμενοι εἰς πᾶσαν ἁπλότητα, ἥτις κατεργάζεται διʼ ἡμῶν εὐχαριστίαν τῷ Θεῷ."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d246_gr_GR_cog.lemcLI.Epistle.pagenumber

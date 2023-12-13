@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = eu.occasionalprayers_gr_redirects_goarch 
 
-euOP.Key003.title = ""
-euOP.Key004.title = ""
-euOP.Key005.text = ""
-euOP.Key006.text = ""
-euOP.Key007.text = ""
-euOP.Key008.text = ""
+euOP.Key003.title = eu.occasionalprayers_gr_GR_cog.euOP.Key003.title
+euOP.Key004.title = eu.occasionalprayers_gr_GR_cog.euOP.Key004.title
+euOP.Key005.text = eu.occasionalprayers_gr_GR_cog.euOP.Key005.text
+euOP.Key006.text = eu.occasionalprayers_gr_GR_cog.euOP.Key006.text
+euOP.Key007.text = eu.occasionalprayers_gr_GR_cog.euOP.Key007.text
+euOP.Key008.text = eu.occasionalprayers_gr_GR_cog.euOP.Key008.text
 
-euOP.Key010.title = ""
+euOP.Key010.title = eu.occasionalprayers_gr_GR_cog.euOP.Key010.title
 
 
 

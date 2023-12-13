@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.go.me.m10.d16_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Τοῦ Μάρτυρος."
-lemeLI.Gospel.title_abbr = "Τοῦ Μάρτυρος."
-lemeLI.Gospel.version = le.go.mc.d069_gr_redirects_goarch.lemcHW.PassionGospel07.version
-lemeLI.Gospel.book_string = le.go.mc.d069_gr_redirects_goarch.lemcHW.PassionGospel07.book_string
-lemeLI.Gospel.book_abbr = le.go.mc.d069_gr_redirects_goarch.lemcHW.PassionGospel07.book_abbr
-lemeLI.Gospel.chapverse = le.go.mc.d069_gr_redirects_goarch.lemcHW.PassionGospel07.chapverse
-lemeLI.Gospel.incipit = le.go.mc.d069_gr_redirects_goarch.lemcHW.PassionGospel07.incipit
-lemeLI.Gospel.text = le.go.mc.d069_gr_redirects_goarch.lemcHW.PassionGospel07.text
+lemeLI.Gospel.title = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m10.d16_gr_GR_cog.lemeLI.Gospel.text

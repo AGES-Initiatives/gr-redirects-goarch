@@ -1,48 +1,48 @@
 A_Resource_Whose_Name = ho.ho15.m05_gr_redirects_goarch
 
-ho.Month = ""
-ho.Days = ""
-ho.Hours = ""
+ho.Month = ho.ho15.m05_gr_GR_cog.ho.Month
+ho.Days = ho.ho15.m05_gr_GR_cog.ho.Days
+ho.Hours = ho.ho15.m05_gr_GR_cog.ho.Hours
 
-hoD08.GeneralApolytikion2.name = ""
+hoD08.GeneralApolytikion2.name = ho.ho15.m05_gr_GR_cog.hoD08.GeneralApolytikion2.name
 
-hoD08.Apolytikion3.title = ""
-hoD08.Apolytikion3.poet = ""
-hoD08.Apolytikion3.mode = ""
-hoD08.Apolytikion3.greekmelody = ""
-hoD08.Apolytikion3.melody = ""
-hoD08.Apolytikion3.text = ""
+hoD08.Apolytikion3.title = ho.ho15.m05_gr_GR_cog.hoD08.Apolytikion3.title
+hoD08.Apolytikion3.poet = ho.ho15.m05_gr_GR_cog.hoD08.Apolytikion3.poet
+hoD08.Apolytikion3.mode = ho.ho15.m05_gr_GR_cog.hoD08.Apolytikion3.mode
+hoD08.Apolytikion3.greekmelody = ho.ho15.m05_gr_GR_cog.hoD08.Apolytikion3.greekmelody
+hoD08.Apolytikion3.melody = ho.ho15.m05_gr_GR_cog.hoD08.Apolytikion3.melody
+hoD08.Apolytikion3.text = ho.ho15.m05_gr_GR_cog.hoD08.Apolytikion3.text
 
-hoD08.Kontakion2.title = ""
-hoD08.Kontakion2.poet = ""
-hoD08.Kontakion2.mode = ""
-hoD08.Kontakion2.greekmelody = ""
-hoD08.Kontakion2.melody = ""
-hoD08.Kontakion2.incipit = ""
-hoD08.Kontakion2.text = ""
+hoD08.Kontakion2.title = ho.ho15.m05_gr_GR_cog.hoD08.Kontakion2.title
+hoD08.Kontakion2.poet = ho.ho15.m05_gr_GR_cog.hoD08.Kontakion2.poet
+hoD08.Kontakion2.mode = ho.ho15.m05_gr_GR_cog.hoD08.Kontakion2.mode
+hoD08.Kontakion2.greekmelody = ho.ho15.m05_gr_GR_cog.hoD08.Kontakion2.greekmelody
+hoD08.Kontakion2.melody = ho.ho15.m05_gr_GR_cog.hoD08.Kontakion2.melody
+hoD08.Kontakion2.incipit = ho.ho15.m05_gr_GR_cog.hoD08.Kontakion2.incipit
+hoD08.Kontakion2.text = ho.ho15.m05_gr_GR_cog.hoD08.Kontakion2.text
 
-hoD11.GeneralApolytikion1.name = ""
+hoD11.GeneralApolytikion1.name = ho.ho15.m05_gr_GR_cog.hoD11.GeneralApolytikion1.name
 
-hoD12.Apolytikion2.title = ""
-hoD12.Apolytikion2.poet = ""
-hoD12.Apolytikion2.mode = ""
-hoD12.Apolytikion2.greekmelody = ""
-hoD12.Apolytikion2.melody = ""
-hoD12.Apolytikion2.incipit = ""
-hoD12.Apolytikion2.text = ""
+hoD12.Apolytikion2.title = ho.ho15.m05_gr_GR_cog.hoD12.Apolytikion2.title
+hoD12.Apolytikion2.poet = ho.ho15.m05_gr_GR_cog.hoD12.Apolytikion2.poet
+hoD12.Apolytikion2.mode = ho.ho15.m05_gr_GR_cog.hoD12.Apolytikion2.mode
+hoD12.Apolytikion2.greekmelody = ho.ho15.m05_gr_GR_cog.hoD12.Apolytikion2.greekmelody
+hoD12.Apolytikion2.melody = ho.ho15.m05_gr_GR_cog.hoD12.Apolytikion2.melody
+hoD12.Apolytikion2.incipit = ho.ho15.m05_gr_GR_cog.hoD12.Apolytikion2.incipit
+hoD12.Apolytikion2.text = ho.ho15.m05_gr_GR_cog.hoD12.Apolytikion2.text
 
-hoD15.GeneralApolytikion1.name = ""
-hoD15.GeneralApolytikion3.name = ""
+hoD15.GeneralApolytikion1.name = ho.ho15.m05_gr_GR_cog.hoD15.GeneralApolytikion1.name
+hoD15.GeneralApolytikion3.name = ho.ho15.m05_gr_GR_cog.hoD15.GeneralApolytikion3.name
 
-hoD21.Apolytikion2.title = ""
-hoD21.Apolytikion2.poet = ""
-hoD21.Apolytikion2.mode = ""
-hoD21.Apolytikion2.greekmelody = ""
-hoD21.Apolytikion2.melody = ""
-hoD21.Apolytikion2.text = ""
+hoD21.Apolytikion2.title = ho.ho15.m05_gr_GR_cog.hoD21.Apolytikion2.title
+hoD21.Apolytikion2.poet = ho.ho15.m05_gr_GR_cog.hoD21.Apolytikion2.poet
+hoD21.Apolytikion2.mode = ho.ho15.m05_gr_GR_cog.hoD21.Apolytikion2.mode
+hoD21.Apolytikion2.greekmelody = ho.ho15.m05_gr_GR_cog.hoD21.Apolytikion2.greekmelody
+hoD21.Apolytikion2.melody = ho.ho15.m05_gr_GR_cog.hoD21.Apolytikion2.melody
+hoD21.Apolytikion2.text = ho.ho15.m05_gr_GR_cog.hoD21.Apolytikion2.text
 
-hoD24.GeneralApolytikion1.name = ""
+hoD24.GeneralApolytikion1.name = ho.ho15.m05_gr_GR_cog.hoD24.GeneralApolytikion1.name
 
-hoD26.GeneralApolytikion1.name = ""
+hoD26.GeneralApolytikion1.name = ho.ho15.m05_gr_GR_cog.hoD26.GeneralApolytikion1.name
 
-hoD30.GeneralApolytikion1.name = ""
+hoD30.GeneralApolytikion1.name = ho.ho15.m05_gr_GR_cog.hoD30.GeneralApolytikion1.name

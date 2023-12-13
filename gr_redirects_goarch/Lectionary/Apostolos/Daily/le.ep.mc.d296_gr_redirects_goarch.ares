@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d296_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Δευτέρα ΚϚʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Δευτέρα ΚϚʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Timothy1.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Timothy1.abbr
-lemcLI.Epistle.chapverse = "1:1-7"
-lemcLI.Epistle.incipit = "Παῦλος Ἀπόστολος Χριστοῦ Ἰησοῦ κατʼ ἐπιταγὴν Θεοῦ σωτῆρος ἡμῶν…"
-lemcLI.Epistle.text = "Παῦλος Ἀπόστολος Χριστοῦ Ἰησοῦ κατʼ ἐπιταγὴν Θεοῦ σωτῆρος ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ τῆς ἐλπίδος ἡμῶν Τιμοθέῳ γνησίῳ τέκνῳ ἐν πίστει· χάρις, ἔλεος, εἰρήνη ἀπὸ Θεοῦ πατρὸς ἡμῶν καὶ Χριστοῦ Ἰησοῦ τοῦ Κυρίου ἡμῶν. Καθὼς παρεκάλεσά σε προσμεῖναι ἐν 'Εφέσῳ πορευόμενος εἰς Μακεδονίαν, ἵνα παραγγείλῃς τισὶν μὴ ἑτεροδιδασκαλεῖν μηδὲ προσέχειν μύθοις καὶ γενεαλογίαις ἀπεράντοις, αἵτινες ἐκζητήσεις παρέχουσιν μᾶλλον ἢ οἰκονομίαν Θεοῦ τὴν ἐν πίστει· τὸ δὲ τέλος τῆς παραγγελίας ἐστὶν ἀγάπη ἐκ καθαρᾶς καρδίας καὶ συνειδήσεως ἀγαθῆς καὶ πίστεως ἀνυποκρίτου, ὧν τινες ἀστοχήσαντες ἐξετράπησαν εἰς ματαιολογίαν, θέλοντες εἶναι νομοδιδάσκαλοι, μὴ νοοῦντες μήτε ἃ λέγουσιν μήτε περὶ τίνων διαβεβαιοῦνται."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d296_gr_GR_cog.lemcLI.Epistle.pagenumber

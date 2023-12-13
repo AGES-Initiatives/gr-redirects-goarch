@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d259_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Σάββατον Κʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Σάββατον Κʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Corinthians2.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Corinthians2.abbr
-lemcLI.Epistle.chapverse = "1:8-11"
-lemcLI.Epistle.incipit = "Ἀδελφοί, οὐ θέλομεν ὑμᾶς ἀγνοεῖν, ὑπὲρ τῆς θλίψεως ἡμῶν…"
-lemcLI.Epistle.text = "Ἀδελφοί, οὐ θέλομεν ὑμᾶς ἀγνοεῖν, ὑπὲρ τῆς θλίψεως ἡμῶν τῆς γενομένης ἡμῖν ἐν τῇ ᾿Ασίᾳ, ὅτι καθ᾿ ὑπερβολὴν ἐβαρήθημεν ὑπὲρ δύναμιν, ὥστε ἐξαπορηθῆναι ἡμᾶς καὶ τοῦ ζῆν· ἀλλὰ αὐτοὶ ἐν ἑαυτοῖς τὸ ἀπόκριμα τοῦ θανάτου ἐσχήκαμεν, ἵνα μὴ πεποιθότες ὦμεν ἐφ᾿ ἑαυτοῖς, ἀλλ᾿ ἐπὶ τῷ Θεῷ τῷ ἐγείροντι τοὺς νεκρούς· ὃς ἐκ τηλικούτου θανάτου ἐῤῥύσατο ἡμᾶς καὶ ῥύεται, εἰς ὃν ἠλπίκαμεν ὅτι καὶ ἔτι ῥύσεται, συνυπουργούντων καὶ ὑμῶν ὑπὲρ ἡμῶν τῇ δεήσει, ἵνα ἐκ πολλῶν προσώπων τὸ εἰς ἡμᾶς χάρισμα διὰ πολλῶν εὐχαριστηθῇ ὑπὲρ ἡμῶν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.pagenumber

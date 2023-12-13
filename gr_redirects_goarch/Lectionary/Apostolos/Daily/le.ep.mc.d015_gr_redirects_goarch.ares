@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d015_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Κυριακὴ τῆς Ἀποκρέω"
-lemcLI.Epistle.title_abbr = "Κυρ. τῆς Ἀποκρέω"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Corinthians1.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Corinthians1.abbr
-lemcLI.Epistle.chapverse = "8:8-13, 9:1-2"
-lemcLI.Epistle.incipit = "Ἀδελφοί, βρῶμα ἡμᾶς οὐ παρίστησι τῷ Θεῷ· οὔτε γὰρ…"
-lemcLI.Epistle.text = "Ἀδελφοί, βρῶμα ἡμᾶς οὐ παρίστησι τῷ Θεῷ· οὔτε γὰρ ἐὰν φάγωμεν περισσεύομεν, οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα. Βλέπετε δὲ μήπως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ἀσθενοῦσιν. Ἐὰν γάρ τις ἴδῃ σε, τὸν ἔχοντα γνῶσιν, ἐν εἰδωλείῳ κατακείμενον, οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν; Καὶ ἀπολεῖται ὁ ἀσθενῶν ἀδελφὸς ἐπὶ τῇ σῇ γνώσει, διʼ ὃν Χριστὸς ἀπέθανεν. Οὕτω δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενοῦσαν εἰς Χριστὸν ἁμαρτάνετε. Διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα, ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω. Οὐκ εἰμὶ ἀπόστολος; οὐκ εἰμὶ ἐλεύθερος; οὐχὶ Ἰησοῦν Χριστὸν τὸν Κύριον ἡμῶν ἑώρακα; οὐ τὸν ἔργον μου ὑμεῖς ἐστε ἐν Κυρίῳ; Εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμί· ἡ γὰρ σφραγὶς τῆς ἐμῆς ἀποστολῆς ὑμεῖς ἐστε ἐν Κυρίῳ."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d015_gr_GR_cog.lemcLI.Epistle.pagenumber

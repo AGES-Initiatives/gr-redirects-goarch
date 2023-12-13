@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.pr.me.r48_gr_redirects_goarch
 
-leprVE.reading.title = ""
-leprVE.reading.title_abbr = ""
-leprVE.reading.version = properties_gr_redirects_goarch.version.designation
-leprVE.reading.book_string = bible_gr_redirects_goarch.Proverbs.text
-leprVE.reading.book_abbr = bible_gr_redirects_goarch.Proverbs.abbr
-leprVE.reading.chapverse = "10, 31-32 and 11, 1-12"
-leprVE.reading.incipit = "Στόμα δικαίου ἀποστάζει σοφίαν, γλῶσσα δὲ ἀδίκου ἐξολεῖται· Χείλη…"
-leprVE.reading.text = "Στόμα δικαίου ἀποστάζει σοφίαν, γλῶσσα δὲ ἀδίκου ἐξολεῖται· Χείλη ἀνδρῶν δικαίων ἐπίστανται χάριτας, στόμα δὲ ἀσεβῶν καταστρέφεται. Ζυγοὶ δόλιοι βδέλυγμα ἐνώπιον Κυρίου, στάθμιον δὲ δίκαιον δεκτὸν αὐτῷ. Οὗ ἐὰν εἰσέλθῃ ὕβρις, ἐκεῖ καὶ ἀτιμία, στόμα δὲ ταπεινῶν μελετᾷ σοφίαν. Τελειότης εὐθέων ὁδηγήσει αὐτούς, καὶ ὑποσκελισμὸς ἀθετούντων προνομεύσει αὐτούς. Οὐκ ὠφελήσει ὑπάρχοντα ἐν ἡμέρᾳ θυμοῦ, δικαιοσύνη δὲ ῥύσεται ἀπὸ θανάτου. Ἀποθανὼν δίκαιος ἔλιπε μετάμελον· πρόχειρος δὲ γίνεται καὶ ἐπίχαρτος ἀσεβῶν ἀπώλεια. Δικαιοσύνη ἀμώμου ὀρθοτομεῖ ὁδούς, ἀσέβεια δὲ περιπίπτει ἀδικίᾳ. Δικαιοσύνη ἀνδρῶν ὀρθῶν ῥύσεται αὐτούς, τῇ δὲ ἀβουλίᾳ ἁλίσκονται παράνομοι. Τελευτήσαντος ἀνδρὸς δικαίου οὐκ ὄλλυται ἐλπίς, τὸ δὲ καύχημα τῶν ἀσεβῶν ὄλλυται. Δίκαιος ἐκ θήρας ἐκδύνει, ἀντʼ αὐτοῦ δὲ παραδίδοται ὁ ἀσεβής. Ἐν στόματι ἀσεβῶν παγὶς πολίταις, αἴσθησις δὲ δικαίων εὔοδος. Ἐν ἀγαθοῖς δικαίων κατώρθωται πόλις, καὶ ἐν ἀπωλείᾳ ἀσεβῶν ἀγαλλίαμα. Ἐν εὐλογίᾳ εὐθέων ὑψωθήσεται πόλις, στόματι δὲ ἀσεβῶν κατασκαφήσεται. Μυκτηρίζει πολίτας ἐνδεὴς φρενῶν, ἀνὴρ δὲ φρόνιμος ἡσυχίαν ἄγει."
+leprVE.reading.title = le.pr.me.r48_gr_GR_cog.leprVE.reading.title
+leprVE.reading.title_abbr = le.pr.me.r48_gr_GR_cog.leprVE.reading.title_abbr
+leprVE.reading.version = le.pr.me.r48_gr_GR_cog.leprVE.reading.version
+leprVE.reading.book_string = le.pr.me.r48_gr_GR_cog.leprVE.reading.book_string
+leprVE.reading.book_abbr = le.pr.me.r48_gr_GR_cog.leprVE.reading.book_abbr
+leprVE.reading.chapverse = le.pr.me.r48_gr_GR_cog.leprVE.reading.chapverse
+leprVE.reading.incipit = le.pr.me.r48_gr_GR_cog.leprVE.reading.incipit
+leprVE.reading.text = le.pr.me.r48_gr_GR_cog.leprVE.reading.text

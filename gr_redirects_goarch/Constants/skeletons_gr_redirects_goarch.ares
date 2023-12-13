@@ -1,81 +1,81 @@
 A_Resource_Whose_Name = skeletons_gr_redirects_goarch
 
-skLI.Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
-skLI.Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
+skLI.Notice1.text = skeletons_gr_GR_cog.skLI.Notice1.text
+skLI.Notice2.text = skeletons_gr_GR_cog.skLI.Notice2.text
 
-skLI.Antiphon1.title = "Ἀντίφωνον Αʹ"
-skLI.Antiphon1.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.Antiphon1.pagenumber = ""
+skLI.Antiphon1.title = skeletons_gr_GR_cog.skLI.Antiphon1.title
+skLI.Antiphon1.text = skeletons_gr_GR_cog.skLI.Antiphon1.text
+skLI.Antiphon1.pagenumber = skeletons_gr_GR_cog.skLI.Antiphon1.pagenumber
 
-skLI.Antiphon2.title = "Ἀντίφωνον Βʹ"
-skLI.Antiphon2.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.Antiphon2.pagenumber = ""
+skLI.Antiphon2.title = skeletons_gr_GR_cog.skLI.Antiphon2.title
+skLI.Antiphon2.text = skeletons_gr_GR_cog.skLI.Antiphon2.text
+skLI.Antiphon2.pagenumber = skeletons_gr_GR_cog.skLI.Antiphon2.pagenumber
 
-skLI.Antiphon3.title = "Ἀντίφωνον Γʹ"
-skLI.Antiphon3.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.Antiphon3.pagenumber = ""
+skLI.Antiphon3.title = skeletons_gr_GR_cog.skLI.Antiphon3.title
+skLI.Antiphon3.text = skeletons_gr_GR_cog.skLI.Antiphon3.text
+skLI.Antiphon3.pagenumber = skeletons_gr_GR_cog.skLI.Antiphon3.pagenumber
 
-skLI.SmallEntrance.title = "Μικρὰ Εἴσοδος"
-skLI.SmallEntrance.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.SmallEntrance.rubric = "Ὁ χορὸς ἐπαναλαμβάνει τὀ τέλος τοῦ εἰσοδικοῦ· \"Σῶσον ἡμᾶς...\""
-skLI.SmallEntrance.pagenumber = ""
+skLI.SmallEntrance.title = skeletons_gr_GR_cog.skLI.SmallEntrance.title
+skLI.SmallEntrance.text = skeletons_gr_GR_cog.skLI.SmallEntrance.text
+skLI.SmallEntrance.rubric = skeletons_gr_GR_cog.skLI.SmallEntrance.rubric
+skLI.SmallEntrance.pagenumber = skeletons_gr_GR_cog.skLI.SmallEntrance.pagenumber
 
-skLI.HymnsAfterSmallEntrance.title = "Ὗμνοι μετὰ τὴν Εἴσοδον"
-skLI.HymnsAfterSmallEntrance.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.HymnsAfterSmallEntrance.rubric = "Ὁ κλῆρος ψάλλει τὸ πρώτον Ἀπολυτίκιον."
+skLI.HymnsAfterSmallEntrance.title = skeletons_gr_GR_cog.skLI.HymnsAfterSmallEntrance.title
+skLI.HymnsAfterSmallEntrance.text = skeletons_gr_GR_cog.skLI.HymnsAfterSmallEntrance.text
+skLI.HymnsAfterSmallEntrance.rubric = skeletons_gr_GR_cog.skLI.HymnsAfterSmallEntrance.rubric
 
-skLI.Kontakion.title = "Τὸ Κοντάκιον."
-skLI.Kontakion.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.Kontakion.rubric = "Ὁ κλῆρος ἀρχίζει τὸ Κοντάκιον, ὁ δὲ χορὸς ψάλλει τὴν τελευταίαν φράσιν. "
+skLI.Kontakion.title = skeletons_gr_GR_cog.skLI.Kontakion.title
+skLI.Kontakion.text = skeletons_gr_GR_cog.skLI.Kontakion.text
+skLI.Kontakion.rubric = skeletons_gr_GR_cog.skLI.Kontakion.rubric
 
-skLI.Trisagion.title = "Τὸ Τρισάγιον"
-skLI.Trisagion.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.Trisagion.pagenumber = ""
+skLI.Trisagion.title = skeletons_gr_GR_cog.skLI.Trisagion.title
+skLI.Trisagion.text = skeletons_gr_GR_cog.skLI.Trisagion.text
+skLI.Trisagion.pagenumber = skeletons_gr_GR_cog.skLI.Trisagion.pagenumber
 
-skLI.Acclamation.title = "Ἡ Φήμη"
-skLI.Acclamation.rubric = "Καλὸν εἶναι ὁ κλῆρος καὶ ὁ χορὸς νὰ συμβουλεύονται ἐκ τῶν προτέρων περὶ τῆς φήμης."
-skLI.Acclamation.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
+skLI.Acclamation.title = skeletons_gr_GR_cog.skLI.Acclamation.title
+skLI.Acclamation.rubric = skeletons_gr_GR_cog.skLI.Acclamation.rubric
+skLI.Acclamation.text = skeletons_gr_GR_cog.skLI.Acclamation.text
 
-skLI.EpistleReading.title = "Ὁ Ἀποστολος."
-skLI.EpistleReading.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.EpistleReading.pagenumber = ""
+skLI.EpistleReading.title = skeletons_gr_GR_cog.skLI.EpistleReading.title
+skLI.EpistleReading.text = skeletons_gr_GR_cog.skLI.EpistleReading.text
+skLI.EpistleReading.pagenumber = skeletons_gr_GR_cog.skLI.EpistleReading.pagenumber
 
-skLI.Alleluia.title = "Ἀλληλούϊα."
-skLI.Alleluia.text = "(Βλέπε τὰ μεταβλητά.)"
+skLI.Alleluia.title = skeletons_gr_GR_cog.skLI.Alleluia.title
+skLI.Alleluia.text = skeletons_gr_GR_cog.skLI.Alleluia.text
 
-skLI.GospelReading.title = "Τὸ Εὐαγγέλιον."
-skLI.GospelReading.text = "(Βλέπε τὰ μεταβλητά.)"
+skLI.GospelReading.title = skeletons_gr_GR_cog.skLI.GospelReading.title
+skLI.GospelReading.text = skeletons_gr_GR_cog.skLI.GospelReading.text
 
-skLI.GreatEntrance.title = ""
-skLI.GreatEntrance.pagenumber = ""
+skLI.GreatEntrance.title = skeletons_gr_GR_cog.skLI.GreatEntrance.title
+skLI.GreatEntrance.pagenumber = skeletons_gr_GR_cog.skLI.GreatEntrance.pagenumber
 
-skLI.Creed.title = ""
-skLI.Creed.pagenumber = ""
+skLI.Creed.title = skeletons_gr_GR_cog.skLI.Creed.title
+skLI.Creed.pagenumber = skeletons_gr_GR_cog.skLI.Creed.pagenumber
 
-skLI.TheotokosHymn.title = "Ὗμνον τῆς Θεοτόκου"
-skLI.TheotokosHymn.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.TheotokosHymn.pagenumber = ""
+skLI.TheotokosHymn.title = skeletons_gr_GR_cog.skLI.TheotokosHymn.title
+skLI.TheotokosHymn.text = skeletons_gr_GR_cog.skLI.TheotokosHymn.text
+skLI.TheotokosHymn.pagenumber = skeletons_gr_GR_cog.skLI.TheotokosHymn.pagenumber
 
-skLI.LordsPrayer.title = ""
-skLI.LordsPrayer.pagenumber = ""
+skLI.LordsPrayer.title = skeletons_gr_GR_cog.skLI.LordsPrayer.title
+skLI.LordsPrayer.pagenumber = skeletons_gr_GR_cog.skLI.LordsPrayer.pagenumber
 
-skLI.CommunionPrayers.title = ""
-skLI.CommunionPrayers.pagenumber = ""
-skLI.CommunionPrayers.rubric = ""
+skLI.CommunionPrayers.title = skeletons_gr_GR_cog.skLI.CommunionPrayers.title
+skLI.CommunionPrayers.pagenumber = skeletons_gr_GR_cog.skLI.CommunionPrayers.pagenumber
+skLI.CommunionPrayers.rubric = skeletons_gr_GR_cog.skLI.CommunionPrayers.rubric
 
-skLI.CommunionHymn.title = "Τὸ Κοινωνικόν"
-skLI.CommunionHymn.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.CommunionHymn.pagenumber = ""
+skLI.CommunionHymn.title = skeletons_gr_GR_cog.skLI.CommunionHymn.title
+skLI.CommunionHymn.text = skeletons_gr_GR_cog.skLI.CommunionHymn.text
+skLI.CommunionHymn.pagenumber = skeletons_gr_GR_cog.skLI.CommunionHymn.pagenumber
 
-skLI.HolyCommunion.title = ""
-skLI.HolyCommunion.rubric = ""
+skLI.HolyCommunion.title = skeletons_gr_GR_cog.skLI.HolyCommunion.title
+skLI.HolyCommunion.rubric = skeletons_gr_GR_cog.skLI.HolyCommunion.rubric
 
-skLI.Thanksgiving.rubric = ""
+skLI.Thanksgiving.rubric = skeletons_gr_GR_cog.skLI.Thanksgiving.rubric
 
-skLI.AfterCommunion.title = "Μετὰ τὴν Κοινωνίαν"
-skLI.AfterCommunion.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.AfterCommunion.pagenumber = ""
+skLI.AfterCommunion.title = skeletons_gr_GR_cog.skLI.AfterCommunion.title
+skLI.AfterCommunion.text = skeletons_gr_GR_cog.skLI.AfterCommunion.text
+skLI.AfterCommunion.pagenumber = skeletons_gr_GR_cog.skLI.AfterCommunion.pagenumber
 
-skLI.Dismissal.title = "Ἡ Ἀπόλυσις"
-skLI.Dismissal.text = "(Βλέπε τὰ μεταβλητά.)"
-skLI.Dismissal.pagenumber = ""
+skLI.Dismissal.title = skeletons_gr_GR_cog.skLI.Dismissal.title
+skLI.Dismissal.text = skeletons_gr_GR_cog.skLI.Dismissal.text
+skLI.Dismissal.pagenumber = skeletons_gr_GR_cog.skLI.Dismissal.pagenumber

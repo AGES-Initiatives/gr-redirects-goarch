@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.mc.d153_gr_redirects_goarch 
 
-lemcLI.Gospel.title = "Παρασκευὴ τῆς Εʹ Ἑβδομάδος τοῦ Ματθαίου"
-lemcLI.Gospel.title_abbr = "Παρασκευὴ τῆς Εʹ Ἑβδομάδος τοῦ Ματθαίου"
-lemcLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Gospel.book_string = bible_gr_redirects_goarch.Matthew.text
-lemcLI.Gospel.book_abbr = bible_gr_redirects_goarch.Matthew.abbr
-lemcLI.Gospel.chapverse = "ιγʹ 3 - 9"
-lemcLI.Gospel.incipit = "Εἶπεν ὁ Κύριος τὴν παραβολὴν ταύτην· Ἰδοὺ ἐξῆλθεν ὁ…"
-lemcLI.Gospel.text = "Εἶπεν ὁ Κύριος τὴν παραβολὴν ταύτην· Ἰδοὺ ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι. καὶ ἐν τῷ σπείρειν αὐτὸν ἃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἐλθόντα τὰ πετεινὰ κατέφαγεν αὐτά· ἄλλα δὲ ἔπεσεν ἐπὶ τὰ πετρώδη ὅπου οὐκ εἶχε γῆν πολλήν, καὶ εὐθέως ἐξανέτειλε διὰ τὸ μὴ ἔχειν βάθος γῆς. ἡλίου δὲ ἀνατείλαντος ἐκαυματίσθη, καὶ διὰ τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη· ἄλλα δὲ ἔπεσεν ἐπὶ τὰς ἀκάνθας, καὶ ἀνέβησαν αἱ ἄκανθαι καὶ ἀπέπνιξαν αὐτά· ἄλλα δὲ ἔπεσεν ἐπὶ τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπὸν ὃ μὲν ἑκατόν, ὃ δὲ ἑξήκοντα, ὃ δὲ τριάκοντα. ὁ ἔχων ὦτα ἀκούειν ἀκουέτω."
-lemcLI.Gospel.pagenumber = ""
+lemcLI.Gospel.title = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.title
+lemcLI.Gospel.title_abbr = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.title_abbr
+lemcLI.Gospel.version = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.version
+lemcLI.Gospel.book_string = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.book_string
+lemcLI.Gospel.book_abbr = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.book_abbr
+lemcLI.Gospel.chapverse = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.chapverse
+lemcLI.Gospel.incipit = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.incipit
+lemcLI.Gospel.text = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.text
+lemcLI.Gospel.pagenumber = le.go.mc.d153_gr_GR_cog.lemcLI.Gospel.pagenumber

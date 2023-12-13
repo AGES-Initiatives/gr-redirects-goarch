@@ -1,48 +1,48 @@
 A_Resource_Whose_Name = ho.ho02_gr_redirects_goarch
 
-hoMO.AfterCreedTheotokion.text = ""
+hoMO.AfterCreedTheotokion.text = ho.ho02_gr_GR_cog.hoMO.AfterCreedTheotokion.text
 
-hoMO.StEphraimPrayerRubrics1.text = ""
-hoMO.StEphraimPrayerRubrics2.text = ""
+hoMO.StEphraimPrayerRubrics1.text = ho.ho02_gr_GR_cog.hoMO.StEphraimPrayerRubrics1.text
+hoMO.StEphraimPrayerRubrics2.text = ho.ho02_gr_GR_cog.hoMO.StEphraimPrayerRubrics2.text
 
-hoMO.StEphraimPrayerLentenRubrics1.text = ""
-hoMO.StEphraimPrayerLentenRubrics2.text = ""
+hoMO.StEphraimPrayerLentenRubrics1.text = ho.ho02_gr_GR_cog.hoMO.StEphraimPrayerLentenRubrics1.text
+hoMO.StEphraimPrayerLentenRubrics2.text = ho.ho02_gr_GR_cog.hoMO.StEphraimPrayerLentenRubrics2.text
 
-hoMO.StMardariosPrayer.title = ""
-hoMO.StMardariosPrayer.text = ""
-hoMO.StMardariosPrayer.rubric = ""
+hoMO.StMardariosPrayer.title = ho.ho02_gr_GR_cog.hoMO.StMardariosPrayer.title
+hoMO.StMardariosPrayer.text = ho.ho02_gr_GR_cog.hoMO.StMardariosPrayer.text
+hoMO.StMardariosPrayer.rubric = ho.ho02_gr_GR_cog.hoMO.StMardariosPrayer.rubric
 
-hoMO.StBasilPrayer1.rubric = ""
-hoMO.StBasilPrayer1.title = ""
-hoMO.StBasilPrayer1.text = ""
+hoMO.StBasilPrayer1.rubric = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer1.rubric
+hoMO.StBasilPrayer1.title = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer1.title
+hoMO.StBasilPrayer1.text = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer1.text
 
-hoMO.StBasilPrayer2.rubric = ""
-hoMO.StBasilPrayer2.title = ""
-hoMO.StBasilPrayer2.text = ""
+hoMO.StBasilPrayer2.rubric = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer2.rubric
+hoMO.StBasilPrayer2.title = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer2.title
+hoMO.StBasilPrayer2.text = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer2.text
 
-hoMO.PrayerForDeceased.rubric = ""
-hoMO.PrayerForDeceased.title = ""
-hoMO.PrayerForDeceased.text = ""
+hoMO.PrayerForDeceased.rubric = ho.ho02_gr_GR_cog.hoMO.PrayerForDeceased.rubric
+hoMO.PrayerForDeceased.title = ho.ho02_gr_GR_cog.hoMO.PrayerForDeceased.title
+hoMO.PrayerForDeceased.text = ho.ho02_gr_GR_cog.hoMO.PrayerForDeceased.text
 
-hoMO.TriadicMegalynaria.title = ""
-hoMO.TriadicMegalynaria.mode = ""
-hoMO.TriadicMegalynaria01.incipit = ""
-hoMO.TriadicMegalynaria01.text = ""
-hoMO.TriadicMegalynaria02.incipit = ""
-hoMO.TriadicMegalynaria02.text = ""
-hoMO.TriadicMegalynaria03.incipit = ""
-hoMO.TriadicMegalynaria03.text = ""
-hoMO.TriadicMegalynaria04.incipit = ""
-hoMO.TriadicMegalynaria04.text = ""
+hoMO.TriadicMegalynaria.title = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria.title
+hoMO.TriadicMegalynaria.mode = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria.mode
+hoMO.TriadicMegalynaria01.incipit = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria01.incipit
+hoMO.TriadicMegalynaria01.text = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria01.text
+hoMO.TriadicMegalynaria02.incipit = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria02.incipit
+hoMO.TriadicMegalynaria02.text = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria02.text
+hoMO.TriadicMegalynaria03.incipit = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria03.incipit
+hoMO.TriadicMegalynaria03.text = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria03.text
+hoMO.TriadicMegalynaria04.incipit = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria04.incipit
+hoMO.TriadicMegalynaria04.text = ho.ho02_gr_GR_cog.hoMO.TriadicMegalynaria04.text
 
-hoMO.SaturdayTroparion1.mode = ""
-hoMO.SaturdayTroparion1.incipit = ""
-hoMO.SaturdayTroparion1.text = ""
-hoMO.SaturdayTroparion2.incipit = ""
-hoMO.SaturdayTroparion2.text = ""
-hoMO.SaturdayTroparion3.incipit = ""
-hoMO.SaturdayTroparion3.text = ""
+hoMO.SaturdayTroparion1.mode = ho.ho02_gr_GR_cog.hoMO.SaturdayTroparion1.mode
+hoMO.SaturdayTroparion1.incipit = ho.ho02_gr_GR_cog.hoMO.SaturdayTroparion1.incipit
+hoMO.SaturdayTroparion1.text = ho.ho02_gr_GR_cog.hoMO.SaturdayTroparion1.text
+hoMO.SaturdayTroparion2.incipit = ho.ho02_gr_GR_cog.hoMO.SaturdayTroparion2.incipit
+hoMO.SaturdayTroparion2.text = ho.ho02_gr_GR_cog.hoMO.SaturdayTroparion2.text
+hoMO.SaturdayTroparion3.incipit = ho.ho02_gr_GR_cog.hoMO.SaturdayTroparion3.incipit
+hoMO.SaturdayTroparion3.text = ho.ho02_gr_GR_cog.hoMO.SaturdayTroparion3.text
 
-hoMO.StEfstratiosPrayer.rubric = ""
-hoMO.StEfstratiosPrayer.title = ""
-hoMO.StEfstratiosPrayer.text = ""
+hoMO.StEfstratiosPrayer.rubric = ho.ho02_gr_GR_cog.hoMO.StEfstratiosPrayer.rubric
+hoMO.StEfstratiosPrayer.title = ho.ho02_gr_GR_cog.hoMO.StEfstratiosPrayer.title
+hoMO.StEfstratiosPrayer.text = ho.ho02_gr_GR_cog.hoMO.StEfstratiosPrayer.text

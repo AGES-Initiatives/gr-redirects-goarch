@@ -1,20 +1,20 @@
 A_Resource_Whose_Name = le.go.me.m11.d09_gr_redirects_goarch
 
-lemeMA.Gospel.title = "Εἰς τὸν ὄρθρον. Τοῦ Ἱεράρχου."
-lemeMA.Gospel.title_abbr = "Εἰς τὸν ὄρθρον. Τοῦ Ἱεράρχου."
-lemeMA.Gospel.version = le.go.me.m09.d30_gr_redirects_goarch.lemeLI.Gospel.version
-lemeMA.Gospel.book_string = le.go.me.m09.d30_gr_redirects_goarch.lemeLI.Gospel.book_string
-lemeMA.Gospel.book_abbr = le.go.me.m09.d30_gr_redirects_goarch.lemeLI.Gospel.book_abbr
-lemeMA.Gospel.chapverse = le.go.me.m09.d30_gr_redirects_goarch.lemeLI.Gospel.chapverse
-lemeMA.Gospel.incipit = le.go.me.m09.d30_gr_redirects_goarch.lemeLI.Gospel.incipit
-lemeMA.Gospel.text = le.go.me.m09.d30_gr_redirects_goarch.lemeLI.Gospel.text
+lemeMA.Gospel.title = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.title
+lemeMA.Gospel.title_abbr = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.title_abbr
+lemeMA.Gospel.version = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.version
+lemeMA.Gospel.book_string = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.book_abbr
+lemeMA.Gospel.chapverse = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.chapverse
+lemeMA.Gospel.incipit = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.incipit
+lemeMA.Gospel.text = le.go.me.m11.d09_gr_GR_cog.lemeMA.Gospel.text
 
-lemeLI.Gospel.title = "Εἰς τὴν Λειτουργίαν. Τοῦ Ἱεράρχου."
-lemeLI.Gospel.title_abbr = "Εἰς τὴν Λειτουργίαν. Τοῦ Ἱεράρχου."
-lemeLI.Gospel.version = le.go.me.m01.d10_gr_redirects_goarch.lemeLI.Gospel2.version
-lemeLI.Gospel.book_string = le.go.me.m01.d10_gr_redirects_goarch.lemeLI.Gospel2.book_string
-lemeLI.Gospel.book_abbr = le.go.me.m01.d10_gr_redirects_goarch.lemeLI.Gospel2.book_abbr
-lemeLI.Gospel.chapverse = le.go.me.m01.d10_gr_redirects_goarch.lemeLI.Gospel2.chapverse
-lemeLI.Gospel.incipit = le.go.me.m01.d10_gr_redirects_goarch.lemeLI.Gospel2.incipit
-lemeLI.Gospel.text = le.go.me.m01.d10_gr_redirects_goarch.lemeLI.Gospel2.text
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m11.d09_gr_GR_cog.lemeLI.Gospel.pagenumber

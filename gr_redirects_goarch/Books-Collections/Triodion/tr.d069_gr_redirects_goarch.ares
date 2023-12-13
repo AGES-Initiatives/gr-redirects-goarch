@@ -1,68 +1,68 @@
 A_Resource_Whose_Name = tr.d069_gr_redirects_goarch
 
-trDA.commemoration.full = ""
-trDA.commemoration.short = ""
-trDA.title = ""
-trDA.insert1 = ""
-trDA.insert2 = ""
-trDA.note = ""
-trHO.daytitle = ""
-trHO.commemorations = ""
-trHO.description1 = ""
-trHO.description2 = ""
-trHO.note1 = ""
-trHO.note2 = ""
-trCO.header = ""
-trVL.header = ""
-trEM.header = ""
+trDA.commemoration.full = tr.d069_gr_GR_cog.trDA.commemoration.full
+trDA.commemoration.short = tr.d069_gr_GR_cog.trDA.commemoration.short
+trDA.title = tr.d069_gr_GR_cog.trDA.title
+trDA.insert1 = tr.d069_gr_GR_cog.trDA.insert1
+trDA.insert2 = tr.d069_gr_GR_cog.trDA.insert2
+trDA.note = tr.d069_gr_GR_cog.trDA.note
+trHO.daytitle = tr.d069_gr_GR_cog.trHO.daytitle
+trHO.commemorations = tr.d069_gr_GR_cog.trHO.commemorations
+trHO.description1 = tr.d069_gr_GR_cog.trHO.description1
+trHO.description2 = tr.d069_gr_GR_cog.trHO.description2
+trHO.note1 = tr.d069_gr_GR_cog.trHO.note1
+trHO.note2 = tr.d069_gr_GR_cog.trHO.note2
+trCO.header = tr.d069_gr_GR_cog.trCO.header
+trVL.header = tr.d069_gr_GR_cog.trVL.header
+trEM.header = tr.d069_gr_GR_cog.trEM.header
 
-trVE.Stichera01.mode = ""
-trVE.Stichera01.melody = ""
-trVE.Stichera01.incipit = ""
-trVE.Stichera01.text = ""
+trVE.Stichera01.mode = tr.d069_gr_GR_cog.trVE.Stichera01.mode
+trVE.Stichera01.melody = tr.d069_gr_GR_cog.trVE.Stichera01.melody
+trVE.Stichera01.incipit = tr.d069_gr_GR_cog.trVE.Stichera01.incipit
+trVE.Stichera01.text = tr.d069_gr_GR_cog.trVE.Stichera01.text
 
-trVE.Stichera02.mode = ""
-trVE.Stichera02.melody = ""
-trVE.Stichera02.incipit = ""
-trVE.Stichera02.text = ""
+trVE.Stichera02.mode = tr.d069_gr_GR_cog.trVE.Stichera02.mode
+trVE.Stichera02.melody = tr.d069_gr_GR_cog.trVE.Stichera02.melody
+trVE.Stichera02.incipit = tr.d069_gr_GR_cog.trVE.Stichera02.incipit
+trVE.Stichera02.text = tr.d069_gr_GR_cog.trVE.Stichera02.text
 
-trVE.Stichera03.mode = ""
-trVE.Stichera03.melody = ""
-trVE.Stichera03.incipit = ""
-trVE.Stichera03.text = ""
+trVE.Stichera03.mode = tr.d069_gr_GR_cog.trVE.Stichera03.mode
+trVE.Stichera03.melody = tr.d069_gr_GR_cog.trVE.Stichera03.melody
+trVE.Stichera03.incipit = tr.d069_gr_GR_cog.trVE.Stichera03.incipit
+trVE.Stichera03.text = tr.d069_gr_GR_cog.trVE.Stichera03.text
 
-trVE.Stichera04.mode = ""
-trVE.Stichera04.melody = ""
-trVE.Stichera04.incipit = ""
-trVE.Stichera04.text = ""
+trVE.Stichera04.mode = tr.d069_gr_GR_cog.trVE.Stichera04.mode
+trVE.Stichera04.melody = tr.d069_gr_GR_cog.trVE.Stichera04.melody
+trVE.Stichera04.incipit = tr.d069_gr_GR_cog.trVE.Stichera04.incipit
+trVE.Stichera04.text = tr.d069_gr_GR_cog.trVE.Stichera04.text
 
-trVE.Stichera05.mode = ""
-trVE.Stichera05.melody = ""
-trVE.Stichera05.incipit = ""
-trVE.Stichera05.text = ""
+trVE.Stichera05.mode = tr.d069_gr_GR_cog.trVE.Stichera05.mode
+trVE.Stichera05.melody = tr.d069_gr_GR_cog.trVE.Stichera05.melody
+trVE.Stichera05.incipit = tr.d069_gr_GR_cog.trVE.Stichera05.incipit
+trVE.Stichera05.text = tr.d069_gr_GR_cog.trVE.Stichera05.text
 
-trVE.SticGlory.mode = ""
-trVE.SticGlory.melody = ""
-trVE.SticGlory.incipit = ""
-trVE.SticGlory.text = ""
+trVE.SticGlory.mode = tr.d069_gr_GR_cog.trVE.SticGlory.mode
+trVE.SticGlory.melody = tr.d069_gr_GR_cog.trVE.SticGlory.melody
+trVE.SticGlory.incipit = tr.d069_gr_GR_cog.trVE.SticGlory.incipit
+trVE.SticGlory.text = tr.d069_gr_GR_cog.trVE.SticGlory.text
 
-trLI.CherubicHymn.title = ""
-trLI.CherubicHymn.mode = ""
-trLI.CherubicHymnPart1.incipit = ""
-trLI.CherubicHymnPart1.text = ""
-trLI.CherubicHymnPart2.incipit = ""
-trLI.CherubicHymnPart2.text = ""
+trLI.CherubicHymn.title = tr.d069_gr_GR_cog.trLI.CherubicHymn.title
+trLI.CherubicHymn.mode = tr.d069_gr_GR_cog.trLI.CherubicHymn.mode
+trLI.CherubicHymnPart1.incipit = tr.d069_gr_GR_cog.trLI.CherubicHymnPart1.incipit
+trLI.CherubicHymnPart1.text = tr.d069_gr_GR_cog.trLI.CherubicHymnPart1.text
+trLI.CherubicHymnPart2.incipit = tr.d069_gr_GR_cog.trLI.CherubicHymnPart2.incipit
+trLI.CherubicHymnPart2.text = tr.d069_gr_GR_cog.trLI.CherubicHymnPart2.text
 
-trLI.TheotokosHymn.mode = ""
-trLI.TheotokosHymn.incipit = ""
-trLI.TheotokosHymn.text = ""
+trLI.TheotokosHymn.mode = tr.d069_gr_GR_cog.trLI.TheotokosHymn.mode
+trLI.TheotokosHymn.incipit = tr.d069_gr_GR_cog.trLI.TheotokosHymn.incipit
+trLI.TheotokosHymn.text = tr.d069_gr_GR_cog.trLI.TheotokosHymn.text
 
-trLI.CommunionHymn.incipit = ""
-trLI.CommunionHymn.text = ""
+trLI.CommunionHymn.incipit = tr.d069_gr_GR_cog.trLI.CommunionHymn.incipit
+trLI.CommunionHymn.text = tr.d069_gr_GR_cog.trLI.CommunionHymn.text
 
-trLI.AfterCommunion.mode = ""
-trLI.AfterCommunion.incipit = ""
-trLI.AfterCommunion.text = ""
+trLI.AfterCommunion.mode = tr.d069_gr_GR_cog.trLI.AfterCommunion.mode
+trLI.AfterCommunion.incipit = tr.d069_gr_GR_cog.trLI.AfterCommunion.incipit
+trLI.AfterCommunion.text = tr.d069_gr_GR_cog.trLI.AfterCommunion.text
 
 // Foot Washing
 
@@ -73,650 +73,650 @@ trLI.AfterCommunion.text = ""
 
 // Holy Thursday night
 
-trMA.MM.Alleluia.text = ""
-
-trMA.Troparion.mode = ""
-trMA.Troparion.melody = ""
-trMA.Troparion.incipit = ""
-trMA.Troparion.text = ""
-
-trMA.Antiphon01.title = ""
-trMA.Antiphon011.mode = ""
-trMA.Antiphon011.incipit = ""
-trMA.Antiphon011.text = ""
-
-trMA.Antiphon012.mode = ""
-trMA.Antiphon012.incipit = ""
-trMA.Antiphon012.text = ""
-
-trMA.Antiphon013.mode = ""
-trMA.Antiphon013.incipit = ""
-trMA.Antiphon013.text = ""
-
-trMA.Antiphon01T.mode = ""
-trMA.Antiphon01T.incipit = ""
-trMA.Antiphon01T.text = ""
-
-trMA.Antiphon02.title = ""
-trMA.Antiphon021.mode = ""
-trMA.Antiphon021.incipit = ""
-trMA.Antiphon021.text = ""
-
-trMA.Antiphon022.mode = ""
-trMA.Antiphon022.incipit = ""
-trMA.Antiphon022.text = ""
-
-trMA.Antiphon02T.mode = ""
-trMA.Antiphon02T.incipit = ""
-trMA.Antiphon02T.text = ""
-
-trMA.Antiphon03.title = ""
-trMA.Antiphon031.mode = ""
-trMA.Antiphon031.incipit = ""
-trMA.Antiphon031.text = ""
-
-trMA.Antiphon032.mode = ""
-trMA.Antiphon032.incipit = ""
-trMA.Antiphon032.text = ""
-
-trMA.Antiphon033.mode = ""
-trMA.Antiphon033.incipit = ""
-trMA.Antiphon033.text = ""
-
-trMA.Antiphon034.mode = ""
-trMA.Antiphon034.incipit = ""
-trMA.Antiphon034.text = ""
-
-trMA.Antiphon035.mode = ""
-trMA.Antiphon035.incipit = ""
-trMA.Antiphon035.text = ""
-
-trMA.Antiphon036.mode = ""
-trMA.Antiphon036.incipit = ""
-trMA.Antiphon036.text = ""
-
-trMA.Antiphon03T.mode = ""
-trMA.Antiphon03T.incipit = ""
-trMA.Antiphon03T.text = ""
-
-trMA.Antiphon03Kathisma.mode = ""
-trMA.Antiphon03Kathisma.incipit = ""
-trMA.Antiphon03Kathisma.text = ""
-
-trMA.Antiphon04.title = ""
-trMA.Antiphon041.mode = ""
-trMA.Antiphon041.incipit = ""
-trMA.Antiphon041.text = ""
-
-trMA.Antiphon042.mode = ""
-trMA.Antiphon042.incipit = ""
-trMA.Antiphon042.text = ""
-
-trMA.Antiphon043.mode = ""
-trMA.Antiphon043.incipit = ""
-trMA.Antiphon043.text = ""
-
-trMA.Antiphon04T.mode = ""
-trMA.Antiphon04T.incipit = ""
-trMA.Antiphon04T.text = ""
-
-trMA.Antiphon05.title = ""
-trMA.Antiphon051.mode = ""
-trMA.Antiphon051.incipit = ""
-trMA.Antiphon051.text = ""
-
-trMA.Antiphon052.mode = ""
-trMA.Antiphon052.incipit = ""
-trMA.Antiphon052.text = ""
-
-trMA.Antiphon05T.mode = ""
-trMA.Antiphon05T.incipit = ""
-trMA.Antiphon05T.text = ""
-
-trMA.Antiphon06.title = ""
-trMA.Antiphon061.mode = ""
-trMA.Antiphon061.incipit = ""
-trMA.Antiphon061.text = ""
-
-trMA.Antiphon062.mode = ""
-trMA.Antiphon062.incipit = ""
-trMA.Antiphon062.text = ""
-
-trMA.Antiphon063.mode = ""
-trMA.Antiphon063.incipit = ""
-trMA.Antiphon063.text = ""
-
-trMA.Antiphon06T.mode = ""
-trMA.Antiphon06T.incipit = ""
-trMA.Antiphon06T.text = ""
-
-trMA.Antiphon06Kathisma.mode = ""
-trMA.Antiphon06Kathisma.incipit = ""
-trMA.Antiphon06Kathisma.text = ""
-
-trMA.Antiphon07.title = ""
-trMA.Antiphon071.mode = ""
-trMA.Antiphon071.incipit = ""
-trMA.Antiphon071.text = ""
-
-trMA.Antiphon072.mode = ""
-trMA.Antiphon072.incipit = ""
-trMA.Antiphon072.text = ""
-
-trMA.Antiphon07T.mode = ""
-trMA.Antiphon07T.incipit = ""
-trMA.Antiphon07T.text = ""
-
-trMA.Antiphon08.title = ""
-trMA.Antiphon081.mode = ""
-trMA.Antiphon081.incipit = ""
-trMA.Antiphon081.text = ""
-
-trMA.Antiphon082.mode = ""
-trMA.Antiphon082.incipit = ""
-trMA.Antiphon082.text = ""
-
-trMA.Antiphon08T.mode = ""
-trMA.Antiphon08T.incipit = ""
-trMA.Antiphon08T.text = ""
-
-trMA.Antiphon09.title = ""
-trMA.Antiphon091.mode = ""
-trMA.Antiphon091.incipit = ""
-trMA.Antiphon091.text = ""
-
-trMA.Antiphon092.mode = ""
-trMA.Antiphon092.incipit = ""
-trMA.Antiphon092.text = ""
-
-trMA.Antiphon09T.mode = ""
-trMA.Antiphon09T.incipit = ""
-trMA.Antiphon09T.text = ""
-
-trMA.Antiphon09Kathisma.mode = ""
-trMA.Antiphon09Kathisma.incipit = ""
-trMA.Antiphon09Kathisma.text = ""
-
-trMA.Antiphon10.title = ""
-trMA.Antiphon101.mode = ""
-trMA.Antiphon101.incipit = ""
-trMA.Antiphon101.text = ""
-
-trMA.Antiphon102.mode = ""
-trMA.Antiphon102.incipit = ""
-trMA.Antiphon102.text = ""
-
-trMA.Antiphon10T.mode = ""
-trMA.Antiphon10T.incipit = ""
-trMA.Antiphon10T.text = ""
-
-trMA.Antiphon11.title = ""
-trMA.Antiphon111.mode = ""
-trMA.Antiphon111.incipit = ""
-trMA.Antiphon111.text = ""
-
-trMA.Antiphon112.mode = ""
-trMA.Antiphon112.incipit = ""
-trMA.Antiphon112.text = ""
-
-trMA.Antiphon113.mode = ""
-trMA.Antiphon113.incipit = ""
-trMA.Antiphon113.text = ""
-
-trMA.Antiphon11T.mode = ""
-trMA.Antiphon11T.incipit = ""
-trMA.Antiphon11T.text = ""
-
-trMA.Antiphon12.title = ""
-trMA.Antiphon121.mode = ""
-trMA.Antiphon121.incipit = ""
-trMA.Antiphon121.text = ""
-
-trMA.Antiphon122.mode = ""
-trMA.Antiphon122.incipit = ""
-trMA.Antiphon122.text = ""
-
-trMA.Antiphon123.mode = ""
-trMA.Antiphon123.incipit = ""
-trMA.Antiphon123.text = ""
-
-trMA.Antiphon12T.mode = ""
-trMA.Antiphon12T.incipit = ""
-trMA.Antiphon12T.text = ""
-
-trMA.Antiphon12Kathisma.mode = ""
-trMA.Antiphon12Kathisma.incipit = ""
-trMA.Antiphon12Kathisma.text = ""
-
-trMA.Antiphon13.title = ""
-trMA.Antiphon131.mode = ""
-trMA.Antiphon131.incipit = ""
-trMA.Antiphon131.text = ""
-
-trMA.Antiphon132.mode = ""
-trMA.Antiphon132.incipit = ""
-trMA.Antiphon132.text = ""
-
-trMA.Antiphon13T.mode = ""
-trMA.Antiphon13T.incipit = ""
-trMA.Antiphon13T.text = ""
-
-trMA.Antiphon14.title = ""
-trMA.Antiphon141.mode = ""
-trMA.Antiphon141.incipit = ""
-trMA.Antiphon141.text = ""
-
-trMA.Antiphon142.mode = ""
-trMA.Antiphon142.incipit = ""
-trMA.Antiphon142.text = ""
-
-trMA.Antiphon14T.mode = ""
-trMA.Antiphon14T.incipit = ""
-trMA.Antiphon14T.text = ""
-
-trMA.Antiphon15.title = ""
-trMA.Antiphon151.mode = ""
-trMA.Antiphon151.rubric = ""
-trMA.Antiphon151.incipit = ""
-trMA.Antiphon151.text = ""
-trMA.Antiphon1511.incipit = ""
-trMA.Antiphon1511.text = ""
-trMA.Antiphon1512.incipit = ""
-trMA.Antiphon1512.text = ""
-trMA.Antiphon1513.incipit = ""
-trMA.Antiphon1513.text = ""
-trMA.Antiphon1514.incipit = ""
-trMA.Antiphon1514.text = ""
-trMA.Antiphon1515.incipit = ""
-trMA.Antiphon1515.text = ""
-trMA.Antiphon1516.incipit = ""
-trMA.Antiphon1516.text = ""
-trMA.Antiphon1517.text = ""
-trMA.Antiphon1518.incipit = ""
-trMA.Antiphon1518.text = ""
-
-trMA.Antiphon152.mode = ""
-trMA.Antiphon152.incipit = ""
-trMA.Antiphon152.text = ""
-
-trMA.Antiphon153.mode = ""
-trMA.Antiphon153.incipit = ""
-trMA.Antiphon153.text = ""
-
-trMA.Antiphon15T.mode = ""
-trMA.Antiphon15T.incipit = ""
-trMA.Antiphon15T.text = ""
-
-trMA.Antiphon15Kathisma.mode = ""
-trMA.Antiphon15Kathisma.incipit = ""
-trMA.Antiphon15Kathisma.text = ""
-
-trMA.Beatitudes01.mode = ""
-trMA.Beatitudes01.melody = ""
-trMA.Beatitudes01.incipit = ""
-trMA.Beatitudes01.text = ""
-
-trMA.Beatitudes02.mode = ""
-trMA.Beatitudes02.melody = ""
-trMA.Beatitudes02.incipit = ""
-trMA.Beatitudes02.text = ""
-
-trMA.Beatitudes03.mode = ""
-trMA.Beatitudes03.melody = ""
-trMA.Beatitudes03.incipit = ""
-trMA.Beatitudes03.text = ""
-
-trMA.Beatitudes04.mode = ""
-trMA.Beatitudes04.melody = ""
-trMA.Beatitudes04.incipit = ""
-trMA.Beatitudes04.text = ""
-
-trMA.Beatitudes05.mode = ""
-trMA.Beatitudes05.melody = ""
-trMA.Beatitudes05.incipit = ""
-trMA.Beatitudes05.text = ""
-
-trMA.Beatitudes06.mode = ""
-trMA.Beatitudes06.melody = ""
-trMA.Beatitudes06.incipit = ""
-trMA.Beatitudes06.text = ""
-
-trMA.Beatitudes07.mode = ""
-trMA.Beatitudes07.melody = ""
-trMA.Beatitudes07.incipit = ""
-trMA.Beatitudes07.text = ""
-
-trMA.Beatitudes08.mode = ""
-trMA.Beatitudes08.melody = ""
-trMA.Beatitudes08.incipit = ""
-trMA.Beatitudes08.text = ""
-
-trMA.BeatitudesTr.verse = ""
-trMA.BeatitudesTr.mode = ""
-trMA.BeatitudesTr.melody = ""
-trMA.BeatitudesTr.incipit = ""
-trMA.BeatitudesTr.text = ""
-
-trMA.BeatitudesT.verse = ""
-trMA.BeatitudesT.mode = ""
-trMA.BeatitudesT.melody = ""
-trMA.BeatitudesT.incipit = ""
-trMA.BeatitudesT.text = ""
-
-
-trMA.C1.acrostic.title = ""
-trMA.C1.acrostic.notice1 = ""
-trMA.C1.acrostic.text = ""
-trMA.C1.poet = ""
-trMA.C1.verse = ""
-
-trMA.Ode5C1H.ode = ""
-trMA.Ode5C1H.mode = ""
-trMA.Ode5C1H.greekmelody = ""
-trMA.Ode5C1H.melody = ""
-trMA.Ode5C1H.incipit = ""
-trMA.Ode5C1H.text = ""
-
-trMA.Ode5C11.ode = ""
-trMA.Ode5C11.mode = ""
-trMA.Ode5C11.greekmelody = ""
-trMA.Ode5C11.melody = ""
-trMA.Ode5C11.incipit = ""
-trMA.Ode5C11.text = ""
-
-trMA.Ode5C12.ode = ""
-trMA.Ode5C12.mode = ""
-trMA.Ode5C12.melody = ""
-trMA.Ode5C12.incipit = ""
-trMA.Ode5C12.text = ""
-
-trMA.Ode5K.ode = ""
-trMA.Ode5K.mode = ""
-trMA.Ode5K.melody = ""
-trMA.Ode5K.incipit = ""
-trMA.Ode5K.text = ""
-
-trMA.Kontakion1.mode = ""
-trMA.Kontakion1.melody = ""
-trMA.Kontakion1.incipit = ""
-trMA.Kontakion1.text = ""
-
-trMA.Oikos1.text = ""
-
-trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = ""
-trSY.commemoration.couplet1.verse1 = ""
-trSY.commemoration.couplet1.verse2 = ""
-trSY.commemoration.couplet2.title = ""
-trSY.commemoration.couplet2.verse1 = ""
-trSY.commemoration.couplet2.verse2 = ""
-trSY.commemoration.narration.p01 = ""
-trSY.commemoration.narration.p02 = ""
-trSY.commemoration.narration.p03 = ""
-trSY.commemoration.narration.p04 = ""
-trSY.commemoration.narration.p05 = ""
-trSY.commemoration.narration.p06 = ""
-trSY.commemoration.narration.p07 = ""
-trSY.lastline = ""
-
-trMA.Ode8C1H.ode = ""
-trMA.Ode8C1H.mode = ""
-trMA.Ode8C1H.greekmelody = ""
-trMA.Ode8C1H.melody = ""
-trMA.Ode8C1H.incipit = ""
-trMA.Ode8C1H.text = ""
-
-trMA.Ode8C11.ode = ""
-trMA.Ode8C11.mode = ""
-trMA.Ode8C11.greekmelody = ""
-trMA.Ode8C11.melody = ""
-trMA.Ode8C11.incipit = ""
-trMA.Ode8C11.text = ""
-
-trMA.Ode8C12.ode = ""
-trMA.Ode8C12.mode = ""
-trMA.Ode8C12.melody = ""
-trMA.Ode8C12.incipit = ""
-trMA.Ode8C12.text = ""
-
-trMA.Ode8C13.ode = ""
-trMA.Ode8C13.mode = ""
-trMA.Ode8C13.melody = ""
-trMA.Ode8C13.incipit = ""
-trMA.Ode8C13.text = ""
-
-trMA.Ode8C14.ode = ""
-trMA.Ode8C14.mode = ""
-trMA.Ode8C14.melody = ""
-trMA.Ode8C14.incipit = ""
-trMA.Ode8C14.text = ""
-
-trMA.Ode8K.ode = ""
-trMA.Ode8K.mode = ""
-trMA.Ode8K.melody = ""
-trMA.Ode8K.incipit = ""
-trMA.Ode8K.text = ""
-
-trMA.Ode9C1H.ode = ""
-trMA.Ode9C1H.mode = ""
-trMA.Ode9C1H.greekmelody = ""
-trMA.Ode9C1H.melody = ""
-trMA.Ode9C1H.incipit = ""
-trMA.Ode9C1H.text = ""
-
-trMA.Ode9C11.ode = ""
-trMA.Ode9C11.mode = ""
-trMA.Ode9C11.greekmelody = ""
-trMA.Ode9C11.melody = ""
-trMA.Ode9C11.incipit = ""
-trMA.Ode9C11.text = ""
-
-trMA.Ode9C12.ode = ""
-trMA.Ode9C12.mode = ""
-trMA.Ode9C12.melody = ""
-trMA.Ode9C12.incipit = ""
-trMA.Ode9C12.text = ""
-
-trMA.Ode9C13.ode = ""
-trMA.Ode9C13.mode = ""
-trMA.Ode9C13.melody = ""
-trMA.Ode9C13.incipit = ""
-trMA.Ode9C13.text = ""
-
-trMA.Ode9C14.ode = ""
-trMA.Ode9C14.mode = ""
-trMA.Ode9C14.melody = ""
-trMA.Ode9C14.incipit = ""
-trMA.Ode9C14.text = ""
-
-trMA.Ode9K.ode = ""
-trMA.Ode9K.mode = ""
-trMA.Ode9K.melody = ""
-trMA.Ode9K.incipit = ""
-trMA.Ode9K.text = ""
-
-trMA.Exaposteilarion1.mode = ""
-trMA.Exaposteilarion1.greekmelody = ""
-trMA.Exaposteilarion1.melody = ""
-trMA.Exaposteilarion1.incipit = ""
-trMA.Exaposteilarion1.text = ""
-
-
-trMA.Lauds1.mode = ""
-trMA.Lauds1.melody = ""
-trMA.Lauds1.incipit = ""
-trMA.Lauds1.text = ""
-
-trMA.Lauds2.mode = ""
-trMA.Lauds2.melody = ""
-trMA.Lauds2.incipit = ""
-trMA.Lauds2.text = ""
-
-trMA.Lauds3.mode = ""
-trMA.Lauds3.melody = ""
-trMA.Lauds3.incipit = ""
-trMA.Lauds3.text = ""
-
-trMA.LaudsGlory.mode = ""
-trMA.LaudsGlory.melody = ""
-trMA.LaudsGlory.incipit = ""
-trMA.LaudsGlory.text = ""
-
-trMA.LaudsBoth.mode = ""
-trMA.LaudsBoth.melody = ""
-trMA.LaudsBoth.incipit = ""
-trMA.LaudsBoth.text = ""
-
-trMA.Aposticha1.mode = ""
-trMA.Aposticha1.melody = ""
-trMA.Aposticha1.incipit = ""
-trMA.Aposticha1.text = ""
-
-trMA.Aposticha2.mode = ""
-trMA.Aposticha2.melody = ""
-trMA.Aposticha2.incipit = ""
-trMA.Aposticha2.text = ""
-
-trMA.Aposticha3.mode = ""
-trMA.Aposticha3.melody = ""
-trMA.Aposticha3.incipit = ""
-trMA.Aposticha3.text = ""
-
-trMA.Aposticha4.mode = ""
-trMA.Aposticha4.melody = ""
-trMA.Aposticha4.incipit = ""
-trMA.Aposticha4.text = ""
-
-trMA.AposGlory.mode = ""
-trMA.AposGlory.melody = ""
-trMA.AposGlory.incipit = ""
-trMA.AposGlory.text = ""
-
-trMA.AposBoth.mode = ""
-trMA.AposBoth.melody = ""
-trMA.AposBoth.incipit = ""
-trMA.AposBoth.text = ""
-
-trMA.Apolytikion1.mode = ""
-trMA.Apolytikion1.incipit = ""
-trMA.Apolytikion1.text = ""
-
-trHR.title = ""
-trHR.poet = ""
-
-trH1.title = ""
-
-trH1.Troparion.mode = ""
-trH1.Troparion.incipit = ""
-trH1.Troparion.text = ""
-
-trH1.Theotokion.mode = ""
-trH1.Theotokion.incipit = ""
-trH1.Theotokion.text = ""
-
-trH1.Idiomelon1.mode = ""
-trH1.Idiomelon1.melody = ""
-trH1.Idiomelon1.incipit = ""
-trH1.Idiomelon1.text = ""
-
-trH1.Idiomelon2.mode = ""
-trH1.Idiomelon2.melody = ""
-trH1.Idiomelon2.incipit = ""
-trH1.Idiomelon2.text = ""
-
-trH1.Idiomelon3.mode = ""
-trH1.Idiomelon3.melody = ""
-trH1.Idiomelon3.incipit = ""
-trH1.Idiomelon3.text = ""
-
-trH1.Kontakion.mode = ""
-trH1.Kontakion.incipit = ""
-trH1.Kontakion.text = ""
-
-trH3.title = ""
-
-trH3.Troparion.mode = ""
-trH3.Troparion.incipit = ""
-trH3.Troparion.text = ""
-
-trH3.Theotokion.mode = ""
-trH3.Theotokion.incipit = ""
-trH3.Theotokion.text = ""
-
-trH3.Idiomelon1.mode = ""
-trH3.Idiomelon1.melody = ""
-trH3.Idiomelon1.incipit = ""
-trH3.Idiomelon1.text = ""
-
-trH3.Idiomelon2.mode = ""
-trH3.Idiomelon2.melody = ""
-trH3.Idiomelon2.incipit = ""
-trH3.Idiomelon2.text = ""
-
-trH3.Idiomelon3.mode = ""
-trH3.Idiomelon3.melody = ""
-trH3.Idiomelon3.incipit = ""
-trH3.Idiomelon3.text = ""
-
-trH3.Kontakion.mode = ""
-trH3.Kontakion.incipit = ""
-trH3.Kontakion.text = ""
-
-trH6.title = ""
-
-trH6.Troparion.mode = ""
-trH6.Troparion.incipit = ""
-trH6.Troparion.text = ""
-
-trH6.Theotokion.mode = ""
-trH6.Theotokion.incipit = ""
-trH6.Theotokion.text = ""
-
-trH6.Idiomelon1.mode = ""
-trH6.Idiomelon1.melody = ""
-trH6.Idiomelon1.incipit = ""
-trH6.Idiomelon1.text = ""
-
-trH6.Idiomelon2.mode = ""
-trH6.Idiomelon2.melody = ""
-trH6.Idiomelon2.incipit = ""
-trH6.Idiomelon2.text = ""
-
-trH6.Idiomelon3.mode = ""
-trH6.Idiomelon3.melody = ""
-trH6.Idiomelon3.incipit = ""
-trH6.Idiomelon3.text = ""
-
-trH6.Kontakion.mode = ""
-trH6.Kontakion.incipit = ""
-trH6.Kontakion.text = ""
-
-trH9.title = ""
-
-trH9.Troparion.mode = ""
-trH9.Troparion.incipit = ""
-trH9.Troparion.text = ""
-
-trH9.Theotokion.mode = ""
-trH9.Theotokion.incipit = ""
-trH9.Theotokion.text = ""
-
-trH9.Idiomelon1.mode = ""
-trH9.Idiomelon1.melody = ""
-trH9.Idiomelon1.incipit = ""
-trH9.Idiomelon1.text = ""
-
-trH9.Idiomelon2.mode = ""
-trH9.Idiomelon2.melody = ""
-trH9.Idiomelon2.incipit = ""
-trH9.Idiomelon2.text = ""
-
-trH9.Idiomelon3.rubric = ""
-trH9.Idiomelon3.mode = ""
-trH9.Idiomelon3.melody = ""
-trH9.Idiomelon3.text = ""
-
-trH9.Kontakion.mode = ""
-trH9.Kontakion.incipit = ""
-trH9.Kontakion.text = ""
+trMA.MM.Alleluia.text = tr.d069_gr_GR_cog.trMA.MM.Alleluia.text
+
+trMA.Troparion.mode = tr.d069_gr_GR_cog.trMA.Troparion.mode
+trMA.Troparion.melody = tr.d069_gr_GR_cog.trMA.Troparion.melody
+trMA.Troparion.incipit = tr.d069_gr_GR_cog.trMA.Troparion.incipit
+trMA.Troparion.text = tr.d069_gr_GR_cog.trMA.Troparion.text
+
+trMA.Antiphon01.title = tr.d069_gr_GR_cog.trMA.Antiphon01.title
+trMA.Antiphon011.mode = tr.d069_gr_GR_cog.trMA.Antiphon011.mode
+trMA.Antiphon011.incipit = tr.d069_gr_GR_cog.trMA.Antiphon011.incipit
+trMA.Antiphon011.text = tr.d069_gr_GR_cog.trMA.Antiphon011.text
+
+trMA.Antiphon012.mode = tr.d069_gr_GR_cog.trMA.Antiphon012.mode
+trMA.Antiphon012.incipit = tr.d069_gr_GR_cog.trMA.Antiphon012.incipit
+trMA.Antiphon012.text = tr.d069_gr_GR_cog.trMA.Antiphon012.text
+
+trMA.Antiphon013.mode = tr.d069_gr_GR_cog.trMA.Antiphon013.mode
+trMA.Antiphon013.incipit = tr.d069_gr_GR_cog.trMA.Antiphon013.incipit
+trMA.Antiphon013.text = tr.d069_gr_GR_cog.trMA.Antiphon013.text
+
+trMA.Antiphon01T.mode = tr.d069_gr_GR_cog.trMA.Antiphon01T.mode
+trMA.Antiphon01T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon01T.incipit
+trMA.Antiphon01T.text = tr.d069_gr_GR_cog.trMA.Antiphon01T.text
+
+trMA.Antiphon02.title = tr.d069_gr_GR_cog.trMA.Antiphon02.title
+trMA.Antiphon021.mode = tr.d069_gr_GR_cog.trMA.Antiphon021.mode
+trMA.Antiphon021.incipit = tr.d069_gr_GR_cog.trMA.Antiphon021.incipit
+trMA.Antiphon021.text = tr.d069_gr_GR_cog.trMA.Antiphon021.text
+
+trMA.Antiphon022.mode = tr.d069_gr_GR_cog.trMA.Antiphon022.mode
+trMA.Antiphon022.incipit = tr.d069_gr_GR_cog.trMA.Antiphon022.incipit
+trMA.Antiphon022.text = tr.d069_gr_GR_cog.trMA.Antiphon022.text
+
+trMA.Antiphon02T.mode = tr.d069_gr_GR_cog.trMA.Antiphon02T.mode
+trMA.Antiphon02T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon02T.incipit
+trMA.Antiphon02T.text = tr.d069_gr_GR_cog.trMA.Antiphon02T.text
+
+trMA.Antiphon03.title = tr.d069_gr_GR_cog.trMA.Antiphon03.title
+trMA.Antiphon031.mode = tr.d069_gr_GR_cog.trMA.Antiphon031.mode
+trMA.Antiphon031.incipit = tr.d069_gr_GR_cog.trMA.Antiphon031.incipit
+trMA.Antiphon031.text = tr.d069_gr_GR_cog.trMA.Antiphon031.text
+
+trMA.Antiphon032.mode = tr.d069_gr_GR_cog.trMA.Antiphon032.mode
+trMA.Antiphon032.incipit = tr.d069_gr_GR_cog.trMA.Antiphon032.incipit
+trMA.Antiphon032.text = tr.d069_gr_GR_cog.trMA.Antiphon032.text
+
+trMA.Antiphon033.mode = tr.d069_gr_GR_cog.trMA.Antiphon033.mode
+trMA.Antiphon033.incipit = tr.d069_gr_GR_cog.trMA.Antiphon033.incipit
+trMA.Antiphon033.text = tr.d069_gr_GR_cog.trMA.Antiphon033.text
+
+trMA.Antiphon034.mode = tr.d069_gr_GR_cog.trMA.Antiphon034.mode
+trMA.Antiphon034.incipit = tr.d069_gr_GR_cog.trMA.Antiphon034.incipit
+trMA.Antiphon034.text = tr.d069_gr_GR_cog.trMA.Antiphon034.text
+
+trMA.Antiphon035.mode = tr.d069_gr_GR_cog.trMA.Antiphon035.mode
+trMA.Antiphon035.incipit = tr.d069_gr_GR_cog.trMA.Antiphon035.incipit
+trMA.Antiphon035.text = tr.d069_gr_GR_cog.trMA.Antiphon035.text
+
+trMA.Antiphon036.mode = tr.d069_gr_GR_cog.trMA.Antiphon036.mode
+trMA.Antiphon036.incipit = tr.d069_gr_GR_cog.trMA.Antiphon036.incipit
+trMA.Antiphon036.text = tr.d069_gr_GR_cog.trMA.Antiphon036.text
+
+trMA.Antiphon03T.mode = tr.d069_gr_GR_cog.trMA.Antiphon03T.mode
+trMA.Antiphon03T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon03T.incipit
+trMA.Antiphon03T.text = tr.d069_gr_GR_cog.trMA.Antiphon03T.text
+
+trMA.Antiphon03Kathisma.mode = tr.d069_gr_GR_cog.trMA.Antiphon03Kathisma.mode
+trMA.Antiphon03Kathisma.incipit = tr.d069_gr_GR_cog.trMA.Antiphon03Kathisma.incipit
+trMA.Antiphon03Kathisma.text = tr.d069_gr_GR_cog.trMA.Antiphon03Kathisma.text
+
+trMA.Antiphon04.title = tr.d069_gr_GR_cog.trMA.Antiphon04.title
+trMA.Antiphon041.mode = tr.d069_gr_GR_cog.trMA.Antiphon041.mode
+trMA.Antiphon041.incipit = tr.d069_gr_GR_cog.trMA.Antiphon041.incipit
+trMA.Antiphon041.text = tr.d069_gr_GR_cog.trMA.Antiphon041.text
+
+trMA.Antiphon042.mode = tr.d069_gr_GR_cog.trMA.Antiphon042.mode
+trMA.Antiphon042.incipit = tr.d069_gr_GR_cog.trMA.Antiphon042.incipit
+trMA.Antiphon042.text = tr.d069_gr_GR_cog.trMA.Antiphon042.text
+
+trMA.Antiphon043.mode = tr.d069_gr_GR_cog.trMA.Antiphon043.mode
+trMA.Antiphon043.incipit = tr.d069_gr_GR_cog.trMA.Antiphon043.incipit
+trMA.Antiphon043.text = tr.d069_gr_GR_cog.trMA.Antiphon043.text
+
+trMA.Antiphon04T.mode = tr.d069_gr_GR_cog.trMA.Antiphon04T.mode
+trMA.Antiphon04T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon04T.incipit
+trMA.Antiphon04T.text = tr.d069_gr_GR_cog.trMA.Antiphon04T.text
+
+trMA.Antiphon05.title = tr.d069_gr_GR_cog.trMA.Antiphon05.title
+trMA.Antiphon051.mode = tr.d069_gr_GR_cog.trMA.Antiphon051.mode
+trMA.Antiphon051.incipit = tr.d069_gr_GR_cog.trMA.Antiphon051.incipit
+trMA.Antiphon051.text = tr.d069_gr_GR_cog.trMA.Antiphon051.text
+
+trMA.Antiphon052.mode = tr.d069_gr_GR_cog.trMA.Antiphon052.mode
+trMA.Antiphon052.incipit = tr.d069_gr_GR_cog.trMA.Antiphon052.incipit
+trMA.Antiphon052.text = tr.d069_gr_GR_cog.trMA.Antiphon052.text
+
+trMA.Antiphon05T.mode = tr.d069_gr_GR_cog.trMA.Antiphon05T.mode
+trMA.Antiphon05T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon05T.incipit
+trMA.Antiphon05T.text = tr.d069_gr_GR_cog.trMA.Antiphon05T.text
+
+trMA.Antiphon06.title = tr.d069_gr_GR_cog.trMA.Antiphon06.title
+trMA.Antiphon061.mode = tr.d069_gr_GR_cog.trMA.Antiphon061.mode
+trMA.Antiphon061.incipit = tr.d069_gr_GR_cog.trMA.Antiphon061.incipit
+trMA.Antiphon061.text = tr.d069_gr_GR_cog.trMA.Antiphon061.text
+
+trMA.Antiphon062.mode = tr.d069_gr_GR_cog.trMA.Antiphon062.mode
+trMA.Antiphon062.incipit = tr.d069_gr_GR_cog.trMA.Antiphon062.incipit
+trMA.Antiphon062.text = tr.d069_gr_GR_cog.trMA.Antiphon062.text
+
+trMA.Antiphon063.mode = tr.d069_gr_GR_cog.trMA.Antiphon063.mode
+trMA.Antiphon063.incipit = tr.d069_gr_GR_cog.trMA.Antiphon063.incipit
+trMA.Antiphon063.text = tr.d069_gr_GR_cog.trMA.Antiphon063.text
+
+trMA.Antiphon06T.mode = tr.d069_gr_GR_cog.trMA.Antiphon06T.mode
+trMA.Antiphon06T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon06T.incipit
+trMA.Antiphon06T.text = tr.d069_gr_GR_cog.trMA.Antiphon06T.text
+
+trMA.Antiphon06Kathisma.mode = tr.d069_gr_GR_cog.trMA.Antiphon06Kathisma.mode
+trMA.Antiphon06Kathisma.incipit = tr.d069_gr_GR_cog.trMA.Antiphon06Kathisma.incipit
+trMA.Antiphon06Kathisma.text = tr.d069_gr_GR_cog.trMA.Antiphon06Kathisma.text
+
+trMA.Antiphon07.title = tr.d069_gr_GR_cog.trMA.Antiphon07.title
+trMA.Antiphon071.mode = tr.d069_gr_GR_cog.trMA.Antiphon071.mode
+trMA.Antiphon071.incipit = tr.d069_gr_GR_cog.trMA.Antiphon071.incipit
+trMA.Antiphon071.text = tr.d069_gr_GR_cog.trMA.Antiphon071.text
+
+trMA.Antiphon072.mode = tr.d069_gr_GR_cog.trMA.Antiphon072.mode
+trMA.Antiphon072.incipit = tr.d069_gr_GR_cog.trMA.Antiphon072.incipit
+trMA.Antiphon072.text = tr.d069_gr_GR_cog.trMA.Antiphon072.text
+
+trMA.Antiphon07T.mode = tr.d069_gr_GR_cog.trMA.Antiphon07T.mode
+trMA.Antiphon07T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon07T.incipit
+trMA.Antiphon07T.text = tr.d069_gr_GR_cog.trMA.Antiphon07T.text
+
+trMA.Antiphon08.title = tr.d069_gr_GR_cog.trMA.Antiphon08.title
+trMA.Antiphon081.mode = tr.d069_gr_GR_cog.trMA.Antiphon081.mode
+trMA.Antiphon081.incipit = tr.d069_gr_GR_cog.trMA.Antiphon081.incipit
+trMA.Antiphon081.text = tr.d069_gr_GR_cog.trMA.Antiphon081.text
+
+trMA.Antiphon082.mode = tr.d069_gr_GR_cog.trMA.Antiphon082.mode
+trMA.Antiphon082.incipit = tr.d069_gr_GR_cog.trMA.Antiphon082.incipit
+trMA.Antiphon082.text = tr.d069_gr_GR_cog.trMA.Antiphon082.text
+
+trMA.Antiphon08T.mode = tr.d069_gr_GR_cog.trMA.Antiphon08T.mode
+trMA.Antiphon08T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon08T.incipit
+trMA.Antiphon08T.text = tr.d069_gr_GR_cog.trMA.Antiphon08T.text
+
+trMA.Antiphon09.title = tr.d069_gr_GR_cog.trMA.Antiphon09.title
+trMA.Antiphon091.mode = tr.d069_gr_GR_cog.trMA.Antiphon091.mode
+trMA.Antiphon091.incipit = tr.d069_gr_GR_cog.trMA.Antiphon091.incipit
+trMA.Antiphon091.text = tr.d069_gr_GR_cog.trMA.Antiphon091.text
+
+trMA.Antiphon092.mode = tr.d069_gr_GR_cog.trMA.Antiphon092.mode
+trMA.Antiphon092.incipit = tr.d069_gr_GR_cog.trMA.Antiphon092.incipit
+trMA.Antiphon092.text = tr.d069_gr_GR_cog.trMA.Antiphon092.text
+
+trMA.Antiphon09T.mode = tr.d069_gr_GR_cog.trMA.Antiphon09T.mode
+trMA.Antiphon09T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon09T.incipit
+trMA.Antiphon09T.text = tr.d069_gr_GR_cog.trMA.Antiphon09T.text
+
+trMA.Antiphon09Kathisma.mode = tr.d069_gr_GR_cog.trMA.Antiphon09Kathisma.mode
+trMA.Antiphon09Kathisma.incipit = tr.d069_gr_GR_cog.trMA.Antiphon09Kathisma.incipit
+trMA.Antiphon09Kathisma.text = tr.d069_gr_GR_cog.trMA.Antiphon09Kathisma.text
+
+trMA.Antiphon10.title = tr.d069_gr_GR_cog.trMA.Antiphon10.title
+trMA.Antiphon101.mode = tr.d069_gr_GR_cog.trMA.Antiphon101.mode
+trMA.Antiphon101.incipit = tr.d069_gr_GR_cog.trMA.Antiphon101.incipit
+trMA.Antiphon101.text = tr.d069_gr_GR_cog.trMA.Antiphon101.text
+
+trMA.Antiphon102.mode = tr.d069_gr_GR_cog.trMA.Antiphon102.mode
+trMA.Antiphon102.incipit = tr.d069_gr_GR_cog.trMA.Antiphon102.incipit
+trMA.Antiphon102.text = tr.d069_gr_GR_cog.trMA.Antiphon102.text
+
+trMA.Antiphon10T.mode = tr.d069_gr_GR_cog.trMA.Antiphon10T.mode
+trMA.Antiphon10T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon10T.incipit
+trMA.Antiphon10T.text = tr.d069_gr_GR_cog.trMA.Antiphon10T.text
+
+trMA.Antiphon11.title = tr.d069_gr_GR_cog.trMA.Antiphon11.title
+trMA.Antiphon111.mode = tr.d069_gr_GR_cog.trMA.Antiphon111.mode
+trMA.Antiphon111.incipit = tr.d069_gr_GR_cog.trMA.Antiphon111.incipit
+trMA.Antiphon111.text = tr.d069_gr_GR_cog.trMA.Antiphon111.text
+
+trMA.Antiphon112.mode = tr.d069_gr_GR_cog.trMA.Antiphon112.mode
+trMA.Antiphon112.incipit = tr.d069_gr_GR_cog.trMA.Antiphon112.incipit
+trMA.Antiphon112.text = tr.d069_gr_GR_cog.trMA.Antiphon112.text
+
+trMA.Antiphon113.mode = tr.d069_gr_GR_cog.trMA.Antiphon113.mode
+trMA.Antiphon113.incipit = tr.d069_gr_GR_cog.trMA.Antiphon113.incipit
+trMA.Antiphon113.text = tr.d069_gr_GR_cog.trMA.Antiphon113.text
+
+trMA.Antiphon11T.mode = tr.d069_gr_GR_cog.trMA.Antiphon11T.mode
+trMA.Antiphon11T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon11T.incipit
+trMA.Antiphon11T.text = tr.d069_gr_GR_cog.trMA.Antiphon11T.text
+
+trMA.Antiphon12.title = tr.d069_gr_GR_cog.trMA.Antiphon12.title
+trMA.Antiphon121.mode = tr.d069_gr_GR_cog.trMA.Antiphon121.mode
+trMA.Antiphon121.incipit = tr.d069_gr_GR_cog.trMA.Antiphon121.incipit
+trMA.Antiphon121.text = tr.d069_gr_GR_cog.trMA.Antiphon121.text
+
+trMA.Antiphon122.mode = tr.d069_gr_GR_cog.trMA.Antiphon122.mode
+trMA.Antiphon122.incipit = tr.d069_gr_GR_cog.trMA.Antiphon122.incipit
+trMA.Antiphon122.text = tr.d069_gr_GR_cog.trMA.Antiphon122.text
+
+trMA.Antiphon123.mode = tr.d069_gr_GR_cog.trMA.Antiphon123.mode
+trMA.Antiphon123.incipit = tr.d069_gr_GR_cog.trMA.Antiphon123.incipit
+trMA.Antiphon123.text = tr.d069_gr_GR_cog.trMA.Antiphon123.text
+
+trMA.Antiphon12T.mode = tr.d069_gr_GR_cog.trMA.Antiphon12T.mode
+trMA.Antiphon12T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon12T.incipit
+trMA.Antiphon12T.text = tr.d069_gr_GR_cog.trMA.Antiphon12T.text
+
+trMA.Antiphon12Kathisma.mode = tr.d069_gr_GR_cog.trMA.Antiphon12Kathisma.mode
+trMA.Antiphon12Kathisma.incipit = tr.d069_gr_GR_cog.trMA.Antiphon12Kathisma.incipit
+trMA.Antiphon12Kathisma.text = tr.d069_gr_GR_cog.trMA.Antiphon12Kathisma.text
+
+trMA.Antiphon13.title = tr.d069_gr_GR_cog.trMA.Antiphon13.title
+trMA.Antiphon131.mode = tr.d069_gr_GR_cog.trMA.Antiphon131.mode
+trMA.Antiphon131.incipit = tr.d069_gr_GR_cog.trMA.Antiphon131.incipit
+trMA.Antiphon131.text = tr.d069_gr_GR_cog.trMA.Antiphon131.text
+
+trMA.Antiphon132.mode = tr.d069_gr_GR_cog.trMA.Antiphon132.mode
+trMA.Antiphon132.incipit = tr.d069_gr_GR_cog.trMA.Antiphon132.incipit
+trMA.Antiphon132.text = tr.d069_gr_GR_cog.trMA.Antiphon132.text
+
+trMA.Antiphon13T.mode = tr.d069_gr_GR_cog.trMA.Antiphon13T.mode
+trMA.Antiphon13T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon13T.incipit
+trMA.Antiphon13T.text = tr.d069_gr_GR_cog.trMA.Antiphon13T.text
+
+trMA.Antiphon14.title = tr.d069_gr_GR_cog.trMA.Antiphon14.title
+trMA.Antiphon141.mode = tr.d069_gr_GR_cog.trMA.Antiphon141.mode
+trMA.Antiphon141.incipit = tr.d069_gr_GR_cog.trMA.Antiphon141.incipit
+trMA.Antiphon141.text = tr.d069_gr_GR_cog.trMA.Antiphon141.text
+
+trMA.Antiphon142.mode = tr.d069_gr_GR_cog.trMA.Antiphon142.mode
+trMA.Antiphon142.incipit = tr.d069_gr_GR_cog.trMA.Antiphon142.incipit
+trMA.Antiphon142.text = tr.d069_gr_GR_cog.trMA.Antiphon142.text
+
+trMA.Antiphon14T.mode = tr.d069_gr_GR_cog.trMA.Antiphon14T.mode
+trMA.Antiphon14T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon14T.incipit
+trMA.Antiphon14T.text = tr.d069_gr_GR_cog.trMA.Antiphon14T.text
+
+trMA.Antiphon15.title = tr.d069_gr_GR_cog.trMA.Antiphon15.title
+trMA.Antiphon151.mode = tr.d069_gr_GR_cog.trMA.Antiphon151.mode
+trMA.Antiphon151.rubric = tr.d069_gr_GR_cog.trMA.Antiphon151.rubric
+trMA.Antiphon151.incipit = tr.d069_gr_GR_cog.trMA.Antiphon151.incipit
+trMA.Antiphon151.text = tr.d069_gr_GR_cog.trMA.Antiphon151.text
+trMA.Antiphon1511.incipit = tr.d069_gr_GR_cog.trMA.Antiphon1511.incipit
+trMA.Antiphon1511.text = tr.d069_gr_GR_cog.trMA.Antiphon1511.text
+trMA.Antiphon1512.incipit = tr.d069_gr_GR_cog.trMA.Antiphon1512.incipit
+trMA.Antiphon1512.text = tr.d069_gr_GR_cog.trMA.Antiphon1512.text
+trMA.Antiphon1513.incipit = tr.d069_gr_GR_cog.trMA.Antiphon1513.incipit
+trMA.Antiphon1513.text = tr.d069_gr_GR_cog.trMA.Antiphon1513.text
+trMA.Antiphon1514.incipit = tr.d069_gr_GR_cog.trMA.Antiphon1514.incipit
+trMA.Antiphon1514.text = tr.d069_gr_GR_cog.trMA.Antiphon1514.text
+trMA.Antiphon1515.incipit = tr.d069_gr_GR_cog.trMA.Antiphon1515.incipit
+trMA.Antiphon1515.text = tr.d069_gr_GR_cog.trMA.Antiphon1515.text
+trMA.Antiphon1516.incipit = tr.d069_gr_GR_cog.trMA.Antiphon1516.incipit
+trMA.Antiphon1516.text = tr.d069_gr_GR_cog.trMA.Antiphon1516.text
+trMA.Antiphon1517.text = tr.d069_gr_GR_cog.trMA.Antiphon1517.text
+trMA.Antiphon1518.incipit = tr.d069_gr_GR_cog.trMA.Antiphon1518.incipit
+trMA.Antiphon1518.text = tr.d069_gr_GR_cog.trMA.Antiphon1518.text
+
+trMA.Antiphon152.mode = tr.d069_gr_GR_cog.trMA.Antiphon152.mode
+trMA.Antiphon152.incipit = tr.d069_gr_GR_cog.trMA.Antiphon152.incipit
+trMA.Antiphon152.text = tr.d069_gr_GR_cog.trMA.Antiphon152.text
+
+trMA.Antiphon153.mode = tr.d069_gr_GR_cog.trMA.Antiphon153.mode
+trMA.Antiphon153.incipit = tr.d069_gr_GR_cog.trMA.Antiphon153.incipit
+trMA.Antiphon153.text = tr.d069_gr_GR_cog.trMA.Antiphon153.text
+
+trMA.Antiphon15T.mode = tr.d069_gr_GR_cog.trMA.Antiphon15T.mode
+trMA.Antiphon15T.incipit = tr.d069_gr_GR_cog.trMA.Antiphon15T.incipit
+trMA.Antiphon15T.text = tr.d069_gr_GR_cog.trMA.Antiphon15T.text
+
+trMA.Antiphon15Kathisma.mode = tr.d069_gr_GR_cog.trMA.Antiphon15Kathisma.mode
+trMA.Antiphon15Kathisma.incipit = tr.d069_gr_GR_cog.trMA.Antiphon15Kathisma.incipit
+trMA.Antiphon15Kathisma.text = tr.d069_gr_GR_cog.trMA.Antiphon15Kathisma.text
+
+trMA.Beatitudes01.mode = tr.d069_gr_GR_cog.trMA.Beatitudes01.mode
+trMA.Beatitudes01.melody = tr.d069_gr_GR_cog.trMA.Beatitudes01.melody
+trMA.Beatitudes01.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes01.incipit
+trMA.Beatitudes01.text = tr.d069_gr_GR_cog.trMA.Beatitudes01.text
+
+trMA.Beatitudes02.mode = tr.d069_gr_GR_cog.trMA.Beatitudes02.mode
+trMA.Beatitudes02.melody = tr.d069_gr_GR_cog.trMA.Beatitudes02.melody
+trMA.Beatitudes02.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes02.incipit
+trMA.Beatitudes02.text = tr.d069_gr_GR_cog.trMA.Beatitudes02.text
+
+trMA.Beatitudes03.mode = tr.d069_gr_GR_cog.trMA.Beatitudes03.mode
+trMA.Beatitudes03.melody = tr.d069_gr_GR_cog.trMA.Beatitudes03.melody
+trMA.Beatitudes03.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes03.incipit
+trMA.Beatitudes03.text = tr.d069_gr_GR_cog.trMA.Beatitudes03.text
+
+trMA.Beatitudes04.mode = tr.d069_gr_GR_cog.trMA.Beatitudes04.mode
+trMA.Beatitudes04.melody = tr.d069_gr_GR_cog.trMA.Beatitudes04.melody
+trMA.Beatitudes04.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes04.incipit
+trMA.Beatitudes04.text = tr.d069_gr_GR_cog.trMA.Beatitudes04.text
+
+trMA.Beatitudes05.mode = tr.d069_gr_GR_cog.trMA.Beatitudes05.mode
+trMA.Beatitudes05.melody = tr.d069_gr_GR_cog.trMA.Beatitudes05.melody
+trMA.Beatitudes05.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes05.incipit
+trMA.Beatitudes05.text = tr.d069_gr_GR_cog.trMA.Beatitudes05.text
+
+trMA.Beatitudes06.mode = tr.d069_gr_GR_cog.trMA.Beatitudes06.mode
+trMA.Beatitudes06.melody = tr.d069_gr_GR_cog.trMA.Beatitudes06.melody
+trMA.Beatitudes06.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes06.incipit
+trMA.Beatitudes06.text = tr.d069_gr_GR_cog.trMA.Beatitudes06.text
+
+trMA.Beatitudes07.mode = tr.d069_gr_GR_cog.trMA.Beatitudes07.mode
+trMA.Beatitudes07.melody = tr.d069_gr_GR_cog.trMA.Beatitudes07.melody
+trMA.Beatitudes07.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes07.incipit
+trMA.Beatitudes07.text = tr.d069_gr_GR_cog.trMA.Beatitudes07.text
+
+trMA.Beatitudes08.mode = tr.d069_gr_GR_cog.trMA.Beatitudes08.mode
+trMA.Beatitudes08.melody = tr.d069_gr_GR_cog.trMA.Beatitudes08.melody
+trMA.Beatitudes08.incipit = tr.d069_gr_GR_cog.trMA.Beatitudes08.incipit
+trMA.Beatitudes08.text = tr.d069_gr_GR_cog.trMA.Beatitudes08.text
+
+trMA.BeatitudesTr.verse = tr.d069_gr_GR_cog.trMA.BeatitudesTr.verse
+trMA.BeatitudesTr.mode = tr.d069_gr_GR_cog.trMA.BeatitudesTr.mode
+trMA.BeatitudesTr.melody = tr.d069_gr_GR_cog.trMA.BeatitudesTr.melody
+trMA.BeatitudesTr.incipit = tr.d069_gr_GR_cog.trMA.BeatitudesTr.incipit
+trMA.BeatitudesTr.text = tr.d069_gr_GR_cog.trMA.BeatitudesTr.text
+
+trMA.BeatitudesT.verse = tr.d069_gr_GR_cog.trMA.BeatitudesT.verse
+trMA.BeatitudesT.mode = tr.d069_gr_GR_cog.trMA.BeatitudesT.mode
+trMA.BeatitudesT.melody = tr.d069_gr_GR_cog.trMA.BeatitudesT.melody
+trMA.BeatitudesT.incipit = tr.d069_gr_GR_cog.trMA.BeatitudesT.incipit
+trMA.BeatitudesT.text = tr.d069_gr_GR_cog.trMA.BeatitudesT.text
+
+
+trMA.C1.acrostic.title = tr.d069_gr_GR_cog.trMA.C1.acrostic.title
+trMA.C1.acrostic.notice1 = tr.d069_gr_GR_cog.trMA.C1.acrostic.notice1
+trMA.C1.acrostic.text = tr.d069_gr_GR_cog.trMA.C1.acrostic.text
+trMA.C1.poet = tr.d069_gr_GR_cog.trMA.C1.poet
+trMA.C1.verse = tr.d069_gr_GR_cog.trMA.C1.verse
+
+trMA.Ode5C1H.ode = tr.d069_gr_GR_cog.trMA.Ode5C1H.ode
+trMA.Ode5C1H.mode = tr.d069_gr_GR_cog.trMA.Ode5C1H.mode
+trMA.Ode5C1H.greekmelody = tr.d069_gr_GR_cog.trMA.Ode5C1H.greekmelody
+trMA.Ode5C1H.melody = tr.d069_gr_GR_cog.trMA.Ode5C1H.melody
+trMA.Ode5C1H.incipit = tr.d069_gr_GR_cog.trMA.Ode5C1H.incipit
+trMA.Ode5C1H.text = tr.d069_gr_GR_cog.trMA.Ode5C1H.text
+
+trMA.Ode5C11.ode = tr.d069_gr_GR_cog.trMA.Ode5C11.ode
+trMA.Ode5C11.mode = tr.d069_gr_GR_cog.trMA.Ode5C11.mode
+trMA.Ode5C11.greekmelody = tr.d069_gr_GR_cog.trMA.Ode5C11.greekmelody
+trMA.Ode5C11.melody = tr.d069_gr_GR_cog.trMA.Ode5C11.melody
+trMA.Ode5C11.incipit = tr.d069_gr_GR_cog.trMA.Ode5C11.incipit
+trMA.Ode5C11.text = tr.d069_gr_GR_cog.trMA.Ode5C11.text
+
+trMA.Ode5C12.ode = tr.d069_gr_GR_cog.trMA.Ode5C12.ode
+trMA.Ode5C12.mode = tr.d069_gr_GR_cog.trMA.Ode5C12.mode
+trMA.Ode5C12.melody = tr.d069_gr_GR_cog.trMA.Ode5C12.melody
+trMA.Ode5C12.incipit = tr.d069_gr_GR_cog.trMA.Ode5C12.incipit
+trMA.Ode5C12.text = tr.d069_gr_GR_cog.trMA.Ode5C12.text
+
+trMA.Ode5K.ode = tr.d069_gr_GR_cog.trMA.Ode5K.ode
+trMA.Ode5K.mode = tr.d069_gr_GR_cog.trMA.Ode5K.mode
+trMA.Ode5K.melody = tr.d069_gr_GR_cog.trMA.Ode5K.melody
+trMA.Ode5K.incipit = tr.d069_gr_GR_cog.trMA.Ode5K.incipit
+trMA.Ode5K.text = tr.d069_gr_GR_cog.trMA.Ode5K.text
+
+trMA.Kontakion1.mode = tr.d069_gr_GR_cog.trMA.Kontakion1.mode
+trMA.Kontakion1.melody = tr.d069_gr_GR_cog.trMA.Kontakion1.melody
+trMA.Kontakion1.incipit = tr.d069_gr_GR_cog.trMA.Kontakion1.incipit
+trMA.Kontakion1.text = tr.d069_gr_GR_cog.trMA.Kontakion1.text
+
+trMA.Oikos1.text = tr.d069_gr_GR_cog.trMA.Oikos1.text
+
+trSY.commemoration.text = tr.d069_gr_GR_cog.trSY.commemoration.text
+trSY.commemoration.couplet1.title = tr.d069_gr_GR_cog.trSY.commemoration.couplet1.title
+trSY.commemoration.couplet1.verse1 = tr.d069_gr_GR_cog.trSY.commemoration.couplet1.verse1
+trSY.commemoration.couplet1.verse2 = tr.d069_gr_GR_cog.trSY.commemoration.couplet1.verse2
+trSY.commemoration.couplet2.title = tr.d069_gr_GR_cog.trSY.commemoration.couplet2.title
+trSY.commemoration.couplet2.verse1 = tr.d069_gr_GR_cog.trSY.commemoration.couplet2.verse1
+trSY.commemoration.couplet2.verse2 = tr.d069_gr_GR_cog.trSY.commemoration.couplet2.verse2
+trSY.commemoration.narration.p01 = tr.d069_gr_GR_cog.trSY.commemoration.narration.p01
+trSY.commemoration.narration.p02 = tr.d069_gr_GR_cog.trSY.commemoration.narration.p02
+trSY.commemoration.narration.p03 = tr.d069_gr_GR_cog.trSY.commemoration.narration.p03
+trSY.commemoration.narration.p04 = tr.d069_gr_GR_cog.trSY.commemoration.narration.p04
+trSY.commemoration.narration.p05 = tr.d069_gr_GR_cog.trSY.commemoration.narration.p05
+trSY.commemoration.narration.p06 = tr.d069_gr_GR_cog.trSY.commemoration.narration.p06
+trSY.commemoration.narration.p07 = tr.d069_gr_GR_cog.trSY.commemoration.narration.p07
+trSY.lastline = tr.d069_gr_GR_cog.trSY.lastline
+
+trMA.Ode8C1H.ode = tr.d069_gr_GR_cog.trMA.Ode8C1H.ode
+trMA.Ode8C1H.mode = tr.d069_gr_GR_cog.trMA.Ode8C1H.mode
+trMA.Ode8C1H.greekmelody = tr.d069_gr_GR_cog.trMA.Ode8C1H.greekmelody
+trMA.Ode8C1H.melody = tr.d069_gr_GR_cog.trMA.Ode8C1H.melody
+trMA.Ode8C1H.incipit = tr.d069_gr_GR_cog.trMA.Ode8C1H.incipit
+trMA.Ode8C1H.text = tr.d069_gr_GR_cog.trMA.Ode8C1H.text
+
+trMA.Ode8C11.ode = tr.d069_gr_GR_cog.trMA.Ode8C11.ode
+trMA.Ode8C11.mode = tr.d069_gr_GR_cog.trMA.Ode8C11.mode
+trMA.Ode8C11.greekmelody = tr.d069_gr_GR_cog.trMA.Ode8C11.greekmelody
+trMA.Ode8C11.melody = tr.d069_gr_GR_cog.trMA.Ode8C11.melody
+trMA.Ode8C11.incipit = tr.d069_gr_GR_cog.trMA.Ode8C11.incipit
+trMA.Ode8C11.text = tr.d069_gr_GR_cog.trMA.Ode8C11.text
+
+trMA.Ode8C12.ode = tr.d069_gr_GR_cog.trMA.Ode8C12.ode
+trMA.Ode8C12.mode = tr.d069_gr_GR_cog.trMA.Ode8C12.mode
+trMA.Ode8C12.melody = tr.d069_gr_GR_cog.trMA.Ode8C12.melody
+trMA.Ode8C12.incipit = tr.d069_gr_GR_cog.trMA.Ode8C12.incipit
+trMA.Ode8C12.text = tr.d069_gr_GR_cog.trMA.Ode8C12.text
+
+trMA.Ode8C13.ode = tr.d069_gr_GR_cog.trMA.Ode8C13.ode
+trMA.Ode8C13.mode = tr.d069_gr_GR_cog.trMA.Ode8C13.mode
+trMA.Ode8C13.melody = tr.d069_gr_GR_cog.trMA.Ode8C13.melody
+trMA.Ode8C13.incipit = tr.d069_gr_GR_cog.trMA.Ode8C13.incipit
+trMA.Ode8C13.text = tr.d069_gr_GR_cog.trMA.Ode8C13.text
+
+trMA.Ode8C14.ode = tr.d069_gr_GR_cog.trMA.Ode8C14.ode
+trMA.Ode8C14.mode = tr.d069_gr_GR_cog.trMA.Ode8C14.mode
+trMA.Ode8C14.melody = tr.d069_gr_GR_cog.trMA.Ode8C14.melody
+trMA.Ode8C14.incipit = tr.d069_gr_GR_cog.trMA.Ode8C14.incipit
+trMA.Ode8C14.text = tr.d069_gr_GR_cog.trMA.Ode8C14.text
+
+trMA.Ode8K.ode = tr.d069_gr_GR_cog.trMA.Ode8K.ode
+trMA.Ode8K.mode = tr.d069_gr_GR_cog.trMA.Ode8K.mode
+trMA.Ode8K.melody = tr.d069_gr_GR_cog.trMA.Ode8K.melody
+trMA.Ode8K.incipit = tr.d069_gr_GR_cog.trMA.Ode8K.incipit
+trMA.Ode8K.text = tr.d069_gr_GR_cog.trMA.Ode8K.text
+
+trMA.Ode9C1H.ode = tr.d069_gr_GR_cog.trMA.Ode9C1H.ode
+trMA.Ode9C1H.mode = tr.d069_gr_GR_cog.trMA.Ode9C1H.mode
+trMA.Ode9C1H.greekmelody = tr.d069_gr_GR_cog.trMA.Ode9C1H.greekmelody
+trMA.Ode9C1H.melody = tr.d069_gr_GR_cog.trMA.Ode9C1H.melody
+trMA.Ode9C1H.incipit = tr.d069_gr_GR_cog.trMA.Ode9C1H.incipit
+trMA.Ode9C1H.text = tr.d069_gr_GR_cog.trMA.Ode9C1H.text
+
+trMA.Ode9C11.ode = tr.d069_gr_GR_cog.trMA.Ode9C11.ode
+trMA.Ode9C11.mode = tr.d069_gr_GR_cog.trMA.Ode9C11.mode
+trMA.Ode9C11.greekmelody = tr.d069_gr_GR_cog.trMA.Ode9C11.greekmelody
+trMA.Ode9C11.melody = tr.d069_gr_GR_cog.trMA.Ode9C11.melody
+trMA.Ode9C11.incipit = tr.d069_gr_GR_cog.trMA.Ode9C11.incipit
+trMA.Ode9C11.text = tr.d069_gr_GR_cog.trMA.Ode9C11.text
+
+trMA.Ode9C12.ode = tr.d069_gr_GR_cog.trMA.Ode9C12.ode
+trMA.Ode9C12.mode = tr.d069_gr_GR_cog.trMA.Ode9C12.mode
+trMA.Ode9C12.melody = tr.d069_gr_GR_cog.trMA.Ode9C12.melody
+trMA.Ode9C12.incipit = tr.d069_gr_GR_cog.trMA.Ode9C12.incipit
+trMA.Ode9C12.text = tr.d069_gr_GR_cog.trMA.Ode9C12.text
+
+trMA.Ode9C13.ode = tr.d069_gr_GR_cog.trMA.Ode9C13.ode
+trMA.Ode9C13.mode = tr.d069_gr_GR_cog.trMA.Ode9C13.mode
+trMA.Ode9C13.melody = tr.d069_gr_GR_cog.trMA.Ode9C13.melody
+trMA.Ode9C13.incipit = tr.d069_gr_GR_cog.trMA.Ode9C13.incipit
+trMA.Ode9C13.text = tr.d069_gr_GR_cog.trMA.Ode9C13.text
+
+trMA.Ode9C14.ode = tr.d069_gr_GR_cog.trMA.Ode9C14.ode
+trMA.Ode9C14.mode = tr.d069_gr_GR_cog.trMA.Ode9C14.mode
+trMA.Ode9C14.melody = tr.d069_gr_GR_cog.trMA.Ode9C14.melody
+trMA.Ode9C14.incipit = tr.d069_gr_GR_cog.trMA.Ode9C14.incipit
+trMA.Ode9C14.text = tr.d069_gr_GR_cog.trMA.Ode9C14.text
+
+trMA.Ode9K.ode = tr.d069_gr_GR_cog.trMA.Ode9K.ode
+trMA.Ode9K.mode = tr.d069_gr_GR_cog.trMA.Ode9K.mode
+trMA.Ode9K.melody = tr.d069_gr_GR_cog.trMA.Ode9K.melody
+trMA.Ode9K.incipit = tr.d069_gr_GR_cog.trMA.Ode9K.incipit
+trMA.Ode9K.text = tr.d069_gr_GR_cog.trMA.Ode9K.text
+
+trMA.Exaposteilarion1.mode = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.mode
+trMA.Exaposteilarion1.greekmelody = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.greekmelody
+trMA.Exaposteilarion1.melody = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.melody
+trMA.Exaposteilarion1.incipit = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.incipit
+trMA.Exaposteilarion1.text = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.text
+
+
+trMA.Lauds1.mode = tr.d069_gr_GR_cog.trMA.Lauds1.mode
+trMA.Lauds1.melody = tr.d069_gr_GR_cog.trMA.Lauds1.melody
+trMA.Lauds1.incipit = tr.d069_gr_GR_cog.trMA.Lauds1.incipit
+trMA.Lauds1.text = tr.d069_gr_GR_cog.trMA.Lauds1.text
+
+trMA.Lauds2.mode = tr.d069_gr_GR_cog.trMA.Lauds2.mode
+trMA.Lauds2.melody = tr.d069_gr_GR_cog.trMA.Lauds2.melody
+trMA.Lauds2.incipit = tr.d069_gr_GR_cog.trMA.Lauds2.incipit
+trMA.Lauds2.text = tr.d069_gr_GR_cog.trMA.Lauds2.text
+
+trMA.Lauds3.mode = tr.d069_gr_GR_cog.trMA.Lauds3.mode
+trMA.Lauds3.melody = tr.d069_gr_GR_cog.trMA.Lauds3.melody
+trMA.Lauds3.incipit = tr.d069_gr_GR_cog.trMA.Lauds3.incipit
+trMA.Lauds3.text = tr.d069_gr_GR_cog.trMA.Lauds3.text
+
+trMA.LaudsGlory.mode = tr.d069_gr_GR_cog.trMA.LaudsGlory.mode
+trMA.LaudsGlory.melody = tr.d069_gr_GR_cog.trMA.LaudsGlory.melody
+trMA.LaudsGlory.incipit = tr.d069_gr_GR_cog.trMA.LaudsGlory.incipit
+trMA.LaudsGlory.text = tr.d069_gr_GR_cog.trMA.LaudsGlory.text
+
+trMA.LaudsBoth.mode = tr.d069_gr_GR_cog.trMA.LaudsBoth.mode
+trMA.LaudsBoth.melody = tr.d069_gr_GR_cog.trMA.LaudsBoth.melody
+trMA.LaudsBoth.incipit = tr.d069_gr_GR_cog.trMA.LaudsBoth.incipit
+trMA.LaudsBoth.text = tr.d069_gr_GR_cog.trMA.LaudsBoth.text
+
+trMA.Aposticha1.mode = tr.d069_gr_GR_cog.trMA.Aposticha1.mode
+trMA.Aposticha1.melody = tr.d069_gr_GR_cog.trMA.Aposticha1.melody
+trMA.Aposticha1.incipit = tr.d069_gr_GR_cog.trMA.Aposticha1.incipit
+trMA.Aposticha1.text = tr.d069_gr_GR_cog.trMA.Aposticha1.text
+
+trMA.Aposticha2.mode = tr.d069_gr_GR_cog.trMA.Aposticha2.mode
+trMA.Aposticha2.melody = tr.d069_gr_GR_cog.trMA.Aposticha2.melody
+trMA.Aposticha2.incipit = tr.d069_gr_GR_cog.trMA.Aposticha2.incipit
+trMA.Aposticha2.text = tr.d069_gr_GR_cog.trMA.Aposticha2.text
+
+trMA.Aposticha3.mode = tr.d069_gr_GR_cog.trMA.Aposticha3.mode
+trMA.Aposticha3.melody = tr.d069_gr_GR_cog.trMA.Aposticha3.melody
+trMA.Aposticha3.incipit = tr.d069_gr_GR_cog.trMA.Aposticha3.incipit
+trMA.Aposticha3.text = tr.d069_gr_GR_cog.trMA.Aposticha3.text
+
+trMA.Aposticha4.mode = tr.d069_gr_GR_cog.trMA.Aposticha4.mode
+trMA.Aposticha4.melody = tr.d069_gr_GR_cog.trMA.Aposticha4.melody
+trMA.Aposticha4.incipit = tr.d069_gr_GR_cog.trMA.Aposticha4.incipit
+trMA.Aposticha4.text = tr.d069_gr_GR_cog.trMA.Aposticha4.text
+
+trMA.AposGlory.mode = tr.d069_gr_GR_cog.trMA.AposGlory.mode
+trMA.AposGlory.melody = tr.d069_gr_GR_cog.trMA.AposGlory.melody
+trMA.AposGlory.incipit = tr.d069_gr_GR_cog.trMA.AposGlory.incipit
+trMA.AposGlory.text = tr.d069_gr_GR_cog.trMA.AposGlory.text
+
+trMA.AposBoth.mode = tr.d069_gr_GR_cog.trMA.AposBoth.mode
+trMA.AposBoth.melody = tr.d069_gr_GR_cog.trMA.AposBoth.melody
+trMA.AposBoth.incipit = tr.d069_gr_GR_cog.trMA.AposBoth.incipit
+trMA.AposBoth.text = tr.d069_gr_GR_cog.trMA.AposBoth.text
+
+trMA.Apolytikion1.mode = tr.d069_gr_GR_cog.trMA.Apolytikion1.mode
+trMA.Apolytikion1.incipit = tr.d069_gr_GR_cog.trMA.Apolytikion1.incipit
+trMA.Apolytikion1.text = tr.d069_gr_GR_cog.trMA.Apolytikion1.text
+
+trHR.title = tr.d069_gr_GR_cog.trHR.title
+trHR.poet = tr.d069_gr_GR_cog.trHR.poet
+
+trH1.title = tr.d069_gr_GR_cog.trH1.title
+
+trH1.Troparion.mode = tr.d069_gr_GR_cog.trH1.Troparion.mode
+trH1.Troparion.incipit = tr.d069_gr_GR_cog.trH1.Troparion.incipit
+trH1.Troparion.text = tr.d069_gr_GR_cog.trH1.Troparion.text
+
+trH1.Theotokion.mode = tr.d069_gr_GR_cog.trH1.Theotokion.mode
+trH1.Theotokion.incipit = tr.d069_gr_GR_cog.trH1.Theotokion.incipit
+trH1.Theotokion.text = tr.d069_gr_GR_cog.trH1.Theotokion.text
+
+trH1.Idiomelon1.mode = tr.d069_gr_GR_cog.trH1.Idiomelon1.mode
+trH1.Idiomelon1.melody = tr.d069_gr_GR_cog.trH1.Idiomelon1.melody
+trH1.Idiomelon1.incipit = tr.d069_gr_GR_cog.trH1.Idiomelon1.incipit
+trH1.Idiomelon1.text = tr.d069_gr_GR_cog.trH1.Idiomelon1.text
+
+trH1.Idiomelon2.mode = tr.d069_gr_GR_cog.trH1.Idiomelon2.mode
+trH1.Idiomelon2.melody = tr.d069_gr_GR_cog.trH1.Idiomelon2.melody
+trH1.Idiomelon2.incipit = tr.d069_gr_GR_cog.trH1.Idiomelon2.incipit
+trH1.Idiomelon2.text = tr.d069_gr_GR_cog.trH1.Idiomelon2.text
+
+trH1.Idiomelon3.mode = tr.d069_gr_GR_cog.trH1.Idiomelon3.mode
+trH1.Idiomelon3.melody = tr.d069_gr_GR_cog.trH1.Idiomelon3.melody
+trH1.Idiomelon3.incipit = tr.d069_gr_GR_cog.trH1.Idiomelon3.incipit
+trH1.Idiomelon3.text = tr.d069_gr_GR_cog.trH1.Idiomelon3.text
+
+trH1.Kontakion.mode = tr.d069_gr_GR_cog.trH1.Kontakion.mode
+trH1.Kontakion.incipit = tr.d069_gr_GR_cog.trH1.Kontakion.incipit
+trH1.Kontakion.text = tr.d069_gr_GR_cog.trH1.Kontakion.text
+
+trH3.title = tr.d069_gr_GR_cog.trH3.title
+
+trH3.Troparion.mode = tr.d069_gr_GR_cog.trH3.Troparion.mode
+trH3.Troparion.incipit = tr.d069_gr_GR_cog.trH3.Troparion.incipit
+trH3.Troparion.text = tr.d069_gr_GR_cog.trH3.Troparion.text
+
+trH3.Theotokion.mode = tr.d069_gr_GR_cog.trH3.Theotokion.mode
+trH3.Theotokion.incipit = tr.d069_gr_GR_cog.trH3.Theotokion.incipit
+trH3.Theotokion.text = tr.d069_gr_GR_cog.trH3.Theotokion.text
+
+trH3.Idiomelon1.mode = tr.d069_gr_GR_cog.trH3.Idiomelon1.mode
+trH3.Idiomelon1.melody = tr.d069_gr_GR_cog.trH3.Idiomelon1.melody
+trH3.Idiomelon1.incipit = tr.d069_gr_GR_cog.trH3.Idiomelon1.incipit
+trH3.Idiomelon1.text = tr.d069_gr_GR_cog.trH3.Idiomelon1.text
+
+trH3.Idiomelon2.mode = tr.d069_gr_GR_cog.trH3.Idiomelon2.mode
+trH3.Idiomelon2.melody = tr.d069_gr_GR_cog.trH3.Idiomelon2.melody
+trH3.Idiomelon2.incipit = tr.d069_gr_GR_cog.trH3.Idiomelon2.incipit
+trH3.Idiomelon2.text = tr.d069_gr_GR_cog.trH3.Idiomelon2.text
+
+trH3.Idiomelon3.mode = tr.d069_gr_GR_cog.trH3.Idiomelon3.mode
+trH3.Idiomelon3.melody = tr.d069_gr_GR_cog.trH3.Idiomelon3.melody
+trH3.Idiomelon3.incipit = tr.d069_gr_GR_cog.trH3.Idiomelon3.incipit
+trH3.Idiomelon3.text = tr.d069_gr_GR_cog.trH3.Idiomelon3.text
+
+trH3.Kontakion.mode = tr.d069_gr_GR_cog.trH3.Kontakion.mode
+trH3.Kontakion.incipit = tr.d069_gr_GR_cog.trH3.Kontakion.incipit
+trH3.Kontakion.text = tr.d069_gr_GR_cog.trH3.Kontakion.text
+
+trH6.title = tr.d069_gr_GR_cog.trH6.title
+
+trH6.Troparion.mode = tr.d069_gr_GR_cog.trH6.Troparion.mode
+trH6.Troparion.incipit = tr.d069_gr_GR_cog.trH6.Troparion.incipit
+trH6.Troparion.text = tr.d069_gr_GR_cog.trH6.Troparion.text
+
+trH6.Theotokion.mode = tr.d069_gr_GR_cog.trH6.Theotokion.mode
+trH6.Theotokion.incipit = tr.d069_gr_GR_cog.trH6.Theotokion.incipit
+trH6.Theotokion.text = tr.d069_gr_GR_cog.trH6.Theotokion.text
+
+trH6.Idiomelon1.mode = tr.d069_gr_GR_cog.trH6.Idiomelon1.mode
+trH6.Idiomelon1.melody = tr.d069_gr_GR_cog.trH6.Idiomelon1.melody
+trH6.Idiomelon1.incipit = tr.d069_gr_GR_cog.trH6.Idiomelon1.incipit
+trH6.Idiomelon1.text = tr.d069_gr_GR_cog.trH6.Idiomelon1.text
+
+trH6.Idiomelon2.mode = tr.d069_gr_GR_cog.trH6.Idiomelon2.mode
+trH6.Idiomelon2.melody = tr.d069_gr_GR_cog.trH6.Idiomelon2.melody
+trH6.Idiomelon2.incipit = tr.d069_gr_GR_cog.trH6.Idiomelon2.incipit
+trH6.Idiomelon2.text = tr.d069_gr_GR_cog.trH6.Idiomelon2.text
+
+trH6.Idiomelon3.mode = tr.d069_gr_GR_cog.trH6.Idiomelon3.mode
+trH6.Idiomelon3.melody = tr.d069_gr_GR_cog.trH6.Idiomelon3.melody
+trH6.Idiomelon3.incipit = tr.d069_gr_GR_cog.trH6.Idiomelon3.incipit
+trH6.Idiomelon3.text = tr.d069_gr_GR_cog.trH6.Idiomelon3.text
+
+trH6.Kontakion.mode = tr.d069_gr_GR_cog.trH6.Kontakion.mode
+trH6.Kontakion.incipit = tr.d069_gr_GR_cog.trH6.Kontakion.incipit
+trH6.Kontakion.text = tr.d069_gr_GR_cog.trH6.Kontakion.text
+
+trH9.title = tr.d069_gr_GR_cog.trH9.title
+
+trH9.Troparion.mode = tr.d069_gr_GR_cog.trH9.Troparion.mode
+trH9.Troparion.incipit = tr.d069_gr_GR_cog.trH9.Troparion.incipit
+trH9.Troparion.text = tr.d069_gr_GR_cog.trH9.Troparion.text
+
+trH9.Theotokion.mode = tr.d069_gr_GR_cog.trH9.Theotokion.mode
+trH9.Theotokion.incipit = tr.d069_gr_GR_cog.trH9.Theotokion.incipit
+trH9.Theotokion.text = tr.d069_gr_GR_cog.trH9.Theotokion.text
+
+trH9.Idiomelon1.mode = tr.d069_gr_GR_cog.trH9.Idiomelon1.mode
+trH9.Idiomelon1.melody = tr.d069_gr_GR_cog.trH9.Idiomelon1.melody
+trH9.Idiomelon1.incipit = tr.d069_gr_GR_cog.trH9.Idiomelon1.incipit
+trH9.Idiomelon1.text = tr.d069_gr_GR_cog.trH9.Idiomelon1.text
+
+trH9.Idiomelon2.mode = tr.d069_gr_GR_cog.trH9.Idiomelon2.mode
+trH9.Idiomelon2.melody = tr.d069_gr_GR_cog.trH9.Idiomelon2.melody
+trH9.Idiomelon2.incipit = tr.d069_gr_GR_cog.trH9.Idiomelon2.incipit
+trH9.Idiomelon2.text = tr.d069_gr_GR_cog.trH9.Idiomelon2.text
+
+trH9.Idiomelon3.rubric = tr.d069_gr_GR_cog.trH9.Idiomelon3.rubric
+trH9.Idiomelon3.mode = tr.d069_gr_GR_cog.trH9.Idiomelon3.mode
+trH9.Idiomelon3.melody = tr.d069_gr_GR_cog.trH9.Idiomelon3.melody
+trH9.Idiomelon3.text = tr.d069_gr_GR_cog.trH9.Idiomelon3.text
+
+trH9.Kontakion.mode = tr.d069_gr_GR_cog.trH9.Kontakion.mode
+trH9.Kontakion.incipit = tr.d069_gr_GR_cog.trH9.Kontakion.incipit
+trH9.Kontakion.text = tr.d069_gr_GR_cog.trH9.Kontakion.text
 

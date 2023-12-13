@@ -1,20 +1,20 @@
 A_Resource_Whose_Name = le.go.mc.d120_gr_redirects_goarch 
 
-lemcMA.Gospel.title = "Κυριακὴ τῆς Πεντηκοστῆς"
-lemcMA.Gospel.title_abbr = "Κυρ. Πεντηκοστῆς"
-lemcMA.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemcMA.Gospel.book_string = bible_gr_redirects_goarch.John.text
-lemcMA.Gospel.book_abbr = bible_gr_redirects_goarch.John.abbr
-lemcMA.Gospel.chapverse = "κʹ 19 - 23"
-lemcMA.Gospel.incipit = "Οὔσης ὀψίας τῇ ἡμέρᾳ ἐκείνῃ…"
-lemcMA.Gospel.text = "Οὔσης ὀψίας τῇ ἡμέρᾳ ἐκείνῃ τῇ μιᾷ σαββάτων, καὶ τῶν θυρῶν κεκλεισμένων ὅπου ἦσαν οἱ μαθηταὶ συνηγμένοι διὰ τὸν φόβον τῶν Ἰουδαίων, ἦλθεν ὁ Ἰησοῦς καὶ ἔστη εἰς τὸ μέσον, καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν. καὶ τοῦτο εἰπὼν ἔδειξεν αὐτοῖς τὰς χεῖρας καὶ τὴν πλευρὰν αὐτοῦ. ἐχάρησαν οὖν οἱ μαθηταὶ ἰδόντες τὸν Κύριον. εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς πάλιν· Εἰρήνη ὑμῖν. καθὼς ἀπέσταλκέ με ὁ πατήρ, κἀγὼ πέμπω ὑμᾶς. καὶ τοῦτο εἰπὼν ἐνεφύσησε καὶ λέγει αὐτοῖς· Λάβετε Πνεῦμα ἅγιον· ἄν τινων ἀφῆτε τὰς ἁμαρτίας, ἀφίενται αὐτοῖς, ἄν τινων κρατῆτε, κεκράτηνται."
+lemcMA.Gospel.title = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.title
+lemcMA.Gospel.title_abbr = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.title_abbr
+lemcMA.Gospel.version = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.version
+lemcMA.Gospel.book_string = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.book_string
+lemcMA.Gospel.book_abbr = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.book_abbr
+lemcMA.Gospel.chapverse = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.chapverse
+lemcMA.Gospel.incipit = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.incipit
+lemcMA.Gospel.text = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.text
 
-lemcLI.Gospel.title = "Κυριακὴ Ηʹ τῆς Πεντηκοστῆς"
-lemcLI.Gospel.title_abbr = "Κυρ. Πεντηκοστῆς"
-lemcLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Gospel.book_string = bible_gr_redirects_goarch.John.text
-lemcLI.Gospel.book_abbr = bible_gr_redirects_goarch.John.abbr
-lemcLI.Gospel.chapverse = "ζʹ 37 - 52, ηʹ 12"
-lemcLI.Gospel.incipit = "Τῇ ἐσχάτῃ ἡμέρᾳ τῇ μεγάλῃ τῆς ἑορτῆς εἱστήκει ὁ…"
-lemcLI.Gospel.text = "Τῇ ἐσχάτῃ ἡμέρᾳ τῇ μεγάλῃ τῆς ἑορτῆς εἱστήκει ὁ Ἰησοῦς καὶ ἔκραξε λέγων· Ἐάν τις διψᾷ, ἐρχέσθω πρός με καὶ πινέτω. ὁ πιστεύων εἰς ἐμέ, καθὼς εἶπεν ἡ γραφή, ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος. τοῦτο δὲ εἶπε περὶ τοῦ Πνεύματος οὗ ἔμελλον λαμβάνειν οἱ πιστεύσαντες εἰς αὐτόν· οὔπω γὰρ ἦν Πνεῦμα Ἅγιον, ὅτι Ἰησοῦς οὐδέπω ἐδοξάσθη. πολλοὶ οὖν ἐκ τοῦ ὄχλου ἀκούσαντες τὸν λόγον ἔλεγον· Οὗτός ἐστιν ἀληθῶς ὁ προφήτης· ἄλλοι ἔλεγον· Οὗτός ἐστιν ὁ Χριστός· οἱ δὲ ἔλεγον· Μὴ γὰρ ἐκ τῆς Γαλιλαίας ὁ Χριστὸς ἔρχεται; οὐχὶ ἡ γραφὴ εἶπεν ὅτι ἐκ τοῦ σπέρματος Δαυῒδ καὶ ἀπὸ Βηθλέεμ τῆς κώμης, ὅπου ἦν Δαυῒδ, ὁ Χριστὸς ἔρχεται; σχίσμα οὖν ἐν τῷ ὄχλῳ ἐγένετο διʼ αὐτόν. τινὲς δὲ ἤθελον ἐξ αὐτῶν πιάσαι αὐτόν, ἀλλʼ οὐδεὶς ἐπέβαλεν ἐπʼ αὐτὸν τὰς χεῖρας. Ἦλθον οὖν οἱ ὑπηρέται πρὸς τοὺς ἀρχιερεῖς καὶ Φαρισαίους, καὶ εἶπον αὐτοῖς ἐκεῖνοι· Διατί οὐκ ἠγάγετε αὐτόν; ἀπεκρίθησαν οἱ ὑπηρέται· Οὐδέποτε οὕτως ἐλάλησεν ἄνθρωπος, ὡς οὗτος ὁ ἄνθρωπος. ἀπεκρίθησαν οὖν αὐτοῖς οἱ Φαρισαῖοι· Μὴ καὶ ὑμεῖς πεπλάνησθε; μή τις ἐκ τῶν ἀρχόντων ἐπίστευσεν εἰς αὐτὸν ἢ ἐκ τῶν Φαρισαίων; ἀλλʼ ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον ἐπικατάρατοί εἰσι! λέγει Νικόδημος πρὸς αὐτούς, ὁ ἐλθὼν νυκτὸς πρὸς αὐτόν, εἷς ὢν ἐξ αὐτῶν· Μὴ ὁ νόμος ἡμῶν κρίνει τὸν ἄνθρωπον, ἐὰν μὴ ἀκούσῃ παρʼ αὐτοῦ πρότερον καὶ γνῷ τί ποιεῖ; ἀπεκρίθησαν καὶ εἶπον αὐτῷ· Μὴ καὶ σὺ ἐκ τῆς Γαλιλαίας εἶ; ἐρεύνησον καὶ ἴδε ὅτι προφήτης ἐκ τῆς Γαλιλαίας οὐκ ἐγήγερται. Πάλιν οὖν αὐτοῖς ὁ Ἰησοῦς ἐλάλησε λέγων· Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου· ὁ ἀκολουθῶν ἐμοὶ οὐ μὴ περιπατήσῃ ἐν τῇ σκοτίᾳ, ἀλλʼ ἕξει τὸ φῶς τῆς ζωῆς."
-lemcLI.Gospel.pagenumber = ""
+lemcLI.Gospel.title = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.title
+lemcLI.Gospel.title_abbr = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.title_abbr
+lemcLI.Gospel.version = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.version
+lemcLI.Gospel.book_string = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.book_string
+lemcLI.Gospel.book_abbr = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.book_abbr
+lemcLI.Gospel.chapverse = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.chapverse
+lemcLI.Gospel.incipit = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.incipit
+lemcLI.Gospel.text = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.text
+lemcLI.Gospel.pagenumber = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.pagenumber

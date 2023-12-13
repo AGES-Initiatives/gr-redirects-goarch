@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d264_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Πέμπτη ΚΑʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Πέμπτη ΚΑʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Colossians.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Colossians.abbr
-lemcLI.Epistle.chapverse = "1:24-29, 2:1"
-lemcLI.Epistle.incipit = "Ἀδελφοί, νῦν χαίρω ἐν τοῖς παθήμασί μου ὑπὲρ ὑμῶν,…"
-lemcLI.Epistle.text = "Ἀδελφοί, νῦν χαίρω ἐν τοῖς παθήμασί μου ὑπὲρ ὑμῶν, καὶ ἀνταναπληρῶ τὰ ὑστερήματα τῶν θλίψεων τοῦ Χριστοῦ ἐν τῇ σαρκί μου ὑπὲρ τοῦ σώματος αὐτοῦ, ὅ ἐστιν ἡ ἐκκλησία, ἧς ἐγενόμην ἐγὼ διάκονος κατὰ τὴν οἰκονομίαν τοῦ Θεοῦ τὴν δοθεῖσάν μοι εἰς ὑμᾶς πληρῶσαι τὸν λόγον τοῦ Θεοῦ, τὸ μυστήριον τὸ ἀποκεκρυμμένον ἀπὸ τῶν αἰώνων καὶ ἀπὸ τῶν γενεῶν, νυνὶ δὲ ἐφανερώθη τοῖς ἁγίοις αὐτοῦ, οἷς ἠθέλησεν ὁ Θεὸς γνωρίσαι τίς ὁ πλοῦτος τῆς δόξης τοῦ μυστηρίου τούτου ἐν τοῖς ἔθνεσιν, ὅς ἐστιν Χριστὸς ἐν ὑμῖν, ἡ ἐλπὶς τῆς δόξης· ὃν ἡμεῖς καταγγέλλομεν νουθετοῦντες πάντα ἄνθρωπον καὶ διδάσκοντες ἐν πάσῃ σοφίᾳ, ἵνα παραστήσωμεν πάντα ἄνθρωπον τέλειον ἐν Χριστῷ Ἰησοῦ· εἰς ὃ καὶ κοπιῶ ἀγωνιζόμενος κατὰ τὴν ἐνέργειαν αὐτοῦ τὴν ἐνεργουμένην ἐν ἐμοὶ ἐν δυνάμει. Θέλω γὰρ ὑμᾶς εἰδέναι ἡλίκον ἀγῶνα ἔχω περὶ ἡμῶν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d264_gr_GR_cog.lemcLI.Epistle.pagenumber

@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.go.eo.w02_gr_redirects_goarch
 
-leeoMA.Gospel.title = "Βʹ"
-leeoMA.Gospel.title_abbr = "Βʹ"
-leeoMA.Gospel.version = properties_gr_redirects_goarch.version.designation
-leeoMA.Gospel.book_string = bible_gr_redirects_goarch.Mark.text
-leeoMA.Gospel.book_abbr = bible_gr_redirects_goarch.Mark.abbr
-leeoMA.Gospel.chapverse = "ΙϚʹ 1-8"
-leeoMA.Gospel.incipit = "Διαγενομένου τοῦ Σαββάτου…"
-leeoMA.Gospel.text = "Διαγενομένου τοῦ Σαββάτου, Μαρία ἡ Μαγδαληνὴ καὶ Μαρία ἡ τοῦ Ἰακώβου καὶ Σαλώμη ἠγόρασαν ἀρώματα, ἵνα ἐλθοῦσαι ἀλείψωσιν τὸν Ἰησοῦν. Καὶ λίαν πρωῒ τῇ μιᾷ τῶν σαββάτων ἔρχονται ἐπὶ τὸ μνημεῖον ἀνατείλαντος τοῦ ἡλίου. Καὶ ἔλεγον πρὸς ἑαυτάς· Τίς ἀποκυλίσει ἡμῖν τὸν λίθον ἐκ τῆς θύρας τοῦ μνημείου; καὶ ἀναβλέψασαι θεωροῦσιν ὅτι ἀποκεκύλισται ὁ λίθος· ἦν γὰρ μέγας σφόδρα. Καὶ εἰσελθοῦσαι εἰς τὸ μνημεῖον, εἶδον νεανίσκον καθήμενον ἐν τοῖς δεξιοῖς, περιβεβλημένον στολήν λευκήν, καὶ ἐξεθαμβήθησαν· ὁ δὲ λέγει αὐταῖς· Μὴ ἐκθαμβεῖσθε, Ἰησοῦν ζητεῖτε τὸν Ναζαρηνὸν τὸν ἐσταυρωμένον, ἠγέρθη, οὐκ ἔστιν ᾧδε· ἴδε, ὁ τόπος ὅπου ἔθηκαν αὐτόν, ἀλλʼ ὑπάγετε, εἴπατε τοῖς μαθηταῖς αὐτοῦ καὶ τῷ Πέτρῳ, ὅτι προάγει ὑμᾶς εἰς τὴν Γαλιλαίαν· ἐκεῖ αὐτὸν ὄψεσθε, καθὼς εἶπεν ὑμῖν. Καὶ ἐξελθοῦσαι ταχὺ ἔφυγον ἀπὸ τοῦ μνημείου, εἶχε δὲ αὐτὰς τρόμος καὶ ἔκστασις, καὶ οὐδενὶ οὐδὲν εἶπον· ἐφοβοῦντο γάρ."
+leeoMA.Gospel.title = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.title
+leeoMA.Gospel.title_abbr = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.title_abbr
+leeoMA.Gospel.version = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.version
+leeoMA.Gospel.book_string = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.book_string
+leeoMA.Gospel.book_abbr = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.book_abbr
+leeoMA.Gospel.chapverse = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.chapverse
+leeoMA.Gospel.incipit = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.incipit
+leeoMA.Gospel.text = le.go.eo.w02_gr_GR_cog.leeoMA.Gospel.text

@@ -1,201 +1,201 @@
 A_Resource_Whose_Name = poets_gr_redirects_goarch
 
-po.AgiouKosma = "Ποίημα τοῦ Ἁγίου Κοσμᾶ."
+po.AgiouKosma = poets_gr_GR_cog.po.AgiouKosma
 
-po.AgiouKosmaOiDeIoannouMonachou = "Ποίημα τοῦ Ἁγίου Κοσμᾶ, οἱ δὲ Ἰωάννου Μοναχοῦ."
+po.AgiouKosmaOiDeIoannouMonachou = poets_gr_GR_cog.po.AgiouKosmaOiDeIoannouMonachou
 
-po.Anatoliou = "Ποίημα Ἀνατολίου."
+po.Anatoliou = poets_gr_GR_cog.po.Anatoliou
 
-po.AnatoliouOiDeAndreouIerosolymitou = "Ποίημα Ἀνατολίου, οἱ δέ, Ἀνδρέου Ἱεροσολυμίτου."
+po.AnatoliouOiDeAndreouIerosolymitou = poets_gr_GR_cog.po.AnatoliouOiDeAndreouIerosolymitou
 
-po.AndreouIerosolymitou = "Ποίημα Ἀνδρέου Ἱεροσολυμίτου."
+po.AndreouIerosolymitou = poets_gr_GR_cog.po.AndreouIerosolymitou
 
-po.AndreouIerosolymitouOiDeAnatoliou = "Ποίημα Ἀνδρέου Ἱεροσολυμίτου, οἱ δὲ Ἀνατολίου."
+po.AndreouIerosolymitouOiDeAnatoliou = poets_gr_GR_cog.po.AndreouIerosolymitouOiDeAnatoliou
 
-po.AndreouKritis = "Ποίημα Ἀνδρέου Κρήτης."
+po.AndreouKritis = poets_gr_GR_cog.po.AndreouKritis
 
-po.AndreouPyrou = "Ποίημα Ἀνδρέου Πύρου."
+po.AndreouPyrou = poets_gr_GR_cog.po.AndreouPyrou
 
-po.Antoniou = "Ποίημα Ἀντωνίου."
+po.Antoniou = poets_gr_GR_cog.po.Antoniou
 
-po.Arseniou = "Ποίημα Ἀρσενίου."
+po.Arseniou = poets_gr_GR_cog.po.Arseniou
 
-po.AthanasiouSimonopetritou = "Ποίημα Ἀθανασίου Σιμωνοπετρίτου"
+po.AthanasiouSimonopetritou = poets_gr_GR_cog.po.AthanasiouSimonopetritou
 
-po.ChristoforouTouProtasikritou = "Ποίημα Χριστοφόρου τοῦ Πρωτασηκρίτου."
+po.ChristoforouTouProtasikritou = poets_gr_GR_cog.po.ChristoforouTouProtasikritou
 
-po.EfraimKarias = "Ποίημα Ἐφραὶμ Καρίας."
+po.EfraimKarias = poets_gr_GR_cog.po.EfraimKarias
 
-po.FotiouPatriarchou = "Ποίημα Φωτίου Πατριάρχου."
+po.FotiouPatriarchou = poets_gr_GR_cog.po.FotiouPatriarchou
 
-po.Georgiou = "Ποίημα Γεωργίου."
+po.Georgiou = poets_gr_GR_cog.po.Georgiou
 
-po.GeorgiouNikomideias = "Ποίημα Γεωργίου Νικομηδείας."
+po.GeorgiouNikomideias = poets_gr_GR_cog.po.GeorgiouNikomideias
 
-po.GeorgiouSikeliotou = "Ποίημα Γεωργίου Σικελιώτου."
+po.GeorgiouSikeliotou = poets_gr_GR_cog.po.GeorgiouSikeliotou
 
-po.Gerasimou = "Ποίημα Γερασίμου."
+po.Gerasimou = poets_gr_GR_cog.po.Gerasimou
 
-po.GerasimouAlexandreias = "Ποίημα Γερασίμου Ἀλεξανδρείας."
+po.GerasimouAlexandreias = poets_gr_GR_cog.po.GerasimouAlexandreias
 
-po.GerasimouMonachouMikragiannanitou = "Ποίημα Γερασίμου Μοναχοῦ Μικραγιαννανίτου"
+po.GerasimouMonachouMikragiannanitou = poets_gr_GR_cog.po.GerasimouMonachouMikragiannanitou
 
-po.Germanou = "Ποίημα Γερμανοῦ."
+po.Germanou = poets_gr_GR_cog.po.Germanou
 
-po.GermanouOiDeAnatoliou = "Γερμανοῦ, οἱ δὲ Ἀνατολίου."
+po.GermanouOiDeAnatoliou = poets_gr_GR_cog.po.GermanouOiDeAnatoliou
 
-po.GermanouOiDeIoannouMonachou = "Γερμανοῦ, οἱ δὲ Ἰωάννου Μοναχοῦ."
+po.GermanouOiDeIoannouMonachou = poets_gr_GR_cog.po.GermanouOiDeIoannouMonachou
 
-po.GermanouOiDeVyzantiou = "Ποίημα Γερμανοῦ, οἱ δὲ Βυζαντίου."
+po.GermanouOiDeVyzantiou = poets_gr_GR_cog.po.GermanouOiDeVyzantiou
 
-po.GermanouPatriarchou = "Ποίημα Γερμανοῦ Πατριάρχου."
+po.GermanouPatriarchou = poets_gr_GR_cog.po.GermanouPatriarchou
 
-po.IakovouProtopsaltou = "Ποίημα Ἰακώβου Πρωτοψάλτου."
+po.IakovouProtopsaltou = poets_gr_GR_cog.po.IakovouProtopsaltou
 
-po.Ignatiou = "Ποίημα Ἰγνατίου."
+po.Ignatiou = poets_gr_GR_cog.po.Ignatiou
 
-po.IgnatiouNikaias = "Ποίημα Ἰγνατίου Νικαίας."
+po.IgnatiouNikaias = poets_gr_GR_cog.po.IgnatiouNikaias
 
-po.IkasiasMonachis = "Ποίημα Ἰκασίας Μοναχῆς."
+po.IkasiasMonachis = poets_gr_GR_cog.po.IkasiasMonachis
 
-po.Ioannou = "Ποίημα Ἰωάννου."
+po.Ioannou = poets_gr_GR_cog.po.Ioannou
 
-po.IoannouEfchaiton = "Ποίημα Ἰωάννου Εὐχαΐτων."
+po.IoannouEfchaiton = poets_gr_GR_cog.po.IoannouEfchaiton
 
-po.IoannouMonachou = "Ποίημα Ἰωάννου Μοναχοῦ (τοῦ Δαμασκηνοῦ)."
+po.IoannouMonachou = poets_gr_GR_cog.po.IoannouMonachou
 
-po.IoannouTouDamaskinou = "Ποίημα Ἰωάννου τοῦ Δαμασκηνοῦ."
+po.IoannouTouDamaskinou = poets_gr_GR_cog.po.IoannouTouDamaskinou
 
-po.IoilEdessis = "Ποίημα τοῦ Μητροπολίτου Ἐδέσσης Ἰωήλ"
+po.IoilEdessis = poets_gr_GR_cog.po.IoilEdessis
 
-po.Iosif = "Ποίημα Ἰωσήφ."
+po.Iosif = poets_gr_GR_cog.po.Iosif
 
-po.IosifThessalonikis = "Ποίημα Ἰωσὴφ Θεσσαλονίκης."
+po.IosifThessalonikis = poets_gr_GR_cog.po.IosifThessalonikis
 
-po.IosifTouYmnografou = "Ποίημα Ἰωσήφ τοῦ Ὑμνογράφου."
+po.IosifTouYmnografou = poets_gr_GR_cog.po.IosifTouYmnografou
 
-po.Kasias = "Ποίημα Κασίας."
+po.Kasias = poets_gr_GR_cog.po.Kasias
 
-po.KassiasMonachis = "Ποίημα Κασσίας Μοναχῆς."
+po.KassiasMonachis = poets_gr_GR_cog.po.KassiasMonachis
 
-po.Klimentos = "Ποίημα Κλήμεντος."
+po.Klimentos = poets_gr_GR_cog.po.Klimentos
 
-po.Kosma = "Ποίημα Κοσμᾶ."
+po.Kosma = poets_gr_GR_cog.po.Kosma
 
-po.KosmaAgiopolitou = "Ποίημα Κοσμᾶ Ἁγιοπολίτου."
+po.KosmaAgiopolitou = poets_gr_GR_cog.po.KosmaAgiopolitou
 
-po.KosmaMonachou = "Ποίημα Κοσμᾶ Μοναχοῦ."
+po.KosmaMonachou = poets_gr_GR_cog.po.KosmaMonachou
 
-po.Koumoula = "Ποίημα τοῦ Κουμουλᾶ."
+po.Koumoula = poets_gr_GR_cog.po.Koumoula
 
-po.Kyprianou = "Ποίημα Κυπριανοῦ."
+po.Kyprianou = poets_gr_GR_cog.po.Kyprianou
 
-po.KyprianouMonachou = "Ποίημα Κυπριανοῦ Μοναχοῦ."
+po.KyprianouMonachou = poets_gr_GR_cog.po.KyprianouMonachou
 
-po.KyrillouAlexandreias = "Ποίημα Κυρίλλου Πατριάρχου Ἀλεξανδρείας."
+po.KyrillouAlexandreias = poets_gr_GR_cog.po.KyrillouAlexandreias
 
-po.KyrillouPatriarchou = "Ποίημα Κυρίλλου Πατριάρχου Κων/πόλεως."
+po.KyrillouPatriarchou = poets_gr_GR_cog.po.KyrillouPatriarchou
 
-po.KyriouAndreou = "Ποίημα τοῦ κυρίου Ανδρέου."
+po.KyriouAndreou = poets_gr_GR_cog.po.KyriouAndreou
 
-po.KyriouGeorgiou = "Ποίημα κυρίου Γεωργίου."
+po.KyriouGeorgiou = poets_gr_GR_cog.po.KyriouGeorgiou
 
-po.KyriouIoannou = "Ποίημα τοῦ κυρίου Ἰωάννου."
+po.KyriouIoannou = poets_gr_GR_cog.po.KyriouIoannou
 
-po.KyriouIoannouArkla = "Ποίημα κυρίου Ἰωάννου τοῦ Ἀρκλᾶ"
+po.KyriouIoannouArkla = poets_gr_GR_cog.po.KyriouIoannouArkla
 
-po.KyriouIosif = "Ποίημα τοῦ κυρίου Ἰωσήφ."
+po.KyriouIosif = poets_gr_GR_cog.po.KyriouIosif
 
-po.KyriouKosma = "Ποίημα κυρίου Κοσμᾶ."
+po.KyriouKosma = poets_gr_GR_cog.po.KyriouKosma
 
-po.KyriouTheofanous = "Ποίημα κυρίου Θεοφάνους."
+po.KyriouTheofanous = poets_gr_GR_cog.po.KyriouTheofanous
 
-po.KyriouVasileiou = "Ποίημα κυρίου Βασιλείου."
+po.KyriouVasileiou = poets_gr_GR_cog.po.KyriouVasileiou
 
-po.KyrouGeorgiou = "Ποίημα τοῦ κυροῦ Γεωργίου."
+po.KyrouGeorgiou = poets_gr_GR_cog.po.KyrouGeorgiou
 
-po.LeontosDespotou = "Ποίημα Λέοντος Δεσπότου."
+po.LeontosDespotou = poets_gr_GR_cog.po.LeontosDespotou
 
-po.LeontosMaistoros = "Ποίημα Λέοντος Μαΐστορος."
+po.LeontosMaistoros = poets_gr_GR_cog.po.LeontosMaistoros
 
-po.Malaxou = "Τοῦ Μαλαξοῦ."
+po.Malaxou = poets_gr_GR_cog.po.Malaxou
 
-po.Mavroleontos = "Ποίημα Μαυρολέοντος."
+po.Mavroleontos = poets_gr_GR_cog.po.Mavroleontos
 
-po.MeletiouIeromartyrosVlastou = "Ποίημα Μελετίου Ἱερομάρτυρος Βλαστοῦ."
+po.MeletiouIeromartyrosVlastou = poets_gr_GR_cog.po.MeletiouIeromartyrosVlastou
 
-po.Methodiou = "Ποίημα Μεθοδίου."
+po.Methodiou = poets_gr_GR_cog.po.Methodiou
 
-po.MethodiouPatriarchou = "Ποίημα Μεθοδίου Πατριάρχου."
+po.MethodiouPatriarchou = poets_gr_GR_cog.po.MethodiouPatriarchou
 
-po.MitrofanousSmirnis = "Ποίημα Μητροφάνους Σμύρνης."
+po.MitrofanousSmirnis = poets_gr_GR_cog.po.MitrofanousSmirnis
 
-po.MitropolitouArtisSerafim = "Ποίημα Μητρ. Ἅρτης Σεραφείμ."
+po.MitropolitouArtisSerafim = poets_gr_GR_cog.po.MitropolitouArtisSerafim
 
-po.NeilouTouXanthopoulou = "Ποίημα Νείλου τοῦ Ξανθοπούλου."
+po.NeilouTouXanthopoulou = poets_gr_GR_cog.po.NeilouTouXanthopoulou
 
-po.NikiforouChiou = "Ποίημα Νικηφόρου τοῦ Χίου."
+po.NikiforouChiou = poets_gr_GR_cog.po.NikiforouChiou
 
-po.NikodimouAgioreitou = "Ποίημα Νικοδήμου τοῦ Ἁγιορείτου."
+po.NikodimouAgioreitou = poets_gr_GR_cog.po.NikodimouAgioreitou
 
-po.Nikolaou = "Ποίημα Νικολάου."
+po.Nikolaou = poets_gr_GR_cog.po.Nikolaou
 
-po.PatriarchouAnthimou = "Ποίημα Πατριάρχου Κων/πόλεως Ἀνθίμου Δʹ."
+po.PatriarchouAnthimou = poets_gr_GR_cog.po.PatriarchouAnthimou
 
-po.PatriarchouKyrillou = "Ποίημα Πατριάρχου ΚΠόλεως Κυρίλλου Ϛʹ."
+po.PatriarchouKyrillou = poets_gr_GR_cog.po.PatriarchouKyrillou
 
-po.PavlouIeromonachou = "Ποίημα Παύλου Ἱερομονάχου."
+po.PavlouIeromonachou = poets_gr_GR_cog.po.PavlouIeromonachou
 
-po.ProkopiouChartofylakos = "Ποίημα Προκοπίου Χαρτοφύλακος."
+po.ProkopiouChartofylakos = poets_gr_GR_cog.po.ProkopiouChartofylakos
 
-po.RomanouTouMelodou = "Ποίημα Ῥωμανοῦ τοῦ Μελῳδοῦ."
+po.RomanouTouMelodou = poets_gr_GR_cog.po.RomanouTouMelodou
 
-po.Sergiou = "Ποίημα Σεργίου."
+po.Sergiou = poets_gr_GR_cog.po.Sergiou
 
-po.SergiouAgiopolitou = "Ποίημα Σεργίου Ἁγιοπολίτου."
+po.SergiouAgiopolitou = poets_gr_GR_cog.po.SergiouAgiopolitou
 
-po.SofroniouPatriarchouIerosolymon = "Ποίημα Σωφρονίου Πατριάρχου Ἱεροσολύμων."
+po.SofroniouPatriarchouIerosolymon = poets_gr_GR_cog.po.SofroniouPatriarchouIerosolymon
 
-po.Stefanou = "Ποίημα Στεφάνου."
+po.Stefanou = poets_gr_GR_cog.po.Stefanou
 
-po.StefanouAgiopolitou = "Ποίημα Στεφάνου Ἁγιοπολίτου."
+po.StefanouAgiopolitou = poets_gr_GR_cog.po.StefanouAgiopolitou
 
-po.StefanouTouSavaitou = "Ποίημα Στεφάνου τοῦ Σαββαΐτου."
+po.StefanouTouSavaitou = poets_gr_GR_cog.po.StefanouTouSavaitou
 
-po.Stouditou = "Ποίημα τοῦ Στουδίτου."
+po.Stouditou = poets_gr_GR_cog.po.Stouditou
 
-po.Sykeotou = "Ποίημα τοῦ Συκεώτου"
+po.Sykeotou = poets_gr_GR_cog.po.Sykeotou
 
-po.SymeonThessalonikis = "Ποίημα Συμεὼν Θεσσαλονίκης."
+po.SymeonThessalonikis = poets_gr_GR_cog.po.SymeonThessalonikis
 
-po.SymeonTouLogothetou = "Ποίημα Συμεὼν τοῦ Λογοθέτου."
+po.SymeonTouLogothetou = poets_gr_GR_cog.po.SymeonTouLogothetou
 
-po.SymeonTouMetafrastou = "Ποίημα Συμεὼν τοῦ Μεταφραστοῦ."
+po.SymeonTouMetafrastou = poets_gr_GR_cog.po.SymeonTouMetafrastou
 
-po.Tarasiou = "Ποίημα Ταρασίου."
+po.Tarasiou = poets_gr_GR_cog.po.Tarasiou
 
-po.Theodorou = "Ποίημα Θεοδώρου."
+po.Theodorou = poets_gr_GR_cog.po.Theodorou
 
-po.TheodorouTouStouditou = "Ποίημα Θεοδώρου τοῦ Στουδίτου."
+po.TheodorouTouStouditou = poets_gr_GR_cog.po.TheodorouTouStouditou
 
-po.Theofanous = "Ποίημα Θεοφάνους."
+po.Theofanous = poets_gr_GR_cog.po.Theofanous
 
-po.TheofanousOiDeIoannouMonachou = "Ποίημα Θεοφάνους, οἱ δέ, Ἰωάννου Μοναχοῦ."
+po.TheofanousOiDeIoannouMonachou = poets_gr_GR_cog.po.TheofanousOiDeIoannouMonachou
 
-po.TheostiriktouMonachouOiDeThefanous = "Ποίημα Θεοστηρίκτου Μοναχοῦ· οἱ δὲ Θεοφάνους."
+po.TheostiriktouMonachouOiDeThefanous = poets_gr_GR_cog.po.TheostiriktouMonachouOiDeThefanous
 
-po.Vasileiou = "Ποίημα Βασιλείου."
+po.Vasileiou = poets_gr_GR_cog.po.Vasileiou
 
-po.VasileiouMonachou = "Ποίημα Βασιλείου Μοναχοῦ."
+po.VasileiouMonachou = poets_gr_GR_cog.po.VasileiouMonachou
 
-po.Vavyla = "Ποίημα Βαβύλα."
+po.Vavyla = poets_gr_GR_cog.po.Vavyla
 
-po.Vyzantiou = "Ποίημα Βυζαντίου."
+po.Vyzantiou = poets_gr_GR_cog.po.Vyzantiou
 
-po.Vyzantos = "Ποίημα Βύζαντος."
+po.Vyzantos = poets_gr_GR_cog.po.Vyzantos
 
-po.KyriouTheodorou = "Ποίημα κυρίου Θεοδώρου."
+po.KyriouTheodorou = poets_gr_GR_cog.po.KyriouTheodorou
 
-po.LeontosTouVasileos = "Ποίημα Λέοντος τοῦ Βασιλέως."
+po.LeontosTouVasileos = poets_gr_GR_cog.po.LeontosTouVasileos
 
-po.AndreouTyflou = "Ποίημα Ἀνδρέου Τυφλοῦ."
+po.AndreouTyflou = poets_gr_GR_cog.po.AndreouTyflou

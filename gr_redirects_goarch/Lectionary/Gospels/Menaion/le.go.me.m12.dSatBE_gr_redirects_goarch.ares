@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m12.dSatBE_gr_redirects_goarch
 
-lemeLI.Gospel.title = "Τῷ Σαββάτῳ πρό τῶν Φώτων."
-lemeLI.Gospel.title_abbr = "Σάβ. πρό τῶν Φώτων"
-lemeLI.Gospel.version = le.go.me.m01.d05_gr_redirects_goarch.lemeH1.Gospel.version
-lemeLI.Gospel.book_string = le.go.me.m01.d05_gr_redirects_goarch.lemeH1.Gospel.book_string
-lemeLI.Gospel.book_abbr = le.go.me.m01.d05_gr_redirects_goarch.lemeH1.Gospel.book_abbr
-lemeLI.Gospel.chapverse = le.go.me.m01.d05_gr_redirects_goarch.lemeH1.Gospel.chapverse
-lemeLI.Gospel.incipit = le.go.me.m01.d05_gr_redirects_goarch.lemeH1.Gospel.incipit
-lemeLI.Gospel.text = le.go.me.m01.d05_gr_redirects_goarch.lemeH1.Gospel.text
-lemeLI.Gospel.pagenumber = le.go.me.m01.d05_gr_redirects_goarch.lemeH1.Gospel.pagenumber
+lemeLI.Gospel.title = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m12.dSatBE_gr_GR_cog.lemeLI.Gospel.pagenumber

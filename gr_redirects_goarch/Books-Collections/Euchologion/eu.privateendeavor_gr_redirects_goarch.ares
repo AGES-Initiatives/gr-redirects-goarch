@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = eu.privateendeavor_gr_redirects_goarch 
 
-euKey003.title = ""
-euKey004.rubric = ""
-euKey005.text = ""
-euKey006.text = ""
-euKey007.rubric = ""
-euKey008.rubric = ""
-euKey009.rubric = ""
-euKey010.rubric = ""
-euKey011.text = ""
+euKey003.title = eu.privateendeavor_gr_GR_cog.euKey003.title
+euKey004.rubric = eu.privateendeavor_gr_GR_cog.euKey004.rubric
+euKey005.text = eu.privateendeavor_gr_GR_cog.euKey005.text
+euKey006.text = eu.privateendeavor_gr_GR_cog.euKey006.text
+euKey007.rubric = eu.privateendeavor_gr_GR_cog.euKey007.rubric
+euKey008.rubric = eu.privateendeavor_gr_GR_cog.euKey008.rubric
+euKey009.rubric = eu.privateendeavor_gr_GR_cog.euKey009.rubric
+euKey010.rubric = eu.privateendeavor_gr_GR_cog.euKey010.rubric
+euKey011.text = eu.privateendeavor_gr_GR_cog.euKey011.text
 
 
 

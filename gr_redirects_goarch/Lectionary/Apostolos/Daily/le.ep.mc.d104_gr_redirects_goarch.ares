@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d104_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Παρασκευὴ Εʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Παρασκευὴ Εʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Acts.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Acts.abbr
-lemcLI.Epistle.chapverse = "15:5-12"
-lemcLI.Epistle.incipit = "Ἐν ταῖς ἡμέραις ἐκείναις, ἐξανέστησάν τινες τῶν ἀπὸ τῆς…"
-lemcLI.Epistle.text = "Ἐν ταῖς ἡμέραις ἐκείναις, ἐξανέστησάν τινες τῶν ἀπὸ τῆς αἱρέσεως τῶν Φαρισαίων πεπιστευκότες, λέγοντες ὅτι δεῖ περιτέμνειν αὐτοὺς παραγγέλλειν τε τηρεῖν τὸν νόμον Μωῡσέως. Συνήχθησαν δὲ οἱ Ἀπόστολοι καὶ οἱ πρεσβύτεροι ἰδεῖν περὶ τοῦ λόγου τούτου. Πολλῆς δὲ συζητήσεως γενομένης ἀναστὰς Πέτρος εἶπε πρὸς αὐτούς· ἄνδρες, ἀδελφοί, ὑμεῖς ἐπίστασθε ὅτι ἀφʼ ἡμερῶν ἀρχαίων ὁ Θεὸς ἐν ἡμῖν ἐξελέξατο διὰ τοῦ στόματός μου ἀκοῦσαι τὰ ἔθνη τὸν λόγον τοῦ εὐαγγελίου καὶ πιστεῦσαι. Καὶ ὁ καρδιογνώστης Θεὸς ἐμαρτύρησεν αὐτοῖς δοὺς αὐτοῖς τὸ Πνεῦμα τὸ ῞Αγιον καθὼς καὶ ἡμῖν, καὶ οὐδὲν διέκρινε μεταξὺ ἡμῶν τε καὶ αὐτῶν τῇ πίστει καθαρίσας τὰς καρδίας αὐτῶν. Νῦν οὖν τί πειράζετε τὸν Θεόν, ἐπιθεῖναι ζυγὸν ἐπὶ τὸν τράχηλον τῶν μαθητῶν, ὃν οὔτε οἱ πατέρες ἡμῶν οὔτε ἡμεῖς ἰσχύσαμεν βαστάσαι; ἀλλὰ διὰ τῆς χάριτος τοῦ Κυρίου Ἰησοῦ πιστεύομεν σωθῆναι καθʼ ὃν τρόπον κἀκεῖνοι. 'Εσίγησε δὲ πᾶν τὸ πλῆθος καὶ ἤκουον Βαρνάβα καὶ Παύλου ἐξηγουμένων ὅσα ἐποίησεν ὁ Θεὸς σημεῖα καὶ τέρατα ἐν τοῖς ἔθνεσι διʼ αὐτῶν."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d104_gr_GR_cog.lemcLI.Epistle.pagenumber

@@ -1,21 +1,21 @@
 A_Resource_Whose_Name = le.go.me.m09.d26_gr_redirects_goarch
 
-lemeMA.Gospel.title = "Τοῦ Ἀποστόλου."
-lemeMA.Gospel.title_abbr = "Τοῦ Ἀποστόλου."
-lemeMA.Gospel.version = le.go.eo.w11_gr_redirects_goarch.leeoMA.Gospel.version
-lemeMA.Gospel.book_string = le.go.eo.w11_gr_redirects_goarch.leeoMA.Gospel.book_string
-lemeMA.Gospel.book_abbr = le.go.eo.w11_gr_redirects_goarch.leeoMA.Gospel.book_abbr
-lemeMA.Gospel.chapverse = le.go.eo.w11_gr_redirects_goarch.leeoMA.Gospel.chapverse
-lemeMA.Gospel.incipit = le.go.eo.w11_gr_redirects_goarch.leeoMA.Gospel.incipit
-lemeMA.Gospel.text = le.go.eo.w11_gr_redirects_goarch.leeoMA.Gospel.text
+lemeMA.Gospel.title = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.title
+lemeMA.Gospel.title_abbr = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.title_abbr
+lemeMA.Gospel.version = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.version
+lemeMA.Gospel.book_string = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.book_abbr
+lemeMA.Gospel.chapverse = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.chapverse
+lemeMA.Gospel.incipit = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.incipit
+lemeMA.Gospel.text = le.go.me.m09.d26_gr_GR_cog.lemeMA.Gospel.text
 
-lemeLI.Gospel.title = "Τοῦ Ἀποστόλου."
-lemeLI.Gospel.title_abbr = "Τοῦ Ἀποστόλου."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.John.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.John.abbr
-lemeLI.Gospel.chapverse = "19:25-27; 21:24-25"
-lemeLI.Gospel.incipit = "Τῷ καιρῷ ἐκείνῳ, εἱστήκεισαν δὲ παρὰ τῷ σταυρῷ τοῦ…"
-lemeLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, εἱστήκεισαν δὲ παρὰ τῷ σταυρῷ τοῦ Ἰησοῦ ἡ μήτηρ αὐτοῦ καὶ ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ, Μαρία ἡ τοῦ Κλωπᾶ καὶ Μαρία ἡ Μαγδαληνή. Ἰησοῦς οὖν ἰδὼν τὴν μητέρα καὶ τὸν μαθητὴν παρεστῶτα ὃν ἠγάπα, λέγει τῇ μητρὶ αὐτοῦ· γύναι, ἴδε ὁ υἱός σου. εἶτα λέγει τῷ μαθητῇ· ἰδοὺ ἡ μήτηρ σου. καὶ ἀπʼ ἐκείνης τῆς ὥρας ἔλαβεν ὁ μαθητὴς αὐτὴν εἰς τὰ ἴδια. Οὗτός ἐστιν ὁ μαθητὴς ὁ μαρτυρῶν περὶ τούτων καὶ γράψας ταῦτα, καὶ οἴδαμεν ὅτι ἀληθής ἐστιν ἡ μαρτυρία αὐτοῦ. ἔστι δὲ καὶ ἄλλα πολλὰ ὅσα ἐποίησεν ὁ Ἰησοῦς, ἅτινα ἐὰν γράφηται καθʼ ἕν, οὐδὲ αὐτὸν οἶμαι τὸν κόσμον χωρῆσαι τὰ γραφόμενα βιβλία. ἀμήν."
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m09.d26_gr_GR_cog.lemeLI.Gospel.pagenumber
 

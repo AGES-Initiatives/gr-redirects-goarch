@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.ep.va.water_gr_redirects_goarch 
 
-levaSW.Epistle.title = "ΕΙΣ ΑΓΙΑΣΜΟΝ"
-levaSW.Epistle.title_abbr = "ΕΙΣ ΑΓΙΑΣΜΟΝ"
-levaSW.Epistle.version = properties_gr_redirects_goarch.version.designation
-levaSW.Epistle.book_string = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.book_string
-levaSW.Epistle.book_abbr = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.book_abbr
-levaSW.Epistle.chapverse = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.chapverse
-levaSW.Epistle.incipit = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.incipit
-levaSW.Epistle.text = le.ep.me.m03.d25_gr_redirects_goarch.lemeLI.Epistle.text
+levaSW.Epistle.title = le.ep.va.water_gr_GR_cog.levaSW.Epistle.title
+levaSW.Epistle.title_abbr = le.ep.va.water_gr_GR_cog.levaSW.Epistle.title_abbr
+levaSW.Epistle.version = le.ep.va.water_gr_GR_cog.levaSW.Epistle.version
+levaSW.Epistle.book_string = le.ep.va.water_gr_GR_cog.levaSW.Epistle.book_string
+levaSW.Epistle.book_abbr = le.ep.va.water_gr_GR_cog.levaSW.Epistle.book_abbr
+levaSW.Epistle.chapverse = le.ep.va.water_gr_GR_cog.levaSW.Epistle.chapverse
+levaSW.Epistle.incipit = le.ep.va.water_gr_GR_cog.levaSW.Epistle.incipit
+levaSW.Epistle.text = le.ep.va.water_gr_GR_cog.levaSW.Epistle.text

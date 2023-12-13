@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d182_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Σάββατον Θʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Σάββατον Θʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Romans.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Romans.abbr
-lemcLI.Epistle.chapverse = "14:6-9"
-lemcLI.Epistle.incipit = "Ἀδελφοί, ὁ φρονῶν τὴν ἡμέραν, Κυρίῳ φρονεῖ· καὶ ὁ…"
-lemcLI.Epistle.text = "Ἀδελφοί, ὁ φρονῶν τὴν ἡμέραν, Κυρίῳ φρονεῖ· καὶ ὁ μὴ φρονῶν τὴν ἡμέραν Κυρίῳ οὐ φρονεῖ. Ὁ ἐσθίων Κυρίῳ ἐσθίει· εὐχαριστεῖ γὰρ τῷ Θεῷ· καὶ ὁ μὴ ἐσθίων Κυρίῳ οὐκ ἐσθίει͵ καὶ εὐχαριστεῖ τῷ Θεῷ. Οὐδεὶς γὰρ ἡμῶν ἑαυτῷ ζῇ͵ καὶ οὐδεὶς ἑαυτῷ ἀποθνῄσκει· ἐάν τε γὰρ ζῶμεν͵ τῷ Κυρίῳ ζῶμεν͵ ἐάν τε ἀποθνῄσκωμεν͵ τῷ Κυρίῳ ἀποθνῄσκομεν. ἐάν τε οὖν ζῶμεν ἐάν τε ἀποθνῄσκωμεν͵ τοῦ Κυρίου ἐσμέν. Εἰς τοῦτο γὰρ Χριστὸς καὶ ἀπέθανεν, καὶ ἀνέστη, καὶ ἀνέζησεν ἵνα καὶ νεκρῶν καὶ ζώντων κυριεύσῃ."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d182_gr_GR_cog.lemcLI.Epistle.pagenumber

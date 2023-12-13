@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d121_gr_redirects_goarch
 
-lemcLI.Epistle.title = "Δευτέρα ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ"
-lemcLI.Epistle.title_abbr = "Δευτέρα ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Ephesians.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Ephesians.abbr
-lemcLI.Epistle.chapverse = "5:8-19"
-lemcLI.Epistle.incipit = "Ἀδελφοί, ὡς τέκνα φωτὸς περιπατεῖτε· ὁ γὰρ καρπὸς τοῦ…"
-lemcLI.Epistle.text = "Ἀδελφοί, ὡς τέκνα φωτὸς περιπατεῖτε· ὁ γὰρ καρπὸς τοῦ Πνεύματος ἐν πάσῃ ἀγαθωσύνῃ καὶ δικαιοσύνη καὶ ἀληθείᾳ· δοκιμάζοντες τί ἐστιν εὐάρεστον τῷ Κυρίῳ. Καὶ μὴ συγκοινωνεῖτε τοῖς ἔργοις τοῖς ἀκάρποις τοῦ σκότους, μᾶλλον δὲ καὶ ἐλέγχετε· τὰ γὰρ κρυφῆ γινόμενα ὑπʼ αὐτῶν αἰσχρόν ἐστι καὶ λέγειν· τὰ δὲ πάντα ἐλεγχόμενα ὑπὸ τοῦ φωτὸς φανεροῦται· πᾶν γὰρ τὸ φανερούμενον φῶς ἐστι. Διὸ λέγει· Ἔγειρε ὁ καθεύδων καὶ ἀνάστα ἐκ τῶν νεκρῶν, καὶ ἐπιφαύσει σοι ὁ Χριστός. Βλέπετε οὖν πῶς ἀκριβῶς περιπατεῖτε, μὴ ὡς ἄσοφοι, ἀλλʼ ὡς σοφοί, ἐξαγοραζόμενοι τὸν καιρόν, ὅτι αἱ ἡμέραι πονηραί εἰσι. Διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνιέντες τί τὸ θέλημα τοῦ Κυρίου. Καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d121_gr_GR_cog.lemcLI.Epistle.pagenumber

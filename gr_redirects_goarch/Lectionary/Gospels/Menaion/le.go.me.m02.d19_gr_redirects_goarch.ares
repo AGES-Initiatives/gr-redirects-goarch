@@ -1,20 +1,20 @@
 A_Resource_Whose_Name = le.go.me.m02.d19_gr_redirects_goarch
 
-lemeMA.Gospel.title = ""
-lemeMA.Gospel.title_abbr = ""
-lemeMA.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeMA.Gospel.book_string = bible_gr_redirects_goarch.Matthew.text
-lemeMA.Gospel.book_abbr = bible_gr_redirects_goarch.Matthew.abbr
-lemeMA.Gospel.chapverse = "6:19-21"
-lemeMA.Gospel.incipit = "Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ Μαθηταῖς· Μὴ θησαυρίζετε ὑμῖν…"
-lemeMA.Gospel.text = "Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ Μαθηταῖς· Μὴ θησαυρίζετε ὑμῖν θησαυροὺς ἐπὶ τῆς γῆς, ὅπου σὴς καὶ βρῶσις ἀφανίζει, καὶ ὅπου κλέπται διορύσσουσιν καὶ κλέπτουσιν· θησαυρίζετε δὲ ὑμῖν θησαυροὺς ἐν οὐρανῷ, ὅπου οὔτε σὴς οὔτε βρῶσις ἀφανίζει, καὶ ὅπου κλέπται οὐ διορύσσουσιν οὐδὲ κλέπτουσιν· ὅπου γάρ ἐστιν ὁ θησαυρός ὑμῶν, ἐκεῖ ἔσται καὶ ἡ καρδία ὑμῶν."
+lemeMA.Gospel.title = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.title
+lemeMA.Gospel.title_abbr = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.title_abbr
+lemeMA.Gospel.version = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.version
+lemeMA.Gospel.book_string = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.book_abbr
+lemeMA.Gospel.chapverse = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.chapverse
+lemeMA.Gospel.incipit = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.incipit
+lemeMA.Gospel.text = le.go.me.m02.d19_gr_GR_cog.lemeMA.Gospel.text
 
-lemeLI.Gospel.title = "Τῆς Ἁγίας."
-lemeLI.Gospel.title_abbr = "Τῆς Ἁγίας."
-lemeLI.Gospel.version = properties_gr_redirects_goarch.version.designation
-lemeLI.Gospel.book_string = bible_gr_redirects_goarch.John.text
-lemeLI.Gospel.book_abbr = bible_gr_redirects_goarch.John.abbr
-lemeLI.Gospel.chapverse = "15:12-13, 18-19"
-lemeLI.Gospel.incipit = "Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ Μαθηταῖς· Αὕτη ἐστὶν ἡ…"
-lemeLI.Gospel.text = "Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ Μαθηταῖς· Αὕτη ἐστὶν ἡ ἐντολὴ ἡ ἐμή, ἵνα ἀγαπᾶτε ἀλλήλους καθὼς ἠγάπησα ὑμᾶς. Μείζονα ταύτης ἀγάπην οὐδεὶς ἔχει, ἵνα τις τὴν ψυχὴν αὐτοῦ θῇ ὑπὲρ τῶν φίλων αὐτοῦ. Εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ἐμὲ πρῶτον ὑμῶν μεμίσηκεν. Εἰ ἐκ τοῦ κόσμου ἦτε, ὁ κόσμος ἂν τὸ ἴδιον ἐφίλει· ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ, ἀλλʼ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου, διὰ τοῦτο μισεῖ ὑμᾶς ὁ κόσμος.\""
-lemeLI.Gospel.pagenumber = ""
+lemeLI.Gospel.title = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.title
+lemeLI.Gospel.title_abbr = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.title_abbr
+lemeLI.Gospel.version = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m02.d19_gr_GR_cog.lemeLI.Gospel.pagenumber

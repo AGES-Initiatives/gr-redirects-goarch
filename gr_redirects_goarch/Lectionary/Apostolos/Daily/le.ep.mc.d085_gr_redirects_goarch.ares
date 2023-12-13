@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d085_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Κυριακὴ Γʹ τῶν Μυροφόρων"
-lemcLI.Epistle.title_abbr = "Κυρ. Γʹ τῶν Μυροφόρων"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Acts.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Acts.abbr
-lemcLI.Epistle.chapverse = "6:1-7"
-lemcLI.Epistle.incipit = "Ἐν ταῖς ἡμέραις ἐκείναις, πληθυνόντων τῶν μαθητῶν ἐγένετο γογγυσμὸς…"
-lemcLI.Epistle.text = "Ἐν ταῖς ἡμέραις ἐκείναις, πληθυνόντων τῶν μαθητῶν ἐγένετο γογγυσμὸς τῶν Ἑλληνιστῶν πρὸς τοὺς Ἑβραίους͵ ὅτι παρεθεωροῦντο ἐν τῇ διακονίᾳ τῇ καθημερινῇ αἱ χῆραι αὐτῶν. Προσκαλεσάμενοι δὲ οἱ Δώδεκα τὸ πλῆθος τῶν μαθητῶν εἶπον· Οὐκ ἀρεστόν ἐστιν ἡμᾶς καταλείψαντας τὸν λόγον τοῦ Θεοῦ διακονεῖν τραπέζαις· ἐπισκέψασθε οὖν͵ ἀδελφοί͵ ἄνδρας ἐξ ὑμῶν μαρτυρουμένους ἑπτὰ πλήρεις πνεύματος καὶ σοφίας͵ οὓς καταστήσομεν ἐπὶ τῆς χρείας ταύτης· ἡμεῖς δὲ τῇ προσευχῇ καὶ τῇ διακονίᾳ τοῦ λόγου προσκαρτερήσομεν. Καὶ ἤρεσεν ὁ λόγος ἐνώπιον παντὸς τοῦ πλήθους, καὶ ἐξελέξαντο Στέφανον͵ ἄνδρα πλήρη πίστεως καὶ πνεύματος ἁγίου͵ καὶ Φίλιππον καὶ Πρόχορον καὶ Νικάνορα καὶ Τίμωνα καὶ Παρμενᾶν καὶ Νικόλαον προσήλυτον Ἀντιοχέα͵ οὓς ἔστησαν ἐνώπιον τῶν ἀποστόλων͵ καὶ προσευξάμενοι ἐπέθηκαν αὐτοῖς τὰς χεῖρας. Καὶ ὁ λόγος τοῦ Θεοῦ ηὔξανεν͵ καὶ ἐπληθύνετο ὁ ἀριθμὸς τῶν μαθητῶν ἐν Ἰερουσαλὴμ σφόδρα͵ πολύς τε ὄχλος τῶν ἱερέων ὑπήκουον τῇ πίστει."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d085_gr_GR_cog.lemcLI.Epistle.pagenumber

@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d301_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Σάββατον ΚϚʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Σάββατον ΚϚʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Galatians.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Galatians.abbr
-lemcLI.Epistle.chapverse = "3:8-12"
-lemcLI.Epistle.incipit = "Ἀδελφοί, προϊδοῦσα ἡ γραφὴ ὅτι ἐκ πίστεως δικαιοῖ τὰ…"
-lemcLI.Epistle.text = "Ἀδελφοί, προϊδοῦσα ἡ γραφὴ ὅτι ἐκ πίστεως δικαιοῖ τὰ ἔθνη ὁ Θεός, προευηγγελίσατο τῷ Ἀβραάμ· ὅτι εὐλογηθήσονται ἐν σοὶ πάντα τὰ ἔθνη. Ὥστε οἱ ἐκ πίστεως εὐλογοῦνται σὺν τῷ πιστῷ Ἀβραάμ. Ὅσοι γὰρ ἐξ ἔργων νόμου εἰσίν, ὑπὸ κατάραν εἰσίν· γέγραπται γάρ· ὅτι 'Επικατάρατος πᾶς ὃς οὐκ ἐμμένει ἐν πᾶσι τοῖς γεγραμμένοις ἐν τῷ βιβλίῳ τοῦ νόμου τοῦ ποιῆσαι αὐτά. Ὅτι δὲ ἐν νόμῳ οὐδεὶς δικαιοῦται παρὰ τῷ Θεῷ δῆλον· ὅτι ῾ὁ δίκαιος ἐκ πίστεως ζήσεται· ὁ δὲ νόμος οὐκ ἔστιν ἐκ πίστεως, ἀλλʼ ὁ ποιήσας αὐτὰ ἄνθρωπος ζήσεται ἐν αὐτοῖς."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d301_gr_GR_cog.lemcLI.Epistle.pagenumber

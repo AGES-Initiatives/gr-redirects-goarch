@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.ep.mc.d221_gr_redirects_goarch 
 
-lemcLI.Epistle.title = "Τετάρτη ΙΕʹ Ἑβδομάδος"
-lemcLI.Epistle.title_abbr = "Τετάρτη ΙΕʹ Ἑβδομάδος"
-lemcLI.Epistle.version = properties_gr_redirects_goarch.version.designation
-lemcLI.Epistle.book_string = bible_gr_redirects_goarch.Galatians.text
-lemcLI.Epistle.book_abbr = bible_gr_redirects_goarch.Galatians.abbr
-lemcLI.Epistle.chapverse = "3:15-22"
-lemcLI.Epistle.incipit = "Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς…"
-lemcLI.Epistle.text = "Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ ἢ ἐπιδιατάσσεται. Τῷ δὲ Ἀβραὰμ ἐῤῥέθησαν αἱ ἐπαγγελίαι καὶ τῷ σπέρματι αὐτοῦ. Οὐ λέγει· Καὶ τοῖς σπέρμασιν, ὡς ἐπὶ πολλῶν, ἀλλʼ ὡς ἐφʼ ἑνός. Καὶ τῷ σπέρματί σου, ὅς ἐστι Χριστός. Τοῦτο δὲ λέγω· διαθήκην προκεκυρωμένην ὑπὸ τοῦ Θεοῦ ὁ μετὰ τετρακόσια καὶ τριάκοντα ἔτη γεγονὼς νόμος οὐκ ἀκυροῖ, εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν. Εἰ γὰρ ἐκ νόμου ἡ κληρονομία, οὐκ ἔτι ἐξ ἐπαγγελίας; τῷ δὲ Ἀβραὰμ διʼ ἐπαγγελίας κεχάρισται ὁ Θεός. Τί οὖν ὁ νόμος; τῶν παραβάσεων χάριν προσετέθη, ἄχρις οὗ ἔλθῃ τὸ σπέρμα ᾧ ἐπήγγελται, διαταγεὶς διʼ Ἀγγέλων ἐν χειρὶ μεσίτου. Ὁ δὲ μεσίτης ἑνὸς οὐκ ἔστιν· ὁ δὲ Θεὸς εἷς ἐστιν. Ὁ οὖν νόμος κατὰ τῶν ἐπαγγελιῶν τοῦ Θεοῦ; μὴ γένοιτο· εἰ γὰρ ἐδόθη νόμος ὁ δυνάμενος ζωοποιῆσαι, ὄντως ἂν ἐκ νόμου ἦν ἡ δικαιοσύνη. Ἀλλὰ συνέκλεισεν ἡ γραφὴ τὰ πάντα ὑπὸ ἁμαρτίαν ἵνα ἡ ἐπαγγελία ἐκ πίστεως Ἰησοῦ Χριστοῦ δοθῇ τοῖς πιστεύουσι."
-lemcLI.Epistle.pagenumber = ""
+lemcLI.Epistle.title = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.title_abbr
+lemcLI.Epistle.version = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.version
+lemcLI.Epistle.book_string = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.book_string
+lemcLI.Epistle.book_abbr = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.book_abbr
+lemcLI.Epistle.chapverse = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.chapverse
+lemcLI.Epistle.incipit = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.incipit
+lemcLI.Epistle.text = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d221_gr_GR_cog.lemcLI.Epistle.pagenumber

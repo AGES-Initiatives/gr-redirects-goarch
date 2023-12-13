@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = other.prayers_gr_redirects_goarch
 
-PandemicPrayer1.title.incipit = ""
-PandemicPrayer1.title = ""
-PandemicPrayer1.author.incipit = ""
-PandemicPrayer1.author = ""
-PandemicPrayer1.translator.incipit = ""
-PandemicPrayer1.translator = ""
-PandemicPrayer1.incipit = ""
-PandemicPrayer1.text = ""
+PandemicPrayer1.title.incipit = other.prayers_gr_GR_cog.PandemicPrayer1.title.incipit
+PandemicPrayer1.title = other.prayers_gr_GR_cog.PandemicPrayer1.title
+PandemicPrayer1.author.incipit = other.prayers_gr_GR_cog.PandemicPrayer1.author.incipit
+PandemicPrayer1.author = other.prayers_gr_GR_cog.PandemicPrayer1.author
+PandemicPrayer1.translator.incipit = other.prayers_gr_GR_cog.PandemicPrayer1.translator.incipit
+PandemicPrayer1.translator = other.prayers_gr_GR_cog.PandemicPrayer1.translator
+PandemicPrayer1.incipit = other.prayers_gr_GR_cog.PandemicPrayer1.incipit
+PandemicPrayer1.text = other.prayers_gr_GR_cog.PandemicPrayer1.text

@@ -9,8 +9,8 @@ lemcVE.Gospel.chapverse = le.go.mc.d069_gr_GR_cog.lemcVE.Gospel.chapverse
 lemcVE.Gospel.incipit = le.go.mc.d069_gr_GR_cog.lemcVE.Gospel.incipit
 lemcVE.Gospel.text = le.go.mc.d069_gr_GR_cog.lemcVE.Gospel.text
 
-lemcHW.NiptirGospel1.title = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.title //  Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον πρῶτον
-lemcHW.NiptirGospel1.title_abbr = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.title_abbr //  Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον πρῶτον
+lemcHW.NiptirGospel1.title = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.title //   Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον πρῶτον
+lemcHW.NiptirGospel1.title_abbr = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.title_abbr //   Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον πρῶτον
 lemcHW.NiptirGospel1.version = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.version
 lemcHW.NiptirGospel1.book_string = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.book_string
 lemcHW.NiptirGospel1.book_abbr = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.book_abbr
@@ -18,8 +18,8 @@ lemcHW.NiptirGospel1.chapverse = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.ch
 lemcHW.NiptirGospel1.incipit = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.incipit
 lemcHW.NiptirGospel1.text = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel1.text
 
-lemcHW.NiptirGospel2.title = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel2.title //  Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον δεύτερον
-lemcHW.NiptirGospel2.title_abbr = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel2.title_abbr //  Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον δεύτερον
+lemcHW.NiptirGospel2.title = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel2.title //   Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον δεύτερον
+lemcHW.NiptirGospel2.title_abbr = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel2.title_abbr //   Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον δεύτερον
 lemcHW.NiptirGospel2.version = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel2.version
 lemcHW.NiptirGospel2.book_string = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel2.book_string
 lemcHW.NiptirGospel2.book_abbr = le.go.mc.d069_gr_GR_cog.lemcHW.NiptirGospel2.book_abbr

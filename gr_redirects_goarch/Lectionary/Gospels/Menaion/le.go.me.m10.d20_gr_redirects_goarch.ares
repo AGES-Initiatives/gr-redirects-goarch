@@ -17,4 +17,4 @@ lemeLI.Gospel.book_abbr = le.go.me.m10.d20_gr_GR_cog.lemeLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.me.m10.d20_gr_GR_cog.lemeLI.Gospel.chapverse
 lemeLI.Gospel.incipit = le.go.me.m10.d20_gr_GR_cog.lemeLI.Gospel.incipit
 lemeLI.Gospel.text = le.go.me.m10.d20_gr_GR_cog.lemeLI.Gospel.text
-lemeLI.Gospel.pagenumber = le.go.me.m10.d20_gr_GR_cog.lemeLI.Gospel.pagenumber // le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.pagemumber
+lemeLI.Gospel.pagenumber = le.go.me.m10.d20_gr_GR_cog.lemeLI.Gospel.pagenumber //  le.go.mc.d145_gr_redirects_goarch.lemcLI.Gospel.pagemumber

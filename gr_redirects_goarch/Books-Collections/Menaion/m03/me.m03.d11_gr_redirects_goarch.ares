@@ -35,6 +35,8 @@ meVE.Stichera03.melody = me.m03.d11_gr_GR_cog.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m03.d11_gr_GR_cog.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m03.d11_gr_GR_cog.meVE.Stichera03.text
 
+meVE.MM.Stichera123as8910.text = me.m03.d11_gr_GR_cog.meVE.MM.Stichera123as8910.text
+
 meVE.SticTheotokion.mode = me.m03.d11_gr_GR_cog.meVE.SticTheotokion.mode
 meVE.SticTheotokion.greekmelody = me.m03.d11_gr_GR_cog.meVE.SticTheotokion.greekmelody
 meVE.SticTheotokion.melody = me.m03.d11_gr_GR_cog.meVE.SticTheotokion.melody

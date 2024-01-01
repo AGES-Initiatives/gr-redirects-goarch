@@ -32,18 +32,22 @@ hoTY.Key0501.text = ho.ho07_gr_GR_cog.hoTY.Key0501.text
 hoLI.Antiphon1.text = ho.ho07_gr_GR_cog.hoLI.Antiphon1.text
 
 hoLI.Antiphon21.text = ho.ho07_gr_GR_cog.hoLI.Antiphon21.text
-hoLI.Antiphon2s.incipit = ho.ho07_gr_GR_cog.hoLI.Antiphon2s.incipit
-hoLI.Antiphon2s.text = ho.ho07_gr_GR_cog.hoLI.Antiphon2s.text
-hoLI.Antiphon2w.incipit = ho.ho07_gr_GR_cog.hoLI.Antiphon2w.incipit
-hoLI.Antiphon2w.text = ho.ho07_gr_GR_cog.hoLI.Antiphon2w.text
 hoLI.Antiphon22.text = ho.ho07_gr_GR_cog.hoLI.Antiphon22.text
 
 hoLI.EntranceHymn.incipit = ho.ho07_gr_GR_cog.hoLI.EntranceHymn.incipit
 hoLI.EntranceHymn.text = ho.ho07_gr_GR_cog.hoLI.EntranceHymn.text
-hoLI.EntranceHymn2s.incipit = ho.ho07_gr_GR_cog.hoLI.EntranceHymn2s.incipit
-hoLI.EntranceHymn2s.text = ho.ho07_gr_GR_cog.hoLI.EntranceHymn2s.text
-hoLI.EntranceHymn2w.incipit = ho.ho07_gr_GR_cog.hoLI.EntranceHymn2w.incipit
-hoLI.EntranceHymn2w.text = ho.ho07_gr_GR_cog.hoLI.EntranceHymn2w.text
+hoLI.MM.EntranceHymn2s.text = ho.ho07_gr_GR_cog.hoLI.MM.EntranceHymn2s.text 
+hoLI.MM.EntranceHymn2w.text = ho.ho07_gr_GR_cog.hoLI.MM.EntranceHymn2w.text
+
+//deprecated keys
+hoLI.Antiphon2s.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.Antiphon2s.text = properties_gr_GR_cog.deprecated.key
+hoLI.Antiphon2w.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.Antiphon2w.text = properties_gr_GR_cog.deprecated.key
+hoLI.EntranceHymn2s.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.EntranceHymn2s.text = properties_gr_GR_cog.deprecated.key
+hoLI.EntranceHymn2w.incipit = properties_gr_GR_cog.deprecated.key
+hoLI.EntranceHymn2w.text = properties_gr_GR_cog.deprecated.key
 
 hoLI.TrisagiosHymn.title = ho.ho07_gr_GR_cog.hoLI.TrisagiosHymn.title
 hoLI.TrisagiosHymn.incipit = ho.ho07_gr_GR_cog.hoLI.TrisagiosHymn.incipit

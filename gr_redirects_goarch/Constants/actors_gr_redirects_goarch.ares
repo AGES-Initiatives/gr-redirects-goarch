@@ -31,5 +31,6 @@ ac.PriestOrDeacon = actors_gr_GR_cog.ac.PriestOrDeacon
 ac.Priests = actors_gr_GR_cog.ac.Priests
 ac.Reader = actors_gr_GR_cog.ac.Reader
 ac.Respondent = actors_gr_GR_cog.ac.Respondent
+ac.Subdeacon = actors_gr_GR_cog.ac.Subdeacon
 ac.Superior = actors_gr_GR_cog.ac.Superior
 ac.SuperiorOrReader = actors_gr_GR_cog.ac.SuperiorOrReader

@@ -30,9 +30,10 @@ hoTY.Key0501.text = ho.ho07_gr_GR_cog.hoTY.Key0501.text
 
 // Liturgy Antiphons
 hoLI.Antiphon1.text = ho.ho07_gr_GR_cog.hoLI.Antiphon1.text
-
 hoLI.Antiphon21.text = ho.ho07_gr_GR_cog.hoLI.Antiphon21.text
 hoLI.Antiphon22.text = ho.ho07_gr_GR_cog.hoLI.Antiphon22.text
+hoLI.MM.Antiphon2s.text = ho.ho07_gr_GR_cog.hoLI.MM.Antiphon2s.text
+hoLI.MM.Antiphon2w.text = ho.ho07_gr_GR_cog.hoLI.MM.Antiphon2w.text
 
 hoLI.EntranceHymn.incipit = ho.ho07_gr_GR_cog.hoLI.EntranceHymn.incipit
 hoLI.EntranceHymn.text = ho.ho07_gr_GR_cog.hoLI.EntranceHymn.text

@@ -394,7 +394,7 @@ goVE.songofsymeon.v1a.text = liturgical.verses_gr_GR_cog.goVE.songofsymeon.v1a.t
 goVE.songofsymeon.v1b.text = liturgical.verses_gr_GR_cog.goVE.songofsymeon.v1b.text
 
 //Matins
-goMA.sixpsalms.intro.v1.info = liturgical.verses_gr_GR_cog.goMA.sixpsalms.intro.v1.info //  (Lk 2:14) le.go.os_gr_redirects_goarch.leosMA.SixPsalmsIntro1.book_abbr
+goMA.sixpsalms.intro.v1.info = liturgical.verses_gr_GR_cog.goMA.sixpsalms.intro.v1.info // (Lk 2:14) le.go.os_gr_redirects_goarch.leosMA.SixPsalmsIntro1.book_abbr
 goMA.sixpsalms.intro.v1.text = liturgical.verses_gr_GR_cog.goMA.sixpsalms.intro.v1.text
 psMA.sixpsalms.intro.v2.info = liturgical.verses_gr_GR_cog.psMA.sixpsalms.intro.v2.info
 psMA.sixpsalms.intro.v2.text = liturgical.verses_gr_GR_cog.psMA.sixpsalms.intro.v2.text
@@ -1617,7 +1617,7 @@ psLI.aftercommunion.v1a.text = liturgical.verses_gr_GR_cog.psLI.aftercommunion.v
 psLI.aftercommunion.v1b.info = liturgical.verses_gr_GR_cog.psLI.aftercommunion.v1b.info
 psLI.aftercommunion.v1b.text = liturgical.verses_gr_GR_cog.psLI.aftercommunion.v1b.text
 
-psLI.james.overgifts.v1.info = liturgical.verses_gr_GR_cog.psLI.james.overgifts.v1.info //  (Lk 2:14) le.go.os_gr_redirects_goarch.leosMA.SixPsalmsIntro1.book_abbr
+psLI.james.overgifts.v1.info = liturgical.verses_gr_GR_cog.psLI.james.overgifts.v1.info // (Lk 2:14) le.go.os_gr_redirects_goarch.leosMA.SixPsalmsIntro1.book_abbr
 psLI.james.overgifts.v1.text = liturgical.verses_gr_GR_cog.psLI.james.overgifts.v1.text
 psLI.james.overgifts.v2.info = liturgical.verses_gr_GR_cog.psLI.james.overgifts.v2.info
 psLI.james.overgifts.v2.text = liturgical.verses_gr_GR_cog.psLI.james.overgifts.v2.text

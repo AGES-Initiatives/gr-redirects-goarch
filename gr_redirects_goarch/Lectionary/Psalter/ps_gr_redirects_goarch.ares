@@ -4460,7 +4460,7 @@ psa114.v8.text = ps_gr_GR_cog.psa114.v8.text
 psa114.v9.number = ps_gr_GR_cog.psa114.v9.number
 psa114.v9.text = ps_gr_GR_cog.psa114.v9.text
 
-psa115.title = ps_gr_GR_cog.psa115.title //  versions vary in numbering verses
+psa115.title = ps_gr_GR_cog.psa115.title // versions vary in numbering verses
 psa115.version = ps_gr_GR_cog.psa115.version
 psa115.text = ps_gr_GR_cog.psa115.text
 psa115.v1.number = ps_gr_GR_cog.psa115.v1.number

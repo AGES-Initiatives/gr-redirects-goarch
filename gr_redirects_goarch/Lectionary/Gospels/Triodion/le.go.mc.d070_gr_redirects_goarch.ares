@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d070_gr_redirects_goarch 
 
-lemcVE.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title //  Friday Afternoon at Vespers
-lemcVE.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title_abbr //  Friday Afternoon at Vespers
+lemcVE.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title // Friday Afternoon at Vespers
+lemcVE.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title_abbr // Friday Afternoon at Vespers
 lemcVE.Gospel.version = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.version
 lemcVE.Gospel.book_string = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.book_string
 lemcVE.Gospel.book_abbr = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.book_abbr
@@ -9,8 +9,8 @@ lemcVE.Gospel.chapverse = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.chapverse
 lemcVE.Gospel.incipit = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.incipit
 lemcVE.Gospel.text = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.text
 
-lemcLI.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title //  Friday Night at Matins
-lemcLI.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title_abbr //  Friday Night at Matins
+lemcLI.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title // Friday Night at Matins
+lemcLI.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title_abbr // Friday Night at Matins
 lemcLI.Gospel.version = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.version
 lemcLI.Gospel.book_string = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.book_string
 lemcLI.Gospel.book_abbr = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.book_abbr

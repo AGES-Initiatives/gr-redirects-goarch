@@ -7,7 +7,7 @@ he = template.titles_gr_GR_cog.he
 hi = template.titles_gr_GR_cog.hi
 ho = template.titles_gr_GR_cog.ho
 ka = template.titles_gr_GR_cog.ka
-le = template.titles_gr_GR_cog.le //  this should be divided into three sections: prophecies, epistles, gospels
+le = template.titles_gr_GR_cog.le // this should be divided into three sections: prophecies, epistles, gospels
 me = template.titles_gr_GR_cog.me
 oc = template.titles_gr_GR_cog.oc
 oc.html.tab = template.titles_gr_GR_cog.oc.html.tab
@@ -325,7 +325,7 @@ me.SundayAfterFeast = template.titles_gr_GR_cog.me.SundayAfterFeast
 me.m01.d06.onEpiphanyEve = template.titles_gr_GR_cog.me.m01.d06.onEpiphanyEve
 me.m12.d25.onChristmasEve = template.titles_gr_GR_cog.me.m12.d25.onChristmasEve
 
-m.month = template.titles_gr_GR_cog.m.month //  I will programatically determine whether to look up the m.month vs m.mode key
+m.month = template.titles_gr_GR_cog.m.month // I will programatically determine whether to look up the m.month vs m.mode key
 m.mode = template.titles_gr_GR_cog.m.mode
 
 //Holy Week

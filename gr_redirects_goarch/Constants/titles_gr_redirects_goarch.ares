@@ -169,6 +169,7 @@ ti.DevoutSaints = titles_gr_GR_cog.ti.DevoutSaints
 ti.DevoutW = titles_gr_GR_cog.ti.DevoutW
 ti.Dismissal.uc = titles_gr_GR_cog.ti.Dismissal.uc
 ti.DogmaticTheotokion = titles_gr_GR_cog.ti.DogmaticTheotokion
+ti.Doxasticon = titles_gr_GR_cog.ti.Doxasticon
 ti.Earthquake = titles_gr_GR_cog.ti.Earthquake
 ti.Entrance.uc = titles_gr_GR_cog.ti.Entrance.uc
 ti.EntranceHymn = titles_gr_GR_cog.ti.EntranceHymn

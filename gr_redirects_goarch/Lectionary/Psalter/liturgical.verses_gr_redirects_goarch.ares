@@ -2,6 +2,9 @@ A_Resource_Whose_Name = liturgical.verses_gr_redirects_goarch
 
 //Vespers
 
+psVE.vespersentry.info = liturgical.verses_gr_GR_cog.psVE.vespersentry.info
+psVE.vespersentry.text = liturgical.verses_gr_GR_cog.psVE.vespersentry.text
+
 psVE.vigilentry.info = liturgical.verses_gr_GR_cog.psVE.vigilentry.info
 psVE.vigilentry.text = liturgical.verses_gr_GR_cog.psVE.vigilentry.text
 

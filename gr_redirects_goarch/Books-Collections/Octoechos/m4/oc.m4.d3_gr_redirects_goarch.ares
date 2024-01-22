@@ -657,8 +657,8 @@ ocMA.AposTheotokion.text = oc.m4.d3_gr_GR_cog.ocMA.AposTheotokion.text
 
 ocMA.ApolTheotokion.mode = oc.m4.d3_gr_GR_cog.ocMA.ApolTheotokion.mode
 ocMA.ApolTheotokion.melody = oc.m4.d3_gr_GR_cog.ocMA.ApolTheotokion.melody
-ocMA.ApolTheotokion.incipit = "…"
-ocMA.ApolTheotokion.text = ""
+ocMA.ApolTheotokion.incipit = oc.m4.d3_gr_GR_cog.ocMA.ApolTheotokion.incipit
+ocMA.ApolTheotokion.text = oc.m4.d3_gr_GR_cog.ocMA.ApolTheotokion.text
 
 ocLI.Beatitudes1.mode = oc.m4.d3_gr_GR_cog.ocLI.Beatitudes1.mode
 ocLI.Beatitudes1.melody = oc.m4.d3_gr_GR_cog.ocLI.Beatitudes1.melody

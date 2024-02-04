@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = rubrical_gr_redirects_goarch
 
+ru.AfterEachPetition = rubrical_gr_GR_cog.ru.AfterEachPetition
+
 ru.And = rubrical_gr_GR_cog.ru.And
 
 ru.AndTheFollowing = rubrical_gr_GR_cog.ru.AndTheFollowing
@@ -73,6 +75,8 @@ ru.InPlaceOfRightChoir = rubrical_gr_GR_cog.ru.InPlaceOfRightChoir
 ru.Intoned = rubrical_gr_GR_cog.ru.Intoned
 
 ru.LityLordHaveMercy101010103 = rubrical_gr_GR_cog.ru.LityLordHaveMercy101010103
+
+ru.LocalChurchApolytikionSung = rubrical_gr_GR_cog.ru.LocalChurchApolytikionSung
 
 ru.MenaionSynaxarionNote = rubrical_gr_GR_cog.ru.MenaionSynaxarionNote
 

@@ -1,37 +1,37 @@
 A_Resource_Whose_Name = client_gr_redirects_goarch
 
-cl.name = client_gr_GR_cog.cl.name
-cl.address = client_gr_GR_cog.cl.address
-cl.city = client_gr_GR_cog.cl.city
-cl.state = client_gr_GR_cog.cl.state
-cl.zipcode = client_gr_GR_cog.cl.zipcode
-cl.email = client_gr_GR_cog.cl.email
-cl.website = client_gr_GR_cog.cl.website
+cl.name = client_gr_US_goa.cl.name
+cl.address = client_gr_US_goa.cl.address
+cl.city = client_gr_US_goa.cl.city
+cl.state = client_gr_US_goa.cl.state
+cl.zipcode = client_gr_US_goa.cl.zipcode
+cl.email = client_gr_US_goa.cl.email
+cl.website = client_gr_US_goa.cl.website
 
-cl.bishop0.rank = client_gr_GR_cog.cl.bishop0.rank // the superior of the local hierarch
-cl.bishop0.name_c = client_gr_GR_cog.cl.bishop0.name_c // comma
-cl.bishop0.name_co = client_gr_GR_cog.cl.bishop0.name_co
-cl.bishop0.name_sc = client_gr_GR_cog.cl.bishop0.name_sc
-cl.bishop0.name_p = client_gr_GR_cog.cl.bishop0.name_p // period
-cl.bishop0.fimi.text = client_gr_GR_cog.cl.bishop0.fimi.text
+cl.bishop0.rank = client_gr_US_goa.cl.bishop0.rank // the superior of the local hierarch
+cl.bishop0.name_c = client_gr_US_goa.cl.bishop0.name_c // comma
+cl.bishop0.name_co = client_gr_US_goa.cl.bishop0.name_co
+cl.bishop0.name_sc = client_gr_US_goa.cl.bishop0.name_sc
+cl.bishop0.name_p = client_gr_US_goa.cl.bishop0.name_p // period
+cl.bishop0.fimi.text = client_gr_US_goa.cl.bishop0.fimi.text
 
-cl.bishop1.rank = client_gr_GR_cog.cl.bishop1.rank
-cl.bishop1.name_c = client_gr_GR_cog.cl.bishop1.name_c // comma
-cl.bishop1.name_co = client_gr_GR_cog.cl.bishop1.name_co
-cl.bishop1.name_sc = client_gr_GR_cog.cl.bishop1.name_sc
-cl.bishop1.name_p = client_gr_GR_cog.cl.bishop1.name_p // period
-cl.bishop1.fimi.text = client_gr_GR_cog.cl.bishop1.fimi.text
+cl.bishop1.rank = client_gr_US_goa.cl.bishop1.rank
+cl.bishop1.name_c = client_gr_US_goa.cl.bishop1.name_c // comma
+cl.bishop1.name_co = client_gr_US_goa.cl.bishop1.name_co
+cl.bishop1.name_sc = client_gr_US_goa.cl.bishop1.name_sc
+cl.bishop1.name_p = client_gr_US_goa.cl.bishop1.name_p // period
+cl.bishop1.fimi.text = client_gr_US_goa.cl.bishop1.fimi.text
 
-cl.bishop2.rank = client_gr_GR_cog.cl.bishop2.rank // for double commemoration or guest
-cl.bishop2.name_c = client_gr_GR_cog.cl.bishop2.name_c
-cl.bishop2.name_p = client_gr_GR_cog.cl.bishop2.name_p
-cl.bishop2.fimi.text = client_gr_GR_cog.cl.bishop2.fimi.text
+cl.bishop2.rank = client_gr_US_goa.cl.bishop2.rank // for double commemoration or guest
+cl.bishop2.name_c = client_gr_US_goa.cl.bishop2.name_c
+cl.bishop2.name_p = client_gr_US_goa.cl.bishop2.name_p
+cl.bishop2.fimi.text = client_gr_US_goa.cl.bishop2.fimi.text
 
-cl.ordinand_name.text = client_gr_GR_cog.cl.ordinand_name.text //changes for each ordination 
+cl.ordinand_name.text = client_gr_US_goa.cl.ordinand_name.text //changes for each ordination 
 
 //Set these options here to effect client generation
 //cl.double_commemoration.bishop1and2 = "" //blank or yes
-cl.fimi.bishop1 = client_gr_GR_cog.cl.fimi.bishop1 // blank or yes
+cl.fimi.bishop1 = client_gr_US_goa.cl.fimi.bishop1 // blank or yes
 
 //Ordination parts in eu.ordination
 cl.euORD.EP.p402a = client_gr_GR_cog.cl.euORD.EP.p402a // name of candidate nominative
@@ -49,43 +49,43 @@ cl.euORD.EP.p414b = client_gr_GR_cog.cl.euORD.EP.p414b // rank accusative of dio
 cl.institution.pet08.incipit = client_gr_GR_cog.cl.institution.pet08.incipit
 cl.institution.pet08.text = client_gr_GR_cog.cl.institution.pet08.text
 
-cl.monastery1_c = client_gr_GR_cog.cl.monastery1_c // abbot
-cl.monastery2_c = client_gr_GR_cog.cl.monastery2_c // elder
-cl.monastery1_p = client_gr_GR_cog.cl.monastery1_p
-cl.monastery2_p = client_gr_GR_cog.cl.monastery2_p
+cl.monastery1_c = client_gr_US_goa.cl.monastery1_c // abbot
+cl.monastery2_c = client_gr_US_goa.cl.monastery2_c // elder
+cl.monastery1_p = client_gr_US_goa.cl.monastery1_p
+cl.monastery2_p = client_gr_US_goa.cl.monastery2_p
 
-cl.localpatronsaint1.supplication = client_gr_GR_cog.cl.localpatronsaint1.supplication
-cl.localpatronsaint1.dismissal = client_gr_GR_cog.cl.localpatronsaint1.dismissal
-cl.localpatronsaint1.greatcompline = client_gr_GR_cog.cl.localpatronsaint1.greatcompline
+cl.localpatronsaint1.supplication = client_gr_US_goa.cl.localpatronsaint1.supplication
+cl.localpatronsaint1.dismissal = client_gr_US_goa.cl.localpatronsaint1.dismissal
+cl.localpatronsaint1.greatcompline = client_gr_US_goa.cl.localpatronsaint1.greatcompline
 
-cl.Apolytikion1.title = client_gr_GR_cog.cl.Apolytikion1.title
-cl.Apolytikion1.mode = client_gr_GR_cog.cl.Apolytikion1.mode
-cl.Apolytikion1.melody = client_gr_GR_cog.cl.Apolytikion1.melody
-cl.Apolytikion1.text = client_gr_GR_cog.cl.Apolytikion1.text
+cl.Apolytikion1.title = client_gr_US_goa.cl.Apolytikion1.title
+cl.Apolytikion1.mode = client_gr_US_goa.cl.Apolytikion1.mode
+cl.Apolytikion1.melody = client_gr_US_goa.cl.Apolytikion1.melody
+cl.Apolytikion1.text = client_gr_US_goa.cl.Apolytikion1.text
 
-cl.Kontakion1.title = client_gr_GR_cog.cl.Kontakion1.title
-cl.Kontakion1.mode = client_gr_GR_cog.cl.Kontakion1.mode
-cl.Kontakion1.melody = client_gr_GR_cog.cl.Kontakion1.melody
-cl.Kontakion1.text = client_gr_GR_cog.cl.Kontakion1.text
+cl.Kontakion1.title = client_gr_US_goa.cl.Kontakion1.title
+cl.Kontakion1.mode = client_gr_US_goa.cl.Kontakion1.mode
+cl.Kontakion1.melody = client_gr_US_goa.cl.Kontakion1.melody
+cl.Kontakion1.text = client_gr_US_goa.cl.Kontakion1.text
 
-cl.conVE.SticBoth.churchname.text = client_gr_GR_cog.cl.conVE.SticBoth.churchname.text
-cl.consecration.name = client_gr_GR_cog.cl.consecration.name
-cl.consecration.prayer1 = client_gr_GR_cog.cl.consecration.prayer1
-cl.consecration.greatlitany.finalpetition.name = client_gr_GR_cog.cl.consecration.greatlitany.finalpetition.name // (καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+cl.conVE.SticBoth.churchname.text = client_gr_US_goa.cl.conVE.SticBoth.churchname.text
+cl.consecration.name = client_gr_US_goa.cl.consecration.name
+cl.consecration.prayer1 = client_gr_US_goa.cl.consecration.prayer1
+cl.consecration.greatlitany.finalpetition.name = client_gr_US_goa.cl.consecration.greatlitany.finalpetition.name // (καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
 
-cl.localpatronsaint2.supplication = client_gr_GR_cog.cl.localpatronsaint2.supplication
-cl.localpatronsaint2.dismissal = client_gr_GR_cog.cl.localpatronsaint2.dismissal
-cl.localpatronsaint2.greatcompline = client_gr_GR_cog.cl.localpatronsaint2.greatcompline
+cl.localpatronsaint2.supplication = client_gr_US_goa.cl.localpatronsaint2.supplication
+cl.localpatronsaint2.dismissal = client_gr_US_goa.cl.localpatronsaint2.dismissal
+cl.localpatronsaint2.greatcompline = client_gr_US_goa.cl.localpatronsaint2.greatcompline
 
-cl.Apolytikion2.title = client_gr_GR_cog.cl.Apolytikion2.title
-cl.Apolytikion2.mode = client_gr_GR_cog.cl.Apolytikion2.mode
-cl.Apolytikion2.melody = client_gr_GR_cog.cl.Apolytikion2.melody
-cl.Apolytikion2.text = client_gr_GR_cog.cl.Apolytikion2.text
+cl.Apolytikion2.title = client_gr_US_goa.cl.Apolytikion2.title
+cl.Apolytikion2.mode = client_gr_US_goa.cl.Apolytikion2.mode
+cl.Apolytikion2.melody = client_gr_US_goa.cl.Apolytikion2.melody
+cl.Apolytikion2.text = client_gr_US_goa.cl.Apolytikion2.text
 
-cl.Kontakion2.title = client_gr_GR_cog.cl.Kontakion2.title
-cl.Kontakion2.mode = client_gr_GR_cog.cl.Kontakion2.mode
-cl.Kontakion2.melody = client_gr_GR_cog.cl.Kontakion2.melody
-cl.Kontakion2.text = client_gr_GR_cog.cl.Kontakion2.text
+cl.Kontakion2.title = client_gr_US_goa.cl.Kontakion2.title
+cl.Kontakion2.mode = client_gr_US_goa.cl.Kontakion2.mode
+cl.Kontakion2.melody = client_gr_US_goa.cl.Kontakion2.melody
+cl.Kontakion2.text = client_gr_US_goa.cl.Kontakion2.text
 
 cl.consecration2.name = client_gr_GR_cog.cl.consecration2.name
 
@@ -119,20 +119,20 @@ cl.saints.array03.text = client_gr_GR_cog.cl.saints.array03.text
 cl.saints.array04.text = client_gr_GR_cog.cl.saints.array04.text
 
 //Rubrics
-cl.eu.lichrysbasil.R001 = client_gr_GR_cog.cl.eu.lichrysbasil.R001
-cl.eu.lichrysbasil.R002 = client_gr_GR_cog.cl.eu.lichrysbasil.R002
-cl.eu.lichrysbasil.R003 = client_gr_GR_cog.cl.eu.lichrysbasil.R003
-cl.eu.lichrysbasil.R004 = client_gr_GR_cog.cl.eu.lichrysbasil.R004
-cl.eu.lichrysbasil.R005 = client_gr_GR_cog.cl.eu.lichrysbasil.R005
-cl.eu.lichrysbasil.R006 = client_gr_GR_cog.cl.eu.lichrysbasil.R006
-cl.eu.lichrysbasil.R007 = client_gr_GR_cog.cl.eu.lichrysbasil.R007
-cl.eu.lichrysbasil.R008 = client_gr_GR_cog.cl.eu.lichrysbasil.R008
-cl.eu.lichrysbasil.R009 = client_gr_GR_cog.cl.eu.lichrysbasil.R009
-cl.eu.lichrysbasil.R010 = client_gr_GR_cog.cl.eu.lichrysbasil.R010
-cl.eu.lichrysbasil.R011 = client_gr_GR_cog.cl.eu.lichrysbasil.R011
-cl.eu.lichrysbasil.R012 = client_gr_GR_cog.cl.eu.lichrysbasil.R012
-cl.eu.lichrysbasil.R013 = client_gr_GR_cog.cl.eu.lichrysbasil.R013
-cl.eu.lichrysbasil.R014 = client_gr_GR_cog.cl.eu.lichrysbasil.R014
+cl.eu.lichrysbasil.R001 = client_gr_US_goa.cl.eu.lichrysbasil.R001
+cl.eu.lichrysbasil.R002 = client_gr_US_goa.cl.eu.lichrysbasil.R002
+cl.eu.lichrysbasil.R003 = client_gr_US_goa.cl.eu.lichrysbasil.R003
+cl.eu.lichrysbasil.R004 = client_gr_US_goa.cl.eu.lichrysbasil.R004
+cl.eu.lichrysbasil.R005 = client_gr_US_goa.cl.eu.lichrysbasil.R005
+cl.eu.lichrysbasil.R006 = client_gr_US_goa.cl.eu.lichrysbasil.R006
+cl.eu.lichrysbasil.R007 = client_gr_US_goa.cl.eu.lichrysbasil.R007
+cl.eu.lichrysbasil.R008 = client_gr_US_goa.cl.eu.lichrysbasil.R008
+cl.eu.lichrysbasil.R009 = client_gr_US_goa.cl.eu.lichrysbasil.R009
+cl.eu.lichrysbasil.R010 = client_gr_US_goa.cl.eu.lichrysbasil.R010
+cl.eu.lichrysbasil.R011 = client_gr_US_goa.cl.eu.lichrysbasil.R011
+cl.eu.lichrysbasil.R012 = client_gr_US_goa.cl.eu.lichrysbasil.R012
+cl.eu.lichrysbasil.R013 = client_gr_US_goa.cl.eu.lichrysbasil.R013
+cl.eu.lichrysbasil.R014 = client_gr_US_goa.cl.eu.lichrysbasil.R014
 
 cl.eu.presanctified.R001 = client_gr_GR_cog.cl.eu.presanctified.R001
 cl.eu.presanctified.R002 = client_gr_GR_cog.cl.eu.presanctified.R002

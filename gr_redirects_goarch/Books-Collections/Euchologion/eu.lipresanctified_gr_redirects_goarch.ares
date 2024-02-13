@@ -19,6 +19,7 @@ euPL.Key0203.text = eu.lipresanctified_gr_US_goa.euPL.Key0203.text
 
 euPL.Key0204.title = eu.lipresanctified_gr_US_goa.euPL.Key0204.title
 euPL.Key0205.text = eu.lipresanctified_gr_US_goa.euPL.Key0205.text
+euPL.Key0205a.text = eu.lipresanctified_gr_US_goa.euPL.Key0205a.text
 euPL.Key0206.title = eu.lipresanctified_gr_US_goa.euPL.Key0206.title
 euPL.Key0207.title = eu.lipresanctified_gr_US_goa.euPL.Key0207.title
 euPL.Key0208.title = eu.lipresanctified_gr_US_goa.euPL.Key0208.title
@@ -28,6 +29,7 @@ euPL.Key0210a.text = eu.lipresanctified_gr_US_goa.euPL.Key0210a.text
 
 euPL.Key0211.title = eu.lipresanctified_gr_US_goa.euPL.Key0211.title
 euPL.Key0212.text = eu.lipresanctified_gr_US_goa.euPL.Key0212.text
+euPL.Key0213.title = eu.lipresanctified_gr_US_goa.euPL.Key0213.title
 
 euPL.Key0306.title = eu.lipresanctified_gr_US_goa.euPL.Key0306.title
 euPL.Key0306.text = eu.lipresanctified_gr_US_goa.euPL.Key0306.text
@@ -94,7 +96,7 @@ euPL.Key0902e.text = eu.lipresanctified_gr_US_goa.euPL.Key0902e.text
 euPL.Key0903.title = eu.lipresanctified_gr_US_goa.euPL.Key0903.title
 euPL.Key0903.text = eu.lipresanctified_gr_US_goa.euPL.Key0903.text
 euPL.Key0904.text = eu.lipresanctified_gr_US_goa.euPL.Key0904.text
-epPL.Key0904.title = eu.lipresanctified_gr_US_goa.epPL.Key0904.title
+euPL.Key0904.title = eu.lipresanctified_gr_US_goa.euPL.Key0904.title
 euPL.Key0904a.text = eu.lipresanctified_gr_US_goa.euPL.Key0904a.text
 euPL.Key0905.title = eu.lipresanctified_gr_US_goa.euPL.Key0905.title
 euPL.Key0905.text = eu.lipresanctified_gr_US_goa.euPL.Key0905.text

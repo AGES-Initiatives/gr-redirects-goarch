@@ -112,7 +112,9 @@ ru.Then = rubrical_gr_GR_cog.ru.Then
 
 ru.ThenSingSlowly = rubrical_gr_GR_cog.ru.ThenSingSlowly
 
-ru.ThreeDayHoliday = rubrical_gr_GR_cog.ru.ThreeDayHoliday
+ru.ThreeTimesDayHoliday = rubrical_gr_GR_cog.ru.ThreeTimesDayHoliday
+
+ru.ThreeTimes = rubrical_gr_GR_cog.ru.ThreeTimes
 
 ru.Thrice = rubrical_gr_GR_cog.ru.Thrice
 

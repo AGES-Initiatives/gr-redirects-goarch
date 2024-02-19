@@ -50,6 +50,7 @@ euLI.Key0503.text = eu.lichrysbasil_gr_US_goa.euLI.Key0503.text
 
 // Part 06 Trisagios Hymn
 euLI.MM.Key0600.text = eu.lichrysbasil_gr_GR_cog.euLI.MM.Key0600.text
+euLI.Key0600.title = eu.lichrysbasil_gr_US_goa.euLI.Key0600.title
 euLI.Key0601.title = eu.lichrysbasil_gr_US_goa.euLI.Key0601.title
 euLI.Key0601.text = eu.lichrysbasil_gr_US_goa.euLI.Key0601.text
 euLI.Key0602.text = eu.lichrysbasil_gr_US_goa.euLI.Key0602.text
@@ -67,6 +68,7 @@ euLI.Key0612.text = eu.lichrysbasil_gr_US_goa.euLI.Key0612.text
 euLI.MM.Key0613.text = eu.lichrysbasil_gr_US_goa.euLI.MM.Key0613.text
 
 // Part 07 The Readings
+euLI.Key0700.title = eu.lichrysbasil_gr_US_goa.euLI.Key0700.title
 euLI.Key0701.text = eu.lichrysbasil_gr_US_goa.euLI.Key0701.text
 euLI.Key0702.text = eu.lichrysbasil_gr_US_goa.euLI.Key0702.text
 euLI.Key0703.text = eu.lichrysbasil_gr_US_goa.euLI.Key0703.text

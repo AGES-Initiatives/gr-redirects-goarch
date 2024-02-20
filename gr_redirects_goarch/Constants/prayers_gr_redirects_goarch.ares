@@ -179,6 +179,7 @@ pr.MayGodHaveCompassion.incipit = prayers_gr_US_goa.pr.MayGodHaveCompassion.inci
 pr.MayGodHaveCompassion.text = prayers_gr_US_goa.pr.MayGodHaveCompassion.text
 pr.otr01a.text = prayers_gr_US_goa.pr.otr01a.text // leave blank in Greek
 pr.otr01b.text = prayers_gr_US_goa.pr.otr01b.text
+pr.OurFather.title = prayers_gr_US_goa.pr.OurFather.title
 pr.OurFather.incipit = prayers_gr_US_goa.pr.OurFather.incipit
 pr.OurFather.text = prayers_gr_US_goa.pr.OurFather.text
 pr.OurHopeLord.text = prayers_gr_US_goa.pr.OurHopeLord.text

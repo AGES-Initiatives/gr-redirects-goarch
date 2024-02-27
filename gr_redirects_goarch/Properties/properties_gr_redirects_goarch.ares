@@ -3,4 +3,4 @@ A_Resource_Whose_Name = properties_gr_redirects_goarch
 deprecated.key = properties_gr_GR_cog.deprecated.key
 media.key = properties_gr_GR_cog.media.key
 pdf.cover.language = properties_gr_GR_cog.pdf.cover.language
-pseudosection.tag = properties_gr_GR_cog.pseudosection.tag
+

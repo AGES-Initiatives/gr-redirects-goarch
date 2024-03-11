@@ -1,16 +1,26 @@
 A_Resource_Whose_Name = le.go.mc.d070_gr_redirects_goarch 
 
-lemcVE.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title // Friday Afternoon at Vespers
-lemcVE.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title_abbr // Friday Afternoon at Vespers
+lemcVE.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title
+lemcVE.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.title_abbr
 lemcVE.Gospel.version = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.version
 lemcVE.Gospel.book_string = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.book_string
 lemcVE.Gospel.book_abbr = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.book_abbr
 lemcVE.Gospel.chapverse = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.chapverse
 lemcVE.Gospel.incipit = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.incipit
 lemcVE.Gospel.text = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.text
+lemcVE.Gospel.par1.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par1.title
+lemcVE.Gospel.par1.text = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par1.text
+lemcVE.Gospel.par2.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par2.title
+lemcVE.Gospel.par2.text = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par2.text
+lemcVE.Gospel.par3.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par3.title
+lemcVE.Gospel.par3.text = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par3.text
+lemcVE.Gospel.par4.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par4.title
+lemcVE.Gospel.par4.text = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par4.text
+lemcVE.Gospel.par5.title = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par5.title
+lemcVE.Gospel.par5.text = le.go.mc.d070_gr_GR_cog.lemcVE.Gospel.par5.text
 
-lemcLI.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title // Friday Night at Matins
-lemcLI.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title_abbr // Friday Night at Matins
+lemcLI.Gospel.title = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title
+lemcLI.Gospel.title_abbr = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.title_abbr
 lemcLI.Gospel.version = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.version
 lemcLI.Gospel.book_string = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.book_string
 lemcLI.Gospel.book_abbr = le.go.mc.d070_gr_GR_cog.lemcLI.Gospel.book_abbr

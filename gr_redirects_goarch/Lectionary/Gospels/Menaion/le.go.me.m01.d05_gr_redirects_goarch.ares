@@ -8,7 +8,6 @@ lemeH1.Gospel.book_abbr = le.go.me.m01.d05_gr_GR_cog.lemeH1.Gospel.book_abbr
 lemeH1.Gospel.chapverse = le.go.me.m01.d05_gr_GR_cog.lemeH1.Gospel.chapverse
 lemeH1.Gospel.incipit = le.go.me.m01.d05_gr_GR_cog.lemeH1.Gospel.incipit
 lemeH1.Gospel.text = le.go.me.m01.d05_gr_GR_cog.lemeH1.Gospel.text
-lemeH1.Gospel.pagenumber = le.go.me.m01.d05_gr_GR_cog.lemeH1.Gospel.pagenumber
 
 lemeH3.Gospel.title = le.go.me.m01.d05_gr_GR_cog.lemeH3.Gospel.title
 lemeH3.Gospel.title_abbr = le.go.me.m01.d05_gr_GR_cog.lemeH3.Gospel.title_abbr
@@ -18,7 +17,6 @@ lemeH3.Gospel.book_abbr = le.go.me.m01.d05_gr_GR_cog.lemeH3.Gospel.book_abbr
 lemeH3.Gospel.chapverse = le.go.me.m01.d05_gr_GR_cog.lemeH3.Gospel.chapverse
 lemeH3.Gospel.incipit = le.go.me.m01.d05_gr_GR_cog.lemeH3.Gospel.incipit
 lemeH3.Gospel.text = le.go.me.m01.d05_gr_GR_cog.lemeH3.Gospel.text
-lemeH3.Gospel.pagenumber = le.go.me.m01.d05_gr_GR_cog.lemeH3.Gospel.pagenumber
 
 lemeH6.Gospel.title = le.go.me.m01.d05_gr_GR_cog.lemeH6.Gospel.title
 lemeH6.Gospel.title_abbr = le.go.me.m01.d05_gr_GR_cog.lemeH6.Gospel.title_abbr
@@ -28,7 +26,6 @@ lemeH6.Gospel.book_abbr = le.go.me.m01.d05_gr_GR_cog.lemeH6.Gospel.book_abbr
 lemeH6.Gospel.chapverse = le.go.me.m01.d05_gr_GR_cog.lemeH6.Gospel.chapverse
 lemeH6.Gospel.incipit = le.go.me.m01.d05_gr_GR_cog.lemeH6.Gospel.incipit
 lemeH6.Gospel.text = le.go.me.m01.d05_gr_GR_cog.lemeH6.Gospel.text
-lemeH6.Gospel.pagenumber = le.go.me.m01.d05_gr_GR_cog.lemeH6.Gospel.pagenumber
 
 lemeH9.Gospel.title = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.title
 lemeH9.Gospel.title_abbr = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.title_abbr
@@ -38,4 +35,3 @@ lemeH9.Gospel.book_abbr = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.book_abbr
 lemeH9.Gospel.chapverse = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.chapverse
 lemeH9.Gospel.incipit = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.incipit
 lemeH9.Gospel.text = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.text
-lemeH9.Gospel.pagenumber = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.pagenumber

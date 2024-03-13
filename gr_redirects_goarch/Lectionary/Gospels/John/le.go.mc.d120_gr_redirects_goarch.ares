@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.mc.d120_gr_redirects_goarch 
+A_Resource_Whose_Name = le.go.mc.d120_gr_redirects_goarch
 
 lemcMA.Gospel.title = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.title
 lemcMA.Gospel.title_abbr = le.go.mc.d120_gr_GR_cog.lemcMA.Gospel.title_abbr
@@ -17,4 +17,3 @@ lemcLI.Gospel.book_abbr = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.book_abbr
 lemcLI.Gospel.chapverse = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.chapverse
 lemcLI.Gospel.incipit = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.incipit
 lemcLI.Gospel.text = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.text
-lemcLI.Gospel.pagenumber = le.go.mc.d120_gr_GR_cog.lemcLI.Gospel.pagenumber

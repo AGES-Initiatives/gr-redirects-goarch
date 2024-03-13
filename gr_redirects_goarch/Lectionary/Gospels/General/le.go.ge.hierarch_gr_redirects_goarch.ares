@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.ge.hierarch_gr_redirects_goarch 
+A_Resource_Whose_Name = le.go.ge.hierarch_gr_redirects_goarch
 
 legeMA.Gospel.title = le.go.ge.hierarch_gr_GR_cog.legeMA.Gospel.title
 legeMA.Gospel.title_abbr = le.go.ge.hierarch_gr_GR_cog.legeMA.Gospel.title_abbr
@@ -8,7 +8,6 @@ legeMA.Gospel.book_abbr = le.go.ge.hierarch_gr_GR_cog.legeMA.Gospel.book_abbr
 legeMA.Gospel.chapverse = le.go.ge.hierarch_gr_GR_cog.legeMA.Gospel.chapverse
 legeMA.Gospel.incipit = le.go.ge.hierarch_gr_GR_cog.legeMA.Gospel.incipit
 legeMA.Gospel.text = le.go.ge.hierarch_gr_GR_cog.legeMA.Gospel.text
-legeMA.Gospel.pagenumber = le.go.ge.hierarch_gr_GR_cog.legeMA.Gospel.pagenumber
 
 legeLI.Gospel.title = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel.title
 legeLI.Gospel.title_abbr = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel.title_abbr
@@ -18,7 +17,6 @@ legeLI.Gospel.book_abbr = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel.book_abbr
 legeLI.Gospel.chapverse = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel.chapverse
 legeLI.Gospel.incipit = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel.incipit
 legeLI.Gospel.text = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel.text
-legeLI.Gospel.pagenumber = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel.pagenumber
 
 legeLI.Gospel2.title = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel2.title
 legeLI.Gospel2.title_abbr = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel2.title_abbr
@@ -28,4 +26,3 @@ legeLI.Gospel2.book_abbr = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel2.book_abbr
 legeLI.Gospel2.chapverse = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel2.chapverse
 legeLI.Gospel2.incipit = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel2.incipit
 legeLI.Gospel2.text = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel2.text
-legeLI.Gospel2.pagenumber = le.go.ge.hierarch_gr_GR_cog.legeLI.Gospel2.pagenumber

@@ -66,11 +66,6 @@ trLI.AfterCommunion.text = tr.d069_gr_GR_cog.trLI.AfterCommunion.text
 
 // Foot Washing
 
-
-
-
-
-
 // Holy Thursday night
 
 trMA.MM.Alleluia.text = tr.d069_gr_GR_cog.trMA.MM.Alleluia.text
@@ -403,7 +398,6 @@ trMA.BeatitudesT.melody = tr.d069_gr_GR_cog.trMA.BeatitudesT.melody
 trMA.BeatitudesT.incipit = tr.d069_gr_GR_cog.trMA.BeatitudesT.incipit
 trMA.BeatitudesT.text = tr.d069_gr_GR_cog.trMA.BeatitudesT.text
 
-
 trMA.C1.acrostic.title = tr.d069_gr_GR_cog.trMA.C1.acrostic.title
 trMA.C1.acrostic.notice1 = tr.d069_gr_GR_cog.trMA.C1.acrostic.notice1
 trMA.C1.acrostic.text = tr.d069_gr_GR_cog.trMA.C1.acrostic.text
@@ -540,7 +534,6 @@ trMA.Exaposteilarion1.greekmelody = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.gree
 trMA.Exaposteilarion1.melody = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.melody
 trMA.Exaposteilarion1.incipit = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d069_gr_GR_cog.trMA.Exaposteilarion1.text
-
 
 trMA.Lauds1.mode = tr.d069_gr_GR_cog.trMA.Lauds1.mode
 trMA.Lauds1.melody = tr.d069_gr_GR_cog.trMA.Lauds1.melody

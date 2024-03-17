@@ -8,7 +8,6 @@ lemcLI.Epistle.book_abbr = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.book_abbr
 lemcLI.Epistle.chapverse = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.chapverse
 lemcLI.Epistle.incipit = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.incipit
 lemcLI.Epistle.text = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.text
-lemcLI.Epistle.pagenumber = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.pagenumber
 
 // Ἕτερος τοῦ Ἁγίου Θεοδώρου Τύρωνος. ζήτει 26ης Ὀκτωβρίου
 // bible_gr_redirects_goarch.Timothy2.text

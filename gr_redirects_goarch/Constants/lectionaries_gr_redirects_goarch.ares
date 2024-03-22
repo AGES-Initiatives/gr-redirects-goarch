@@ -265,6 +265,7 @@ lecLE.Hour9 = lectionaries_gr_GR_cog.lecLE.Hour9
 lecLE.ofHour = lectionaries_gr_GR_cog.lecLE.ofHour
 lecLE.atVespers = lectionaries_gr_GR_cog.lecLE.atVespers
 lecLE.atVespersOrLiturgy = lectionaries_gr_GR_cog.lecLE.atVespersOrLiturgy
+lecLE.atCompline = lectionaries_gr_GR_cog.lecLE.atCompline
 lecLE.atMatins = lectionaries_gr_GR_cog.lecLE.atMatins
 lecLE.atLiturgy = lectionaries_gr_GR_cog.lecLE.atLiturgy
 lecLE.Vespers = lectionaries_gr_GR_cog.lecLE.Vespers

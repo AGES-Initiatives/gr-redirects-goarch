@@ -1,0 +1,386 @@
+A_Resource_Whose_Name = website.index.titles_gr_redirects_goarch
+
+// languages
+lang.gr = website.index.titles_gr_GR_cog.lang.gr
+lang.en = website.index.titles_gr_GR_cog.lang.en
+lang.swh = website.index.titles_gr_GR_cog.lang.swh
+lang.kik = website.index.titles_gr_GR_cog.lang.kik
+lang.delimiter = website.index.titles_gr_GR_cog.lang.delimiter
+
+// filetypes
+file.type.html = website.index.titles_gr_GR_cog.file.type.html
+file.type.pdf = website.index.titles_gr_GR_cog.file.type.pdf
+//file.type.html = website.index.titles_gr_GR_cog.//file.type.html
+//file.type.pdf = website.index.titles_gr_GR_cog.//file.type.pdf
+file.type.epub = website.index.titles_gr_GR_cog.file.type.epub
+
+// Services index (p.1) for years and months
+index.title = website.index.titles_gr_GR_cog.index.title
+index.description1 = website.index.titles_gr_GR_cog.index.description1
+index.description2 = website.index.titles_gr_GR_cog.index.description2
+index.description3 = website.index.titles_gr_GR_cog.index.description3
+//You can have any number of index.descriptions, e.g.
+//index.description4 = website.index.titles_gr_GR_cog.//index.description4
+
+// index for specific day
+index.day.title = website.index.titles_gr_GR_cog.index.day.title
+index.day.title2.date.prefix = website.index.titles_gr_GR_cog.index.day.title2.date.prefix
+index.day.date.format = website.index.titles_gr_GR_cog.index.day.date.format
+index.day.title2.date.suffix = website.index.titles_gr_GR_cog.index.day.title2.date.suffix
+index.day.description1 = website.index.titles_gr_GR_cog.index.day.description1
+index.day.description2 = website.index.titles_gr_GR_cog.index.day.description2
+//index.day.description3 = website.index.titles_gr_GR_cog.//index.day.description3
+//You can have any number of index.day.descriptions, e.g.
+//index.day.description4 = website.index.titles_gr_GR_cog.//index.day.description4
+
+// index for books
+index.books.title = website.index.titles_gr_GR_cog.index.books.title
+index.books.description1 = website.index.titles_gr_GR_cog.index.books.description1
+index.books.description2 = website.index.titles_gr_GR_cog.index.books.description2
+//index.books.description3 = website.index.titles_gr_GR_cog.//index.books.description3
+//You can have any number of index.books.descriptions, e.g.
+//index.books.description4 = website.index.titles_gr_GR_cog.//index.books.description4
+
+// index for custom content
+index.custom.title = website.index.titles_gr_GR_cog.index.custom.title
+index.custom.description1 = website.index.titles_gr_GR_cog.index.custom.description1
+index.custom.description2 = website.index.titles_gr_GR_cog.index.custom.description2
+//index.custom.description3 = website.index.titles_gr_GR_cog.//index.custom.description3
+//You can have any number of index.custom.descriptions, e.g.
+//index.custom.description4 = website.index.titles_gr_GR_cog.//index.custom.description4
+
+ 
+// index titles
+ak.html.link = website.index.titles_gr_GR_cog.ak.html.link
+co.html.link = website.index.titles_gr_GR_cog.co.html.link
+co1.html.link = website.index.titles_gr_GR_cog.co1.html.link
+//co2.html.link = website.index.titles_gr_GR_cog.//co2.html.link
+//co3.html.link= "Small Compline and Akathist Hymn"
+//co4.html.link= "Small Compline and Great Canon"
+co5.html.link= "Pre-Resurrection Service - Abridged"
+co6.html.link= "Paschal Compline"
+co7.html.link = website.index.titles_gr_GR_cog.co7.html.link
+
+consecration_relics.html.link = website.index.titles_gr_GR_cog.consecration_relics.html.link
+consecration_vespers.html.link = website.index.titles_gr_GR_cog.consecration_vespers.html.link
+consecration_liturgy.html.link = website.index.titles_gr_GR_cog.consecration_liturgy.html.link
+unction.html.link = website.index.titles_gr_GR_cog.unction.html.link
+baptism.html.link = website.index.titles_gr_GR_cog.baptism.html.link
+funeral.html.link = website.index.titles_gr_GR_cog.funeral.html.link
+memorial.html.link = website.index.titles_gr_GR_cog.memorial.html.link
+wedding.html.link = website.index.titles_gr_GR_cog.wedding.html.link
+lichrysbasil.html.link = website.index.titles_gr_GR_cog.lichrysbasil.html.link
+presanctified.html.link = website.index.titles_gr_GR_cog.presanctified.html.link
+
+em.html.link = website.index.titles_gr_GR_cog.em.html.link
+em3.html.link = website.index.titles_gr_GR_cog.em3.html.link
+
+gh.html.link = website.index.titles_gr_GR_cog.gh.html.link
+gw.html.link = website.index.titles_gr_GR_cog.gw.html.link
+
+h1.html.link = website.index.titles_gr_GR_cog.h1.html.link
+h12.html.link = website.index.titles_gr_GR_cog.h12.html.link
+h13.html.link = website.index.titles_gr_GR_cog.h13.html.link
+h18.html.link = website.index.titles_gr_GR_cog.h18.html.link
+
+h3.html.link = website.index.titles_gr_GR_cog.h3.html.link
+h36.html.link = website.index.titles_gr_GR_cog.h36.html.link
+
+h6.html.link = website.index.titles_gr_GR_cog.h6.html.link
+h61.html.link = website.index.titles_gr_GR_cog.h61.html.link
+
+h9.html.link = website.index.titles_gr_GR_cog.h9.html.link
+h91.html.link = website.index.titles_gr_GR_cog.h91.html.link
+h92.html.link = website.index.titles_gr_GR_cog.h92.html.link
+h98.html.link = website.index.titles_gr_GR_cog.h98.html.link
+
+li.html.link = website.index.titles_gr_GR_cog.li.html.link
+li1.html.link = website.index.titles_gr_GR_cog.li1.html.link
+li2.html.link = website.index.titles_gr_GR_cog.li2.html.link
+li3.html.link = website.index.titles_gr_GR_cog.li3.html.link
+li4.html.link = website.index.titles_gr_GR_cog.li4.html.link
+li5.html.link = website.index.titles_gr_GR_cog.li5.html.link
+li6.html.link = website.index.titles_gr_GR_cog.li6.html.link
+li7.html.link = website.index.titles_gr_GR_cog.li7.html.link
+li8.html.link = website.index.titles_gr_GR_cog.li8.html.link
+li9.html.link = website.index.titles_gr_GR_cog.li9.html.link
+
+ma.html.link = website.index.titles_gr_GR_cog.ma.html.link
+ma1.html.link = website.index.titles_gr_GR_cog.ma1.html.link
+ma2.html.link = website.index.titles_gr_GR_cog.ma2.html.link
+ma3.html.link = website.index.titles_gr_GR_cog.ma3.html.link
+ma4.html.link = website.index.titles_gr_GR_cog.ma4.html.link
+ma5.html.link = website.index.titles_gr_GR_cog.ma5.html.link
+ma6.html.link = website.index.titles_gr_GR_cog.ma6.html.link
+ma7.html.link = website.index.titles_gr_GR_cog.ma7.html.link
+ma8.html.link = website.index.titles_gr_GR_cog.ma8.html.link
+ma9.html.link = website.index.titles_gr_GR_cog.ma9.html.link
+
+mo.html.link = website.index.titles_gr_GR_cog.mo.html.link
+mo1.html.link = website.index.titles_gr_GR_cog.mo1.html.link
+mo5.html.link = website.index.titles_gr_GR_cog.mo5.html.link
+
+pl.html.link = website.index.titles_gr_GR_cog.pl.html.link
+pl1.html.link = website.index.titles_gr_GR_cog.pl1.html.link
+pl2.html.link = website.index.titles_gr_GR_cog.pl2.html.link
+pl3.html.link = website.index.titles_gr_GR_cog.pl3.html.link
+
+sv.html.link = website.index.titles_gr_GR_cog.sv.html.link
+sv3.html.link = website.index.titles_gr_GR_cog.sv3.html.link
+
+te.html.link = website.index.titles_gr_GR_cog.te.html.link
+
+ve.html.link = website.index.titles_gr_GR_cog.ve.html.link
+ve1.html.link = website.index.titles_gr_GR_cog.ve1.html.link
+ve2.html.link = website.index.titles_gr_GR_cog.ve2.html.link
+ve3.html.link = website.index.titles_gr_GR_cog.ve3.html.link
+ve4.html.link = website.index.titles_gr_GR_cog.ve4.html.link
+ve5.html.link = website.index.titles_gr_GR_cog.ve5.html.link
+ve6.html.link = website.index.titles_gr_GR_cog.ve6.html.link
+ve7.html.link = website.index.titles_gr_GR_cog.ve7.html.link
+ve8.html.link = website.index.titles_gr_GR_cog.ve8.html.link
+ve9.html.link = website.index.titles_gr_GR_cog.ve9.html.link
+
+vl.html.link = website.index.titles_gr_GR_cog.vl.html.link
+vl2.html.link = website.index.titles_gr_GR_cog.vl2.html.link
+
+//index types
+se.html.link = website.index.titles_gr_GR_cog.se.html.link
+bk.html.link = website.index.titles_gr_GR_cog.bk.html.link
+cu.html.link = website.index.titles_gr_GR_cog.cu.html.link
+
+//books - collections
+eo.html.link = website.index.titles_gr_GR_cog.eo.html.link
+ep.html.link = website.index.titles_gr_GR_cog.ep.html.link
+eu.html.link = website.index.titles_gr_GR_cog.eu.html.link
+go.html.link = website.index.titles_gr_GR_cog.go.html.link
+he.html.link = website.index.titles_gr_GR_cog.he.html.link
+hi.html.link = website.index.titles_gr_GR_cog.hi.html.link
+ho.html.link = website.index.titles_gr_GR_cog.ho.html.link
+ka.html.link = website.index.titles_gr_GR_cog.ka.html.link
+le.html.link = website.index.titles_gr_GR_cog.le.html.link
+me.html.link = website.index.titles_gr_GR_cog.me.html.link
+oc.html.link = website.index.titles_gr_GR_cog.oc.html.link
+pe.html.link = website.index.titles_gr_GR_cog.pe.html.link
+pr.html.link = website.index.titles_gr_GR_cog.pr.html.link
+ps.html.link = website.index.titles_gr_GR_cog.ps.html.link
+sy.html.link = website.index.titles_gr_GR_cog.sy.html.link
+tr.html.link = website.index.titles_gr_GR_cog.tr.html.link
+
+//sevice types
+gc.html.link = website.index.titles_gr_GR_cog.gc.html.link
+sal.html.link = website.index.titles_gr_GR_cog.sal.html.link
+ty.html.link = website.index.titles_gr_GR_cog.ty.html.link
+ge.html.link = website.index.titles_gr_GR_cog.ge.html.link
+
+// non-Greek services
+mol.html.link = website.index.titles_gr_GR_cog.mol.html.link
+sla.html.link = website.index.titles_gr_GR_cog.sla.html.link
+rds.html.link = website.index.titles_gr_GR_cog.rds.html.link
+
+//periods
+adv.html.link = website.index.titles_gr_GR_cog.adv.html.link
+trn.html.link = website.index.titles_gr_GR_cog.trn.html.link
+lnt.html.link = website.index.titles_gr_GR_cog.lnt.html.link
+hwk.html.link = website.index.titles_gr_GR_cog.hwk.html.link
+pas.html.link = website.index.titles_gr_GR_cog.pas.html.link
+prf.html.link = website.index.titles_gr_GR_cog.prf.html.link
+aff.html.link = website.index.titles_gr_GR_cog.aff.html.link
+lvt.html.link = website.index.titles_gr_GR_cog.lvt.html.link
+
+//days
+sat.html.link = website.index.titles_gr_GR_cog.sat.html.link
+sun.html.link = website.index.titles_gr_GR_cog.sun.html.link
+wkd.html.link = website.index.titles_gr_GR_cog.wkd.html.link
+
+//octoechos
+m_.html.link = website.index.titles_gr_GR_cog.m_.html.link
+d__.html.link = website.index.titles_gr_GR_cog.d__.html.link
+
+//menaion
+m__.html.link = website.index.titles_gr_GR_cog.m__.html.link
+// d__.html.link = website.index.titles_gr_GR_cog.// d__.html.link
+
+//triodion and pentecostarion
+d___.html.link = website.index.titles_gr_GR_cog.d___.html.link
+
+//heirmologion
+a.html.link = website.index.titles_gr_GR_cog.a.html.link
+h.html.link = website.index.titles_gr_GR_cog.h.html.link
+// m.html.link = website.index.titles_gr_GR_cog.// m.html.link
+ga.html.link = website.index.titles_gr_GR_cog.ga.html.link
+k.html.link = website.index.titles_gr_GR_cog.k.html.link
+o.html.link = website.index.titles_gr_GR_cog.o.html.link
+
+//synaxarion
+// m__.html.link = website.index.titles_gr_GR_cog.// m__.html.link
+// d__.html.link = website.index.titles_gr_GR_cog.// d__.html.link
+
+//hieratikon
+hi00.html.link = website.index.titles_gr_GR_cog.hi00.html.link
+hi01.html.link = website.index.titles_gr_GR_cog.hi01.html.link
+hi02.html.link = website.index.titles_gr_GR_cog.hi02.html.link
+hi03.html.link = website.index.titles_gr_GR_cog.hi03.html.link
+hi04.html.link = website.index.titles_gr_GR_cog.hi04.html.link
+hi05.html.link = website.index.titles_gr_GR_cog.hi05.html.link
+hi06.html.link = website.index.titles_gr_GR_cog.hi06.html.link
+hi07.html.link = website.index.titles_gr_GR_cog.hi07.html.link
+hi08.html.link = website.index.titles_gr_GR_cog.hi08.html.link
+hi09.html.link = website.index.titles_gr_GR_cog.hi09.html.link
+hi10.html.link = website.index.titles_gr_GR_cog.hi10.html.link
+hi11.html.link = website.index.titles_gr_GR_cog.hi11.html.link
+hi12.html.link = website.index.titles_gr_GR_cog.hi12.html.link
+hi13.html.link = website.index.titles_gr_GR_cog.hi13.html.link
+hi14.html.link = website.index.titles_gr_GR_cog.hi14.html.link
+hi15.html.link = website.index.titles_gr_GR_cog.hi15.html.link
+hi16.html.link = website.index.titles_gr_GR_cog.hi16.html.link
+hi17.html.link = website.index.titles_gr_GR_cog.hi17.html.link
+
+//horologion
+ho01.html.link = website.index.titles_gr_GR_cog.ho01.html.link
+ho02.html.link = website.index.titles_gr_GR_cog.ho02.html.link
+ho03.html.link = website.index.titles_gr_GR_cog.ho03.html.link
+ho04.html.link = website.index.titles_gr_GR_cog.ho04.html.link
+ho05.html.link = website.index.titles_gr_GR_cog.ho05.html.link
+ho06.html.link = website.index.titles_gr_GR_cog.ho06.html.link
+ho07.html.link = website.index.titles_gr_GR_cog.ho07.html.link
+ho08.html.link = website.index.titles_gr_GR_cog.ho08.html.link
+ho09.html.link = website.index.titles_gr_GR_cog.ho09.html.link
+ho10.html.link = website.index.titles_gr_GR_cog.ho10.html.link
+ho11.html.link = website.index.titles_gr_GR_cog.ho11.html.link
+ho12.html.link = website.index.titles_gr_GR_cog.ho12.html.link
+ho13.html.link = website.index.titles_gr_GR_cog.ho13.html.link
+ho14.html.link = website.index.titles_gr_GR_cog.ho14.html.link
+ho15.html.link = website.index.titles_gr_GR_cog.ho15.html.link
+ho16.html.link = website.index.titles_gr_GR_cog.ho16.html.link
+ho17.html.link = website.index.titles_gr_GR_cog.ho17.html.link
+ho18.html.link = website.index.titles_gr_GR_cog.ho18.html.link
+ho19.html.link = website.index.titles_gr_GR_cog.ho19.html.link
+ho20.html.link = website.index.titles_gr_GR_cog.ho20.html.link
+ho21.html.link = website.index.titles_gr_GR_cog.ho21.html.link
+ho22.html.link = website.index.titles_gr_GR_cog.ho22.html.link
+ho23.html.link = website.index.titles_gr_GR_cog.ho23.html.link
+ho24.html.link = website.index.titles_gr_GR_cog.ho24.html.link
+ho25.html.link = website.index.titles_gr_GR_cog.ho25.html.link
+ho26.html.link = website.index.titles_gr_GR_cog.ho26.html.link
+ho27.html.link = website.index.titles_gr_GR_cog.ho27.html.link
+ho28.html.link = website.index.titles_gr_GR_cog.ho28.html.link
+ho29.html.link = website.index.titles_gr_GR_cog.ho29.html.link
+
+//movable cycle day descriptors
+mc.d001 = website.index.titles_gr_GR_cog.mc.d001
+mc.d008 = website.index.titles_gr_GR_cog.mc.d008
+mc.d014 = website.index.titles_gr_GR_cog.mc.d014
+mc.d015 = website.index.titles_gr_GR_cog.mc.d015
+mc.d016 = website.index.titles_gr_GR_cog.mc.d016
+mc.d017 = website.index.titles_gr_GR_cog.mc.d017
+mc.d018 = website.index.titles_gr_GR_cog.mc.d018
+mc.d019 = website.index.titles_gr_GR_cog.mc.d019
+mc.d020 = website.index.titles_gr_GR_cog.mc.d020
+mc.d021 = website.index.titles_gr_GR_cog.mc.d021
+mc.d022 = website.index.titles_gr_GR_cog.mc.d022
+mc.d023 = website.index.titles_gr_GR_cog.mc.d023
+mc.d024 = website.index.titles_gr_GR_cog.mc.d024
+mc.d025 = website.index.titles_gr_GR_cog.mc.d025
+mc.d026 = website.index.titles_gr_GR_cog.mc.d026
+mc.d027 = website.index.titles_gr_GR_cog.mc.d027
+mc.d028 = website.index.titles_gr_GR_cog.mc.d028
+mc.d029 = website.index.titles_gr_GR_cog.mc.d029
+mc.d030 = website.index.titles_gr_GR_cog.mc.d030
+mc.d031 = website.index.titles_gr_GR_cog.mc.d031
+mc.d032 = website.index.titles_gr_GR_cog.mc.d032
+mc.d033 = website.index.titles_gr_GR_cog.mc.d033
+mc.d034 = website.index.titles_gr_GR_cog.mc.d034
+mc.d035 = website.index.titles_gr_GR_cog.mc.d035
+mc.d036 = website.index.titles_gr_GR_cog.mc.d036
+mc.d037 = website.index.titles_gr_GR_cog.mc.d037
+mc.d038 = website.index.titles_gr_GR_cog.mc.d038
+mc.d039 = website.index.titles_gr_GR_cog.mc.d039
+mc.d040 = website.index.titles_gr_GR_cog.mc.d040
+mc.d041 = website.index.titles_gr_GR_cog.mc.d041
+mc.d042 = website.index.titles_gr_GR_cog.mc.d042
+mc.d043 = website.index.titles_gr_GR_cog.mc.d043
+mc.d044 = website.index.titles_gr_GR_cog.mc.d044
+mc.d045 = website.index.titles_gr_GR_cog.mc.d045
+mc.d046 = website.index.titles_gr_GR_cog.mc.d046
+mc.d047 = website.index.titles_gr_GR_cog.mc.d047
+mc.d048 = website.index.titles_gr_GR_cog.mc.d048
+mc.d049 = website.index.titles_gr_GR_cog.mc.d049
+mc.d050 = website.index.titles_gr_GR_cog.mc.d050
+mc.d051 = website.index.titles_gr_GR_cog.mc.d051
+mc.d052 = website.index.titles_gr_GR_cog.mc.d052
+mc.d053 = website.index.titles_gr_GR_cog.mc.d053
+mc.d054 = website.index.titles_gr_GR_cog.mc.d054
+mc.d055 = website.index.titles_gr_GR_cog.mc.d055
+mc.d056 = website.index.titles_gr_GR_cog.mc.d056
+mc.d057 = website.index.titles_gr_GR_cog.mc.d057
+mc.d058 = website.index.titles_gr_GR_cog.mc.d058
+mc.d059 = website.index.titles_gr_GR_cog.mc.d059
+mc.d060 = website.index.titles_gr_GR_cog.mc.d060
+mc.d061 = website.index.titles_gr_GR_cog.mc.d061
+mc.d062 = website.index.titles_gr_GR_cog.mc.d062
+mc.d063 = website.index.titles_gr_GR_cog.mc.d063
+mc.d064 = website.index.titles_gr_GR_cog.mc.d064
+mc.d065 = website.index.titles_gr_GR_cog.mc.d065
+mc.d066 = website.index.titles_gr_GR_cog.mc.d066
+mc.d067 = website.index.titles_gr_GR_cog.mc.d067
+mc.d068 = website.index.titles_gr_GR_cog.mc.d068
+mc.d069 = website.index.titles_gr_GR_cog.mc.d069
+mc.d070 = website.index.titles_gr_GR_cog.mc.d070
+mc.d071 = website.index.titles_gr_GR_cog.mc.d071
+mc.d072 = website.index.titles_gr_GR_cog.mc.d072
+mc.d073 = website.index.titles_gr_GR_cog.mc.d073
+mc.d074 = website.index.titles_gr_GR_cog.mc.d074
+mc.d075 = website.index.titles_gr_GR_cog.mc.d075
+mc.d076 = website.index.titles_gr_GR_cog.mc.d076
+mc.d077 = website.index.titles_gr_GR_cog.mc.d077
+mc.d078 = website.index.titles_gr_GR_cog.mc.d078
+mc.d079 = website.index.titles_gr_GR_cog.mc.d079
+mc.d080 = website.index.titles_gr_GR_cog.mc.d080
+mc.d081 = website.index.titles_gr_GR_cog.mc.d081
+mc.d082 = website.index.titles_gr_GR_cog.mc.d082
+mc.d083 = website.index.titles_gr_GR_cog.mc.d083
+mc.d084 = website.index.titles_gr_GR_cog.mc.d084
+mc.d085 = website.index.titles_gr_GR_cog.mc.d085
+mc.d086 = website.index.titles_gr_GR_cog.mc.d086
+mc.d087 = website.index.titles_gr_GR_cog.mc.d087
+mc.d088 = website.index.titles_gr_GR_cog.mc.d088
+mc.d089 = website.index.titles_gr_GR_cog.mc.d089
+mc.d090 = website.index.titles_gr_GR_cog.mc.d090
+mc.d091 = website.index.titles_gr_GR_cog.mc.d091
+mc.d092 = website.index.titles_gr_GR_cog.mc.d092
+mc.d093 = website.index.titles_gr_GR_cog.mc.d093
+mc.d094 = website.index.titles_gr_GR_cog.mc.d094
+mc.d095 = website.index.titles_gr_GR_cog.mc.d095
+mc.d096 = website.index.titles_gr_GR_cog.mc.d096
+mc.d097 = website.index.titles_gr_GR_cog.mc.d097
+mc.d098 = website.index.titles_gr_GR_cog.mc.d098
+mc.d099 = website.index.titles_gr_GR_cog.mc.d099
+mc.d100 = website.index.titles_gr_GR_cog.mc.d100
+mc.d101 = website.index.titles_gr_GR_cog.mc.d101
+mc.d102 = website.index.titles_gr_GR_cog.mc.d102
+mc.d103 = website.index.titles_gr_GR_cog.mc.d103
+mc.d104 = website.index.titles_gr_GR_cog.mc.d104
+mc.d105 = website.index.titles_gr_GR_cog.mc.d105
+mc.d106 = website.index.titles_gr_GR_cog.mc.d106
+mc.d107 = website.index.titles_gr_GR_cog.mc.d107
+mc.d108 = website.index.titles_gr_GR_cog.mc.d108
+mc.d109 = website.index.titles_gr_GR_cog.mc.d109
+mc.d110 = website.index.titles_gr_GR_cog.mc.d110
+mc.d111 = website.index.titles_gr_GR_cog.mc.d111
+mc.d112 = website.index.titles_gr_GR_cog.mc.d112
+mc.d113 = website.index.titles_gr_GR_cog.mc.d113
+mc.d114 = website.index.titles_gr_GR_cog.mc.d114
+mc.d115 = website.index.titles_gr_GR_cog.mc.d115
+mc.d116 = website.index.titles_gr_GR_cog.mc.d116
+mc.d117 = website.index.titles_gr_GR_cog.mc.d117
+mc.d118 = website.index.titles_gr_GR_cog.mc.d118
+mc.d119 = website.index.titles_gr_GR_cog.mc.d119
+mc.d120 = website.index.titles_gr_GR_cog.mc.d120
+mc.d121 = website.index.titles_gr_GR_cog.mc.d121
+mc.d122 = website.index.titles_gr_GR_cog.mc.d122
+mc.d123 = website.index.titles_gr_GR_cog.mc.d123
+mc.d124 = website.index.titles_gr_GR_cog.mc.d124
+mc.d125 = website.index.titles_gr_GR_cog.mc.d125
+mc.d126 = website.index.titles_gr_GR_cog.mc.d126
+mc.d127 = website.index.titles_gr_GR_cog.mc.d127

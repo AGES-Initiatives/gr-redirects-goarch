@@ -1,0 +1,43 @@
+A_Resource_Whose_Name = pdf.covers_gr_redirects_goarch 
+
+logo1.text = pdf.covers_gr_GR_cog.logo1.text
+logo2.text = pdf.covers_gr_GR_cog.logo2.text
+logo_line = pdf.covers_gr_GR_cog.logo_line
+
+GE.text = pdf.covers_gr_GR_cog.GE.text
+E.text = pdf.covers_gr_GR_cog.E.text
+G.text = pdf.covers_gr_GR_cog.G.text
+
+Bilingual = pdf.covers_gr_GR_cog.Bilingual
+English = pdf.covers_gr_GR_cog.English
+Greek = pdf.covers_gr_GR_cog.Greek
+
+blank = pdf.covers_gr_GR_cog.blank
+blank.text = pdf.covers_gr_GR_cog.blank.text
+blank.note = pdf.covers_gr_GR_cog.blank.note
+
+notice.presanctified.text = pdf.covers_gr_GR_cog.notice.presanctified.text
+
+vespersordinary.link.title = pdf.covers_gr_GR_cog.vespersordinary.link.title
+vespersordinary.normal.link.GE = pdf.covers_gr_GR_cog.vespersordinary.normal.link.GE
+vespersordinary.normal.link.E = pdf.covers_gr_GR_cog.vespersordinary.normal.link.E
+vespersordinary.brightweek.link.GE = pdf.covers_gr_GR_cog.vespersordinary.brightweek.link.GE
+vespersordinary.brightweek.link.E = pdf.covers_gr_GR_cog.vespersordinary.brightweek.link.E
+vespersordinary.paschal.link.GE = pdf.covers_gr_GR_cog.vespersordinary.paschal.link.GE
+vespersordinary.paschal.link.E = pdf.covers_gr_GR_cog.vespersordinary.paschal.link.E
+
+vesperalprayers.link.title = pdf.covers_gr_GR_cog.vesperalprayers.link.title
+vesperalprayers.link.GE = pdf.covers_gr_GR_cog.vesperalprayers.link.GE
+vesperalprayers.link.E = pdf.covers_gr_GR_cog.vesperalprayers.link.E
+
+matinsordinary.link.title = pdf.covers_gr_GR_cog.matinsordinary.link.title
+matinsordinary.normal.link.GE = pdf.covers_gr_GR_cog.matinsordinary.normal.link.GE
+matinsordinary.normal.link.E = pdf.covers_gr_GR_cog.matinsordinary.normal.link.E
+matinsordinary.cleanmonday.link.GE = pdf.covers_gr_GR_cog.matinsordinary.cleanmonday.link.GE
+matinsordinary.cleanmonday.link.E = pdf.covers_gr_GR_cog.matinsordinary.cleanmonday.link.E
+matinsordinary.lent.link.GE = pdf.covers_gr_GR_cog.matinsordinary.lent.link.GE
+matinsordinary.lent.link.E = pdf.covers_gr_GR_cog.matinsordinary.lent.link.E
+matinsordinary.paschal.link.GE = pdf.covers_gr_GR_cog.matinsordinary.paschal.link.GE
+matinsordinary.paschal.link.E = pdf.covers_gr_GR_cog.matinsordinary.paschal.link.E
+matinsordinary.ascension.link.GE = pdf.covers_gr_GR_cog.matinsordinary.ascension.link.GE
+matinsordinary.ascension.link.E = pdf.covers_gr_GR_cog.matinsordinary.ascension.link.E

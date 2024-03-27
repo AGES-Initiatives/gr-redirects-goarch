@@ -33,6 +33,12 @@ syMA.commemoration04.couplet4.title = sy.m06.d12_gr_GR_cog.syMA.commemoration04.
 syMA.commemoration04.couplet4.verse1 = sy.m06.d12_gr_GR_cog.syMA.commemoration04.couplet4.verse1
 syMA.commemoration04.couplet4.verse2 = sy.m06.d12_gr_GR_cog.syMA.commemoration04.couplet4.verse2
 
+syMA.commemoration05.text = sy.m06.d12_gr_GR_cog.syMA.commemoration05.text
+syMA.commemoration05.couplet1.title = sy.m06.d12_gr_GR_cog.syMA.commemoration05.couplet1.title
+syMA.commemoration05.couplet1.verse1 = sy.m06.d12_gr_GR_cog.syMA.commemoration05.couplet1.verse1
+syMA.commemoration05.couplet1.verse2 = sy.m06.d12_gr_GR_cog.syMA.commemoration05.couplet1.verse2
+syMA.commemoration05.narration.p01 = sy.m06.d12_gr_GR_cog.syMA.commemoration05.narration.p01
+
 syMA.lastline = sy.m06.d12_gr_GR_cog.syMA.lastline
 
 cl.syMA.commemoration01.text = sy.m06.d12_gr_GR_cog.cl.syMA.commemoration01.text

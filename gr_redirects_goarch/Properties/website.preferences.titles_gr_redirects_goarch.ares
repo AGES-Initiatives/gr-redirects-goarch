@@ -1,0 +1,167 @@
+A_Resource_Whose_Name = website.preferences.titles_gr_redirects_goarch 
+
+//bmc.tag = website.preferences.titles_gr_GR_cog.//bmc.tag
+mc.tag = website.preferences.titles_gr_GR_cog.mc.tag
+
+mc.vespersstichologia = website.preferences.titles_gr_GR_cog.mc.vespersstichologia
+
+mc.vesperslity = website.preferences.titles_gr_GR_cog.mc.vesperslity
+
+mc.matinsordinary = website.preferences.titles_gr_GR_cog.mc.matinsordinary
+
+mc.eothinongospel.position1 = website.preferences.titles_gr_GR_cog.mc.eothinongospel.position1
+mc.eothinongospel.position2 = website.preferences.titles_gr_GR_cog.mc.eothinongospel.position2
+
+mc.kontakion.position2 = website.preferences.titles_gr_GR_cog.mc.kontakion.position2
+
+mc.ode3.litany = website.preferences.titles_gr_GR_cog.mc.ode3.litany
+
+mc.ode6.litany = website.preferences.titles_gr_GR_cog.mc.ode6.litany
+
+mc.ode3.kathisma = website.preferences.titles_gr_GR_cog.mc.ode3.kathisma
+
+mc.kontakion.position1 = website.preferences.titles_gr_GR_cog.mc.kontakion.position1
+
+mc.kontakion.position12 = website.preferences.titles_gr_GR_cog.mc.kontakion.position12
+
+mc.synaxarion.extended = website.preferences.titles_gr_GR_cog.mc.synaxarion.extended
+
+mc.odes1345678katavasia = website.preferences.titles_gr_GR_cog.mc.odes1345678katavasia
+
+mc.magnificat.modeofcanon = website.preferences.titles_gr_GR_cog.mc.magnificat.modeofcanon
+
+mc.magnificat.modeofkatavasia = website.preferences.titles_gr_GR_cog.mc.magnificat.modeofkatavasia
+
+mc.matins.end.no.dismissal = website.preferences.titles_gr_GR_cog.mc.matins.end.no.dismissal
+mc.matins.end.before.dismissal = website.preferences.titles_gr_GR_cog.mc.matins.end.before.dismissal
+mc.matins.dismissal = website.preferences.titles_gr_GR_cog.mc.matins.dismissal
+mc.matins.close = website.preferences.titles_gr_GR_cog.mc.matins.close
+
+mc.ode1katavasia = website.preferences.titles_gr_GR_cog.mc.ode1katavasia
+mc.ode3katavasia = website.preferences.titles_gr_GR_cog.mc.ode3katavasia
+mc.ode4katavasia = website.preferences.titles_gr_GR_cog.mc.ode4katavasia
+mc.ode5katavasia = website.preferences.titles_gr_GR_cog.mc.ode5katavasia
+mc.ode6katavasia = website.preferences.titles_gr_GR_cog.mc.ode6katavasia
+mc.ode7katavasia = website.preferences.titles_gr_GR_cog.mc.ode7katavasia
+mc.ode8katavasia = website.preferences.titles_gr_GR_cog.mc.ode8katavasia
+mc.ode9katavasia = website.preferences.titles_gr_GR_cog.mc.ode9katavasia
+
+mc.ode1hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode1hocanon1
+mc.ode3hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode3hocanon1
+mc.ode4hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode4hocanon1
+mc.ode5hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode5hocanon1
+mc.ode6hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode6hocanon1
+mc.ode7hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode7hocanon1
+mc.ode8hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode8hocanon1
+mc.ode9hocanon1 = website.preferences.titles_gr_GR_cog.mc.ode9hocanon1
+
+mc.ode1occanon1 = website.preferences.titles_gr_GR_cog.mc.ode1occanon1
+mc.ode3occanon1 = website.preferences.titles_gr_GR_cog.mc.ode3occanon1
+mc.ode4occanon1 = website.preferences.titles_gr_GR_cog.mc.ode4occanon1
+mc.ode5occanon1 = website.preferences.titles_gr_GR_cog.mc.ode5occanon1
+mc.ode6occanon1 = website.preferences.titles_gr_GR_cog.mc.ode6occanon1
+mc.ode7occanon1 = website.preferences.titles_gr_GR_cog.mc.ode7occanon1
+mc.ode8occanon1 = website.preferences.titles_gr_GR_cog.mc.ode8occanon1
+mc.ode9occanon1 = website.preferences.titles_gr_GR_cog.mc.ode9occanon1
+
+mc.ode1occanon2 = website.preferences.titles_gr_GR_cog.mc.ode1occanon2
+mc.ode3occanon2 = website.preferences.titles_gr_GR_cog.mc.ode3occanon2
+mc.ode4occanon2 = website.preferences.titles_gr_GR_cog.mc.ode4occanon2
+mc.ode5occanon2 = website.preferences.titles_gr_GR_cog.mc.ode5occanon2
+mc.ode6occanon2 = website.preferences.titles_gr_GR_cog.mc.ode6occanon2
+mc.ode7occanon2 = website.preferences.titles_gr_GR_cog.mc.ode7occanon2
+mc.ode8occanon2 = website.preferences.titles_gr_GR_cog.mc.ode8occanon2
+mc.ode9occanon2 = website.preferences.titles_gr_GR_cog.mc.ode9occanon2
+
+mc.ode1occanon3 = website.preferences.titles_gr_GR_cog.mc.ode1occanon3
+mc.ode3occanon3 = website.preferences.titles_gr_GR_cog.mc.ode3occanon3
+mc.ode4occanon3 = website.preferences.titles_gr_GR_cog.mc.ode4occanon3
+mc.ode5occanon3 = website.preferences.titles_gr_GR_cog.mc.ode5occanon3
+mc.ode6occanon3 = website.preferences.titles_gr_GR_cog.mc.ode6occanon3
+mc.ode7occanon3 = website.preferences.titles_gr_GR_cog.mc.ode7occanon3
+mc.ode8occanon3 = website.preferences.titles_gr_GR_cog.mc.ode8occanon3
+mc.ode9occanon3 = website.preferences.titles_gr_GR_cog.mc.ode9occanon3
+
+mc.ode1mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode1mecanon1
+mc.ode3mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode3mecanon1
+mc.ode4mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode4mecanon1
+mc.ode5mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode5mecanon1
+mc.ode6mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode6mecanon1
+mc.ode7mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode7mecanon1
+mc.ode8mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode8mecanon1
+mc.ode9mecanon1 = website.preferences.titles_gr_GR_cog.mc.ode9mecanon1
+
+mc.ode1mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode1mecanon2
+mc.ode3mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode3mecanon2
+mc.ode4mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode4mecanon2
+mc.ode5mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode5mecanon2
+mc.ode6mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode6mecanon2
+mc.ode7mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode7mecanon2
+mc.ode8mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode8mecanon2
+mc.ode9mecanon2 = website.preferences.titles_gr_GR_cog.mc.ode9mecanon2
+
+mc.ode1mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode1mecanon3
+mc.ode3mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode3mecanon3
+mc.ode4mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode4mecanon3
+mc.ode5mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode5mecanon3
+mc.ode6mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode6mecanon3
+mc.ode7mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode7mecanon3
+mc.ode8mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode8mecanon3
+mc.ode9mecanon3 = website.preferences.titles_gr_GR_cog.mc.ode9mecanon3
+
+mc.ode1trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode1trcanon1
+mc.ode2trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode2trcanon1
+mc.ode3trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode3trcanon1
+mc.ode4trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode4trcanon1
+mc.ode5trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode5trcanon1
+mc.ode6trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode6trcanon1
+mc.ode7trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode7trcanon1
+mc.ode8trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode8trcanon1
+mc.ode9trcanon1 = website.preferences.titles_gr_GR_cog.mc.ode9trcanon1
+
+mc.ode1trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode1trcanon2
+mc.ode2trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode2trcanon2
+mc.ode3trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode3trcanon2
+mc.ode4trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode4trcanon2
+mc.ode5trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode5trcanon2
+mc.ode6trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode6trcanon2
+mc.ode7trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode7trcanon2
+mc.ode8trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode8trcanon2
+mc.ode9trcanon2 = website.preferences.titles_gr_GR_cog.mc.ode9trcanon2
+
+mc.ode1trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode1trcanon3
+mc.ode2trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode2trcanon3
+mc.ode3trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode3trcanon3
+mc.ode4trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode4trcanon3
+mc.ode5trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode5trcanon3
+mc.ode6trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode6trcanon3
+mc.ode7trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode7trcanon3
+mc.ode8trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode8trcanon3
+mc.ode9trcanon3 = website.preferences.titles_gr_GR_cog.mc.ode9trcanon3
+
+mc.ode1pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode1pacanon1
+mc.ode3pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode3pacanon1
+mc.ode4pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode4pacanon1
+mc.ode5pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode5pacanon1
+mc.ode6pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode6pacanon1
+mc.ode7pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode7pacanon1
+mc.ode8pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode8pacanon1
+mc.ode9pacanon1 = website.preferences.titles_gr_GR_cog.mc.ode9pacanon1
+
+mc.ode1pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode1pecanon1
+mc.ode3pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode3pecanon1
+mc.ode4pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode4pecanon1
+mc.ode5pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode5pecanon1
+mc.ode6pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode6pecanon1
+mc.ode7pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode7pecanon1
+mc.ode8pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode8pecanon1
+mc.ode9pecanon1 = website.preferences.titles_gr_GR_cog.mc.ode9pecanon1
+
+mc.ode1pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode1pecanon2
+mc.ode3pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode3pecanon2
+mc.ode4pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode4pecanon2
+mc.ode5pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode5pecanon2
+mc.ode6pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode6pecanon2
+mc.ode7pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode7pecanon2
+mc.ode8pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode8pecanon2
+mc.ode9pecanon2 = website.preferences.titles_gr_GR_cog.mc.ode9pecanon2

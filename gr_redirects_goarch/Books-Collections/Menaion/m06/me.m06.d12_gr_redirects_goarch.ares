@@ -360,6 +360,8 @@ alt1.meDA.commemoration.second_title = me.m06.d12_gr_GR_cog.alt1.meDA.commemorat
 alt1.meDA.commemoration.second_name = me.m06.d12_gr_GR_cog.alt1.meDA.commemoration.second_name
 alt1.meDA.insert1 = me.m06.d12_gr_GR_cog.alt1.meDA.insert1
 alt1.meDA.insert2 = me.m06.d12_gr_GR_cog.alt1.meDA.insert2
+alt1.meDA.poet = me.m06.d12_gr_GR_cog.alt1.meDA.poet
+alt1.meDA.translator = me.m06.d12_gr_GR_cog.alt1.meDA.translator
 alt1.meDA.note = me.m06.d12_gr_GR_cog.alt1.meDA.note
 alt1.meLE.commemoration1 = me.m06.d12_gr_GR_cog.alt1.meLE.commemoration1
 alt1.meLE.commemoration2 = me.m06.d12_gr_GR_cog.alt1.meLE.commemoration2
@@ -386,7 +388,6 @@ alt1.meSV.Stichera3.incipit = me.m06.d12_gr_GR_cog.alt1.meSV.Stichera3.incipit
 alt1.meSV.Stichera3.text = me.m06.d12_gr_GR_cog.alt1.meSV.Stichera3.text
 
 alt1.meSV.Stichera4.mode = me.m06.d12_gr_GR_cog.alt1.meSV.Stichera4.mode
-alt1.meSV.Stichera4.greekmelody = me.m06.d12_gr_GR_cog.alt1.meSV.Stichera4.greekmelody
 alt1.meSV.Stichera4.melody = me.m06.d12_gr_GR_cog.alt1.meSV.Stichera4.melody
 alt1.meSV.Stichera4.incipit = me.m06.d12_gr_GR_cog.alt1.meSV.Stichera4.incipit
 alt1.meSV.Stichera4.text = me.m06.d12_gr_GR_cog.alt1.meSV.Stichera4.text
@@ -844,6 +845,7 @@ alt1.meMA.MM.LaudsSunday.text = me.m06.d12_gr_GR_cog.alt1.meMA.MM.LaudsSunday.te
 
 alt1.meLI.Kontakion1.mode = me.m06.d12_gr_GR_cog.alt1.meLI.Kontakion1.mode
 alt1.meLI.Kontakion1.melody = me.m06.d12_gr_GR_cog.alt1.meLI.Kontakion1.melody
+alt1.meLI.Kontakion1.greekmelody = me.m06.d12_gr_GR_cog.alt1.meLI.Kontakion1.greekmelody
 alt1.meLI.Kontakion1.incipit = me.m06.d12_gr_GR_cog.alt1.meLI.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = me.m06.d12_gr_GR_cog.alt1.meLI.Kontakion1.text
 

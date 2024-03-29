@@ -1,35 +1,35 @@
 A_Resource_Whose_Name = pdf.credits_gr_redirects_goarch
 
-urls.title = pdf.credits_gr_GR_cog.urls.title
-urls.dcs.goarch.org = pdf.credits_gr_GR_cog.urls.dcs.goarch.org
+urls.title = pdf.credits_gr_US_goa.urls.title
+urls.dcs.goarch.org = pdf.credits_gr_US_goa.urls.dcs.goarch.org
 
-preface.disclaimer = pdf.credits_gr_GR_cog.preface.disclaimer
+preface.disclaimer = pdf.credits_gr_US_goa.preface.disclaimer
 
-contact.address_1 = pdf.credits_gr_GR_cog.contact.address_1
-contact.address_2 = pdf.credits_gr_GR_cog.contact.address_2
-contact.address_3 = pdf.credits_gr_GR_cog.contact.address_3
-contact.phone = pdf.credits_gr_GR_cog.contact.phone
-contact.email.title = pdf.credits_gr_GR_cog.contact.email.title
-contact.email = pdf.credits_gr_GR_cog.contact.email
+contact.address_1 = pdf.credits_gr_US_goa.contact.address_1
+contact.address_2 = pdf.credits_gr_US_goa.contact.address_2
+contact.address_3 = pdf.credits_gr_US_goa.contact.address_3
+contact.phone = pdf.credits_gr_US_goa.contact.phone
+contact.email.title = pdf.credits_gr_US_goa.contact.email.title
+contact.email = pdf.credits_gr_US_goa.contact.email
 
-disclaimer.title = pdf.credits_gr_GR_cog.disclaimer.title
-disclaimer01.text = pdf.credits_gr_GR_cog.disclaimer01.text
+disclaimer.title = pdf.credits_gr_US_goa.disclaimer.title
+disclaimer01.text = pdf.credits_gr_US_goa.disclaimer01.text
 
-disclaimer02.text = pdf.credits_gr_GR_cog.disclaimer02.text
+disclaimer02.text = pdf.credits_gr_US_goa.disclaimer02.text
 
-acknowledgements.title = pdf.credits_gr_GR_cog.acknowledgements.title
+acknowledgements.title = pdf.credits_gr_US_goa.acknowledgements.title
 
-acknowledgements01.text = pdf.credits_gr_GR_cog.acknowledgements01.text
+acknowledgements01.text = pdf.credits_gr_US_goa.acknowledgements01.text
 
-acknowledgements04.text = pdf.credits_gr_GR_cog.acknowledgements04.text
+acknowledgements04.text = pdf.credits_gr_US_goa.acknowledgements04.text
 
-acknowledgements05.text = pdf.credits_gr_GR_cog.acknowledgements05.text
+acknowledgements05.text = pdf.credits_gr_US_goa.acknowledgements05.text
 
-sources.title = pdf.credits_gr_GR_cog.sources.title
+sources.title = pdf.credits_gr_US_goa.sources.title
 
-fonts.title = pdf.credits_gr_GR_cog.fonts.title
-fonts01.text = pdf.credits_gr_GR_cog.fonts01.text
-fonts02.text = pdf.credits_gr_GR_cog.fonts02.text
-fonts03.text = pdf.credits_gr_GR_cog.fonts03.text
+fonts.title = pdf.credits_gr_US_goa.fonts.title
+fonts01.text = pdf.credits_gr_US_goa.fonts01.text
+fonts02.text = pdf.credits_gr_US_goa.fonts02.text
+fonts03.text = pdf.credits_gr_US_goa.fonts03.text
 
-line_break = pdf.credits_gr_GR_cog.line_break
+line_break = pdf.credits_gr_US_goa.line_break

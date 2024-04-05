@@ -353,6 +353,7 @@ meLI.Megalynarion.text = me.m06.d12_gr_GR_cog.meLI.Megalynarion.text
 
 alt1.meDA.date = me.m06.d12_gr_GR_cog.alt1.meDA.date
 alt1.meDA.commemoration.full = me.m06.d12_gr_GR_cog.alt1.meDA.commemoration.full
+alt1.meDA.commemoration.second = me.m06.d12_gr_GR_cog.alt1.meDA.commemoration.second
 alt1.meDA.commemoration.first_short = me.m06.d12_gr_GR_cog.alt1.meDA.commemoration.first_short
 alt1.meDA.commemoration.first_title = me.m06.d12_gr_GR_cog.alt1.meDA.commemoration.first_title
 alt1.meDA.commemoration.first_name = me.m06.d12_gr_GR_cog.alt1.meDA.commemoration.first_name
@@ -731,6 +732,7 @@ alt1.meMA.Ode6C1T.text = me.m06.d12_gr_GR_cog.alt1.meMA.Ode6C1T.text
 
 alt1.meMA.Kontakion1.mode = me.m06.d12_gr_GR_cog.alt1.meMA.Kontakion1.mode
 alt1.meMA.Kontakion1.melody = me.m06.d12_gr_GR_cog.alt1.meMA.Kontakion1.melody
+alt1.meMA.Kontakion1.greekmelody = me.m06.d12_gr_GR_cog.alt1.meMA.Kontakion1.greekmelody
 alt1.meMA.Kontakion1.incipit = me.m06.d12_gr_GR_cog.alt1.meMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = me.m06.d12_gr_GR_cog.alt1.meMA.Kontakion1.text
 
@@ -864,6 +866,9 @@ alt1.meLI.Kontakion1.incipit = me.m06.d12_gr_GR_cog.alt1.meLI.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = me.m06.d12_gr_GR_cog.alt1.meLI.Kontakion1.text
 
 alt1.meLI.Megalynarion.text = me.m06.d12_gr_GR_cog.alt1.meLI.Megalynarion.text
+
+alt1.meLI.Megalynarion2.poet = me.m06.d12_gr_GR_cog.alt1.meLI.Megalynarion2.poet
+alt1.meLI.Megalynarion2.text = me.m06.d12_gr_GR_cog.alt1.meLI.Megalynarion2.text
 
 alt1.meCoupletv1.text = me.m06.d12_gr_GR_cog.alt1.meCoupletv1.text
 alt1.meCoupletv2.text = me.m06.d12_gr_GR_cog.alt1.meCoupletv2.text

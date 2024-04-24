@@ -1059,8 +1059,10 @@ meLI.Kontakion1.text = me.m12.d24_gr_GR_cog.meLI.Kontakion1.text
 
 meLI.Megalynarion.text = me.m12.d24_gr_GR_cog.meLI.Megalynarion.text
 
-meH.title = me.m12.d24_gr_GR_cog.meH.title
-meH.translation = me.m12.d24_gr_GR_cog.meH.translation
+meH.title = "This key is deprecated"
+meH.translation = "This key is deprecated"
+meHR.title = me.m12.d24_gr_GR_cog.meHR.title
+meHR.translation = me.m12.d24_gr_GR_cog.meHR.translation
 meH1.title = me.m12.d24_gr_GR_cog.meH1.title
 meH1.Troparion.incipit = me.m12.d24_gr_GR_cog.meH1.Troparion.incipit
 meH1.Troparion.text = me.m12.d24_gr_GR_cog.meH1.Troparion.text

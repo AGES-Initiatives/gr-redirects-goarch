@@ -40,6 +40,7 @@ ti.Apolytikia = titles_gr_GR_cog.ti.Apolytikia
 ti.Apolytikion = titles_gr_GR_cog.ti.Apolytikion
 ti.ApolytikionDay = titles_gr_GR_cog.ti.ApolytikionDay
 ti.ApolytikionFeast = titles_gr_GR_cog.ti.ApolytikionFeast
+ti.ApolytikionLocalChurch = titles_gr_GR_cog.ti.ApolytikionLocalChurch
 ti.ApolytikionResurrectional = titles_gr_GR_cog.ti.ApolytikionResurrectional
 ti.ApolytikionTriodion = titles_gr_GR_cog.ti.ApolytikionTriodion
 ti.Aposticha = titles_gr_GR_cog.ti.Aposticha

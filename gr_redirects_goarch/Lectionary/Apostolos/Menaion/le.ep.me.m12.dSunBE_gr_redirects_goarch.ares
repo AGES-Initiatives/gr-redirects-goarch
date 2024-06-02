@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.ep.me.m12.dSunBE_gr_redirects_goarch
 
 lemeLI.Epistle.title = le.ep.me.m12.dSunBE_gr_GR_cog.lemeLI.Epistle.title
 lemeLI.Epistle.title_abbr = le.ep.me.m12.dSunBE_gr_GR_cog.lemeLI.Epistle.title_abbr
+lemeLI.Epistle.rubric = le.ep.me.m12.dSunBE_gr_GR_cog.lemeLI.Epistle.rubric
 lemeLI.Epistle.version = le.ep.me.m12.dSunBE_gr_GR_cog.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m12.dSunBE_gr_GR_cog.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m12.dSunBE_gr_GR_cog.lemeLI.Epistle.book_abbr

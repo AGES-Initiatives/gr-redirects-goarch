@@ -36,13 +36,13 @@ metropolitan.chicago.nathanael.entrance.text = hierarchs_gr_US_goa.metropolitan.
 metropolitan.chicago.nathanael.commemoration.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.commemoration.text
 metropolitan.chicago.nathanael.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.petOrdination01a.text
 
-metropolitan.denver.isaiah.pet06.text = hierarchs_gr_US_goa.metropolitan.denver.isaiah.pet06.text
-metropolitan.denver.isaiah.fimi.text = hierarchs_gr_US_goa.metropolitan.denver.isaiah.fimi.text
-metropolitan.denver.isaiah.away_fimi.text = hierarchs_gr_US_goa.metropolitan.denver.isaiah.away_fimi.text
-metropolitan.denver.isaiah.pet19.text = hierarchs_gr_US_goa.metropolitan.denver.isaiah.pet19.text
-metropolitan.denver.isaiah.entrance.text = hierarchs_gr_US_goa.metropolitan.denver.isaiah.entrance.text
-metropolitan.denver.isaiah.commemoration.text = hierarchs_gr_US_goa.metropolitan.denver.isaiah.commemoration.text
-metropolitan.denver.isaiah.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.denver.isaiah.petOrdination01a.text
+metropolitan.denver.constantine.pet06.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.pet06.text
+metropolitan.denver.constantine.fimi.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.fimi.text
+metropolitan.denver.constantine.away_fimi.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.away_fimi.text
+metropolitan.denver.constantine.pet19.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.pet19.text
+metropolitan.denver.constantine.entrance.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.entrance.text
+metropolitan.denver.constantine.commemoration.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.commemoration.text
+metropolitan.denver.constantine.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.petOrdination01a.text
 
 metropolitan.detroit.nicholas.pet06.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.pet06.text
 metropolitan.detroit.nicholas.fimi.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.fimi.text
@@ -95,11 +95,6 @@ bishop.timothy.chicago.pet06.text = hierarchs_gr_US_goa.bishop.timothy.chicago.p
 bishop.timothy.chicago.pet19.text = hierarchs_gr_US_goa.bishop.timothy.chicago.pet19.text
 bishop.timothy.commemoration.text = hierarchs_gr_US_goa.bishop.timothy.commemoration.text
 bishop.timothy.chicago.petOrdination01a.text = hierarchs_gr_US_goa.bishop.timothy.chicago.petOrdination01a.text
-
-bishop.constantine.denver.pet06.text = hierarchs_gr_US_goa.bishop.constantine.denver.pet06.text
-bishop.constantine.denver.pet19.text = hierarchs_gr_US_goa.bishop.constantine.denver.pet19.text
-bishop.constantine.commemoration.text = hierarchs_gr_US_goa.bishop.constantine.commemoration.text
-bishop.constantine.denver.petOrdination01a.text = hierarchs_gr_US_goa.bishop.constantine.denver.petOrdination01a.text
 
 ordinand.name.acc.text = hierarchs_gr_US_goa.ordinand.name.acc.text
 ordinand.name.gen.text = hierarchs_gr_US_goa.ordinand.name.gen.text

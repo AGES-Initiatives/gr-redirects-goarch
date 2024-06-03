@@ -11,6 +11,7 @@ meDA.commemoration.second_name = me.m06.d24_gr_GR_cog.meDA.commemoration.second_
 meDA.insert1 = me.m06.d24_gr_GR_cog.meDA.insert1
 meDA.insert2 = me.m06.d24_gr_GR_cog.meDA.insert2
 meDA.note = me.m06.d24_gr_GR_cog.meDA.note
+meDA.pdfheaderdate = me.m06.d24_gr_GR_cog.meDA.pdfheaderdate
 meLE.commemoration1 = me.m06.d24_gr_GR_cog.meLE.commemoration1
 meLE.commemoration2 = me.m06.d24_gr_GR_cog.meLE.commemoration2
 meHO.number = me.m06.d24_gr_GR_cog.meHO.number

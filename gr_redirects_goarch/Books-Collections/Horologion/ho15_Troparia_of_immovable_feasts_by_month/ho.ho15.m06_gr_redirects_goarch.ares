@@ -12,6 +12,14 @@ hoD05.GeneralApolytikion1.name = ho.ho15.m06_gr_GR_cog.hoD05.GeneralApolytikion1
 
 hoD06.GeneralApolytikion1.name = ho.ho15.m06_gr_GR_cog.hoD06.GeneralApolytikion1.name
 
+hoD08.Apolytikion2.title = ho.ho15.m06_gr_GR_cog.hoD08.Apolytikion2.title
+hoD08.Apolytikion2.poet = ho.ho15.m06_gr_GR_cog.hoD08.Apolytikion2.poet
+hoD08.Apolytikion2.mode = ho.ho15.m06_gr_GR_cog.hoD08.Apolytikion2.mode
+hoD08.Apolytikion2.greekmelody = ho.ho15.m06_gr_GR_cog.hoD08.Apolytikion2.greekmelody
+hoD08.Apolytikion2.melody = ho.ho15.m06_gr_GR_cog.hoD08.Apolytikion2.melody
+hoD08.Apolytikion2.incipit = ho.ho15.m06_gr_GR_cog.hoD08.Apolytikion2.incipit
+hoD08.Apolytikion2.text = ho.ho15.m06_gr_GR_cog.hoD08.Apolytikion2.text
+
 hoD11.Apolytikion3.title = ho.ho15.m06_gr_GR_cog.hoD11.Apolytikion3.title
 hoD11.Apolytikion3.poet = ho.ho15.m06_gr_GR_cog.hoD11.Apolytikion3.poet
 hoD11.Apolytikion3.mode = ho.ho15.m06_gr_GR_cog.hoD11.Apolytikion3.mode

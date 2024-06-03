@@ -279,6 +279,7 @@ lecLE.forFuneral = lectionaries_gr_GR_cog.lecLE.forFuneral
 lecLE.forDooropening = lectionaries_gr_GR_cog.lecLE.forDooropening
 lecLE.forSmallWater = lectionaries_gr_GR_cog.lecLE.forSmallWater
 lecLE.forUnction = lectionaries_gr_GR_cog.lecLE.forUnction
+lecLE.forPrivateEndeavor = lectionaries_gr_GR_cog.lecLE.forPrivateEndeavor
 
 lecLE.ServiceOfGreatHours.uc = lectionaries_gr_GR_cog.lecLE.ServiceOfGreatHours.uc
 lecLE.Hour1.uc = lectionaries_gr_GR_cog.lecLE.Hour1.uc

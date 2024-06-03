@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.ep.ge.theotokos_gr_redirects_goarch
+
+legeLI.Epistle.title = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.title
+legeLI.Epistle.title_abbr = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.title_abbr
+legeLI.Epistle.version = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.version
+legeLI.Epistle.book_string = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.book_string
+legeLI.Epistle.book_abbr = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.book_abbr
+legeLI.Epistle.chapverse = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.chapverse
+legeLI.Epistle.incipit = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.incipit
+legeLI.Epistle.text = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle.text
+
+legeLI.Epistle2.title = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.title
+legeLI.Epistle2.title_abbr = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.title_abbr
+legeLI.Epistle2.version = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.version
+legeLI.Epistle2.book_string = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.book_string
+legeLI.Epistle2.book_abbr = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.book_abbr
+legeLI.Epistle2.chapverse = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.chapverse
+legeLI.Epistle2.incipit = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.incipit
+legeLI.Epistle2.text = le.ep.ge.theotokos_gr_GR_cog.legeLI.Epistle2.text

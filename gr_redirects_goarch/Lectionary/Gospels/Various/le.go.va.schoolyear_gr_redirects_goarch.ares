@@ -1,14 +1,5 @@
 A_Resource_Whose_Name = le.go.va.schoolyear_gr_redirects_goarch
 
-levaSCH.Gospel.title = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.title
-levaSCH.Gospel.title_abbr = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.title_abbr
-levaSCH.Gospel.version = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.version
-levaSCH.Gospel.book_string = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.book_string
-levaSCH.Gospel.book_abbr = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.book_abbr
-levaSCH.Gospel.chapverse = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.chapverse
-levaSCH.Gospel.incipit = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.incipit
-levaSCH.Gospel.text = le.go.va.schoolyear_gr_GR_cog.levaSCH.Gospel.text
-
 levaLI.Gospel.title = le.go.va.schoolyear_gr_GR_cog.levaLI.Gospel.title
 levaLI.Gospel.title_abbr = le.go.va.schoolyear_gr_GR_cog.levaLI.Gospel.title_abbr
 levaLI.Gospel.version = le.go.va.schoolyear_gr_GR_cog.levaLI.Gospel.version

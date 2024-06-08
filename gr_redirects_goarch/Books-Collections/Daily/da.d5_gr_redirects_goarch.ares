@@ -1,9 +1,11 @@
 A_Resource_Whose_Name = da.d5_gr_redirects_goarch
 
 daDay.text = da.d5_gr_GR_cog.daDay.text
+daForDay.text = da.d5_gr_GR_cog.daForDay.text
 daOnDay.text = da.d5_gr_GR_cog.daOnDay.text
 daCommemoration.text = da.d5_gr_GR_cog.daCommemoration.text
 
+daVE.OnTheDayBefore.text = da.d5_gr_GR_cog.daVE.OnTheDayBefore.text
 daVE.OnTheEveningBefore.text = da.d5_gr_GR_cog.daVE.OnTheEveningBefore.text
 
 daVE.Apolytikion1.mode = da.d5_gr_GR_cog.daVE.Apolytikion1.mode

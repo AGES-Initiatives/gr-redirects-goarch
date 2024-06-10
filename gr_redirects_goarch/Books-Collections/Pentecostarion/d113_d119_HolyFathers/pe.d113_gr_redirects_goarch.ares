@@ -384,6 +384,7 @@ peMA.Exaposteilarion2.incipit = pe.d113_gr_GR_cog.peMA.Exaposteilarion2.incipit
 peMA.Exaposteilarion2.text = pe.d113_gr_GR_cog.peMA.Exaposteilarion2.text
 
 peMA.Exaposteilarion3.mode = pe.d113_gr_GR_cog.peMA.Exaposteilarion3.mode
+peMA.Exaposteilarion3.greekmelody = pe.d113_gr_GR_cog.peMA.Exaposteilarion3.greekmelody
 peMA.Exaposteilarion3.melody = pe.d113_gr_GR_cog.peMA.Exaposteilarion3.melody
 peMA.Exaposteilarion3.incipit = pe.d113_gr_GR_cog.peMA.Exaposteilarion3.incipit
 peMA.Exaposteilarion3.text = pe.d113_gr_GR_cog.peMA.Exaposteilarion3.text

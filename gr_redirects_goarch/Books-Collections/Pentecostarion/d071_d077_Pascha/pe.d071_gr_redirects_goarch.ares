@@ -478,6 +478,8 @@ peMA.Stichera4.mode = pe.d071_gr_GR_cog.peMA.Stichera4.mode
 peMA.Stichera4.incipit = pe.d071_gr_GR_cog.peMA.Stichera4.incipit
 peMA.Stichera4.text = pe.d071_gr_GR_cog.peMA.Stichera4.text
 
+peMA.PaschaDoxastikon.note = pe.d071_gr_GR_cog.peMA.PaschaDoxastikon.note
+
 peMA.SticheraGlory.mode = pe.d071_gr_GR_cog.peMA.SticheraGlory.mode
 peMA.SticheraGlory.incipit = pe.d071_gr_GR_cog.peMA.SticheraGlory.incipit
 peMA.SticheraGlory.text = pe.d071_gr_GR_cog.peMA.SticheraGlory.text

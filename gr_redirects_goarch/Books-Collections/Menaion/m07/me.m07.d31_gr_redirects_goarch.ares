@@ -363,9 +363,5 @@ meMA.Exaposteilarion2.melody = me.m07.d31_gr_GR_cog.meMA.Exaposteilarion2.melody
 meMA.Exaposteilarion2.incipit = me.m07.d31_gr_GR_cog.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion2.text = me.m07.d31_gr_GR_cog.meMA.Exaposteilarion2.text
 
-meLI.Kontakion1.mode = me.m07.d31_gr_GR_cog.meLI.Kontakion1.mode
-meLI.Kontakion1.melody = me.m07.d31_gr_GR_cog.meLI.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m07.d31_gr_GR_cog.meLI.Kontakion1.incipit
-meLI.Kontakion1.text = me.m07.d31_gr_GR_cog.meLI.Kontakion1.text
 
 meLI.Megalynarion.text = me.m07.d31_gr_GR_cog.meLI.Megalynarion.text

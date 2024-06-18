@@ -22,10 +22,6 @@ meHO.commemorations = me.m08.d23_gr_GR_cog.meHO.commemorations
 meHO.note1 = me.m08.d23_gr_GR_cog.meHO.note1
 meHO.note2 = me.m08.d23_gr_GR_cog.meHO.note2
 
-meLI.Kontakion1.mode = me.m08.d23_gr_GR_cog.meLI.Kontakion1.mode
-meLI.Kontakion1.melody = me.m08.d23_gr_GR_cog.meLI.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m08.d23_gr_GR_cog.meLI.Kontakion1.incipit
-meLI.Kontakion1.text = me.m08.d23_gr_GR_cog.meLI.Kontakion1.text
 
 meLI.Megalynarion.text = me.m08.d23_gr_GR_cog.meLI.Megalynarion.text
 

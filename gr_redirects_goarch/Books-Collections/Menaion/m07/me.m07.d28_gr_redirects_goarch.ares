@@ -312,10 +312,6 @@ meMA.Ode9H.melody = me.m07.d28_gr_GR_cog.meMA.Ode9H.melody
 meMA.Ode9H.incipit = me.m07.d28_gr_GR_cog.meMA.Ode9H.incipit
 meMA.Ode9H.text = me.m07.d28_gr_GR_cog.meMA.Ode9H.text
 
-meLI.Kontakion1.mode = me.m07.d28_gr_GR_cog.meLI.Kontakion1.mode
-meLI.Kontakion1.melody = me.m07.d28_gr_GR_cog.meLI.Kontakion1.melody
-meLI.Kontakion1.incipit = me.m07.d28_gr_GR_cog.meLI.Kontakion1.incipit
-meLI.Kontakion1.text = me.m07.d28_gr_GR_cog.meLI.Kontakion1.text
 
 meLI.Megalynarion.text = me.m07.d28_gr_GR_cog.meLI.Megalynarion.text
 

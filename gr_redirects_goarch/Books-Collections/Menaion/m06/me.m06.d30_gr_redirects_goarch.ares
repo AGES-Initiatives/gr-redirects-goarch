@@ -657,6 +657,7 @@ meMA.Lauds4.melody = me.m06.d30_gr_GR_cog.meMA.Lauds4.melody
 meMA.Lauds4.incipit = me.m06.d30_gr_GR_cog.meMA.Lauds4.incipit
 meMA.Lauds4.text = me.m06.d30_gr_GR_cog.meMA.Lauds4.text
 
+meMA.MM.Lauds123as345.text = me.m06.d30_gr_GR_cog.meMA.MM.Lauds123as345.text
 meMA.MM.Lauds123as456.text = me.m06.d30_gr_GR_cog.meMA.MM.Lauds123as456.text
 meMA.MM.Lauds123as678.text = me.m06.d30_gr_GR_cog.meMA.MM.Lauds123as678.text
 meMA.MM.Lauds1234as5678.text = me.m06.d30_gr_GR_cog.meMA.MM.Lauds1234as5678.text

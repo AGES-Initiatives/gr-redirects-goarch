@@ -242,6 +242,7 @@ meMA.C1.acrostic.title = me.m01.d06_gr_GR_cog.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m01.d06_gr_GR_cog.meMA.C1.acrostic.notice1
 meMA.C1.acrostic.text = me.m01.d06_gr_GR_cog.meMA.C1.acrostic.text
 meMA.C1.poet = me.m01.d06_gr_GR_cog.meMA.C1.poet
+meMA.C1.translator = me.m01.d06_gr_GR_cog.meMA.C1.translator
 meMA.C1.title = me.m01.d06_gr_GR_cog.meMA.C1.title
 meMA.C1.verse = me.m01.d06_gr_GR_cog.meMA.C1.verse
 
@@ -253,6 +254,7 @@ meMA.C2.acrostic.line2.text = me.m01.d06_gr_GR_cog.meMA.C2.acrostic.line2.text
 meMA.C2.acrostic.line3.text = me.m01.d06_gr_GR_cog.meMA.C2.acrostic.line3.text
 meMA.C2.acrostic.line4.text = me.m01.d06_gr_GR_cog.meMA.C2.acrostic.line4.text
 meMA.C2.poet = me.m01.d06_gr_GR_cog.meMA.C2.poet
+meMA.C2.translator = me.m01.d06_gr_GR_cog.meMA.C2.translator
 meMA.C2.title = me.m01.d06_gr_GR_cog.meMA.C2.title
 meMA.C2.verse = me.m01.d06_gr_GR_cog.meMA.C2.verse
 

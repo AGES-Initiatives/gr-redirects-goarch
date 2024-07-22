@@ -385,6 +385,7 @@ meLI.Kontakion1.text = me.m07.d25_gr_GR_cog.meLI.Kontakion1.text
 meLI.Megalynarion.text = me.m07.d25_gr_GR_cog.meLI.Megalynarion.text
 
 //Supplemental
+meR001 = me.m07.d25_gr_GR_cog.meR001
 
 alt1.meMA.Kathisma31.mode = me.m07.d25_gr_GR_cog.alt1.meMA.Kathisma31.mode
 alt1.meMA.Kathisma31.greekmelody = me.m07.d25_gr_GR_cog.alt1.meMA.Kathisma31.greekmelody

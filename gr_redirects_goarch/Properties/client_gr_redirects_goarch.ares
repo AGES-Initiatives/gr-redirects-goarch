@@ -58,6 +58,8 @@ cl.localpatronsaint1.supplication = client_gr_US_goa.cl.localpatronsaint1.suppli
 cl.localpatronsaint1.dismissal = client_gr_US_goa.cl.localpatronsaint1.dismissal
 cl.localpatronsaint1.greatcompline = client_gr_US_goa.cl.localpatronsaint1.greatcompline
 
+cl.localchurch.title = client_gr_US_goa.cl.localchurch.title
+
 cl.Apolytikion1.title = client_gr_US_goa.cl.Apolytikion1.title
 cl.Apolytikion1.mode = client_gr_US_goa.cl.Apolytikion1.mode
 cl.Apolytikion1.melody = client_gr_US_goa.cl.Apolytikion1.melody

@@ -27,8 +27,6 @@ cl.bishop2.name_c = client_gr_US_goa.cl.bishop2.name_c
 cl.bishop2.name_p = client_gr_US_goa.cl.bishop2.name_p
 cl.bishop2.fimi.text = client_gr_US_goa.cl.bishop2.fimi.text
 
-cl.ordinand_name.text = client_gr_US_goa.cl.ordinand_name.text //changes for each ordination 
-
 //Set these options here to effect client generation
 //cl.double_commemoration.bishop1and2 = "" //blank or yes
 cl.fimi.bishop1 = client_gr_US_goa.cl.fimi.bishop1 // blank or yes

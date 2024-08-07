@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m08.d24_gr_redirects_goarch
 
 syMA.commemoration01.text = sy.m08.d24_gr_GR_cog.syMA.commemoration01.text
+syMA.commemoration01as02.text = sy.m08.d24_gr_GR_cog.syMA.commemoration01as02.text
 syMA.commemoration01.couplet1.title = sy.m08.d24_gr_GR_cog.syMA.commemoration01.couplet1.title
 syMA.commemoration01.couplet1.verse1 = sy.m08.d24_gr_GR_cog.syMA.commemoration01.couplet1.verse1
 syMA.commemoration01.couplet1.verse2 = sy.m08.d24_gr_GR_cog.syMA.commemoration01.couplet1.verse2
@@ -28,6 +29,13 @@ syMA.commemoration05.text = sy.m08.d24_gr_GR_cog.syMA.commemoration05.text
 syMA.commemoration05.couplet1.title = sy.m08.d24_gr_GR_cog.syMA.commemoration05.couplet1.title
 syMA.commemoration05.couplet1.verse1 = sy.m08.d24_gr_GR_cog.syMA.commemoration05.couplet1.verse1
 syMA.commemoration05.couplet1.verse2 = sy.m08.d24_gr_GR_cog.syMA.commemoration05.couplet1.verse2
+
+alt2.syMA.commemoration01.text = sy.m08.d24_gr_GR_cog.alt2.syMA.commemoration01.text
+alt2.syMA.commemoration01.couplet1.title = sy.m08.d24_gr_GR_cog.alt2.syMA.commemoration01.couplet1.title
+alt2.syMA.commemoration01.couplet1.verse1 = sy.m08.d24_gr_GR_cog.alt2.syMA.commemoration01.couplet1.verse1
+alt2.syMA.commemoration01.couplet1.verse2 = sy.m08.d24_gr_GR_cog.alt2.syMA.commemoration01.couplet1.verse2
+alt2.syMA.commemoration01.single1 = sy.m08.d24_gr_GR_cog.alt2.syMA.commemoration01.single1
+alt2.syMA.commemoration01.narration.p01 = sy.m08.d24_gr_GR_cog.alt2.syMA.commemoration01.narration.p01
 
 syMA.lastline = sy.m08.d24_gr_GR_cog.syMA.lastline
 

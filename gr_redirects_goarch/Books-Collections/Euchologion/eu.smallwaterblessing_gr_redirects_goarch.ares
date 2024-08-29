@@ -235,7 +235,11 @@ euSWB.Key0404.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0404.text
 euSWB.Key0405.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0405.text
 
 euSWB.R501 = eu.smallwaterblessing_gr_GR_cog.euSWB.R501
+euSWB.Key0501.incipit = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501.incipit
 euSWB.Key0501.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501.text
+euSWB.Key0501a.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501a.text
+euSWB.Key0501b.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501b.text
+euSWB.Key0501c.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501c.text
 
 euSWB.Key0502.title = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0502.title
 euSWB.Key0502.incipit = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0502.incipit

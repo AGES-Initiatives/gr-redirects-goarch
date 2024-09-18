@@ -391,6 +391,7 @@ ti.TheCanon = titles_gr_GR_cog.ti.TheCanon
 ti.TheCanonFeast = titles_gr_GR_cog.ti.TheCanonFeast
 ti.TheCanonGeneralMenaion = titles_gr_GR_cog.ti.TheCanonGeneralMenaion
 ti.TheCanonMenaion = titles_gr_GR_cog.ti.TheCanonMenaion
+ti.TheCreed = titles_gr_GR_cog.ti.TheCreed
 ti.Theotokia = titles_gr_GR_cog.ti.Theotokia
 ti.Theotokion = titles_gr_GR_cog.ti.Theotokion
 ti.Theotokos = titles_gr_GR_cog.ti.Theotokos

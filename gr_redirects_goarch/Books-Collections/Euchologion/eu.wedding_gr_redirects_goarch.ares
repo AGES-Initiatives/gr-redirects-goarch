@@ -27,11 +27,17 @@ euWED.Key0215.text = eu.wedding_gr_GR_cog.euWED.Key0215.text
 euWED.Key0216.text = eu.wedding_gr_GR_cog.euWED.Key0216.text
 euWED.Key0217.text = eu.wedding_gr_GR_cog.euWED.Key0217.text
 
+euWED.Key0220.title = eu.wedding_gr_GR_cog.euWED.Key0220.title
+euWED.MM.Prokeimenon.text = eu.wedding_gr_GR_cog.euWED.MM.Prokeimenon.text
+euWED.MM.Alleluia.text = eu.wedding_gr_GR_cog.euWED.MM.Alleluia.text
+
 euWED.Key0301.text = eu.wedding_gr_GR_cog.euWED.Key0301.text
 euWED.Key0302.text = eu.wedding_gr_GR_cog.euWED.Key0302.text
 euWED.Key0303.title = eu.wedding_gr_GR_cog.euWED.Key0303.title
 euWED.Key0303.text = eu.wedding_gr_GR_cog.euWED.Key0303.text
 euWED.Key0304.text = eu.wedding_gr_GR_cog.euWED.Key0304.text
+
+euWED.MM.CommunionHymn.text = eu.wedding_gr_GR_cog.euWED.MM.CommunionHymn.text
 
 euWED.Key0306.title = eu.wedding_gr_GR_cog.euWED.Key0306.title
 euWED.Key0306.mode = eu.wedding_gr_GR_cog.euWED.Key0306.mode

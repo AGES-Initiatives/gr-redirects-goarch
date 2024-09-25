@@ -468,3 +468,9 @@ peLI.TheotokosHymn.text = pe.d078_gr_GR_cog.peLI.TheotokosHymn.text
 peLI.MM.CommunionHymn.text = pe.d078_gr_GR_cog.peLI.MM.CommunionHymn.text
 
 peLI.Megalynarion.text = pe.d078_gr_GR_cog.peLI.Megalynarion.text
+
+alt1.peVE.Apolytikion1.mode = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.mode
+alt1.peVE.Apolytikion1.greekmelody = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.greekmelody
+alt1.peVE.Apolytikion1.melody = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.melody
+alt1.peVE.Apolytikion1.incipit = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.incipit
+alt1.peVE.Apolytikion1.text = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.text

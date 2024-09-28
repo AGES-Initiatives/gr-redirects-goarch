@@ -91,6 +91,11 @@ bishop.joachim.dad.pet19.text = hierarchs_gr_US_goa.bishop.joachim.dad.pet19.tex
 bishop.joachim.commemoration.text = hierarchs_gr_US_goa.bishop.joachim.commemoration.text
 bishop.joachim.dad.petOrdination01a.text = hierarchs_gr_US_goa.bishop.joachim.dad.petOrdination01a.text
 
+bishop.nektarios.dad.pet06.text = hierarchs_gr_US_goa.bishop.nektarios.dad.pet06.text
+bishop.nektarios.dad.pet19.text = hierarchs_gr_US_goa.bishop.nektarios.dad.pet19.text
+bishop.nektarios.commemoration.text = hierarchs_gr_US_goa.bishop.nektarios.commemoration.text
+bishop.nektarios.dad.petOrdination01a.text = hierarchs_gr_US_goa.bishop.nektarios.dad.petOrdination01a.text
+
 bishop.timothy.chicago.pet06.text = hierarchs_gr_US_goa.bishop.timothy.chicago.pet06.text
 bishop.timothy.chicago.pet19.text = hierarchs_gr_US_goa.bishop.timothy.chicago.pet19.text
 bishop.timothy.commemoration.text = hierarchs_gr_US_goa.bishop.timothy.commemoration.text

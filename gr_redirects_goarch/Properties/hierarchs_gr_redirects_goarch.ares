@@ -1,106 +1,111 @@
 A_Resource_Whose_Name = hierarchs_gr_redirects_goarch
 
-patriarch.bartholomew.fimi.text = hierarchs_gr_US_goa.patriarch.bartholomew.fimi.text
-patriarch.bartholomew.entrance.text = hierarchs_gr_US_goa.patriarch.bartholomew.entrance.text
-patriarch.bartholomew.commemoration.text = hierarchs_gr_US_goa.patriarch.bartholomew.commemoration.text
+hierECU.fimi.text = hierarchs_gr_US_goa.hierECU.fimi.text
+hierECU.entrance.text = hierarchs_gr_US_goa.hierECU.entrance.text
+hierECU.commemoration.text = hierarchs_gr_US_goa.hierECU.commemoration.text
 
-archbishop.america.elpidophoros.pet06.text = hierarchs_gr_US_goa.archbishop.america.elpidophoros.pet06.text
-archbishop.america.elpidophoros.fimi.text = hierarchs_gr_US_goa.archbishop.america.elpidophoros.fimi.text
-archbishop.america.elpidophoros.away_fimi.text = hierarchs_gr_US_goa.archbishop.america.elpidophoros.away_fimi.text
-archbishop.america.elpidophoros.pet19.text = hierarchs_gr_US_goa.archbishop.america.elpidophoros.pet19.text
-archbishop.america.elpidophoros.entrance.text = hierarchs_gr_US_goa.archbishop.america.elpidophoros.entrance.text
-archbishop.america.elpidophoros.commemoration.text = hierarchs_gr_US_goa.archbishop.america.elpidophoros.commemoration.text
-archbishop.america.elpidophoros.petOrdination01a.text = hierarchs_gr_US_goa.archbishop.america.elpidophoros.petOrdination01a.text
+hierAME.pet06.text = hierarchs_gr_US_goa.hierAME.pet06.text
+hierAME.fimi.text = hierarchs_gr_US_goa.hierAME.fimi.text
+hierAME.away_fimi.text = hierarchs_gr_US_goa.hierAME.away_fimi.text
+hierAME.pet19.text = hierarchs_gr_US_goa.hierAME.pet19.text
+hierAME.entrance.text = hierarchs_gr_US_goa.hierAME.entrance.text
+hierAME.commemoration.text = hierarchs_gr_US_goa.hierAME.commemoration.text
+hierAME.con_ord_petition_name.text = hierarchs_gr_US_goa.hierAME.con_ord_petition_name.text
 
-metropolitan.atlanta.alexios.pet06.text = hierarchs_gr_US_goa.metropolitan.atlanta.alexios.pet06.text
-metropolitan.atlanta.alexios.fimi.text = hierarchs_gr_US_goa.metropolitan.atlanta.alexios.fimi.text
-metropolitan.atlanta.alexios.away_fimi.text = hierarchs_gr_US_goa.metropolitan.atlanta.alexios.away_fimi.text
-metropolitan.atlanta.alexios.pet19.text = hierarchs_gr_US_goa.metropolitan.atlanta.alexios.pet19.text
-metropolitan.atlanta.alexios.entrance.text = hierarchs_gr_US_goa.metropolitan.atlanta.alexios.entrance.text
-metropolitan.atlanta.alexios.commemoration.text = hierarchs_gr_US_goa.metropolitan.atlanta.alexios.commemoration.text
-metropolitan.atlanta.alexios.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.atlanta.alexios.petOrdination01a.text
+hierATL.pet06.text = hierarchs_gr_US_goa.hierATL.pet06.text
+hierATL.fimi.text = hierarchs_gr_US_goa.hierATL.fimi.text
+hierATL.away_fimi.text = hierarchs_gr_US_goa.hierATL.away_fimi.text
+hierATL.pet19.text = hierarchs_gr_US_goa.hierATL.pet19.text
+hierATL.entrance.text = hierarchs_gr_US_goa.hierATL.entrance.text
+hierATL.commemoration.text = hierarchs_gr_US_goa.hierATL.commemoration.text
+hierATL.con_ord_petition_name.text = hierarchs_gr_US_goa.hierATL.con_ord_petition_name.text
 
-metropolitan.boston.methodios.pet06.text = hierarchs_gr_US_goa.metropolitan.boston.methodios.pet06.text
-metropolitan.boston.methodios.fimi.text = hierarchs_gr_US_goa.metropolitan.boston.methodios.fimi.text
-metropolitan.boston.methodios.away_fimi.text = hierarchs_gr_US_goa.metropolitan.boston.methodios.away_fimi.text
-metropolitan.boston.methodios.pet19.text = hierarchs_gr_US_goa.metropolitan.boston.methodios.pet19.text
-metropolitan.boston.methodios.entrance.text = hierarchs_gr_US_goa.metropolitan.boston.methodios.entrance.text
-metropolitan.boston.methodios.commemoration.text = hierarchs_gr_US_goa.metropolitan.boston.methodios.commemoration.text
-metropolitan.boston.methodios.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.boston.methodios.petOrdination01a.text
+hierBOS.pet06.text = hierarchs_gr_US_goa.hierBOS.pet06.text
+hierBOS.fimi.text = hierarchs_gr_US_goa.hierBOS.fimi.text
+hierBOS.away_fimi.text = hierarchs_gr_US_goa.hierBOS.away_fimi.text
+hierBOS.pet19.text = hierarchs_gr_US_goa.hierBOS.pet19.text
+hierBOS.entrance.text = hierarchs_gr_US_goa.hierBOS.entrance.text
+hierBOS.commemoration.text = hierarchs_gr_US_goa.hierBOS.commemoration.text
+hierBOS.con_ord_petition_name.text = hierarchs_gr_US_goa.hierBOS.con_ord_petition_name.text
 
-metropolitan.chicago.nathanael.pet06.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.pet06.text
-metropolitan.chicago.nathanael.fimi.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.fimi.text
-metropolitan.chicago.nathanael.away_fimi.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.away_fimi.text
-metropolitan.chicago.nathanael.pet19.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.pet19.text
-metropolitan.chicago.nathanael.entrance.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.entrance.text
-metropolitan.chicago.nathanael.commemoration.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.commemoration.text
-metropolitan.chicago.nathanael.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.chicago.nathanael.petOrdination01a.text
+hierCHI.pet06.text = hierarchs_gr_US_goa.hierCHI.pet06.text
+hierCHI.fimi.text = hierarchs_gr_US_goa.hierCHI.fimi.text
+hierCHI.away_fimi.text = hierarchs_gr_US_goa.hierCHI.away_fimi.text
+hierCHI.pet19.text = hierarchs_gr_US_goa.hierCHI.pet19.text
+hierCHI.entrance.text = hierarchs_gr_US_goa.hierCHI.entrance.text
+hierCHI.commemoration.text = hierarchs_gr_US_goa.hierCHI.commemoration.text
+hierCHI.con_ord_petition_name.text = hierarchs_gr_US_goa.hierCHI.con_ord_petition_name.text
 
-metropolitan.denver.constantine.pet06.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.pet06.text
-metropolitan.denver.constantine.fimi.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.fimi.text
-metropolitan.denver.constantine.away_fimi.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.away_fimi.text
-metropolitan.denver.constantine.pet19.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.pet19.text
-metropolitan.denver.constantine.entrance.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.entrance.text
-metropolitan.denver.constantine.commemoration.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.commemoration.text
-metropolitan.denver.constantine.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.denver.constantine.petOrdination01a.text
+hierDEN.pet06.text = hierarchs_gr_US_goa.hierDEN.pet06.text
+hierDEN.fimi.text = hierarchs_gr_US_goa.hierDEN.fimi.text
+hierDEN.away_fimi.text = hierarchs_gr_US_goa.hierDEN.away_fimi.text
+hierDEN.pet19.text = hierarchs_gr_US_goa.hierDEN.pet19.text
+hierDEN.entrance.text = hierarchs_gr_US_goa.hierDEN.entrance.text
+hierDEN.commemoration.text = hierarchs_gr_US_goa.hierDEN.commemoration.text
+hierDEN.con_ord_petition_name.text = hierarchs_gr_US_goa.hierDEN.con_ord_petition_name.text
 
-metropolitan.detroit.nicholas.pet06.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.pet06.text
-metropolitan.detroit.nicholas.fimi.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.fimi.text
-metropolitan.detroit.nicholas.away_fimi.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.away_fimi.text
-metropolitan.detroit.nicholas.pet19.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.pet19.text
-metropolitan.detroit.nicholas.entrance.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.entrance.text
-metropolitan.detroit.nicholas.commemoration.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.commemoration.text
-metropolitan.detroit.nicholas.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.detroit.nicholas.petOrdination01a.text
+hierDET.pet06.text = hierarchs_gr_US_goa.hierDET.pet06.text
+hierDET.fimi.text = hierarchs_gr_US_goa.hierDET.fimi.text
+hierDET.away_fimi.text = hierarchs_gr_US_goa.hierDET.away_fimi.text
+hierDET.pet19.text = hierarchs_gr_US_goa.hierDET.pet19.text
+hierDET.entrance.text = hierarchs_gr_US_goa.hierDET.entrance.text
+hierDET.commemoration.text = hierarchs_gr_US_goa.hierDET.commemoration.text
+hierDET.con_ord_petition_name.text = hierarchs_gr_US_goa.hierDET.con_ord_petition_name.text
 
-metropolitan.newjersey.apostolos.pet06.text = hierarchs_gr_US_goa.metropolitan.newjersey.apostolos.pet06.text
-metropolitan.newjersey.apostolos.fimi.text = hierarchs_gr_US_goa.metropolitan.newjersey.apostolos.fimi.text
-metropolitan.newjersey.apostolos.away_fimi.text = hierarchs_gr_US_goa.metropolitan.newjersey.apostolos.away_fimi.text
-metropolitan.newjersey.apostolos.pet19.text = hierarchs_gr_US_goa.metropolitan.newjersey.apostolos.pet19.text
-metropolitan.newjersey.apostolos.entrance.text = hierarchs_gr_US_goa.metropolitan.newjersey.apostolos.entrance.text
-metropolitan.newjersey.apostolos.commemoration.text = hierarchs_gr_US_goa.metropolitan.newjersey.apostolos.commemoration.text
-metropolitan.newjersey.apostolos.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.newjersey.apostolos.petOrdination01a.text
+hierNEW.pet06.text = hierarchs_gr_US_goa.hierNEW.pet06.text
+hierNEW.fimi.text = hierarchs_gr_US_goa.hierNEW.fimi.text
+hierNEW.away_fimi.text = hierarchs_gr_US_goa.hierNEW.away_fimi.text
+hierNEW.pet19.text = hierarchs_gr_US_goa.hierNEW.pet19.text
+hierNEW.entrance.text = hierarchs_gr_US_goa.hierNEW.entrance.text
+hierNEW.commemoration.text = hierarchs_gr_US_goa.hierNEW.commemoration.text
+hierNEW.con_ord_petition_name.text = hierarchs_gr_US_goa.hierNEW.con_ord_petition_name.text
 
-metropolitan.pittsburgh.savas.pet06.text = hierarchs_gr_US_goa.metropolitan.pittsburgh.savas.pet06.text
-metropolitan.pittsburgh.savas.fimi.text = hierarchs_gr_US_goa.metropolitan.pittsburgh.savas.fimi.text
-metropolitan.pittsburgh.savas.away_fimi.text = hierarchs_gr_US_goa.metropolitan.pittsburgh.savas.away_fimi.text
-metropolitan.pittsburgh.savas.pet19.text = hierarchs_gr_US_goa.metropolitan.pittsburgh.savas.pet19.text
-metropolitan.pittsburgh.savas.entrance.text = hierarchs_gr_US_goa.metropolitan.pittsburgh.savas.entrance.text
-metropolitan.pittsburgh.savas.commemoration.text = hierarchs_gr_US_goa.metropolitan.pittsburgh.savas.commemoration.text
-metropolitan.pittsburgh.savas.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.pittsburgh.savas.petOrdination01a.text
+hierPIT.pet06.text = hierarchs_gr_US_goa.hierPIT.pet06.text
+hierPIT.fimi.text = hierarchs_gr_US_goa.hierPIT.fimi.text
+hierPIT.away_fimi.text = hierarchs_gr_US_goa.hierPIT.away_fimi.text
+hierPIT.pet19.text = hierarchs_gr_US_goa.hierPIT.pet19.text
+hierPIT.entrance.text = hierarchs_gr_US_goa.hierPIT.entrance.text
+hierPIT.commemoration.text = hierarchs_gr_US_goa.hierPIT.commemoration.text
+hierPIT.con_ord_petition_name.text = hierarchs_gr_US_goa.hierPIT.con_ord_petition_name.text
 
-metropolitan.sanfrancisco.gerasimos.pet06.text = hierarchs_gr_US_goa.metropolitan.sanfrancisco.gerasimos.pet06.text
-metropolitan.sanfrancisco.gerasimos.fimi.text = hierarchs_gr_US_goa.metropolitan.sanfrancisco.gerasimos.fimi.text
-metropolitan.sanfrancisco.gerasimos.away_fimi.text = hierarchs_gr_US_goa.metropolitan.sanfrancisco.gerasimos.away_fimi.text
-metropolitan.sanfrancisco.gerasimos.pet19.text = hierarchs_gr_US_goa.metropolitan.sanfrancisco.gerasimos.pet19.text
-metropolitan.sanfrancisco.gerasimos.entrance.text = hierarchs_gr_US_goa.metropolitan.sanfrancisco.gerasimos.entrance.text
-metropolitan.sanfrancisco.gerasimos.commemoration.text = hierarchs_gr_US_goa.metropolitan.sanfrancisco.gerasimos.commemoration.text
-metropolitan.sanfrancisco.gerasimos.petOrdination01a.text = hierarchs_gr_US_goa.metropolitan.sanfrancisco.gerasimos.petOrdination01a.text
+hierSAN.pet06.text = hierarchs_gr_US_goa.hierSAN.pet06.text
+hierSAN.fimi.text = hierarchs_gr_US_goa.hierSAN.fimi.text
+hierSAN.away_fimi.text = hierarchs_gr_US_goa.hierSAN.away_fimi.text
+hierSAN.pet19.text = hierarchs_gr_US_goa.hierSAN.pet19.text
+hierSAN.entrance.text = hierarchs_gr_US_goa.hierSAN.entrance.text
+hierSAN.commemoration.text = hierarchs_gr_US_goa.hierSAN.commemoration.text
+hierSAN.con_ord_petition_name.text = hierarchs_gr_US_goa.hierSAN.con_ord_petition_name.text
 
 bishop.athenagoras.sanfrancisco.pet06.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.pet06.text
 bishop.athenagoras.sanfrancisco.pet19.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.pet19.text
 bishop.athenagoras.commemoration.text = hierarchs_gr_US_goa.bishop.athenagoras.commemoration.text
-bishop.athenagoras.sanfrancisco.petOrdination01a.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.petOrdination01a.text
+bishop.athenagoras.sanfrancisco.con_ord_petition_name.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.con_ord_petition_name.text
 
 bishop.ioannis.sanfrancisco.pet06.text = hierarchs_gr_US_goa.bishop.ioannis.sanfrancisco.pet06.text
 bishop.ioannis.sanfrancisco.pet19.text = hierarchs_gr_US_goa.bishop.ioannis.sanfrancisco.pet19.text
 bishop.ioannis.commemoration.text = hierarchs_gr_US_goa.bishop.ioannis.commemoration.text
-bishop.ioannis.sanfrancisco.petOrdination01a.text = hierarchs_gr_US_goa.bishop.ioannis.sanfrancisco.petOrdination01a.text
+bishop.ioannis.sanfrancisco.con_ord_petition_name.text = hierarchs_gr_US_goa.bishop.ioannis.sanfrancisco.con_ord_petition_name.text
 
 bishop.joachim.dad.pet06.text = hierarchs_gr_US_goa.bishop.joachim.dad.pet06.text
 bishop.joachim.dad.pet19.text = hierarchs_gr_US_goa.bishop.joachim.dad.pet19.text
 bishop.joachim.commemoration.text = hierarchs_gr_US_goa.bishop.joachim.commemoration.text
-bishop.joachim.dad.petOrdination01a.text = hierarchs_gr_US_goa.bishop.joachim.dad.petOrdination01a.text
+bishop.joachim.dad.con_ord_petition_name.text = hierarchs_gr_US_goa.bishop.joachim.dad.con_ord_petition_name.text
 
 bishop.nektarios.dad.pet06.text = hierarchs_gr_US_goa.bishop.nektarios.dad.pet06.text
 bishop.nektarios.dad.pet19.text = hierarchs_gr_US_goa.bishop.nektarios.dad.pet19.text
 bishop.nektarios.commemoration.text = hierarchs_gr_US_goa.bishop.nektarios.commemoration.text
-bishop.nektarios.dad.petOrdination01a.text = hierarchs_gr_US_goa.bishop.nektarios.dad.petOrdination01a.text
+bishop.nektarios.dad.con_ord_petition_name.text = hierarchs_gr_US_goa.bishop.nektarios.dad.con_ord_petition_name.text
 
 bishop.timothy.chicago.pet06.text = hierarchs_gr_US_goa.bishop.timothy.chicago.pet06.text
 bishop.timothy.chicago.pet19.text = hierarchs_gr_US_goa.bishop.timothy.chicago.pet19.text
 bishop.timothy.commemoration.text = hierarchs_gr_US_goa.bishop.timothy.commemoration.text
-bishop.timothy.chicago.petOrdination01a.text = hierarchs_gr_US_goa.bishop.timothy.chicago.petOrdination01a.text
+bishop.timothy.chicago.con_ord_petition_name.text = hierarchs_gr_US_goa.bishop.timothy.chicago.con_ord_petition_name.text
 
 ordinand.name.acc.text = hierarchs_gr_US_goa.ordinand.name.acc.text
 ordinand.name.gen.text = hierarchs_gr_US_goa.ordinand.name.gen.text
 
+ordinand.deacon1.acc.text = hierarchs_gr_US_goa.ordinand.deacon1.acc.text
+ordinand.deacon1.gen.text = hierarchs_gr_US_goa.ordinand.deacon1.gen.text
+
+ordinand.deacon2.acc.text = hierarchs_gr_US_goa.ordinand.deacon2.acc.text
+ordinand.deacon2.gen.text = hierarchs_gr_US_goa.ordinand.deacon2.gen.text

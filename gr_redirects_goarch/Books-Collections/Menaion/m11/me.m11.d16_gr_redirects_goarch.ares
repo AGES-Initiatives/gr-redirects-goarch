@@ -419,3 +419,18 @@ meLI.Kontakion1.text = me.m11.d16_gr_GR_cog.meLI.Kontakion1.text
 meLI.MM.CommunionHymn.text = me.m11.d16_gr_GR_cog.meLI.MM.CommunionHymn.text
 
 meLI.Megalynarion.text = me.m11.d16_gr_GR_cog.meLI.Megalynarion.text
+
+alt1.meMA.PostGospelGlory.mode = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelGlory.mode
+alt1.meMA.PostGospelGlory.melody = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelGlory.melody
+alt1.meMA.PostGospelGlory.incipit = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelGlory.incipit
+alt1.meMA.PostGospelGlory.text = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelGlory.text
+
+alt1.meMA.PostGospelBoth.mode = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelBoth.mode
+alt1.meMA.PostGospelBoth.melody = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelBoth.melody
+alt1.meMA.PostGospelBoth.incipit = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelBoth.incipit
+alt1.meMA.PostGospelBoth.text = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelBoth.text
+
+alt1.meMA.PostGospelIdiomelon.mode = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelIdiomelon.mode
+alt1.meMA.PostGospelIdiomelon.melody = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelIdiomelon.melody
+alt1.meMA.PostGospelIdiomelon.incipit = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelIdiomelon.incipit
+alt1.meMA.PostGospelIdiomelon.text = me.m11.d16_gr_GR_cog.alt1.meMA.PostGospelIdiomelon.text

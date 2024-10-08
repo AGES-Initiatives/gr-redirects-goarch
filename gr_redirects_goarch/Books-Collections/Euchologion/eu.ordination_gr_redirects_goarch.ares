@@ -1,5 +1,6 @@
 A_Resource_Whose_Name = eu.ordination_gr_redirects_goarch
 
+euORD.SD.title = eu.ordination_gr_GR_cog.euORD.SD.title
 euORD.SD.p100.title = eu.ordination_gr_GR_cog.euORD.SD.p100.title
 euORD.SD.r01 = eu.ordination_gr_GR_cog.euORD.SD.r01
 euORD.SD.r02 = eu.ordination_gr_GR_cog.euORD.SD.r02
@@ -12,6 +13,7 @@ euORD.SD.p102.text = eu.ordination_gr_GR_cog.euORD.SD.p102.text
 euORD.SD.r04 = eu.ordination_gr_GR_cog.euORD.SD.r04
 euORD.SD.r05 = eu.ordination_gr_GR_cog.euORD.SD.r05
 
+euORD.DE.title = eu.ordination_gr_GR_cog.euORD.DE.title
 euORD.DE.p200.title = eu.ordination_gr_GR_cog.euORD.DE.p200.title
 euORD.DE.r01 = eu.ordination_gr_GR_cog.euORD.DE.r01
 euORD.DE.p201.text = eu.ordination_gr_GR_cog.euORD.DE.p201.text
@@ -55,6 +57,7 @@ euORD.DE.r16 = eu.ordination_gr_GR_cog.euORD.DE.r16
 euORD.DE.r17 = eu.ordination_gr_GR_cog.euORD.DE.r17
 euORD.DE.r18 = eu.ordination_gr_GR_cog.euORD.DE.r18
 
+euORD.PR.title = eu.ordination_gr_GR_cog.euORD.PR.title
 euORD.PR.p300.title = eu.ordination_gr_GR_cog.euORD.PR.p300.title
 euORD.PR.r01 = eu.ordination_gr_GR_cog.euORD.PR.r01
 euORD.PR.p301.text = eu.ordination_gr_GR_cog.euORD.PR.p301.text
@@ -84,6 +87,7 @@ euORD.PR.p307.text = eu.ordination_gr_GR_cog.euORD.PR.p307.text
 euORD.PR.r14 = eu.ordination_gr_GR_cog.euORD.PR.r14
 euORD.PR.r15 = eu.ordination_gr_GR_cog.euORD.PR.r15
 
+euORD.EP.title = eu.ordination_gr_US_goa.euORD.EP.title
 euORD.EP.p400.title = eu.ordination_gr_US_goa.euORD.EP.p400.title
 euORD.EP.r01 = eu.ordination_gr_US_goa.euORD.EP.r01
 euORD.EP.p401.text = eu.ordination_gr_US_goa.euORD.EP.p401.text
@@ -145,6 +149,7 @@ euORD.EP.r19 = eu.ordination_gr_US_goa.euORD.EP.r19
 euORD.EP.p417.text = eu.ordination_gr_US_goa.euORD.EP.p417.text
 euORD.EP.r20 = eu.ordination_gr_US_goa.euORD.EP.r20
 
+euORD.AD.title = eu.ordination_gr_GR_cog.euORD.AD.title
 euORD.AD.p500.title = eu.ordination_gr_GR_cog.euORD.AD.p500.title
 euORD.AD.r01 = eu.ordination_gr_GR_cog.euORD.AD.r01
 euORD.AD.r02 = eu.ordination_gr_GR_cog.euORD.AD.r02
@@ -157,6 +162,7 @@ euORD.AD.p503.text = eu.ordination_gr_GR_cog.euORD.AD.p503.text
 euORD.AD.r06 = eu.ordination_gr_GR_cog.euORD.AD.r06
 euORD.AD.p504.text = eu.ordination_gr_GR_cog.euORD.AD.p504.text
 
+euORD.OI.title = eu.ordination_gr_GR_cog.euORD.OI.title
 euORD.OI.p600.title = eu.ordination_gr_GR_cog.euORD.OI.p600.title
 euORD.OI.r01 = eu.ordination_gr_GR_cog.euORD.OI.r01
 euORD.OI.p601.text = eu.ordination_gr_GR_cog.euORD.OI.p601.text
@@ -164,6 +170,7 @@ euORD.OI.p601a.text = eu.ordination_gr_GR_cog.euORD.OI.p601a.text
 euORD.OI.p601b.text = eu.ordination_gr_GR_cog.euORD.OI.p601b.text
 euORD.OI.p601c.text = eu.ordination_gr_GR_cog.euORD.OI.p601c.text
 
+euORD.SF.title = eu.ordination_gr_GR_cog.euORD.SF.title
 euORD.SF.p700.title = eu.ordination_gr_GR_cog.euORD.SF.p700.title
 euORD.SF.r01 = eu.ordination_gr_GR_cog.euORD.SF.r01
 euORD.SF.p701.text = eu.ordination_gr_GR_cog.euORD.SF.p701.text
@@ -176,6 +183,7 @@ euORD.SF.p702a.text = eu.ordination_gr_GR_cog.euORD.SF.p702a.text
 euORD.SF.p702b.text = eu.ordination_gr_GR_cog.euORD.SF.p702b.text
 euORD.SF.p702c.text = eu.ordination_gr_GR_cog.euORD.SF.p702c.text
 
+euORD.PP.title = eu.ordination_gr_GR_cog.euORD.PP.title
 euORD.PP.p800.title = eu.ordination_gr_GR_cog.euORD.PP.p800.title
 euORD.PP.r01 = eu.ordination_gr_GR_cog.euORD.PP.r01
 euORD.PP.p801.text = eu.ordination_gr_GR_cog.euORD.PP.p801.text

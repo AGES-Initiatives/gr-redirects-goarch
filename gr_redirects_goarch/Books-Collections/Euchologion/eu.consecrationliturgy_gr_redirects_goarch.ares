@@ -1,0 +1,508 @@
+A_Resource_Whose_Name = eu.consecrationliturgy_gr_redirects_goarch
+
+euCON.Key1000.title = eu.consecrationliturgy_gr_US_goa.euCON.Key1000.title
+euCON.R100 = eu.consecrationliturgy_gr_US_goa.euCON.R100
+euCON.Key1001.title = eu.consecrationliturgy_gr_US_goa.euCON.Key1001.title
+euCON.Key1001.text = eu.consecrationliturgy_gr_US_goa.euCON.Key1001.text
+euCON.Key1002.title = eu.consecrationliturgy_gr_US_goa.euCON.Key1002.title
+euCON.Key1002.text = eu.consecrationliturgy_gr_US_goa.euCON.Key1002.text
+euCON.R101 = eu.consecrationliturgy_gr_US_goa.euCON.R101
+euCON.R102 = eu.consecrationliturgy_gr_US_goa.euCON.R102
+euCON.Key1003.mode = eu.consecrationliturgy_gr_US_goa.euCON.Key1003.mode
+euCON.Key1003.incipit = eu.consecrationliturgy_gr_US_goa.euCON.Key1003.incipit
+euCON.Key1003.text = eu.consecrationliturgy_gr_US_goa.euCON.Key1003.text
+euCON.Key1004.mode = eu.consecrationliturgy_gr_US_goa.euCON.Key1004.mode
+euCON.Key1004.incipit = eu.consecrationliturgy_gr_US_goa.euCON.Key1004.incipit
+euCON.Key1004.text = eu.consecrationliturgy_gr_US_goa.euCON.Key1004.text
+
+euCON.Key2000.title = eu.consecrationliturgy_gr_US_goa.euCON.Key2000.title
+
+euVE.Stichera01.mode = eu.consecrationliturgy_gr_US_goa.euVE.Stichera01.mode
+euVE.Stichera01.melody = eu.consecrationliturgy_gr_US_goa.euVE.Stichera01.melody
+euVE.Stichera01.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Stichera01.incipit
+euVE.Stichera01.text = eu.consecrationliturgy_gr_US_goa.euVE.Stichera01.text
+
+euVE.Stichera02.mode = eu.consecrationliturgy_gr_US_goa.euVE.Stichera02.mode
+euVE.Stichera02.melody = eu.consecrationliturgy_gr_US_goa.euVE.Stichera02.melody
+euVE.Stichera02.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Stichera02.incipit
+euVE.Stichera02.text = eu.consecrationliturgy_gr_US_goa.euVE.Stichera02.text
+
+euVE.Stichera03.poet = eu.consecrationliturgy_gr_US_goa.euVE.Stichera03.poet
+euVE.Stichera03.mode = eu.consecrationliturgy_gr_US_goa.euVE.Stichera03.mode
+euVE.Stichera03.melody = eu.consecrationliturgy_gr_US_goa.euVE.Stichera03.melody
+euVE.Stichera03.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Stichera03.incipit
+euVE.Stichera03.text = eu.consecrationliturgy_gr_US_goa.euVE.Stichera03.text
+
+euVE.Stichera04.poet = eu.consecrationliturgy_gr_US_goa.euVE.Stichera04.poet
+euVE.Stichera04.mode = eu.consecrationliturgy_gr_US_goa.euVE.Stichera04.mode
+euVE.Stichera04.melody = eu.consecrationliturgy_gr_US_goa.euVE.Stichera04.melody
+euVE.Stichera04.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Stichera04.incipit
+euVE.Stichera04.text = eu.consecrationliturgy_gr_US_goa.euVE.Stichera04.text
+
+euVE.MM.Stichera123as567.text = eu.consecrationliturgy_gr_US_goa.euVE.MM.Stichera123as567.text
+euVE.MM.Stichera1234as1234.text = eu.consecrationliturgy_gr_US_goa.euVE.MM.Stichera1234as1234.text
+euVE.MM.Stichera1234as3456.text = eu.consecrationliturgy_gr_US_goa.euVE.MM.Stichera1234as3456.text
+euVE.MM.Stichera1234as78910.text = eu.consecrationliturgy_gr_US_goa.euVE.MM.Stichera1234as78910.text
+
+euVE.SticBoth.poet = eu.consecrationliturgy_gr_US_goa.euVE.SticBoth.poet
+euVE.SticBoth.mode = eu.consecrationliturgy_gr_US_goa.euVE.SticBoth.mode
+euVE.SticBoth.melody = eu.consecrationliturgy_gr_US_goa.euVE.SticBoth.melody
+euVE.SticBoth.incipit = eu.consecrationliturgy_gr_US_goa.euVE.SticBoth.incipit
+euVE.SticBoth.text = eu.consecrationliturgy_gr_US_goa.euVE.SticBoth.text
+euVE.SticBoth1.text = eu.consecrationliturgy_gr_US_goa.euVE.SticBoth1.text
+euVE.SticBoth2.text = eu.consecrationliturgy_gr_US_goa.euVE.SticBoth2.text
+
+euVE.Aposticha1.poet = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha1.poet
+euVE.Aposticha1.mode = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha1.mode
+euVE.Aposticha1.melody = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha1.melody
+euVE.Aposticha1.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha1.incipit
+euVE.Aposticha1.text = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha1.text
+
+euVE.Aposticha2.poet = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha2.poet
+euVE.Aposticha2.mode = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha2.mode
+euVE.Aposticha2.melody = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha2.melody
+euVE.Aposticha2.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha2.incipit
+euVE.Aposticha2.text = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha2.text
+
+euVE.Aposticha3.poet = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha3.poet
+euVE.Aposticha3.mode = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha3.mode
+euVE.Aposticha3.melody = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha3.melody
+euVE.Aposticha3.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha3.incipit
+euVE.Aposticha3.text = eu.consecrationliturgy_gr_US_goa.euVE.Aposticha3.text
+
+euVE.AposGlory.mode = eu.consecrationliturgy_gr_US_goa.euVE.AposGlory.mode
+euVE.AposGlory.melody = eu.consecrationliturgy_gr_US_goa.euVE.AposGlory.melody
+euVE.AposGlory.incipit = eu.consecrationliturgy_gr_US_goa.euVE.AposGlory.incipit
+euVE.AposGlory.text = eu.consecrationliturgy_gr_US_goa.euVE.AposGlory.text
+
+euVE.Apolytikion.mode = eu.consecrationliturgy_gr_US_goa.euVE.Apolytikion.mode
+euVE.Apolytikion.melody = eu.consecrationliturgy_gr_US_goa.euVE.Apolytikion.melody
+euVE.Apolytikion.incipit = eu.consecrationliturgy_gr_US_goa.euVE.Apolytikion.incipit
+euVE.Apolytikion.text = eu.consecrationliturgy_gr_US_goa.euVE.Apolytikion.text
+
+euCON.Key3000.title = eu.consecrationliturgy_gr_US_goa.euCON.Key3000.title
+euMA.Kathisma11.mode = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma11.mode
+euMA.Kathisma11.melody = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma11.melody
+euMA.Kathisma11.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma11.incipit
+euMA.Kathisma11.text = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma11.text
+
+euMA.Kathisma21.mode = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma21.mode
+euMA.Kathisma21.melody = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma21.melody
+euMA.Kathisma21.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma21.incipit
+euMA.Kathisma21.text = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma21.text
+
+euMA.Kathisma31.mode = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma31.mode
+euMA.Kathisma31.melody = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma31.melody
+euMA.Kathisma31.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma31.incipit
+euMA.Kathisma31.text = eu.consecrationliturgy_gr_US_goa.euMA.Kathisma31.text
+
+euCA.MM.Ode1.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode1.text
+euCA.MM.Ode3.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode3.text
+euCA.MM.Ode4.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode4.text
+euCA.MM.Ode5.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode5.text
+euCA.MM.Ode6.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode6.text
+euCA.MM.Ode7.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode7.text
+euCA.MM.Ode8.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode8.text
+euCA.MM.Ode9.text = eu.consecrationliturgy_gr_GR_cog.euCA.MM.Ode9.text
+
+euCA.poet = eu.consecrationliturgy_gr_US_goa.euCA.poet
+euCA.title = eu.consecrationliturgy_gr_US_goa.euCA.title
+euCA.verse = eu.consecrationliturgy_gr_US_goa.euCA.verse
+
+euCA.Ode11.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode11.ode
+euCA.Ode11.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode11.mode
+euCA.Ode11.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode11.greekmelody
+euCA.Ode11.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode11.melody
+euCA.Ode11.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode11.incipit
+euCA.Ode11.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode11.text
+
+euCA.Ode12.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode12.ode
+euCA.Ode12.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode12.mode
+euCA.Ode12.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode12.melody
+euCA.Ode12.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode12.incipit
+euCA.Ode12.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode12.text
+
+euCA.Ode13.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode13.ode
+euCA.Ode13.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode13.mode
+euCA.Ode13.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode13.melody
+euCA.Ode13.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode13.incipit
+euCA.Ode13.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode13.text
+
+euCA.Ode1T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode1T.ode
+euCA.Ode1T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode1T.mode
+euCA.Ode1T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode1T.melody
+euCA.Ode1T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode1T.incipit
+euCA.Ode1T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode1T.text
+
+euCA.Ode31.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode31.ode
+euCA.Ode31.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode31.mode
+euCA.Ode31.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode31.greekmelody
+euCA.Ode31.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode31.melody
+euCA.Ode31.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode31.incipit
+euCA.Ode31.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode31.text
+
+euCA.Ode32.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode32.ode
+euCA.Ode32.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode32.mode
+euCA.Ode32.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode32.melody
+euCA.Ode32.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode32.incipit
+euCA.Ode32.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode32.text
+
+euCA.Ode33.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode33.ode
+euCA.Ode33.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode33.mode
+euCA.Ode33.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode33.melody
+euCA.Ode33.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode33.incipit
+euCA.Ode33.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode33.text
+
+euCA.Ode3T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode3T.ode
+euCA.Ode3T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode3T.mode
+euCA.Ode3T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode3T.melody
+euCA.Ode3T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode3T.incipit
+euCA.Ode3T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode3T.text
+
+euMA.Ode3Kathisma1.mode = eu.consecrationliturgy_gr_US_goa.euMA.Ode3Kathisma1.mode
+euMA.Ode3Kathisma1.melody = eu.consecrationliturgy_gr_US_goa.euMA.Ode3Kathisma1.melody
+euMA.Ode3Kathisma1.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Ode3Kathisma1.incipit
+euMA.Ode3Kathisma1.text = eu.consecrationliturgy_gr_US_goa.euMA.Ode3Kathisma1.text
+
+euMA.Ode3KathismaT.mode = eu.consecrationliturgy_gr_US_goa.euMA.Ode3KathismaT.mode
+euMA.Ode3KathismaT.melody = eu.consecrationliturgy_gr_US_goa.euMA.Ode3KathismaT.melody
+euMA.Ode3KathismaT.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Ode3KathismaT.incipit
+euMA.Ode3KathismaT.text = eu.consecrationliturgy_gr_US_goa.euMA.Ode3KathismaT.text
+
+euCA.Ode41.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode41.ode
+euCA.Ode41.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode41.mode
+euCA.Ode41.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode41.greekmelody
+euCA.Ode41.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode41.melody
+euCA.Ode41.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode41.incipit
+euCA.Ode41.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode41.text
+
+euCA.Ode42.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode42.ode
+euCA.Ode42.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode42.mode
+euCA.Ode42.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode42.melody
+euCA.Ode42.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode42.incipit
+euCA.Ode42.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode42.text
+
+euCA.Ode43.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode43.ode
+euCA.Ode43.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode43.mode
+euCA.Ode43.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode43.melody
+euCA.Ode43.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode43.incipit
+euCA.Ode43.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode43.text
+
+euCA.Ode4T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode4T.ode
+euCA.Ode4T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode4T.mode
+euCA.Ode4T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode4T.melody
+euCA.Ode4T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode4T.incipit
+euCA.Ode4T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode4T.text
+
+euCA.Ode51.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode51.ode
+euCA.Ode51.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode51.mode
+euCA.Ode51.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode51.greekmelody
+euCA.Ode51.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode51.melody
+euCA.Ode51.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode51.incipit
+euCA.Ode51.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode51.text
+
+euCA.Ode52.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode52.ode
+euCA.Ode52.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode52.mode
+euCA.Ode52.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode52.melody
+euCA.Ode52.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode52.incipit
+euCA.Ode52.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode52.text
+
+euCA.Ode53.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode53.ode
+euCA.Ode53.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode53.mode
+euCA.Ode53.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode53.melody
+euCA.Ode53.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode53.incipit
+euCA.Ode53.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode53.text
+
+euCA.Ode5T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode5T.ode
+euCA.Ode5T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode5T.mode
+euCA.Ode5T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode5T.melody
+euCA.Ode5T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode5T.incipit
+euCA.Ode5T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode5T.text
+
+euCA.Ode61.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode61.ode
+euCA.Ode61.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode61.mode
+euCA.Ode61.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode61.greekmelody
+euCA.Ode61.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode61.melody
+euCA.Ode61.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode61.incipit
+euCA.Ode61.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode61.text
+
+euCA.Ode62.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode62.ode
+euCA.Ode62.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode62.mode
+euCA.Ode62.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode62.melody
+euCA.Ode62.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode62.incipit
+euCA.Ode62.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode62.text
+
+euCA.Ode63.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode63.ode
+euCA.Ode63.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode63.mode
+euCA.Ode63.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode63.melody
+euCA.Ode63.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode63.incipit
+euCA.Ode63.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode63.text
+
+euCA.Ode6T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode6T.ode
+euCA.Ode6T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode6T.mode
+euCA.Ode6T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode6T.melody
+euCA.Ode6T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode6T.incipit
+euCA.Ode6T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode6T.text
+
+euMA.Kontakion.mode = eu.consecrationliturgy_gr_US_goa.euMA.Kontakion.mode
+euMA.Kontakion.melody = eu.consecrationliturgy_gr_US_goa.euMA.Kontakion.melody
+euMA.Kontakion.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Kontakion.incipit
+euMA.Kontakion.text = eu.consecrationliturgy_gr_US_goa.euMA.Kontakion.text
+
+euMA.Oikos.text = eu.consecrationliturgy_gr_US_goa.euMA.Oikos.text
+
+euCA.Ode71.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode71.ode
+euCA.Ode71.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode71.mode
+euCA.Ode71.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode71.greekmelody
+euCA.Ode71.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode71.melody
+euCA.Ode71.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode71.incipit
+euCA.Ode71.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode71.text
+
+euCA.Ode72.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode72.ode
+euCA.Ode72.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode72.mode
+euCA.Ode72.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode72.melody
+euCA.Ode72.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode72.incipit
+euCA.Ode72.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode72.text
+
+euCA.Ode73.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode73.ode
+euCA.Ode73.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode73.mode
+euCA.Ode73.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode73.melody
+euCA.Ode73.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode73.incipit
+euCA.Ode73.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode73.text
+
+euCA.Ode7T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode7T.ode
+euCA.Ode7T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode7T.mode
+euCA.Ode7T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode7T.melody
+euCA.Ode7T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode7T.incipit
+euCA.Ode7T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode7T.text
+
+euCA.Ode81.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode81.ode
+euCA.Ode81.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode81.mode
+euCA.Ode81.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode81.greekmelody
+euCA.Ode81.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode81.melody
+euCA.Ode81.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode81.incipit
+euCA.Ode81.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode81.text
+
+euCA.Ode82.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode82.ode
+euCA.Ode82.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode82.mode
+euCA.Ode82.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode82.melody
+euCA.Ode82.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode82.incipit
+euCA.Ode82.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode82.text
+
+euCA.Ode83.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode83.ode
+euCA.Ode83.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode83.mode
+euCA.Ode83.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode83.melody
+euCA.Ode83.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode83.incipit
+euCA.Ode83.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode83.text
+
+euCA.Ode8T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode8T.ode
+euCA.Ode8T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode8T.mode
+euCA.Ode8T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode8T.melody
+euCA.Ode8T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode8T.incipit
+euCA.Ode8T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode8T.text
+
+euCA.Ode91.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode91.ode
+euCA.Ode91.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode91.mode
+euCA.Ode91.greekmelody = eu.consecrationliturgy_gr_US_goa.euCA.Ode91.greekmelody
+euCA.Ode91.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode91.melody
+euCA.Ode91.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode91.incipit
+euCA.Ode91.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode91.text
+
+euCA.Ode92.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode92.ode
+euCA.Ode92.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode92.mode
+euCA.Ode92.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode92.melody
+euCA.Ode92.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode92.incipit
+euCA.Ode92.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode92.text
+
+euCA.Ode93.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode93.ode
+euCA.Ode93.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode93.mode
+euCA.Ode93.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode93.melody
+euCA.Ode93.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode93.incipit
+euCA.Ode93.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode93.text
+
+euCA.Ode9T.ode = eu.consecrationliturgy_gr_US_goa.euCA.Ode9T.ode
+euCA.Ode9T.mode = eu.consecrationliturgy_gr_US_goa.euCA.Ode9T.mode
+euCA.Ode9T.melody = eu.consecrationliturgy_gr_US_goa.euCA.Ode9T.melody
+euCA.Ode9T.incipit = eu.consecrationliturgy_gr_US_goa.euCA.Ode9T.incipit
+euCA.Ode9T.text = eu.consecrationliturgy_gr_US_goa.euCA.Ode9T.text
+
+euMA.Exaposteilarion1.mode = eu.consecrationliturgy_gr_US_goa.euMA.Exaposteilarion1.mode
+euMA.Exaposteilarion1.melody = eu.consecrationliturgy_gr_US_goa.euMA.Exaposteilarion1.melody
+euMA.Exaposteilarion1.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Exaposteilarion1.incipit
+euMA.Exaposteilarion1.text = eu.consecrationliturgy_gr_US_goa.euMA.Exaposteilarion1.text
+
+euMA.R001 = eu.consecrationliturgy_gr_US_goa.euMA.R001
+
+euMA.Lauds1.mode = eu.consecrationliturgy_gr_US_goa.euMA.Lauds1.mode
+euMA.Lauds1.melody = eu.consecrationliturgy_gr_US_goa.euMA.Lauds1.melody
+euMA.Lauds1.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Lauds1.incipit
+euMA.Lauds1.text = eu.consecrationliturgy_gr_US_goa.euMA.Lauds1.text
+
+euMA.Lauds2.mode = eu.consecrationliturgy_gr_US_goa.euMA.Lauds2.mode
+euMA.Lauds2.melody = eu.consecrationliturgy_gr_US_goa.euMA.Lauds2.melody
+euMA.Lauds2.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Lauds2.incipit
+euMA.Lauds2.text = eu.consecrationliturgy_gr_US_goa.euMA.Lauds2.text
+
+euMA.Lauds3.mode = eu.consecrationliturgy_gr_US_goa.euMA.Lauds3.mode
+euMA.Lauds3.melody = eu.consecrationliturgy_gr_US_goa.euMA.Lauds3.melody
+euMA.Lauds3.incipit = eu.consecrationliturgy_gr_US_goa.euMA.Lauds3.incipit
+euMA.Lauds3.text = eu.consecrationliturgy_gr_US_goa.euMA.Lauds3.text
+
+euMA.LaudsBoth.mode = eu.consecrationliturgy_gr_US_goa.euMA.LaudsBoth.mode
+euMA.LaudsBoth.melody = eu.consecrationliturgy_gr_US_goa.euMA.LaudsBoth.melody
+euMA.LaudsBoth.incipit = eu.consecrationliturgy_gr_US_goa.euMA.LaudsBoth.incipit
+euMA.LaudsBoth.text = eu.consecrationliturgy_gr_US_goa.euMA.LaudsBoth.text
+
+euMA.MM.Lauds12as12.text = eu.consecrationliturgy_gr_US_goa.euMA.MM.Lauds12as12.text
+euMA.MM.Lauds123as456.text = eu.consecrationliturgy_gr_US_goa.euMA.MM.Lauds123as456.text
+
+euCON.Key4000.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4000.title
+euCON.Key4100.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4100.title
+
+euCON.Key4101.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4101.text
+euCON.Key4102.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4102.text
+
+euCON.Key4200.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4200.title
+euCON.Key4201.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4201.rubric
+euCON.Key4202.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4202.rubric
+euCON.Key4203.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4203.rubric
+euCON.Key4204.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4204.rubric
+euCON.Key4205.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4205.title
+euCON.Key4206.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4206.title
+euCON.Key4207.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4207.title
+euCON.Key4208.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4208.rubric
+euCON.Key4209.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4209.rubric
+euCON.Key4210.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4210.title
+euCON.Key4211.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4211.title
+euCON.Key4212.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4212.rubric
+euCON.Key4213.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4213.rubric
+euCON.Key4214.mode = eu.consecrationliturgy_gr_US_goa.euCON.Key4214.mode
+euCON.Key4215.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4215.text
+euCON.Key4216.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4216.rubric
+euCON.Key4217.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4217.text
+euCON.Key4218.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4218.text
+euCON.Key4219.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4219.text
+euCON.Key4220.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4220.text
+
+euCON.Key4300.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4300.title
+euCON.Key4301.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4301.rubric
+euCON.Key4302.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4302.rubric
+euCON.Key4303.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4303.rubric
+euCON.Key4304.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4304.rubric
+euCON.Key4305.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4305.rubric
+
+euCON.Key4400.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4400.title
+euCON.Key4401.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4401.rubric
+euCON.Key4402.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4402.text
+euCON.Key4403.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4403.text
+euCON.Key4404.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4404.rubric
+euCON.Key4405.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4405.text
+euCON.Key4406.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4406.text
+euCON.Key4407.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4407.text
+euCON.Key4408.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4408.text
+euCON.Key4409.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4409.rubric
+euCON.Key4410.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4410.rubric
+
+euCON.Key4500.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4500.title
+euCON.Key4501.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4501.rubric
+euCON.Key4502.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4502.rubric
+euCON.Key4503.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4503.text
+euCON.Key4504.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4504.text
+euCON.Key4505.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4505.text
+euCON.Key4506.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4506.rubric
+euCON.Key4507a.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4507a.text
+euCON.Key4507b.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4507b.text
+euCON.Key4508.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4508.text
+euCON.Key4509.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4509.text
+euCON.Key4510.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4510.text
+euCON.Key4511.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4511.rubric
+euCON.Key4512.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4512.rubric
+euCON.Key4513.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4513.rubric
+euCON.Key4514.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4514.text
+euCON.Key4515.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4515.text
+euCON.Key4516.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4516.rubric
+euCON.Key4517.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4517.text
+euCON.Key4518.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4518.text
+euCON.Key4519.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4519.text
+euCON.Key4520.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4520.text
+euCON.Key4521.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4521.rubric
+euCON.Key4522.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4522.rubric
+euCON.Key4523.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4523.text
+
+euCON.Key4600.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4600.title
+euCON.Key4601.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4601.rubric
+euCON.Key4602.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4602.rubric
+euCON.Key4603.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4603.rubric
+euCON.Key4604.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4604.rubric
+euCON.Key4605.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4605.rubric
+euCON.Key4606.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4606.text
+euCON.Key4607.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4607.rubric
+
+euCON.Key4700.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4700.title
+euCON.Key4701.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4701.rubric
+euCON.Key4702.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4702.rubric
+euCON.Key4703.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4703.text
+euCON.Key4704.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4704.rubric
+euCON.Key4705.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4705.rubric
+euCON.Key4706.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4706.text
+
+euCON.Key4800.title = eu.consecrationliturgy_gr_US_goa.euCON.Key4800.title
+euCON.Key4801.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4801.rubric
+euCON.Key4802.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4802.rubric
+euCON.Key4803.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4803.rubric
+euCON.Key4804.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4804.rubric
+euCON.Key4805.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4805.text
+euCON.Key4806.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4806.rubric
+euCON.Key4807.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4807.rubric
+euCON.Key4808.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4808.text
+euCON.Key4809.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4809.text
+euCON.Key4810.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4810.rubric
+euCON.Key4811.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4811.text
+euCON.Key4812.text = eu.consecrationliturgy_gr_US_goa.euCON.Key4812.text
+euCON.Key4813.rubric = eu.consecrationliturgy_gr_US_goa.euCON.Key4813.rubric
+
+euCON.R410 = eu.consecrationliturgy_gr_GR_cog.euCON.R410
+euCON.R411 = eu.consecrationliturgy_gr_GR_cog.euCON.R411
+euCON.R420 = eu.consecrationliturgy_gr_GR_cog.euCON.R420
+euCON.R421 = eu.consecrationliturgy_gr_GR_cog.euCON.R421
+euCON.R422 = eu.consecrationliturgy_gr_GR_cog.euCON.R422
+euCON.R423 = eu.consecrationliturgy_gr_GR_cog.euCON.R423
+euCON.R424 = eu.consecrationliturgy_gr_GR_cog.euCON.R424
+euCON.R425 = eu.consecrationliturgy_gr_GR_cog.euCON.R425
+euCON.R426 = eu.consecrationliturgy_gr_GR_cog.euCON.R426
+euCON.R427 = eu.consecrationliturgy_gr_GR_cog.euCON.R427
+euCON.R428 = eu.consecrationliturgy_gr_GR_cog.euCON.R428
+euCON.R430 = eu.consecrationliturgy_gr_GR_cog.euCON.R430
+euCON.R431 = eu.consecrationliturgy_gr_GR_cog.euCON.R431
+euCON.R432 = eu.consecrationliturgy_gr_GR_cog.euCON.R432
+euCON.R440 = eu.consecrationliturgy_gr_GR_cog.euCON.R440
+euCON.R441 = eu.consecrationliturgy_gr_GR_cog.euCON.R441
+euCON.R442 = eu.consecrationliturgy_gr_GR_cog.euCON.R442
+euCON.R443 = eu.consecrationliturgy_gr_GR_cog.euCON.R443
+euCON.R444 = eu.consecrationliturgy_gr_GR_cog.euCON.R444
+euCON.R450 = eu.consecrationliturgy_gr_GR_cog.euCON.R450
+euCON.R451 = eu.consecrationliturgy_gr_GR_cog.euCON.R451
+euCON.R452 = eu.consecrationliturgy_gr_GR_cog.euCON.R452
+euCON.R453 = eu.consecrationliturgy_gr_GR_cog.euCON.R453
+euCON.R460 = eu.consecrationliturgy_gr_GR_cog.euCON.R460
+euCON.R461 = eu.consecrationliturgy_gr_GR_cog.euCON.R461
+euCON.R462 = eu.consecrationliturgy_gr_GR_cog.euCON.R462
+euCON.R463 = eu.consecrationliturgy_gr_GR_cog.euCON.R463
+euCON.R464 = eu.consecrationliturgy_gr_GR_cog.euCON.R464
+euCON.R465 = eu.consecrationliturgy_gr_GR_cog.euCON.R465
+euCON.R470 = eu.consecrationliturgy_gr_GR_cog.euCON.R470
+euCON.R471 = eu.consecrationliturgy_gr_GR_cog.euCON.R471
+euCON.R472 = eu.consecrationliturgy_gr_GR_cog.euCON.R472
+euCON.R473 = eu.consecrationliturgy_gr_GR_cog.euCON.R473
+euCON.R480 = eu.consecrationliturgy_gr_GR_cog.euCON.R480
+euCON.R481 = eu.consecrationliturgy_gr_GR_cog.euCON.R481
+euCON.R482 = eu.consecrationliturgy_gr_GR_cog.euCON.R482
+euCON.R483 = eu.consecrationliturgy_gr_GR_cog.euCON.R483
+euCON.R484 = eu.consecrationliturgy_gr_GR_cog.euCON.R484
+euCON.R485 = eu.consecrationliturgy_gr_GR_cog.euCON.R485
+euCON.R490 = eu.consecrationliturgy_gr_GR_cog.euCON.R490
+euCON.R491 = eu.consecrationliturgy_gr_GR_cog.euCON.R491
+
+euCON.Key4900.title = eu.consecrationliturgy_gr_GR_cog.euCON.Key4900.title
+euCON.Key4901.title = eu.consecrationliturgy_gr_GR_cog.euCON.Key4901.title
+euCON.Key4902.title = eu.consecrationliturgy_gr_GR_cog.euCON.Key4902.title

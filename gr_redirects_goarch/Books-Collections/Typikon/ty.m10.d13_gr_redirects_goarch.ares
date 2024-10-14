@@ -1,0 +1,24 @@
+A_Resource_Whose_Name = ty.m10.d13_gr_redirects_goarch
+
+
+tyDEN.localsaint1.supplication = ty.m10.d13_gr_US_goa.tyDEN.localsaint1.supplication
+tyDEN.localsaint1.dismissal = ty.m10.d13_gr_US_goa.tyDEN.localsaint1.dismissal
+tyDEN.localchurch.title = ty.m10.d13_gr_US_goa.tyDEN.localchurch.title
+tyDEN.conVE.SticBoth.churchname.text = ty.m10.d13_gr_US_goa.tyDEN.conVE.SticBoth.churchname.text
+tyDEN.consecration.name = ty.m10.d13_gr_US_goa.tyDEN.consecration.name
+tyDEN.consecration.prayer1 = ty.m10.d13_gr_US_goa.tyDEN.consecration.prayer1
+tyDEN.consecration.greatlitany.finalpetition.name = ty.m10.d13_gr_US_goa.tyDEN.consecration.greatlitany.finalpetition.name
+tyDEN.relic1.name = ty.m10.d13_gr_US_goa.tyDEN.relic1.name
+tyDEN.relic2.name = ty.m10.d13_gr_US_goa.tyDEN.relic2.name
+tyDEN.relic3.name = ty.m10.d13_gr_US_goa.tyDEN.relic3.name
+tyDEN.ordinand.deacon.acc.text = ty.m10.d13_gr_US_goa.tyDEN.ordinand.deacon.acc.text
+tyDEN.ordinand.deacon.gen.text = ty.m10.d13_gr_US_goa.tyDEN.ordinand.deacon.gen.text
+tyDEN.ordinand.priest.acc.text = ty.m10.d13_gr_US_goa.tyDEN.ordinand.priest.acc.text
+tyDEN.ordinand.priest.gen.text = ty.m10.d13_gr_US_goa.tyDEN.ordinand.priest.gen.text
+
+tyDET.localsaint1.supplication = ty.m10.d13_gr_US_goa.tyDET.localsaint1.supplication
+tyDET.dis00.resurrection = ty.m10.d13_gr_US_goa.tyDET.dis00.resurrection
+tyDET.localsaint1.dismissal = ty.m10.d13_gr_US_goa.tyDET.localsaint1.dismissal
+tyDET.meDA.insert1 = ty.m10.d13_gr_US_goa.tyDET.meDA.insert1
+tyDET.meDA.insert2 = ty.m10.d13_gr_US_goa.tyDET.meDA.insert2
+

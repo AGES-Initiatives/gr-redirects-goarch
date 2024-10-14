@@ -2827,6 +2827,9 @@ psEU.consecration.li.prokeimenon.v1.info = liturgical.verses_gr_GR_cog.psEU.cons
 psEU.consecration.li.prokeimenon.v1.text = liturgical.verses_gr_GR_cog.psEU.consecration.li.prokeimenon.v1.text
 psEU.consecration.li.prokeimenon.v2.info = liturgical.verses_gr_GR_cog.psEU.consecration.li.prokeimenon.v2.info
 psEU.consecration.li.prokeimenon.v2.text = liturgical.verses_gr_GR_cog.psEU.consecration.li.prokeimenon.v2.text
+psEU.consecration.li.communion.title = liturgical.verses_gr_GR_cog.psEU.consecration.li.communion.title
+psEU.consecration.li.communion.info = liturgical.verses_gr_GR_cog.psEU.consecration.li.communion.info
+psEU.consecration.li.communion.text = liturgical.verses_gr_GR_cog.psEU.consecration.li.communion.text
 
 psEU.deceased.prokeimenon.title = liturgical.verses_gr_GR_cog.psEU.deceased.prokeimenon.title
 psEU.deceased.prokeimenon.v1.info = liturgical.verses_gr_GR_cog.psEU.deceased.prokeimenon.v1.info

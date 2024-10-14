@@ -654,7 +654,7 @@ ocMA.AposTheotokion.incipit = oc.m6.d7_gr_GR_cog.ocMA.AposTheotokion.incipit
 ocMA.AposTheotokion.text = oc.m6.d7_gr_GR_cog.ocMA.AposTheotokion.text
 
 ocMA.ApolTheotokion.mode = oc.m6.d7_gr_GR_cog.ocMA.ApolTheotokion.mode
-ocMA.ApolTheotokion.melody = oc.m6.d7_gr_GR_cog.ocMA.ApolTheotokion.greekmelody
+ocMA.ApolTheotokion.greekmelody = oc.m6.d7_gr_GR_cog.ocMA.ApolTheotokion.greekmelody
 ocMA.ApolTheotokion.melody = oc.m6.d7_gr_GR_cog.ocMA.ApolTheotokion.melody
 ocMA.ApolTheotokion.incipit = oc.m6.d7_gr_GR_cog.ocMA.ApolTheotokion.incipit
 ocMA.ApolTheotokion.text = oc.m6.d7_gr_GR_cog.ocMA.ApolTheotokion.text

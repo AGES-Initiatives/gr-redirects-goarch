@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = names_gr_redirects_goarch
 
-name.argyriosepanomites.relic1.name = names_gr_redirects_goarch.name.argyriosepanomites.relic1.name
+name.argyriosepanomites.relic1or2.name = names_gr_redirects_goarch.name.argyriosepanomites.relic1or2.name
 name.argyriosepanomites.relic3.name = names_gr_redirects_goarch.name.argyriosepanomites.relic3.name
 
-name.barbara.relic1.name = names_gr_redirects_goarch.name.barbara.relic1.name
+name.barbara.relic1or2.name = names_gr_redirects_goarch.name.barbara.relic1or2.name
 name.barbara.relic3.name = names_gr_redirects_goarch.name.barbara.relic3.name
 
 name.catherine.localsaint1.supplication = names_gr_redirects_goarch.name.catherine.localsaint1.supplication
@@ -36,10 +36,10 @@ name.george.consecration.name = names_gr_redirects_goarch.name.george.consecrati
 name.george.consecration.prayer1 = names_gr_redirects_goarch.name.george.consecration.prayer1
 name.george.consecration.greatlitany.finalpetition.name = names_gr_redirects_goarch.name.george.consecration.greatlitany.finalpetition.name
 
-name.haralambos.relic1.name = names_gr_redirects_goarch.name.haralambos.relic1.name
+name.haralambos.relic1or2.name = names_gr_redirects_goarch.name.haralambos.relic1or2.name
 name.haralambos.relic3.name = names_gr_redirects_goarch.name.haralambos.relic3.name
 
-name.marina.relic1.name = names_gr_redirects_goarch.name.marina.relic1.name
+name.marina.relic1or2.name = names_gr_redirects_goarch.name.marina.relic1or2.name
 name.marina.relic3.name = names_gr_redirects_goarch.name.marina.relic3.name
 
 name.neomartyrsofsamothraki.relic1.name = names_gr_redirects_goarch.name.neomartyrsofsamothraki.relic1.name
@@ -54,8 +54,8 @@ name.nicholas.consecration.name = names_gr_redirects_goarch.name.nicholas.consec
 name.nicholas.consecration.prayer1 = names_gr_redirects_goarch.name.nicholas.consecration.prayer1
 name.nicholas.consecration.greatlitany.finalpetition.name = names_gr_redirects_goarch.name.nicholas.consecration.greatlitany.finalpetition.name
 
-name.panteleimon.relic1.name = names_gr_redirects_goarch.name.panteleimon.relic1.name
+name.panteleimon.relic1or2.name = names_gr_redirects_goarch.name.panteleimon.relic1or2.name
 name.panteleimon.relic3.name = names_gr_redirects_goarch.name.panteleimon.relic3.name
 
-name.savasfathers.relic1.name = names_gr_redirects_goarch.name.savasfathers.relic1.name
+name.savasfathers.relic1or2.name = names_gr_redirects_goarch.name.savasfathers.relic1or2.name
 name.savasfathers.relic3.name = names_gr_redirects_goarch.name.savasfathers.relic3.name

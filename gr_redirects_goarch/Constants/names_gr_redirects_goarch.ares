@@ -1,61 +1,61 @@
 A_Resource_Whose_Name = names_gr_redirects_goarch
 
-name.argyriosepanomites.relic1or2.name = names_gr_redirects_goarch.name.argyriosepanomites.relic1or2.name
-name.argyriosepanomites.relic3.name = names_gr_redirects_goarch.name.argyriosepanomites.relic3.name
+name.argyriosepanomites.relic1or2.name = names_gr_US_goa.name.argyriosepanomites.relic1or2.name
+name.argyriosepanomites.relic3.name = names_gr_US_goa.name.argyriosepanomites.relic3.name
 
-name.barbara.relic1or2.name = names_gr_redirects_goarch.name.barbara.relic1or2.name
-name.barbara.relic3.name = names_gr_redirects_goarch.name.barbara.relic3.name
+name.barbara.relic1or2.name = names_gr_US_goa.name.barbara.relic1or2.name
+name.barbara.relic3.name = names_gr_US_goa.name.barbara.relic3.name
 
-name.catherine.localsaint1.supplication = names_gr_redirects_goarch.name.catherine.localsaint1.supplication
-name.catherine.localsaint1.dismissal = names_gr_redirects_goarch.name.catherine.localsaint1.dismissal
+name.catherine.localsaint1.supplication = names_gr_US_goa.name.catherine.localsaint1.supplication
+name.catherine.localsaint1.dismissal = names_gr_US_goa.name.catherine.localsaint1.dismissal
 
-name.constantine.localsaint1.supplication = names_gr_redirects_goarch.name.constantine.localsaint1.supplication
-name.constantine.localsaint1.dismissal = names_gr_redirects_goarch.name.constantine.localsaint1.dismissal
+name.constantine.localsaint1.supplication = names_gr_US_goa.name.constantine.localsaint1.supplication
+name.constantine.localsaint1.dismissal = names_gr_US_goa.name.constantine.localsaint1.dismissal
 
-name.demetrios.localsaint1.supplication = names_gr_redirects_goarch.name.demetrios.localsaint1.supplication
-name.demetrios.localsaint1.dismissal = names_gr_redirects_goarch.name.demetrios.localsaint1.dismissal
-name.demetrios.localchurch.title = names_gr_redirects_goarch.name.demetrios.localchurch.title
-name.demetrios.conVE.SticBoth.churchname.text = names_gr_redirects_goarch.name.demetrios.conVE.SticBoth.churchname.text
-name.demetrios.consecration.name = names_gr_redirects_goarch.name.demetrios.consecration.name
-name.demetrios.consecration.prayer1 = names_gr_redirects_goarch.name.demetrios.consecration.prayer1
-name.demetrios.consecration.greatlitany.finalpetition.name = names_gr_redirects_goarch.name.demetrios.consecration.greatlitany.finalpetition.name
+name.demetrios.localsaint1.supplication = names_gr_US_goa.name.demetrios.localsaint1.supplication
+name.demetrios.localsaint1.dismissal = names_gr_US_goa.name.demetrios.localsaint1.dismissal
+name.demetrios.localchurch.title = names_gr_US_goa.name.demetrios.localchurch.title
+name.demetrios.conVE.SticBoth.churchname.text = names_gr_US_goa.name.demetrios.conVE.SticBoth.churchname.text
+name.demetrios.consecration.name = names_gr_US_goa.name.demetrios.consecration.name
+name.demetrios.consecration.prayer1 = names_gr_US_goa.name.demetrios.consecration.prayer1
+name.demetrios.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.demetrios.consecration.greatlitany.finalpetition.name
 
-name.dormition.localsaint1.supplication = names_gr_redirects_goarch.name.dormition.localsaint1.supplication
-name.dormition.localsaint1.dismissal = names_gr_redirects_goarch.name.dormition.localsaint1.dismissal
-name.dormition.localchurch.title = names_gr_redirects_goarch.name.dormition.localchurch.title
-name.dormition.conVE.SticBoth.churchname.text = names_gr_redirects_goarch.name.dormition.conVE.SticBoth.churchname.text
-name.dormition.consecration.name = names_gr_redirects_goarch.name.dormition.consecration.name
-name.dormition.consecration.prayer1 = names_gr_redirects_goarch.name.dormition.consecration.prayer1
-name.dormition.consecration.greatlitany.finalpetition.name = names_gr_redirects_goarch.name.dormition.consecration.greatlitany.finalpetition.name
+name.dormition.localsaint1.supplication = names_gr_US_goa.name.dormition.localsaint1.supplication
+name.dormition.localsaint1.dismissal = names_gr_US_goa.name.dormition.localsaint1.dismissal
+name.dormition.localchurch.title = names_gr_US_goa.name.dormition.localchurch.title
+name.dormition.conVE.SticBoth.churchname.text = names_gr_US_goa.name.dormition.conVE.SticBoth.churchname.text
+name.dormition.consecration.name = names_gr_US_goa.name.dormition.consecration.name
+name.dormition.consecration.prayer1 = names_gr_US_goa.name.dormition.consecration.prayer1
+name.dormition.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.dormition.consecration.greatlitany.finalpetition.name
 
-name.george.localsaint1.supplication = names_gr_redirects_goarch.name.george.localsaint1.supplication
-name.george.localsaint1.dismissal = names_gr_redirects_goarch.name.george.localsaint1.dismissal
-name.george.localchurch.title = names_gr_redirects_goarch.name.george.localchurch.title
-name.george.conVE.SticBoth.churchname.text = names_gr_redirects_goarch.name.george.conVE.SticBoth.churchname.text
-name.george.consecration.name = names_gr_redirects_goarch.name.george.consecration.name
-name.george.consecration.prayer1 = names_gr_redirects_goarch.name.george.consecration.prayer1
-name.george.consecration.greatlitany.finalpetition.name = names_gr_redirects_goarch.name.george.consecration.greatlitany.finalpetition.name
+name.george.localsaint1.supplication = names_gr_US_goa.name.george.localsaint1.supplication
+name.george.localsaint1.dismissal = names_gr_US_goa.name.george.localsaint1.dismissal
+name.george.localchurch.title = names_gr_US_goa.name.george.localchurch.title
+name.george.conVE.SticBoth.churchname.text = names_gr_US_goa.name.george.conVE.SticBoth.churchname.text
+name.george.consecration.name = names_gr_US_goa.name.george.consecration.name
+name.george.consecration.prayer1 = names_gr_US_goa.name.george.consecration.prayer1
+name.george.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.george.consecration.greatlitany.finalpetition.name
 
-name.haralambos.relic1or2.name = names_gr_redirects_goarch.name.haralambos.relic1or2.name
-name.haralambos.relic3.name = names_gr_redirects_goarch.name.haralambos.relic3.name
+name.haralambos.relic1or2.name = names_gr_US_goa.name.haralambos.relic1or2.name
+name.haralambos.relic3.name = names_gr_US_goa.name.haralambos.relic3.name
 
-name.marina.relic1or2.name = names_gr_redirects_goarch.name.marina.relic1or2.name
-name.marina.relic3.name = names_gr_redirects_goarch.name.marina.relic3.name
+name.marina.relic1or2.name = names_gr_US_goa.name.marina.relic1or2.name
+name.marina.relic3.name = names_gr_US_goa.name.marina.relic3.name
 
-name.neomartyrsofsamothraki.relic1.name = names_gr_redirects_goarch.name.neomartyrsofsamothraki.relic1.name
-name.neomartyrsofsamothraki.relic2.name = names_gr_redirects_goarch.name.neomartyrsofsamothraki.relic2.name
-name.neomartyrsofsamothraki.relic3.name = names_gr_redirects_goarch.name.neomartyrsofsamothraki.relic3.name
+name.neomartyrsofsamothraki.relic1.name = names_gr_US_goa.name.neomartyrsofsamothraki.relic1.name
+name.neomartyrsofsamothraki.relic2.name = names_gr_US_goa.name.neomartyrsofsamothraki.relic2.name
+name.neomartyrsofsamothraki.relic3.name = names_gr_US_goa.name.neomartyrsofsamothraki.relic3.name
 
-name.nicholas.localsaint1.supplication = names_gr_redirects_goarch.name.nicholas.localsaint1.supplication
-name.nicholas.localsaint1.dismissal = names_gr_redirects_goarch.name.nicholas.localsaint1.dismissal
-name.nicholas.localchurch.title = names_gr_redirects_goarch.name.nicholas.localchurch.title
-name.nicholas.conVE.SticBoth.churchname.text = names_gr_redirects_goarch.name.nicholas.conVE.SticBoth.churchname.text
-name.nicholas.consecration.name = names_gr_redirects_goarch.name.nicholas.consecration.name
-name.nicholas.consecration.prayer1 = names_gr_redirects_goarch.name.nicholas.consecration.prayer1
-name.nicholas.consecration.greatlitany.finalpetition.name = names_gr_redirects_goarch.name.nicholas.consecration.greatlitany.finalpetition.name
+name.nicholas.localsaint1.supplication = names_gr_US_goa.name.nicholas.localsaint1.supplication
+name.nicholas.localsaint1.dismissal = names_gr_US_goa.name.nicholas.localsaint1.dismissal
+name.nicholas.localchurch.title = names_gr_US_goa.name.nicholas.localchurch.title
+name.nicholas.conVE.SticBoth.churchname.text = names_gr_US_goa.name.nicholas.conVE.SticBoth.churchname.text
+name.nicholas.consecration.name = names_gr_US_goa.name.nicholas.consecration.name
+name.nicholas.consecration.prayer1 = names_gr_US_goa.name.nicholas.consecration.prayer1
+name.nicholas.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.nicholas.consecration.greatlitany.finalpetition.name
 
-name.panteleimon.relic1or2.name = names_gr_redirects_goarch.name.panteleimon.relic1or2.name
-name.panteleimon.relic3.name = names_gr_redirects_goarch.name.panteleimon.relic3.name
+name.panteleimon.relic1or2.name = names_gr_US_goa.name.panteleimon.relic1or2.name
+name.panteleimon.relic3.name = names_gr_US_goa.name.panteleimon.relic3.name
 
-name.savasfathers.relic1or2.name = names_gr_redirects_goarch.name.savasfathers.relic1or2.name
-name.savasfathers.relic3.name = names_gr_redirects_goarch.name.savasfathers.relic3.name
+name.savasfathers.relic1or2.name = names_gr_US_goa.name.savasfathers.relic1or2.name
+name.savasfathers.relic3.name = names_gr_US_goa.name.savasfathers.relic3.name

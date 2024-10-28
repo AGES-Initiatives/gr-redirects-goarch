@@ -71,3 +71,7 @@ ac.IL.Respondent = actors_gr_GR_cog.ac.IL.Respondent
 ac.IL.Subdeacon = actors_gr_GR_cog.ac.IL.Subdeacon
 ac.IL.Superior = actors_gr_GR_cog.ac.IL.Superior
 ac.IL.SuperiorOrReader = actors_gr_GR_cog.ac.IL.SuperiorOrReader
+
+ac.LC.Archbishop = actors_gr_GR_cog.ac.LC.Archbishop
+ac.LC.Hierarch = actors_gr_GR_cog.ac.LC.Hierarch
+ac.LC.Deacon = actors_gr_GR_cog.ac.LC.Deacon

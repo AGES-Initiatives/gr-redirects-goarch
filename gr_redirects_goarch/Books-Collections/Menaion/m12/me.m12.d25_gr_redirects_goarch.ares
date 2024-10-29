@@ -41,6 +41,7 @@ meVE.Stichera03.incipit = me.m12.d25_gr_GR_cog.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m12.d25_gr_GR_cog.meVE.Stichera03.text
 
 meVE.MM.Stichera123as567.text = me.m12.d25_gr_GR_cog.meVE.MM.Stichera123as567.text
+meVE.MM.Stichera1234as1234.text = me.m12.d25_gr_GR_cog.meVE.MM.Stichera1234as1234.text
 
 meVE.Stichera04.mode = me.m12.d25_gr_GR_cog.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m12.d25_gr_GR_cog.meVE.Stichera04.melody
@@ -1031,6 +1032,7 @@ meMA.Lauds4.melody = me.m12.d25_gr_GR_cog.meMA.Lauds4.melody
 meMA.Lauds4.incipit = me.m12.d25_gr_GR_cog.meMA.Lauds4.incipit
 meMA.Lauds4.text = me.m12.d25_gr_GR_cog.meMA.Lauds4.text
 
+meMA.MM.Lauds1234as1234.text = me.m12.d25_gr_GR_cog.meMA.MM.Lauds1234as1234.text
 meMA.MM.Lauds1234as5678.text = me.m12.d25_gr_GR_cog.meMA.MM.Lauds1234as5678.text
 
 meMA.LaudsGlory.poet = me.m12.d25_gr_GR_cog.meMA.LaudsGlory.poet

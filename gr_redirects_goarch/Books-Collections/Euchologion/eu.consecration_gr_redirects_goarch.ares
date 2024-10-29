@@ -331,7 +331,7 @@ euMA.Exaposteilarion1.melody = eu.consecration_gr_GR_cog.euMA.Exaposteilarion1.m
 euMA.Exaposteilarion1.incipit = eu.consecration_gr_GR_cog.euMA.Exaposteilarion1.incipit
 euMA.Exaposteilarion1.text = eu.consecration_gr_GR_cog.euMA.Exaposteilarion1.text
 
-euMA.R001 = eu.consecration_gr_GR_cog.euMA.R001
+euMA.R001 = eu.consecration_gr_US_goa.euMA.R001
 
 euMA.Lauds1.mode = eu.consecration_gr_GR_cog.euMA.Lauds1.mode
 euMA.Lauds1.melody = eu.consecration_gr_GR_cog.euMA.Lauds1.melody

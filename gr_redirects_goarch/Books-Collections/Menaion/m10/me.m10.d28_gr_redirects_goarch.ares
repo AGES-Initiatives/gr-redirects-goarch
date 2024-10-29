@@ -1312,6 +1312,10 @@ alt1.meLI.Kontakion1.melody = me.m10.d28_gr_GR_cog.alt1.meLI.Kontakion1.melody
 alt1.meLI.Kontakion1.incipit = me.m10.d28_gr_GR_cog.alt1.meLI.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = me.m10.d28_gr_GR_cog.alt1.meLI.Kontakion1.text
 
+alt1.meLI.TheotokosHymn.mode = me.m10.d28_gr_GR_cog.alt1.meLI.TheotokosHymn.mode
+alt1.meLI.TheotokosHymnVerse.text = me.m10.d28_gr_GR_cog.alt1.meLI.TheotokosHymnVerse.text
+alt1.meLI.TheotokosHymn.text = me.m10.d28_gr_GR_cog.alt1.meLI.TheotokosHymn.text
+
 alt1.meLI.MM.CommunionHymn.text = me.m10.d28_gr_GR_cog.alt1.meLI.MM.CommunionHymn.text
 
 alt1.meLI.Megalynarion.text = me.m10.d28_gr_GR_cog.alt1.meLI.Megalynarion.text

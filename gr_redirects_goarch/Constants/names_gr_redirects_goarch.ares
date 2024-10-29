@@ -28,6 +28,14 @@ name.dormition.consecration.name = names_gr_US_goa.name.dormition.consecration.n
 name.dormition.consecration.prayer1 = names_gr_US_goa.name.dormition.consecration.prayer1
 name.dormition.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.dormition.consecration.greatlitany.finalpetition.name
 
+name.eustathius.localsaint1.supplication = names_gr_US_goa.name.eustathius.localsaint1.supplication
+name.eustathius.localsaint1.dismissal = names_gr_US_goa.name.eustathius.localsaint1.dismissal
+name.eustathius.localchurch.title = names_gr_US_goa.name.eustathius.localchurch.title
+name.eustathius.conVE.SticBoth.churchname.text = names_gr_US_goa.name.eustathius.conVE.SticBoth.churchname.text
+name.eustathius.consecration.name = names_gr_US_goa.name.eustathius.consecration.name
+name.eustathius.consecration.prayer1 = names_gr_US_goa.name.eustathius.consecration.prayer1
+name.eustathius.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.eustathius.consecration.greatlitany.finalpetition.name
+
 name.george.localsaint1.supplication = names_gr_US_goa.name.george.localsaint1.supplication
 name.george.localsaint1.dismissal = names_gr_US_goa.name.george.localsaint1.dismissal
 name.george.localchurch.title = names_gr_US_goa.name.george.localchurch.title

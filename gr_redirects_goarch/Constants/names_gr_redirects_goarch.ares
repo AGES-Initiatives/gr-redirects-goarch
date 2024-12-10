@@ -8,6 +8,7 @@ name.barbara.relic3.name = names_gr_US_goa.name.barbara.relic3.name
 
 name.catherine.localsaint1.supplication = names_gr_US_goa.name.catherine.localsaint1.supplication
 name.catherine.localsaint1.dismissal = names_gr_US_goa.name.catherine.localsaint1.dismissal
+name.catherine.localchurch.title = names_gr_US_goa.name.catherine.localchurch.title
 
 name.constantine.localsaint1.supplication = names_gr_US_goa.name.constantine.localsaint1.supplication
 name.constantine.localsaint1.dismissal = names_gr_US_goa.name.constantine.localsaint1.dismissal
@@ -67,3 +68,7 @@ name.panteleimon.relic3.name = names_gr_US_goa.name.panteleimon.relic3.name
 
 name.savasfathers.relic1or2.name = names_gr_US_goa.name.savasfathers.relic1or2.name
 name.savasfathers.relic3.name = names_gr_US_goa.name.savasfathers.relic3.name
+
+name.spyridon.localsaint1.supplication = names_gr_US_goa.name.spyridon.localsaint1.supplication
+name.spyridon.localsaint1.dismissal = names_gr_US_goa.name.spyridon.localsaint1.dismissal
+name.spyridon.localchurch.title = names_gr_US_goa.name.spyridon.localchurch.title

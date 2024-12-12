@@ -12,6 +12,7 @@ meDA.insert1 = me.m04.d15_gr_GR_cog.meDA.insert1
 meDA.insert2 = me.m04.d15_gr_GR_cog.meDA.insert2
 meDA.note = me.m04.d15_gr_GR_cog.meDA.note
 meDA.pdfcoverdate = me.m04.d15_gr_GR_cog.meDA.pdfcoverdate
+meDA.pdfdatebefore = me.m04.d15_gr_GR_cog.meDA.pdfdatebefore
 meDA.pdfheaderdate = me.m04.d15_gr_GR_cog.meDA.pdfheaderdate
 meDA.fordate = me.m04.d15_gr_GR_cog.meDA.fordate
 meLE.commemoration1 = me.m04.d15_gr_GR_cog.meLE.commemoration1

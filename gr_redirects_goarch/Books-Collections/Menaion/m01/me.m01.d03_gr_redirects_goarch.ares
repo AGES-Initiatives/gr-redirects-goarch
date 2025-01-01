@@ -272,7 +272,7 @@ meMA.Kathisma22.text = me.m01.d03_gr_GR_cog.meMA.Kathisma22.text
 
 meMA.C1.acrostic.title = me.m01.d03_gr_GR_cog.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m01.d03_gr_GR_cog.meMA.C1.acrostic.notice1
-meMA.C.acrostic.notice2 = me.m01.d03_gr_GR_cog.meMA.C.acrostic.notice2
+meMA.C1.acrostic.notice2 = me.m01.d03_gr_GR_cog.meMA.C1.acrostic.notice2
 meMA.C1.title = me.m01.d03_gr_GR_cog.meMA.C1.title
 meMA.C1.verse = me.m01.d03_gr_GR_cog.meMA.C1.verse
 

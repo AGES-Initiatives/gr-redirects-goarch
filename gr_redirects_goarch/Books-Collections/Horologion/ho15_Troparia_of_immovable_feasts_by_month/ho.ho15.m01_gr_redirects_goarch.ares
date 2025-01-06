@@ -65,6 +65,14 @@ hoD09.Kontakion1.melody = ho.ho15.m01_gr_GR_cog.hoD09.Kontakion1.melody
 hoD09.Kontakion1.incipit = ho.ho15.m01_gr_GR_cog.hoD09.Kontakion1.incipit
 hoD09.Kontakion1.text = ho.ho15.m01_gr_GR_cog.hoD09.Kontakion1.text
 
+hoD10.Apolytikion1.title = ho.ho15.m01_gr_GR_cog.hoD10.Apolytikion1.title
+hoD10.Apolytikion1.poet = ho.ho15.m01_gr_GR_cog.hoD10.Apolytikion1.poet
+hoD10.Apolytikion1.mode = ho.ho15.m01_gr_GR_cog.hoD10.Apolytikion1.mode
+hoD10.Apolytikion1.greekmelody = ho.ho15.m01_gr_GR_cog.hoD10.Apolytikion1.greekmelody
+hoD10.Apolytikion1.melody = ho.ho15.m01_gr_GR_cog.hoD10.Apolytikion1.melody
+hoD10.Apolytikion1.incipit = ho.ho15.m01_gr_GR_cog.hoD10.Apolytikion1.incipit
+hoD10.Apolytikion1.text = ho.ho15.m01_gr_GR_cog.hoD10.Apolytikion1.text
+
 hoD15.Apolytikion1.title = ho.ho15.m01_gr_GR_cog.hoD15.Apolytikion1.title
 hoD15.Apolytikion1.poet = ho.ho15.m01_gr_GR_cog.hoD15.Apolytikion1.poet
 hoD15.Apolytikion1.mode = ho.ho15.m01_gr_GR_cog.hoD15.Apolytikion1.mode

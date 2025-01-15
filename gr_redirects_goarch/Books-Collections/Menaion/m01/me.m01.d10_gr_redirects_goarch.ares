@@ -611,3 +611,28 @@ meLI.Kontakion1.incipit = me.m01.d10_gr_GR_cog.meLI.Kontakion1.incipit
 meLI.Kontakion1.text = me.m01.d10_gr_GR_cog.meLI.Kontakion1.text
 
 meLI.Megalynarion.text = me.m01.d10_gr_GR_cog.meLI.Megalynarion.text
+
+alt1.meVE.Lity1.mode = me.m01.d10_gr_GR_cog.alt1.meVE.Lity1.mode
+alt1.meVE.Lity1.melody = me.m01.d10_gr_GR_cog.alt1.meVE.Lity1.melody
+alt1.meVE.Lity1.incipit = me.m01.d10_gr_GR_cog.alt1.meVE.Lity1.incipit
+alt1.meVE.Lity1.text = me.m01.d10_gr_GR_cog.alt1.meVE.Lity1.text
+
+alt1.meVE.Lity2.mode = me.m01.d10_gr_GR_cog.alt1.meVE.Lity2.mode
+alt1.meVE.Lity2.melody = me.m01.d10_gr_GR_cog.alt1.meVE.Lity2.melody
+alt1.meVE.Lity2.incipit = me.m01.d10_gr_GR_cog.alt1.meVE.Lity2.incipit
+alt1.meVE.Lity2.text = me.m01.d10_gr_GR_cog.alt1.meVE.Lity2.text
+
+alt1.meVE.Lity3.mode = me.m01.d10_gr_GR_cog.alt1.meVE.Lity3.mode
+alt1.meVE.Lity3.melody = me.m01.d10_gr_GR_cog.alt1.meVE.Lity3.melody
+alt1.meVE.Lity3.incipit = me.m01.d10_gr_GR_cog.alt1.meVE.Lity3.incipit
+alt1.meVE.Lity3.text = me.m01.d10_gr_GR_cog.alt1.meVE.Lity3.text
+
+alt1.meVE.LityGlory.mode = me.m01.d10_gr_GR_cog.alt1.meVE.LityGlory.mode
+alt1.meVE.LityGlory.melody = me.m01.d10_gr_GR_cog.alt1.meVE.LityGlory.melody
+alt1.meVE.LityGlory.incipit = me.m01.d10_gr_GR_cog.alt1.meVE.LityGlory.incipit
+alt1.meVE.LityGlory.text = me.m01.d10_gr_GR_cog.alt1.meVE.LityGlory.text
+
+alt1.meVE.LityBoth.mode = me.m01.d10_gr_GR_cog.alt1.meVE.LityBoth.mode
+alt1.meVE.LityBoth.melody = me.m01.d10_gr_GR_cog.alt1.meVE.LityBoth.melody
+alt1.meVE.LityBoth.incipit = me.m01.d10_gr_GR_cog.alt1.meVE.LityBoth.incipit
+alt1.meVE.LityBoth.text = me.m01.d10_gr_GR_cog.alt1.meVE.LityBoth.text

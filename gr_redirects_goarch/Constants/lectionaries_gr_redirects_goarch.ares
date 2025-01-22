@@ -113,6 +113,8 @@ lecEV.me.m10.dHF.R01 = lectionaries_gr_GR_cog.lecEV.me.m10.dHF.R01
 lecEV.me.m12.dFF.R01 = lectionaries_gr_GR_cog.lecEV.me.m12.dFF.R01
 lecEV.me.m12.dSunBE.R01 = lectionaries_gr_GR_cog.lecEV.me.m12.dSunBE.R01
 
+lecLE.SetEachYear.text = lectionaries_gr_GR_cog.lecLE.SetEachYear.text
+
 lecLE.separator = lectionaries_gr_GR_cog.lecLE.separator
 lecLE.openP = lectionaries_gr_GR_cog.lecLE.openP
 lecLE.closeP = lectionaries_gr_GR_cog.lecLE.closeP

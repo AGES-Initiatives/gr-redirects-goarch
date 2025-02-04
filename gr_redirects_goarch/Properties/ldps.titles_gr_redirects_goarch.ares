@@ -1,0 +1,9 @@
+A_Resource_Whose_Name = ldps.titles_gr_redirects_goarch
+
+ldps.date = ldps.titles_gr_US_goa.ldps.date
+ldps.dayofweek = ldps.titles_gr_US_goa.ldps.dayofweek
+ldps.ludaynumber = ldps.titles_gr_US_goa.ldps.ludaynumber
+ldps.mcdaynumber = ldps.titles_gr_US_goa.ldps.mcdaynumber
+ldps.sundaysbeforetr = ldps.titles_gr_US_goa.ldps.sundaysbeforetr
+
+

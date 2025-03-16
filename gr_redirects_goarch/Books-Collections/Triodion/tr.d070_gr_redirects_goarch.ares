@@ -482,15 +482,6 @@ trMA.Encomia3T.text = tr.d070_gr_GR_cog.trMA.Encomia3T.text
 // Not in Triodion, but common
 trMA.Encomia3F.text = tr.d070_gr_GR_cog.trMA.Encomia3F.text
 
-// Resurrectional Evlogetaria keys for media
-trMA.MM.Evlogetaria1.text = tr.d070_gr_GR_cog.trMA.MM.Evlogetaria1.text
-trMA.MM.Evlogetaria2.text = tr.d070_gr_GR_cog.trMA.MM.Evlogetaria2.text
-trMA.MM.Evlogetaria3.text = tr.d070_gr_GR_cog.trMA.MM.Evlogetaria3.text
-trMA.MM.Evlogetaria4.text = tr.d070_gr_GR_cog.trMA.MM.Evlogetaria4.text
-trMA.MM.Evlogetaria5.text = tr.d070_gr_GR_cog.trMA.MM.Evlogetaria5.text
-trMA.MM.Evlogetaria6.text = tr.d070_gr_GR_cog.trMA.MM.Evlogetaria6.text
-trMA.MM.Evlogetaria7.text = tr.d070_gr_GR_cog.trMA.MM.Evlogetaria7.text
-
 trMA.Kathisma11.mode = tr.d070_gr_GR_cog.trMA.Kathisma11.mode
 trMA.Kathisma11.greekmelody = tr.d070_gr_GR_cog.trMA.Kathisma11.greekmelody
 trMA.Kathisma11.melody = tr.d070_gr_GR_cog.trMA.Kathisma11.melody

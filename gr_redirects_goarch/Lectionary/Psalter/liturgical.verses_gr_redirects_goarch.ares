@@ -390,15 +390,7 @@ psVE.saturday.aposverse.v3.info = liturgical.verses_gr_GR_cog.psVE.saturday.apos
 psVE.saturday.aposverse.v3.incipit = liturgical.verses_gr_GR_cog.psVE.saturday.aposverse.v3.incipit
 psVE.saturday.aposverse.v3.text = liturgical.verses_gr_GR_cog.psVE.saturday.aposverse.v3.text
 
-goVE.songofsymeon.v1.info = liturgical.verses_gr_GR_cog.goVE.songofsymeon.v1.info
-goVE.songofsymeon.v1.incipit = liturgical.verses_gr_GR_cog.goVE.songofsymeon.v1.incipit
-goVE.songofsymeon.v1.text = liturgical.verses_gr_GR_cog.goVE.songofsymeon.v1.text
-goVE.songofsymeon.v1a.text = liturgical.verses_gr_GR_cog.goVE.songofsymeon.v1a.text
-goVE.songofsymeon.v1b.text = liturgical.verses_gr_GR_cog.goVE.songofsymeon.v1b.text
-
 //Matins
-goMA.sixpsalms.intro.v1.info = liturgical.verses_gr_GR_cog.goMA.sixpsalms.intro.v1.info // (Lk 2:14) le.go.os_gr_redirects_goarch.leosMA.SixPsalmsIntro1.book_abbr
-goMA.sixpsalms.intro.v1.text = liturgical.verses_gr_GR_cog.goMA.sixpsalms.intro.v1.text
 psMA.sixpsalms.intro.v2.info = liturgical.verses_gr_GR_cog.psMA.sixpsalms.intro.v2.info
 psMA.sixpsalms.intro.v2.text = liturgical.verses_gr_GR_cog.psMA.sixpsalms.intro.v2.text
 psMA.sixpsalms.ps3.end.v1.info = liturgical.verses_gr_GR_cog.psMA.sixpsalms.ps3.end.v1.info
@@ -1161,22 +1153,6 @@ psLI.typika.ps145.v9.info = liturgical.verses_gr_GR_cog.psLI.typika.ps145.v9.inf
 psLI.typika.ps145.v9.text = liturgical.verses_gr_GR_cog.psLI.typika.ps145.v9.text
 psLI.typika.ps145.v10.info = liturgical.verses_gr_GR_cog.psLI.typika.ps145.v10.info
 psLI.typika.ps145.v10.text = liturgical.verses_gr_GR_cog.psLI.typika.ps145.v10.text
-
-goLI.typika.beatitudes.info = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.info
-goLI.typika.beatitudes.intro.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.intro.text
-goLI.typika.beatitudes.v01.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v01.text
-goLI.typika.beatitudes.v02.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v02.text
-goLI.typika.beatitudes.v03.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v03.text
-goLI.typika.beatitudes.v04.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v04.text
-goLI.typika.beatitudes.v05.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v05.text
-goLI.typika.beatitudes.v06.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v06.text
-goLI.typika.beatitudes.v07.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v07.text
-goLI.typika.beatitudes.v08.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v08.text
-goLI.typika.beatitudes.v09.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v09.text
-goLI.typika.beatitudes.v10.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.v10.text
-goLI.typika.beatitudes.refrain1.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.refrain1.text
-goLI.typika.beatitudes.refrain2.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.refrain2.text
-goLI.typika.beatitudes.refrain3.text = liturgical.verses_gr_GR_cog.goLI.typika.beatitudes.refrain3.text
 
 //angels see Σύστημα Τυπικοῦ p. 130
 psLI.angels.antiphon1.v1.info = liturgical.verses_gr_GR_cog.psLI.angels.antiphon1.v1.info

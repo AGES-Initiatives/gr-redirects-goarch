@@ -955,43 +955,6 @@ psMA.bode8.verse11.text = liturgical.verses_gr_GR_cog.psMA.bode8.verse11.text
 psMA.bode8.verse12.info = liturgical.verses_gr_GR_cog.psMA.bode8.verse12.info
 psMA.bode8.verse12.text = liturgical.verses_gr_GR_cog.psMA.bode8.verse12.text
 
-psMA.magnificat.title = liturgical.verses_gr_GR_cog.psMA.magnificat.title
-psMA.magnificat.v1.info = liturgical.verses_gr_GR_cog.psMA.magnificat.v1.info
-psMA.magnificat.v1.text = liturgical.verses_gr_GR_cog.psMA.magnificat.v1.text
-psMA.magnificat.v2.info = liturgical.verses_gr_GR_cog.psMA.magnificat.v2.info
-psMA.magnificat.v2.text = liturgical.verses_gr_GR_cog.psMA.magnificat.v2.text
-psMA.magnificat.v3.info = liturgical.verses_gr_GR_cog.psMA.magnificat.v3.info
-psMA.magnificat.v3.text = liturgical.verses_gr_GR_cog.psMA.magnificat.v3.text
-psMA.magnificat.v4.info = liturgical.verses_gr_GR_cog.psMA.magnificat.v4.info
-psMA.magnificat.v4.text = liturgical.verses_gr_GR_cog.psMA.magnificat.v4.text
-psMA.magnificat.v5.info = liturgical.verses_gr_GR_cog.psMA.magnificat.v5.info
-psMA.magnificat.v5.text = liturgical.verses_gr_GR_cog.psMA.magnificat.v5.text
-psMA.magnificat.v6.info = liturgical.verses_gr_GR_cog.psMA.magnificat.v6.info
-psMA.magnificat.v6.text = liturgical.verses_gr_GR_cog.psMA.magnificat.v6.text
-
-psMA.bode9.title = liturgical.verses_gr_GR_cog.psMA.bode9.title
-psMA.bode9.refrain.text = liturgical.verses_gr_GR_cog.psMA.bode9.refrain.text
-psMA.bode9.verse03.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse03.info
-psMA.bode9.verse03.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse03.text
-psMA.bode9.verse04.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse04.info
-psMA.bode9.verse04.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse04.text
-psMA.bode9.verse05.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse05.info
-psMA.bode9.verse05.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse05.text
-psMA.bode9.verse06.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse06.info
-psMA.bode9.verse06.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse06.text
-psMA.bode9.verse07.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse07.info
-psMA.bode9.verse07.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse07.text
-psMA.bode9.verse08.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse08.info
-psMA.bode9.verse08.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse08.text
-psMA.bode9.verse09.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse09.info
-psMA.bode9.verse09.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse09.text
-psMA.bode9.verse10.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse10.info
-psMA.bode9.verse10.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse10.text
-psMA.bode9.verse11.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse11.info
-psMA.bode9.verse11.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse11.text
-psMA.bode9.verse12.info = liturgical.verses_gr_GR_cog.psMA.bode9.verse12.info
-psMA.bode9.verse12.text = liturgical.verses_gr_GR_cog.psMA.bode9.verse12.text
-
 psMA.exapintro.v1.info = liturgical.verses_gr_GR_cog.psMA.exapintro.v1.info
 psMA.exapintro.v1.incipit = liturgical.verses_gr_GR_cog.psMA.exapintro.v1.incipit
 psMA.exapintro.v1.text = liturgical.verses_gr_GR_cog.psMA.exapintro.v1.text
@@ -1635,6 +1598,40 @@ psGC.lordofpowers.v6.info = liturgical.verses_gr_GR_cog.psGC.lordofpowers.v6.inf
 psGC.lordofpowers.v6.text = liturgical.verses_gr_GR_cog.psGC.lordofpowers.v6.text
 psGC.lordofpowers.v7.info = liturgical.verses_gr_GR_cog.psGC.lordofpowers.v7.info
 psGC.lordofpowers.v7.text = liturgical.verses_gr_GR_cog.psGC.lordofpowers.v7.text
+
+psLIPR.kairos.entry.v1.info = liturgical.verses_gr_GR_cog.psLIPR.kairos.entry.v1.info
+psLIPR.kairos.entry.v1.text = liturgical.verses_gr_GR_cog.psLIPR.kairos.entry.v1.text
+
+psLIPR.vesting.epimanikion_left.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.epimanikion_left.v1.info
+psLIPR.vesting.epimanikion_left.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.epimanikion_left.v1.text
+psLIPR.vesting.epitrachilion.v2.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.epitrachilion.v2.info
+psLIPR.vesting.epitrachilion.v2.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.epitrachilion.v2.text
+psLIPR.vesting.zone.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.zone.v1.info
+psLIPR.vesting.zone.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.zone.v1.text
+psLIPR.vesting.epigonation.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.epigonation.v1.info
+psLIPR.vesting.epigonation.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.epigonation.v1.text
+psLIPR.vesting.phelonion.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.phelonion.v1.info
+psLIPR.vesting.phelonion.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.phelonion.v1.text
+psLIPR.vesting.sakkos.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.sakkos.v1.info
+psLIPR.vesting.sakkos.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.sakkos.v1.text
+psLIPR.vesting.omophorion.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.omophorion.v1.info
+psLIPR.vesting.omophorion.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.omophorion.v1.text
+psLIPR.vesting.miter.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.miter.v1.info
+psLIPR.vesting.miter.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.miter.v1.text
+psLIPR.vesting.washing.v1.info = liturgical.verses_gr_GR_cog.psLIPR.vesting.washing.v1.info
+psLIPR.vesting.washing.v1.text = liturgical.verses_gr_GR_cog.psLIPR.vesting.washing.v1.text
+
+psLIPR.prothesis.v7.info = liturgical.verses_gr_GR_cog.psLIPR.prothesis.v7.info
+psLIPR.prothesis.v7.text = liturgical.verses_gr_GR_cog.psLIPR.prothesis.v7.text
+psLIPR.prothesis.v8.info = liturgical.verses_gr_GR_cog.psLIPR.prothesis.v8.info
+psLIPR.prothesis.v8.text = liturgical.verses_gr_GR_cog.psLIPR.prothesis.v8.text
+psLIPR.prothesis.v9.info = liturgical.verses_gr_GR_cog.psLIPR.prothesis.v9.info
+psLIPR.prothesis.v9.text = liturgical.verses_gr_GR_cog.psLIPR.prothesis.v9.text
+
+psLIPR.preliminary.v2.info = liturgical.verses_gr_GR_cog.psLIPR.preliminary.v2.info
+psLIPR.preliminary.v2.text = liturgical.verses_gr_GR_cog.psLIPR.preliminary.v2.text
+psLIPR.preliminary.v3.info = liturgical.verses_gr_GR_cog.psLIPR.preliminary.v3.info
+psLIPR.preliminary.v3.text = liturgical.verses_gr_GR_cog.psLIPR.preliminary.v3.text
 
 //Selected Psalm Verses for Polyeleos and Communion Hymns
 

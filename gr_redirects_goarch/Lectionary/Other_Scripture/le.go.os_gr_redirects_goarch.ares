@@ -18,6 +18,55 @@ leosMA.SixPsalmsIntro1.book_abbr = le.go.os_gr_GR_cog.leosMA.SixPsalmsIntro1.boo
 leosMA.SixPsalmsIntro1.chapverse = le.go.os_gr_GR_cog.leosMA.SixPsalmsIntro1.chapverse
 leosMA.SixPsalmsIntro1.text = le.go.os_gr_GR_cog.leosMA.SixPsalmsIntro1.text
 
+leosMA.magnificat.title = le.go.os_gr_GR_cog.leosMA.magnificat.title
+leosMA.magnificat.v1.info = le.go.os_gr_GR_cog.leosMA.magnificat.v1.info
+leosMA.magnificat.v1.text = le.go.os_gr_GR_cog.leosMA.magnificat.v1.text
+leosMA.magnificat.v2.info = le.go.os_gr_GR_cog.leosMA.magnificat.v2.info
+leosMA.magnificat.v2.text = le.go.os_gr_GR_cog.leosMA.magnificat.v2.text
+leosMA.magnificat.v3.info = le.go.os_gr_GR_cog.leosMA.magnificat.v3.info
+leosMA.magnificat.v3.text = le.go.os_gr_GR_cog.leosMA.magnificat.v3.text
+leosMA.magnificat.v4.info = le.go.os_gr_GR_cog.leosMA.magnificat.v4.info
+leosMA.magnificat.v4.text = le.go.os_gr_GR_cog.leosMA.magnificat.v4.text
+leosMA.magnificat.v5.info = le.go.os_gr_GR_cog.leosMA.magnificat.v5.info
+leosMA.magnificat.v5.text = le.go.os_gr_GR_cog.leosMA.magnificat.v5.text
+leosMA.magnificat.v6.info = le.go.os_gr_GR_cog.leosMA.magnificat.v6.info
+leosMA.magnificat.v6.text = le.go.os_gr_GR_cog.leosMA.magnificat.v6.text
+
+leosMA.bode9.title = le.go.os_gr_GR_cog.leosMA.bode9.title
+leosMA.bode9.refrain.text = le.go.os_gr_GR_cog.leosMA.bode9.refrain.text
+leosMA.bode9.verse03.info = le.go.os_gr_GR_cog.leosMA.bode9.verse03.info
+leosMA.bode9.verse03.text = le.go.os_gr_GR_cog.leosMA.bode9.verse03.text
+leosMA.bode9.verse04.info = le.go.os_gr_GR_cog.leosMA.bode9.verse04.info
+leosMA.bode9.verse04.text = le.go.os_gr_GR_cog.leosMA.bode9.verse04.text
+leosMA.bode9.verse05.info = le.go.os_gr_GR_cog.leosMA.bode9.verse05.info
+leosMA.bode9.verse05.text = le.go.os_gr_GR_cog.leosMA.bode9.verse05.text
+leosMA.bode9.verse06.info = le.go.os_gr_GR_cog.leosMA.bode9.verse06.info
+leosMA.bode9.verse06.text = le.go.os_gr_GR_cog.leosMA.bode9.verse06.text
+leosMA.bode9.verse07.info = le.go.os_gr_GR_cog.leosMA.bode9.verse07.info
+leosMA.bode9.verse07.text = le.go.os_gr_GR_cog.leosMA.bode9.verse07.text
+leosMA.bode9.verse08.info = le.go.os_gr_GR_cog.leosMA.bode9.verse08.info
+leosMA.bode9.verse08.text = le.go.os_gr_GR_cog.leosMA.bode9.verse08.text
+leosMA.bode9.verse09.info = le.go.os_gr_GR_cog.leosMA.bode9.verse09.info
+leosMA.bode9.verse09.text = le.go.os_gr_GR_cog.leosMA.bode9.verse09.text
+leosMA.bode9.verse10.info = le.go.os_gr_GR_cog.leosMA.bode9.verse10.info
+leosMA.bode9.verse10.text = le.go.os_gr_GR_cog.leosMA.bode9.verse10.text
+leosMA.bode9.verse11.info = le.go.os_gr_GR_cog.leosMA.bode9.verse11.info
+leosMA.bode9.verse11.text = le.go.os_gr_GR_cog.leosMA.bode9.verse11.text
+leosMA.bode9.verse12.info = le.go.os_gr_GR_cog.leosMA.bode9.verse12.info
+leosMA.bode9.verse12.text = le.go.os_gr_GR_cog.leosMA.bode9.verse12.text
+
+leosLIPR.prothesis.v6.version = le.go.os_gr_GR_cog.leosLIPR.prothesis.v6.version
+leosLIPR.prothesis.v6.book_string = le.go.os_gr_GR_cog.leosLIPR.prothesis.v6.book_string
+leosLIPR.prothesis.v6.book_abbr = le.go.os_gr_GR_cog.leosLIPR.prothesis.v6.book_abbr
+leosLIPR.prothesis.v6.chapverse = le.go.os_gr_GR_cog.leosLIPR.prothesis.v6.chapverse
+leosLIPR.prothesis.v6.text = le.go.os_gr_GR_cog.leosLIPR.prothesis.v6.text
+
+leosLIPR.preliminary.v1.version = le.go.os_gr_GR_cog.leosLIPR.preliminary.v1.version
+leosLIPR.preliminary.v1.book_string = le.go.os_gr_GR_cog.leosLIPR.preliminary.v1.book_string
+leosLIPR.preliminary.v1.book_abbr = le.go.os_gr_GR_cog.leosLIPR.preliminary.v1.book_abbr
+leosLIPR.preliminary.vchapverse = le.go.os_gr_GR_cog.leosLIPR.preliminary.vchapverse
+leosLIPR.preliminary.v1.text = le.go.os_gr_GR_cog.leosLIPR.preliminary.v1.text
+
 leosLI.pe.d095.CommunionHymn.title = le.go.os_gr_GR_cog.leosLI.pe.d095.CommunionHymn.title
 leosLI.pe.d095.CommunionHymn.title_abbr = le.go.os_gr_GR_cog.leosLI.pe.d095.CommunionHymn.title_abbr
 leosLI.pe.d095.CommunionHymn.version = le.go.os_gr_GR_cog.leosLI.pe.d095.CommunionHymn.version

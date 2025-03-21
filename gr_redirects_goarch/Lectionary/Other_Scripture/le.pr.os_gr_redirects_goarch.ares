@@ -89,3 +89,51 @@ leosH9.ho.ho09.Key0001.book_string = le.pr.os_gr_GR_cog.leosH9.ho.ho09.Key0001.b
 leosH9.ho.ho09.Key0001.book_abbr = le.pr.os_gr_GR_cog.leosH9.ho.ho09.Key0001.book_abbr
 leosH9.ho.ho09.Key0001.chapverse = le.pr.os_gr_GR_cog.leosH9.ho.ho09.Key0001.chapverse
 leosH9.ho.ho09.Key0001.text = le.pr.os_gr_GR_cog.leosH9.ho.ho09.Key0001.text
+
+leosLIPR.vesting.sticharion.v1.version = le.pr.os_gr_GR_cog.leosLIPR.vesting.sticharion.v1.version
+leosLIPR.vesting.sticharion.v1.book_string = le.pr.os_gr_GR_cog.leosLIPR.vesting.sticharion.v1.book_string
+leosLIPR.vesting.sticharion.v1.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.vesting.sticharion.v1.book_abbr
+leosLIPR.vesting.sticharion.v1.chapverse = le.pr.os_gr_GR_cog.leosLIPR.vesting.sticharion.v1.chapverse
+leosLIPR.vesting.sticharion.v1.text = le.pr.os_gr_GR_cog.leosLIPR.vesting.sticharion.v1.text
+
+leosLIPR.vesting.epimanikion_right.v1.version = le.pr.os_gr_GR_cog.leosLIPR.vesting.epimanikion_right.v1.version
+leosLIPR.vesting.epimanikion_right.v1.book_string = le.pr.os_gr_GR_cog.leosLIPR.vesting.epimanikion_right.v1.book_string
+leosLIPR.vesting.epimanikion_right.v1.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.vesting.epimanikion_right.v1.book_abbr
+leosLIPR.vesting.epimanikion_right.v1.chapverse = le.pr.os_gr_GR_cog.leosLIPR.vesting.epimanikion_right.v1.chapverse
+leosLIPR.vesting.epimanikion_right.v1.text = le.pr.os_gr_GR_cog.leosLIPR.vesting.epimanikion_right.v1.text
+
+leosLIPR.prothesis.v1.version = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v1.version
+leosLIPR.prothesis.v1.book_string = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v1.book_string
+leosLIPR.prothesis.v1.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v1.book_abbr
+leosLIPR.prothesis.v1.chapverse = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v1.chapverse
+leosLIPR.prothesis.v1.text = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v1.text
+
+leosLIPR.prothesis.v2.version = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v2.version
+leosLIPR.prothesis.v2.book_string = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v2.book_string
+leosLIPR.prothesis.v2.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v2.book_abbr
+leosLIPR.prothesis.v2.chapverse = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v2.chapverse
+leosLIPR.prothesis.v2.text = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v2.text
+
+leosLIPR.prothesis.v3.version = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v3.version
+leosLIPR.prothesis.v3.book_string = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v3.book_string
+leosLIPR.prothesis.v3.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v3.book_abbr
+leosLIPR.prothesis.v3.chapverse = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v3.chapverse
+leosLIPR.prothesis.v3.text = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v3.text
+
+leosLIPR.prothesis.v4.version = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v4.version
+leosLIPR.prothesis.v4.book_string = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v4.book_string
+leosLIPR.prothesis.v4.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v4.book_abbr
+leosLIPR.prothesis.v4.chapverse = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v4.chapverse
+leosLIPR.prothesis.v4.text = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v4.text
+
+leosLIPR.prothesis.v5.version = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v5.version
+leosLIPR.prothesis.v5.book_string = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v5.book_string
+leosLIPR.prothesis.v5.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v5.book_abbr
+leosLIPR.prothesis.v5.chapverse = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v5.chapverse
+leosLIPR.prothesis.v5.text = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v5.text
+
+leosLIPR.prothesis.v10.version = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v10.version
+leosLIPR.prothesis.v10.book_string = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v10.book_string
+leosLIPR.prothesis.v10.book_abbr = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v10.book_abbr
+leosLIPR.prothesis.v10.chapverse = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v10.chapverse
+leosLIPR.prothesis.v10.text = le.pr.os_gr_GR_cog.leosLIPR.prothesis.v10.text

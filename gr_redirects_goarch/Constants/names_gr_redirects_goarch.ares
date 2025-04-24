@@ -1,5 +1,17 @@
 A_Resource_Whose_Name = names_gr_redirects_goarch
 
+name.sample.localsaint1.supplication = names_gr_US_goa.name.sample.localsaint1.supplication
+name.sample.localsaint1.dismissal = names_gr_US_goa.name.sample.localsaint1.dismissal
+name.sample.localchurch.title = names_gr_US_goa.name.sample.localchurch.title
+name.sample.conVE.SticBoth.churchname.text = names_gr_US_goa.name.sample.conVE.SticBoth.churchname.text
+name.sample.consecration.name = names_gr_US_goa.name.sample.consecration.name
+name.sample.consecration.prayer1 = names_gr_US_goa.name.sample.consecration.prayer1
+name.sample.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.sample.consecration.greatlitany.finalpetition.name
+name.sample.relic1or2.name = names_gr_US_goa.name.sample.relic1or2.name
+name.sample.relic1.name = names_gr_US_goa.name.sample.relic1.name
+name.sample.relic2.name = names_gr_US_goa.name.sample.relic2.name
+name.sample.relic3.name = names_gr_US_goa.name.sample.relic3.name
+
 name.argyriosepanomites.relic1or2.name = names_gr_US_goa.name.argyriosepanomites.relic1or2.name
 name.argyriosepanomites.relic3.name = names_gr_US_goa.name.argyriosepanomites.relic3.name
 
@@ -47,6 +59,11 @@ name.george.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.g
 
 name.haralambos.relic1or2.name = names_gr_US_goa.name.haralambos.relic1or2.name
 name.haralambos.relic3.name = names_gr_US_goa.name.haralambos.relic3.name
+
+name.holytrinity.localchurch.title = names_gr_US_goa.name.holytrinity.localchurch.title
+name.holytrinity.conVE.SticBoth.churchname.text = names_gr_US_goa.name.holytrinity.conVE.SticBoth.churchname.text
+name.holytrinity.consecration.name = names_gr_US_goa.name.holytrinity.consecration.name
+name.holytrinity.consecration.prayer1 = names_gr_US_goa.name.holytrinity.consecration.prayer1
 
 name.marina.relic1or2.name = names_gr_US_goa.name.marina.relic1or2.name
 name.marina.relic3.name = names_gr_US_goa.name.marina.relic3.name

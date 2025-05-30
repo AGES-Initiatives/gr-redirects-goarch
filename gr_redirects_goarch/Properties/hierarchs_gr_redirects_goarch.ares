@@ -1,8 +1,12 @@
 A_Resource_Whose_Name = hierarchs_gr_redirects_goarch
 
+hierECU.pet06.text = hierarchs_gr_US_goa.hierECU.pet06.text
 hierECU.fimi.text = hierarchs_gr_US_goa.hierECU.fimi.text
+hierAME.away_fimi.text = hierarchs_gr_US_goa.hierAME.away_fimi.text
+hierECU.pet19.text = hierarchs_gr_US_goa.hierECU.pet19.text
 hierECU.entrance.text = hierarchs_gr_US_goa.hierECU.entrance.text
 hierECU.commemoration.text = hierarchs_gr_US_goa.hierECU.commemoration.text
+hierECU.con_ord_petition_name.text = hierarchs_gr_US_goa.hierECU.con_ord_petition_name.text
 
 hierAME.pet06.text = hierarchs_gr_US_goa.hierAME.pet06.text
 hierAME.fimi.text = hierarchs_gr_US_goa.hierAME.fimi.text

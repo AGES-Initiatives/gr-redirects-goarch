@@ -172,16 +172,6 @@ hoCA.Kontakion.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Kontakion.melo
 hoCA.Kontakion.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Kontakion.incipit
 hoCA.Kontakion.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Kontakion.text
 
-hoCA.PostGospelGlory.mode = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelGlory.mode
-hoCA.PostGospelGlory.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelGlory.melody
-hoCA.PostGospelGlory.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelGlory.incipit
-hoCA.PostGospelGlory.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelGlory.text
-
-hoCA.PostGospelBoth.mode = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelBoth.mode
-hoCA.PostGospelBoth.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelBoth.melody
-hoCA.PostGospelBoth.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelBoth.incipit
-hoCA.PostGospelBoth.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelBoth.text
-
 hoCA.PostGospelHymn1.mode = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelHymn1.mode
 hoCA.PostGospelHymn1.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelHymn1.melody
 hoCA.PostGospelHymn1.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.PostGospelHymn1.incipit
@@ -265,8 +255,6 @@ hoCA.Ode9T.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Ode9T.melody
 hoCA.Ode9T.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Ode9T.incipit
 hoCA.Ode9T.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Ode9T.text
 
-hoCA.Meg00.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg00.incipit
-hoCA.Meg00.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg00.text
 hoCA.Meg01.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg01.melody
 hoCA.Meg01.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg01.incipit
 hoCA.Meg01.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg01.text
@@ -288,21 +276,8 @@ hoCA.Meg06.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg06.text
 hoCA.Meg07.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg07.melody
 hoCA.Meg07.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg07.incipit
 hoCA.Meg07.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg07.text
-hoCA.Meg0F.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg0F.melody
-hoCA.Meg0F.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg0F.incipit
-hoCA.Meg0F.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion1.mode
 hoCA.Troparion1.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion1.melody
 hoCA.Troparion1.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion1.incipit
 hoCA.Troparion1.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion1.text
-
-hoCA.Troparion2.mode = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion2.mode
-hoCA.Troparion2.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion2.melody
-hoCA.Troparion2.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion2.incipit
-hoCA.Troparion2.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion2.text
-
-hoCA.Troparion3.mode = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion3.mode
-hoCA.Troparion3.melody = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion3.melody
-hoCA.Troparion3.incipit = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion3.incipit
-hoCA.Troparion3.text = other.sthermioneparaklesis_gr_GR_cog.hoCA.Troparion3.text

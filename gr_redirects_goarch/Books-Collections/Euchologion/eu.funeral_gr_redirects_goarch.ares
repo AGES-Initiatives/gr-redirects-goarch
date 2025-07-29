@@ -17,7 +17,9 @@ euFUN.Key0104.incipit = eu.funeral_gr_GR_cog.euFUN.Key0104.incipit
 euFUN.Key0104.text = eu.funeral_gr_GR_cog.euFUN.Key0104.text
 
 euFUN.Key0105.text = eu.funeral_gr_GR_cog.euFUN.Key0105.text
+euFUN.Key0105p.text = eu.funeral_gr_GR_cog.euFUN.Key0105p.text
 euFUN.Key0106.text = eu.funeral_gr_GR_cog.euFUN.Key0106.text
+euFUN.Key0106p.text = eu.funeral_gr_GR_cog.euFUN.Key0106p.text
 euFUN.Key0107.text = eu.funeral_gr_GR_cog.euFUN.Key0107.text
 euFUN.Key0108.text = eu.funeral_gr_GR_cog.euFUN.Key0108.text
 euFUN.Key0109.text = eu.funeral_gr_GR_cog.euFUN.Key0109.text
@@ -26,6 +28,7 @@ euFUN.Key0111.text = eu.funeral_gr_GR_cog.euFUN.Key0111.text
 euFUN.Key0112.text = eu.funeral_gr_GR_cog.euFUN.Key0112.text
 
 euFUN.Key0200.title = eu.funeral_gr_GR_cog.euFUN.Key0200.title
+euFUN.R21 = eu.funeral_gr_GR_cog.euFUN.R21
 
 euFUN.Key0300.title = eu.funeral_gr_GR_cog.euFUN.Key0300.title
 euFUN.Key0300.mode = eu.funeral_gr_GR_cog.euFUN.Key0300.mode
@@ -55,6 +58,8 @@ euFUN.Key0605.text = eu.funeral_gr_GR_cog.euFUN.Key0605.text
 euFUN.Key0606.incipit = eu.funeral_gr_GR_cog.euFUN.Key0606.incipit
 euFUN.Key0606.text = eu.funeral_gr_GR_cog.euFUN.Key0606.text
 euFUN.Key0607.text = eu.funeral_gr_GR_cog.euFUN.Key0607.text
+
+euFUN.R061 = eu.funeral_gr_GR_cog.euFUN.R061
 
 euFUN.Key0700.title = eu.funeral_gr_GR_cog.euFUN.Key0700.title
 euFUN.Key0700.mode = eu.funeral_gr_GR_cog.euFUN.Key0700.mode

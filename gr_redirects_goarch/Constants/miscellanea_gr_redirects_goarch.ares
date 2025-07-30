@@ -11,6 +11,7 @@ misc.Heirmologic = miscellanea_gr_GR_cog.misc.Heirmologic
 misc.Idiomelon = miscellanea_gr_GR_cog.misc.Idiomelon
 misc.Prosomoion = miscellanea_gr_GR_cog.misc.Prosomoion
 
+misc.blank = miscellanea_gr_GR_cog.misc.blank
 misc.bracket.open = miscellanea_gr_GR_cog.misc.bracket.open
 misc.bracket.close = miscellanea_gr_GR_cog.misc.bracket.close
 misc.greekquotation.left = miscellanea_gr_GR_cog.misc.greekquotation.left

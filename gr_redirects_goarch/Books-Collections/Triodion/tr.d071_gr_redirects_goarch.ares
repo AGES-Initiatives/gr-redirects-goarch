@@ -66,12 +66,12 @@ trLI.SaturdayHymn.text = tr.d071_gr_GR_cog.trLI.SaturdayHymn.text
 
 trLI.SaturdayArise.text = tr.d071_gr_GR_cog.trLI.SaturdayArise.text
 
-trLI.CherubicHymn.title = tr.d071_gr_US_goa.trLI.CherubicHymn.title
-trLI.CherubicHymn.mode = tr.d071_gr_US_goa.trLI.CherubicHymn.mode
-trLI.CherubicHymnPart1.incipit = tr.d071_gr_US_goa.trLI.CherubicHymnPart1.incipit
-trLI.CherubicHymnPart1.text = tr.d071_gr_US_goa.trLI.CherubicHymnPart1.text
-trLI.CherubicHymnPart2.incipit = tr.d071_gr_US_goa.trLI.CherubicHymnPart2.incipit
-trLI.CherubicHymnPart2.text = tr.d071_gr_US_goa.trLI.CherubicHymnPart2.text
+trLI.CherubicHymn.title = tr.d071_gr_GR_cog.trLI.CherubicHymn.title
+trLI.CherubicHymn.mode = tr.d071_gr_GR_cog.trLI.CherubicHymn.mode
+trLI.CherubicHymnPart1.incipit = tr.d071_gr_GR_cog.trLI.CherubicHymnPart1.incipit
+trLI.CherubicHymnPart1.text = tr.d071_gr_GR_cog.trLI.CherubicHymnPart1.text
+trLI.CherubicHymnPart2.incipit = tr.d071_gr_GR_cog.trLI.CherubicHymnPart2.incipit
+trLI.CherubicHymnPart2.text = tr.d071_gr_GR_cog.trLI.CherubicHymnPart2.text
 
 trLI.TheotokosHymn.mode = tr.d071_gr_GR_cog.trLI.TheotokosHymn.mode
 trLI.TheotokosHymn.incipit = tr.d071_gr_GR_cog.trLI.TheotokosHymn.incipit

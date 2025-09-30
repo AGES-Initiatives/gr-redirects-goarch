@@ -1759,6 +1759,13 @@ trMA.Ode8C4T.melody = tr.d054_gr_GR_cog.trMA.Ode8C4T.melody
 trMA.Ode8C4T.incipit = tr.d054_gr_GR_cog.trMA.Ode8C4T.incipit
 trMA.Ode8C4T.text = tr.d054_gr_GR_cog.trMA.Ode8C4T.text
 
+trMA.Ode8C4H.ode = tr.d054_gr_GR_cog.trMA.Ode8C4H.ode
+trMA.Ode8C4H.mode = tr.d054_gr_GR_cog.trMA.Ode8C4H.mode
+trMA.Ode8C4H.greekmelody = tr.d054_gr_GR_cog.trMA.Ode8C4H.greekmelody
+trMA.Ode8C4H.melody = tr.d054_gr_GR_cog.trMA.Ode8C4H.melody
+trMA.Ode8C4H.incipit = tr.d054_gr_GR_cog.trMA.Ode8C4H.incipit
+trMA.Ode8C4H.text = tr.d054_gr_GR_cog.trMA.Ode8C4H.text
+
 // Ode 8 Great Canon
 
 trMA.Ode8C1H.ode = tr.d054_gr_GR_cog.trMA.Ode8C1H.ode

@@ -15,6 +15,7 @@ trHO.note2 = tr.d049_gr_GR_cog.trHO.note2
 trCO.header = tr.d049_gr_GR_cog.trCO.header
 trVL.header = tr.d049_gr_GR_cog.trVL.header
 trDA.dismissal = tr.d049_gr_GR_cog.trDA.dismissal
+trDA.dismissal.incipit = tr.d049_gr_GR_cog.trDA.dismissal.incipit
 
 trVE.AposIdiomelon1.mode = tr.d049_gr_GR_cog.trVE.AposIdiomelon1.mode
 trVE.AposIdiomelon1.melody = tr.d049_gr_GR_cog.trVE.AposIdiomelon1.melody

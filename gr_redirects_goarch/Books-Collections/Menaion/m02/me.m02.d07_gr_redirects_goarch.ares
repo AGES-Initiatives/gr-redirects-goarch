@@ -23,6 +23,7 @@ meHO.commemorations = me.m02.d07_gr_GR_cog.meHO.commemorations
 meHO.note1 = me.m02.d07_gr_GR_cog.meHO.note1
 meHO.note2 = me.m02.d07_gr_GR_cog.meHO.note2
 meDA.dismissal = me.m02.d07_gr_GR_cog.meDA.dismissal
+meDA.dismissal.incipit = me.m02.d07_gr_GR_cog.meDA.dismissal.incipit
 
 meDA.source = me.m02.d07_gr_GR_cog.meDA.source
 

@@ -399,6 +399,8 @@ tyLIin.aftercommunion.holythursday.text = ty.li.incipit_gr_GR_cog.tyLIin.afterco
 tyLIin.aftercommunion.holysaturday.text = ty.li.incipit_gr_GR_cog.tyLIin.aftercommunion.holysaturday.text
 
 tyLIin.dismissal.title = ty.li.incipit_gr_GR_cog.tyLIin.dismissal.title
+tyLIin.dismissal.resurrection = ty.li.incipit_gr_GR_cog.tyLIin.dismissal.resurrection
+tyLIin.dismissal.andresurrection = ty.li.incipit_gr_GR_cog.tyLIin.dismissal.andresurrection
 
 //Vesperal Liturgies
 

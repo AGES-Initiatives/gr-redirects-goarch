@@ -367,6 +367,7 @@ alt1.meHO.commemorations = me.m07.d22_gr_GR_cog.alt1.meHO.commemorations
 alt1.meHO.note1 = me.m07.d22_gr_GR_cog.alt1.meHO.note1
 alt1.meHO.note2 = me.m07.d22_gr_GR_cog.alt1.meHO.note2
 alt1.meDA.dismissal = me.m07.d22_gr_GR_cog.alt1.meDA.dismissal
+alt1.meDA.dismissal.incipit = me.m07.d22_gr_GR_cog.alt1.meDA.dismissal.incipit
 
 alt1.meVE.Stichera01.mode = me.m07.d22_gr_GR_cog.alt1.meVE.Stichera01.mode
 alt1.meVE.Stichera01.greekmelody = me.m07.d22_gr_GR_cog.alt1.meVE.Stichera01.greekmelody

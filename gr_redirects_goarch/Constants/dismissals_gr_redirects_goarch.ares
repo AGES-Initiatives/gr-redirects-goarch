@@ -1,11 +1,13 @@
 A_Resource_Whose_Name = dismissals_gr_redirects_goarch
 
 dis00 = dismissals_gr_US_goa.dis00
+dis00.andresurrection.incipit = dismissals_gr_US_goa.dis00.andresurrection.incipit
 dis00.andresurrection = dismissals_gr_US_goa.dis00.andresurrection
 dis00.annunciation.incipit = dismissals_gr_US_goa.dis00.annunciation.incipit
 dis00.annunciation = dismissals_gr_US_goa.dis00.annunciation
 dis00.ascension.incipit = dismissals_gr_US_goa.dis00.ascension.incipit
 dis00.ascension = dismissals_gr_US_goa.dis00.ascension
+dis00.andascension.incipit = dismissals_gr_US_goa.dis00.andascension.incipit
 dis00.andascension = dismissals_gr_US_goa.dis00.andascension
 dis00.bridegroom.incipit = dismissals_gr_US_goa.dis00.bridegroom.incipit
 dis00.bridegroom = dismissals_gr_US_goa.dis00.bridegroom
@@ -38,6 +40,7 @@ dis00.resurrection = dismissals_gr_US_goa.dis00.resurrection
 dis00.transfiguration.incipit = dismissals_gr_US_goa.dis00.transfiguration.incipit
 dis00.transfiguration = dismissals_gr_US_goa.dis00.transfiguration
 dis01 = dismissals_gr_US_goa.dis01
+dis01.incipit = dismissals_gr_US_goa.dis01.incipit
 dis02 = dismissals_gr_US_goa.dis02
 dis03 = dismissals_gr_US_goa.dis03
 dis04 = dismissals_gr_US_goa.dis04

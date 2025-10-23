@@ -15,6 +15,7 @@ trHO.note2 = tr.d035_gr_GR_cog.trHO.note2
 trCO.header = tr.d035_gr_GR_cog.trCO.header
 trVL.header = tr.d035_gr_GR_cog.trVL.header
 trDA.dismissal = tr.d035_gr_GR_cog.trDA.dismissal
+trDA.dismissal.incipit = tr.d035_gr_GR_cog.trDA.dismissal.incipit
 
 trR001 = tr.d035_gr_GR_cog.trR001
 

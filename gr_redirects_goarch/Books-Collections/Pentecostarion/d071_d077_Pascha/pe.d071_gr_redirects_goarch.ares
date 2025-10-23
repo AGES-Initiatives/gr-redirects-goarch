@@ -13,6 +13,7 @@ peHO.description2 = pe.d071_gr_GR_cog.peHO.description2
 peHO.note1 = pe.d071_gr_GR_cog.peHO.note1
 peHO.note2 = pe.d071_gr_GR_cog.peHO.note2
 peDA.dismissal = pe.d071_gr_GR_cog.peDA.dismissal
+peDA.dismissal.incipit = pe.d071_gr_GR_cog.peDA.dismissal.incipit
 
 peMO.Troparion1.mode = pe.d071_gr_GR_cog.peMO.Troparion1.mode
 peMO.Troparion1.incipit = pe.d071_gr_GR_cog.peMO.Troparion1.incipit

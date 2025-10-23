@@ -23,6 +23,7 @@ meHO.commemorations = me.m06.d11_gr_GR_cog.meHO.commemorations
 meHO.note1 = me.m06.d11_gr_GR_cog.meHO.note1
 meHO.note2 = me.m06.d11_gr_GR_cog.meHO.note2
 meDA.dismissal = me.m06.d11_gr_GR_cog.meDA.dismissal
+meDA.dismissal.incipit = me.m06.d11_gr_GR_cog.meDA.dismissal.incipit
 
 meVE.Stichera01.mode = me.m06.d11_gr_GR_cog.meVE.Stichera01.mode
 meVE.Stichera01.greekmelody = me.m06.d11_gr_GR_cog.meVE.Stichera01.greekmelody
@@ -547,6 +548,7 @@ alt1.meHO.commemorations = me.m06.d11_gr_GR_cog.alt1.meHO.commemorations
 alt1.meHO.note1 = me.m06.d11_gr_GR_cog.alt1.meHO.note1
 alt1.meHO.note2 = me.m06.d11_gr_GR_cog.alt1.meHO.note2
 alt1.meDA.dismissal = me.m06.d11_gr_GR_cog.alt1.meDA.dismissal
+alt1.meDA.dismissal.incipit = me.m06.d11_gr_GR_cog.alt1.meDA.dismissal.incipit
 alt1.meDA.poet = me.m06.d11_gr_GR_cog.alt1.meDA.poet
 
 alt1.meSV.Stichera1.mode = me.m06.d11_gr_GR_cog.alt1.meSV.Stichera1.mode

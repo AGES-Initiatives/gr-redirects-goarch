@@ -16,6 +16,7 @@ trCO.header = tr.d066_gr_GR_cog.trCO.header
 trVL.header = tr.d066_gr_GR_cog.trVL.header
 trEM.header = tr.d066_gr_GR_cog.trEM.header
 trDA.dismissal = tr.d066_gr_GR_cog.trDA.dismissal
+trDA.dismissal.incipit = tr.d066_gr_GR_cog.trDA.dismissal.incipit
 
 trVE.Stichera01.mode = tr.d066_gr_GR_cog.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d066_gr_GR_cog.trVE.Stichera01.melody

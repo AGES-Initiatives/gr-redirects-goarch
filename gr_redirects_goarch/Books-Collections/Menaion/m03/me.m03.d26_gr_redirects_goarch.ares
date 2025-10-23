@@ -24,6 +24,7 @@ meHO.commemorations = me.m03.d26_gr_GR_cog.meHO.commemorations
 meHO.note1 = me.m03.d26_gr_GR_cog.meHO.note1
 meHO.note2 = me.m03.d26_gr_GR_cog.meHO.note2
 meDA.dismissal = me.m03.d26_gr_GR_cog.meDA.dismissal
+meDA.dismissal.incipit = me.m03.d26_gr_GR_cog.meDA.dismissal.incipit
 
 meVE.Stichera01.mode = me.m03.d26_gr_GR_cog.meVE.Stichera01.mode
 meVE.Stichera01.greekmelody = me.m03.d26_gr_GR_cog.meVE.Stichera01.greekmelody

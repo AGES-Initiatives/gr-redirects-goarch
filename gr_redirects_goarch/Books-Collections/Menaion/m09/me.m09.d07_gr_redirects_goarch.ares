@@ -636,6 +636,7 @@ alt1.meHO.commemorations = me.m09.d07_gr_GR_cog.alt1.meHO.commemorations
 alt1.meHO.note1 = me.m09.d07_gr_GR_cog.alt1.meHO.note1
 alt1.meHO.note2 = me.m09.d07_gr_GR_cog.alt1.meHO.note2
 alt1.meDA.dismissal = me.m09.d07_gr_GR_cog.alt1.meDA.dismissal
+alt1.meDA.dismissal.incipit = me.m09.d07_gr_GR_cog.alt1.meDA.dismissal.incipit
 alt1.meDA.poet = me.m09.d07_gr_GR_cog.alt1.meDA.poet
 
 alt1.meSV.Stichera1.mode = me.m09.d07_gr_GR_cog.alt1.meSV.Stichera1.mode

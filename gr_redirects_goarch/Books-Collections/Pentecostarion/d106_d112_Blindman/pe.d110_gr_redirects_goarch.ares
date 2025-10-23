@@ -13,6 +13,7 @@ peHO.description2 = pe.d110_gr_GR_cog.peHO.description2
 peHO.note1 = pe.d110_gr_GR_cog.peHO.note1
 peHO.note2 = pe.d110_gr_GR_cog.peHO.note2
 peDA.dismissal = pe.d110_gr_GR_cog.peDA.dismissal
+peDA.dismissal.incipit = pe.d110_gr_GR_cog.peDA.dismissal.incipit
 
 peSV.Stichera1.mode = pe.d110_gr_GR_cog.peSV.Stichera1.mode
 peSV.Stichera1.melody = pe.d110_gr_GR_cog.peSV.Stichera1.melody

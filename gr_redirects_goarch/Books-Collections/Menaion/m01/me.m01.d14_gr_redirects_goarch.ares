@@ -23,4 +23,5 @@ meHO.commemorations = me.m01.d14_gr_GR_cog.meHO.commemorations
 meHO.note1 = me.m01.d14_gr_GR_cog.meHO.note1
 meHO.note2 = me.m01.d14_gr_GR_cog.meHO.note2
 meDA.dismissal = me.m01.d14_gr_GR_cog.meDA.dismissal
+meDA.dismissal.incipit = me.m01.d14_gr_GR_cog.meDA.dismissal.incipit
 

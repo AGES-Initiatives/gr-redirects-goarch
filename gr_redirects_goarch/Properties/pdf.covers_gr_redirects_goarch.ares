@@ -3,6 +3,8 @@ A_Resource_Whose_Name = pdf.covers_gr_redirects_goarch
 cover_logo1.text = pdf.covers_gr_US_goa.cover_logo1.text
 cover_logo2.text = pdf.covers_gr_US_goa.cover_logo2.text
 cover_logo_line = pdf.covers_gr_US_goa.cover_logo_line
+cover_attribution1.text = pdf.covers_gr_US_goa.cover_attribution1.text
+cover_attribution2.text = pdf.covers_gr_US_goa.cover_attribution2.text
 
 GE.text = pdf.covers_gr_US_goa.GE.text
 E.text = pdf.covers_gr_US_goa.E.text
@@ -16,6 +18,7 @@ blank = pdf.covers_gr_US_goa.blank
 blank.text = pdf.covers_gr_US_goa.blank.text
 blank.note = pdf.covers_gr_US_goa.blank.note
 
+footer.attribution.text = pdf.covers_gr_US_goa.footer.attribution.text
 notice.presanctified.text = pdf.covers_gr_US_goa.notice.presanctified.text
 
 vespersordinary.link.title = pdf.covers_gr_US_goa.vespersordinary.link.title

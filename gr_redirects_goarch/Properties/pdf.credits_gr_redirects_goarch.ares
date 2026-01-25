@@ -12,6 +12,8 @@ contact.phone = pdf.credits_gr_US_goa.contact.phone
 contact.email.title = pdf.credits_gr_US_goa.contact.email.title
 contact.email = pdf.credits_gr_US_goa.contact.email
 
+credits.language = pdf.credits_gr_US_goa.credits.language
+
 disclaimer.title = pdf.credits_gr_US_goa.disclaimer.title
 disclaimer01.text = pdf.credits_gr_US_goa.disclaimer01.text
 
@@ -26,6 +28,46 @@ acknowledgements04.text = pdf.credits_gr_US_goa.acknowledgements04.text
 acknowledgements05.text = pdf.credits_gr_US_goa.acknowledgements05.text
 
 sources.title = pdf.credits_gr_US_goa.sources.title
+source01.designation = pdf.credits_gr_US_goa.source01.designation
+source01.name = pdf.credits_gr_US_goa.source01.name
+source02.designation = pdf.credits_gr_US_goa.source02.designation
+source02.name = pdf.credits_gr_US_goa.source02.name
+source03.designation = pdf.credits_gr_US_goa.source03.designation
+source03.name = pdf.credits_gr_US_goa.source03.name
+source04.designation = pdf.credits_gr_US_goa.source04.designation
+source04.name = pdf.credits_gr_US_goa.source04.name
+source05.designation = pdf.credits_gr_US_goa.source05.designation
+source05.name = pdf.credits_gr_US_goa.source05.name
+source06.designation = pdf.credits_gr_US_goa.source06.designation
+source06.name = pdf.credits_gr_US_goa.source06.name
+source07.designation = pdf.credits_gr_US_goa.source07.designation
+source07.name = pdf.credits_gr_US_goa.source07.name
+source08.designation = pdf.credits_gr_US_goa.source08.designation
+source08.name = pdf.credits_gr_US_goa.source08.name
+source09.designation = pdf.credits_gr_US_goa.source09.designation
+source09.name = pdf.credits_gr_US_goa.source09.name
+source10.designation = pdf.credits_gr_US_goa.source10.designation
+source10.name = pdf.credits_gr_US_goa.source10.name
+source11.designation = pdf.credits_gr_US_goa.source11.designation
+source11.name = pdf.credits_gr_US_goa.source11.name
+source12.designation = pdf.credits_gr_US_goa.source12.designation
+source12.name = pdf.credits_gr_US_goa.source12.name
+source13.designation = pdf.credits_gr_US_goa.source13.designation
+source13.name = pdf.credits_gr_US_goa.source13.name
+source14.designation = pdf.credits_gr_US_goa.source14.designation
+source14.name = pdf.credits_gr_US_goa.source14.name
+source15.designation = pdf.credits_gr_US_goa.source15.designation
+source15.name = pdf.credits_gr_US_goa.source15.name
+source16.designation = pdf.credits_gr_US_goa.source16.designation
+source16.name = pdf.credits_gr_US_goa.source16.name
+source17.designation = pdf.credits_gr_US_goa.source17.designation
+source17.name = pdf.credits_gr_US_goa.source17.name
+source18.designation = pdf.credits_gr_US_goa.source18.designation
+source18.name = pdf.credits_gr_US_goa.source18.name
+source19.designation = pdf.credits_gr_US_goa.source19.designation
+source19.name = pdf.credits_gr_US_goa.source19.name
+source20.designation = pdf.credits_gr_US_goa.source20.designation
+source20.name = pdf.credits_gr_US_goa.source20.name
 
 fonts.title = pdf.credits_gr_US_goa.fonts.title
 fonts01.text = pdf.credits_gr_US_goa.fonts01.text

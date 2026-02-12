@@ -12,6 +12,7 @@ name.sample.relic1.name = names_gr_US_goa.name.sample.relic1.name
 name.sample.relic2.name = names_gr_US_goa.name.sample.relic2.name
 name.sample.relic3.name = names_gr_US_goa.name.sample.relic3.name
 
+name.NA.localchurch.title = names_gr_US_goa.name.NA.localchurch.title
 name.NA.localsaint1.supplication = names_gr_US_goa.name.NA.localsaint1.supplication
 name.NA.localsaint1.dismissal = names_gr_US_goa.name.NA.localsaint1.dismissal
 name.NA.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.NA.consecration.greatlitany.finalpetition.name
@@ -74,6 +75,11 @@ name.george.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.g
 
 name.haralambos.relic1or2.name = names_gr_US_goa.name.haralambos.relic1or2.name
 name.haralambos.relic3.name = names_gr_US_goa.name.haralambos.relic3.name
+
+name.holycross.localchurch.title = names_gr_US_goa.name.holycross.localchurch.title
+name.holycross.conVE.SticBoth.churchname.text = names_gr_US_goa.name.holycross.conVE.SticBoth.churchname.text
+name.holycross.consecration.name = names_gr_US_goa.name.holycross.consecration.name
+name.holycross.consecration.prayer1 = names_gr_US_goa.name.holycross.consecration.prayer1
 
 name.holytrinity.localchurch.title = names_gr_US_goa.name.holytrinity.localchurch.title
 name.holytrinity.conVE.SticBoth.churchname.text = names_gr_US_goa.name.holytrinity.conVE.SticBoth.churchname.text
